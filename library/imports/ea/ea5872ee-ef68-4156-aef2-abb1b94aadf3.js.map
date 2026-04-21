@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/Scripts/core/simulator/constant/GameConstant.ts"],"names":[],"mappings":";;;;;AAAA;IAAA;IAGA,CAAC;IAFQ,0BAAa,GAAG,CAAC,CAAC;IAClB,0BAAa,GAAG,CAAC,CAAC;IAC3B,mBAAC;CAHD,AAGC,IAAA;kBAHoB,YAAY","file":"","sourceRoot":"/","sourcesContent":["export default class GameConstant {\n  static MaxTileCountX = 7;\n  static MaxTileCountY = 9;\n}"]}

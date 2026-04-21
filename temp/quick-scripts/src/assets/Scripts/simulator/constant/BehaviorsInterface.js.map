@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/Scripts/simulator/constant/BehaviorsInterface.ts"],"names":[],"mappings":";;;;;;AAAW,QAAA,sBAAsB,GAAG;IAClC,MAAM,EAAE,QAAQ;IAChB,MAAM,EAAE,QAAQ;IAChB,QAAQ,EAAE,UAAU;CACrB,CAAC","file":"","sourceRoot":"/","sourcesContent":["export var EBehaviorExecutionType = {\n  Single: \"single\",\n  Serial: \"serial\",\n  Parallel: \"parallel\"\n};"]}

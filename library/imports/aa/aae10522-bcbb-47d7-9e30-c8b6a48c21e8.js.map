@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/Scripts/constant/BehaviorsEnum.ts"],"names":[],"mappings":";;;;;;AAAW,QAAA,WAAW,GAAG;IACvB,MAAM,EAAE,QAAQ;IAChB,QAAQ,EAAE,UAAU;IACpB,IAAI,EAAE,MAAM;CACb,CAAC","file":"","sourceRoot":"/","sourcesContent":["export var EInsertType = {\n  Serial: \"serial\",\n  Parallel: \"parallel\",\n  Root: \"root\"\n};"]}

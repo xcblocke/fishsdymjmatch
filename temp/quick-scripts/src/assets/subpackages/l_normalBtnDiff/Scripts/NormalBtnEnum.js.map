@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/subpackages/l_normalBtnDiff/Scripts/NormalBtnEnum.ts"],"names":[],"mappings":";;;;;;AAAA,IAAY,UAIX;AAJD,WAAY,UAAU;IACpB,+CAAU,CAAA;IACV,+CAAU,CAAA;IACV,2CAAQ,CAAA;AACV,CAAC,EAJW,UAAU,GAAV,kBAAU,KAAV,kBAAU,QAIrB","file":"","sourceRoot":"/","sourcesContent":["export enum ELevelDiff {\n  Normal = 0,\n  Expert = 1,\n  Hard = 2,\n}"]}

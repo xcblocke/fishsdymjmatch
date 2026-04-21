@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/Scripts/simulator/constant/Tile2Interface.ts"],"names":[],"mappings":";;;;;;AAAW,QAAA,eAAe,GAAG;IAC3B,SAAS,EAAE,WAAW;IACtB,UAAU,EAAE,YAAY;CACzB,CAAC","file":"","sourceRoot":"/","sourcesContent":["export var ETile2ClearType = {\n  InSlotBar: \"inSlotBar\",\n  OutSlotBar: \"outSlotBar\"\n};"]}

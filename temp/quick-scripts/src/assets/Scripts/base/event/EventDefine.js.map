@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/Scripts/base/event/EventDefine.ts"],"names":[],"mappings":";;;;;;AAAW,QAAA,yBAAyB,GAAG,2BAA2B,CAAC","file":"","sourceRoot":"/","sourcesContent":["export var EVT_MSG_HALL_FORCE_UPDATE = \"EVT_MSG_HALL_FORCE_UPDATE\";"]}

@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/Scripts/constant/EffectLayerEnum.ts"],"names":[],"mappings":";;;;;;AAAA,IAAY,WAIX;AAJD,WAAY,WAAW;IACrB,qDAAa,CAAA;IACb,mDAAY,CAAA;IACZ,6CAAS,CAAA;AACX,CAAC,EAJW,WAAW,GAAX,mBAAW,KAAX,mBAAW,QAItB","file":"","sourceRoot":"/","sourcesContent":["export enum EffectLayer {\n  Default = 200,\n  Middle = 300,\n  Top = 500,\n}"]}
