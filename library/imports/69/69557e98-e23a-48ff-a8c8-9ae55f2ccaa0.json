@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Z_xi",
+    "texture": "52aa9e15-6e00-4913-8437-5f1e46196c78",
+    "atlas": "9fca1750-2a84-408f-85ff-0939b3543e49",
+    "rect": [
+      116,
+      3,
+      99,
+      157
+    ],
+    "offset": [
+      1,
+      7
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

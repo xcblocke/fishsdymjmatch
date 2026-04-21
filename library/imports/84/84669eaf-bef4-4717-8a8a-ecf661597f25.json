@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "J_dong",
+    "texture": "b91821a6-b939-45e8-babb-848afc8cca1f",
+    "atlas": "c7e6aeeb-0fdf-45c4-8e21-e2c3a6067f56",
+    "rect": [
+      3,
+      1599,
+      63,
+      137
+    ],
+    "offset": [
+      -4,
+      6
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

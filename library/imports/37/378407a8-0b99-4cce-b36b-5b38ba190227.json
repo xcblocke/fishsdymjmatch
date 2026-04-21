@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "com_btn_pink",
+    "texture": "ee636312-68a8-4aab-8492-1eaacb90142b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      166
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      166
+    ],
+    "capInsets": [
+      60,
+      0,
+      51,
+      0
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "__type__": "cc.EffectAsset",
+  "_name": "CustomMask",
+  "_objFlags": 0,
+  "_native": "",
+  "properties": null,
+  "techniques": [
+    {
+      "passes": [
+        {
+          "blendState": {
+            "targets": [
+              {
+                "blend": true
+              }
+            ]
+          },
+          "rasterizerState": {
+            "cullMode": 0
+          },
+          "properties": {
+            "texture": {
+              "value": "white",
+              "type": 29
+            },
+            "maskTexture": {
+              "value": "white",
+              "type": 29
+            },
+            "srcOffset": {
+              "value": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "type": 16
+            },
+            "maskOffset": {
+              "value": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "type": 16
+            },
+            "alphaThreshold": {
+              "value": [
+                0.5
+              ],
+              "type": 13
+            }
+          },
+          "program": "CustomMask|vs|fs"
+        }
+      ]
+    }
+  ],
+  "shaders": [
+    {
+      "hash": 3134808133,
+      "glsl3": {
+        "vert": "uniform CCGlobal {\n  mat4 cc_matView;\n  mat4 cc_matViewInv;\n  mat4 cc_matProj;\n  mat4 cc_matProjInv;\n  mat4 cc_matViewProj;\n  mat4 cc_matViewProjInv;\n  vec4 cc_cameraPos;\n  vec4 cc_time;\n  mediump vec4 cc_screenSize;\n  mediump vec4 cc_screenScale;\n};\nuniform CCLocal {\n  mat4 cc_matWorld;\n  mat4 cc_matWorldIT;\n};\nprecision highp float;\nattribute vec3 a_position;\nattribute vec4 a_color;\nvarying vec4 v_color;\n#if USE_TEXTURE\nattribute vec2 a_uv0;\nvarying vec2 v_uv0;\n#endif\nvoid main () {\n  vec4 pos = vec4(a_position, 1);\n  #if CC_USE_MODEL\n  pos = cc_matViewProj * cc_matWorld * pos;\n  #else\n  pos = cc_matViewProj * pos;\n  #endif\n  #if USE_TEXTURE\n  v_uv0 = a_uv0;\n  #endif\n  v_color = a_color;\n  gl_Position = pos;\n}",
+        "frag": "\nprecision highp float;\n#if USE_ALPHA_TEST\n  uniform a0 {\n float alphaThreshold;\n};\n#endif\nvoid ALPHA_TEST (in vec4 color) {\n  #if USE_ALPHA_TEST\n      if (color.a < alphaThreshold) discard;\n  #endif\n}\nvoid ALPHA_TEST (in float alpha) {\n  #if USE_ALPHA_TEST\n      if (alpha < alphaThreshold) discard;\n  #endif\n}\nvarying vec4 v_color;\nuniform a1 {\n vec4 srcOffset;\n};\nuniform a2 {\n vec4 maskOffset;\n};\n#if USE_TEXTURE\nvarying vec2 v_uv0;\nuniform sampler2D texture;\n#endif\n#if USE_MASK_TEXTURE\nuniform sampler2D maskTexture;\n#endif\nvoid main () {\n  vec4 o = vec4(1, 1, 1, 1);\n  #if USE_TEXTURE\n  vec4 texture_tmp = texture2D(texture, v_uv0);\n  #if CC_USE_ALPHA_ATLAS_texture\n      texture_tmp.a *= texture2D(texture, v_uv0 + vec2(0, 0.5)).r;\n  #endif\n  #if INPUT_IS_GAMMA\n    o.rgb *= (texture_tmp.rgb * texture_tmp.rgb);\n    o.a *= texture_tmp.a;\n  #else\n    o *= texture_tmp;\n  #endif\n  #endif\n  #if USE_MASK_TEXTURE\n   vec4 a = vec4(1, 1, 1, 1);\n   vec2 srcUV = (v_uv0 - vec2(srcOffset.x,srcOffset.y));\n   if(srcOffset.y < 0.0){\n     srcUV = vec2(v_uv0.y + srcOffset.y,srcOffset.x - v_uv0.x);\n   }\n   vec2 targetUV = (srcUV*vec2(srcOffset.z,srcOffset.w))/vec2(maskOffset.z,maskOffset.w);\n   if(maskOffset.w < 0.0){\n     targetUV = vec2(targetUV.y,targetUV.x);\n   }\n  vec4 maskTexture_tmp = texture2D(maskTexture, vec2(maskOffset.x ,maskOffset.y) + targetUV);\n  #if CC_USE_ALPHA_ATLAS_maskTexture\n      maskTexture_tmp.a *= texture2D(maskTexture, vec2(maskOffset.x ,maskOffset.y) + targetUV + vec2(0, 0.5)).r;\n  #endif\n  #if INPUT_IS_GAMMA\n    a.rgb *= (maskTexture_tmp.rgb * maskTexture_tmp.rgb);\n    a.a *= maskTexture_tmp.a;\n  #else\n    a *= maskTexture_tmp;\n  #endif\n    o.a *= a.a;\n  #endif\n  o *= v_color;\n  ALPHA_TEST(o);\n  gl_FragColor = o;\n}"
+      },
+      "glsl1": {
+        "vert": "uniform mat4 cc_matViewProj;\nuniform mat4 cc_matWorld;\nprecision highp float;\nattribute vec3 a_position;\nattribute vec4 a_color;\nvarying vec4 v_color;\n#if USE_TEXTURE\nattribute vec2 a_uv0;\nvarying vec2 v_uv0;\n#endif\nvoid main () {\n  vec4 pos = vec4(a_position, 1);\n  #if CC_USE_MODEL\n  pos = cc_matViewProj * cc_matWorld * pos;\n  #else\n  pos = cc_matViewProj * pos;\n  #endif\n  #if USE_TEXTURE\n  v_uv0 = a_uv0;\n  #endif\n  v_color = a_color;\n  gl_Position = pos;\n}",
+        "frag": "\nprecision highp float;\n#if USE_ALPHA_TEST\n  uniform float alphaThreshold;\n#endif\nvoid ALPHA_TEST (in vec4 color) {\n  #if USE_ALPHA_TEST\n      if (color.a < alphaThreshold) discard;\n  #endif\n}\nvoid ALPHA_TEST (in float alpha) {\n  #if USE_ALPHA_TEST\n      if (alpha < alphaThreshold) discard;\n  #endif\n}\nvarying vec4 v_color;\nuniform vec4 srcOffset;\nuniform vec4 maskOffset;\n#if USE_TEXTURE\nvarying vec2 v_uv0;\nuniform sampler2D texture;\n#endif\n#if USE_MASK_TEXTURE\nuniform sampler2D maskTexture;\n#endif\nvoid main () {\n  vec4 o = vec4(1, 1, 1, 1);\n  #if USE_TEXTURE\n  vec4 texture_tmp = texture2D(texture, v_uv0);\n  #if CC_USE_ALPHA_ATLAS_texture\n      texture_tmp.a *= texture2D(texture, v_uv0 + vec2(0, 0.5)).r;\n  #endif\n  #if INPUT_IS_GAMMA\n    o.rgb *= (texture_tmp.rgb * texture_tmp.rgb);\n    o.a *= texture_tmp.a;\n  #else\n    o *= texture_tmp;\n  #endif\n  #endif\n  #if USE_MASK_TEXTURE\n   vec4 a = vec4(1, 1, 1, 1);\n   vec2 srcUV = (v_uv0 - vec2(srcOffset.x,srcOffset.y));\n   if(srcOffset.y < 0.0){\n     srcUV = vec2(v_uv0.y + srcOffset.y,srcOffset.x - v_uv0.x);\n   }\n   vec2 targetUV = (srcUV*vec2(srcOffset.z,srcOffset.w))/vec2(maskOffset.z,maskOffset.w);\n   if(maskOffset.w < 0.0){\n     targetUV = vec2(targetUV.y,targetUV.x);\n   }\n  vec4 maskTexture_tmp = texture2D(maskTexture, vec2(maskOffset.x ,maskOffset.y) + targetUV);\n  #if CC_USE_ALPHA_ATLAS_maskTexture\n      maskTexture_tmp.a *= texture2D(maskTexture, vec2(maskOffset.x ,maskOffset.y) + targetUV + vec2(0, 0.5)).r;\n  #endif\n  #if INPUT_IS_GAMMA\n    a.rgb *= (maskTexture_tmp.rgb * maskTexture_tmp.rgb);\n    a.a *= maskTexture_tmp.a;\n  #else\n    a *= maskTexture_tmp;\n  #endif\n    o.a *= a.a;\n  #endif\n  o *= v_color;\n  ALPHA_TEST(o);\n  gl_FragColor = o;\n}"
+      },
+      "builtins": {
+        "globals": {
+          "blocks": [
+            {
+              "name": "CCGlobal",
+              "defines": []
+            }
+          ],
+          "samplers": []
+        },
+        "locals": {
+          "blocks": [
+            {
+              "name": "CCLocal",
+              "defines": []
+            }
+          ],
+          "samplers": []
+        }
+      },
+      "defines": [
+        {
+          "name": "USE_TEXTURE",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "CC_USE_MODEL",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "USE_ALPHA_TEST",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "USE_MASK_TEXTURE",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "CC_USE_ALPHA_ATLAS_texture",
+          "type": "boolean",
+          "defines": [
+            "USE_TEXTURE"
+          ]
+        },
+        {
+          "name": "INPUT_IS_GAMMA",
+          "type": "boolean",
+          "defines": [
+            "USE_TEXTURE"
+          ]
+        },
+        {
+          "name": "CC_USE_ALPHA_ATLAS_maskTexture",
+          "type": "boolean",
+          "defines": [
+            "USE_MASK_TEXTURE"
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "name": "a0",
+          "members": [
+            {
+              "name": "alphaThreshold",
+              "type": 13,
+              "count": 1
+            }
+          ],
+          "defines": [
+            "USE_ALPHA_TEST"
+          ],
+          "binding": 0
+        },
+        {
+          "name": "a1",
+          "members": [
+            {
+              "name": "srcOffset",
+              "type": 16,
+              "count": 1
+            }
+          ],
+          "defines": [],
+          "binding": 1
+        },
+        {
+          "name": "a2",
+          "members": [
+            {
+              "name": "maskOffset",
+              "type": 16,
+              "count": 1
+            }
+          ],
+          "defines": [],
+          "binding": 2
+        }
+      ],
+      "samplers": [
+        {
+          "name": "texture",
+          "type": 29,
+          "count": 1,
+          "defines": [
+            "USE_TEXTURE"
+          ],
+          "binding": 30
+        },
+        {
+          "name": "maskTexture",
+          "type": 29,
+          "count": 1,
+          "defines": [
+            "USE_MASK_TEXTURE"
+          ],
+          "binding": 31
+        }
+      ],
+      "record": null,
+      "name": "CustomMask|vs|fs"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "result_icon_chest",
+    "texture": "fe4fa3cb-aba7-4241-9430-7256ca5ac1c1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      170,
+      143
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      170,
+      143
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

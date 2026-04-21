@@ -1,0 +1,20 @@
+
+gameplay_mj_choose_light.png
+size: 270,171
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+light_1
+  rotate: false
+  xy: 4, 4
+  size: 132, 163
+  orig: 134, 165
+  offset: 1, 1
+  index: -1
+light_2
+  rotate: false
+  xy: 140, 10
+  size: 126, 157
+  orig: 134, 165
+  offset: 4, 4
+  index: -1

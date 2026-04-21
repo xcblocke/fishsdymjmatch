@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_elimination_a",
+    "texture": "c8e4a0bb-40fe-4d58-84fb-3eac13d6b9fa",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      709,
+      520
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      713,
+      523
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

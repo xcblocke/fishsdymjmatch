@@ -1,0 +1,27 @@
+
+gameplay_great_elimination_mx_ju_buttom.png
+size: 441,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG2
+  rotate: false
+  xy: 2, 2
+  size: 262, 262
+  orig: 270, 270
+  offset: 4, 4
+  index: -1
+guangxian_3
+  rotate: false
+  xy: 266, 38
+  size: 170, 51
+  orig: 170, 51
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 266, 91
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1

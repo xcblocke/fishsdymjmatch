@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_adv_icon_camera",
+    "texture": "02ba744a-2089-42c4-a6ca-dd476833a34d",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      64,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

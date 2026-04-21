@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_img_head_11",
+    "texture": "fa124c77-91c3-492c-a168-0dca924e7997",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      154,
+      154
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      154
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

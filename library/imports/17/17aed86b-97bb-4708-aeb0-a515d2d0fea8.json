@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_trailingElement_8",
+    "texture": "3abeafb1-0652-4eda-a37a-b8f0925f1f69",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      50,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

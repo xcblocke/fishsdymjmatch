@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_img_tile2_grid_4",
+    "texture": "414a622b-8838-4df1-abac-b5e2aafcdcdd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      474,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      474,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

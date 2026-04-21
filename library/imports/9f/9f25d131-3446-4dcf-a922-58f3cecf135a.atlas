@@ -1,0 +1,41 @@
+
+dailyTask_complete.png
+size: 898,378
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duigou
+  rotate: true
+  xy: 820, 277
+  size: 99, 76
+  orig: 101, 78
+  offset: 1, 1
+  index: -1
+mj_8
+  rotate: true
+  xy: 820, 234
+  size: 41, 42
+  orig: 47, 46
+  offset: 3, 2
+  index: -1
+par_03
+  rotate: true
+  xy: 864, 262
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+tips_glow
+  rotate: false
+  xy: 2, 190
+  size: 816, 186
+  orig: 820, 190
+  offset: 2, 2
+  index: -1
+tips_glow2
+  rotate: false
+  xy: 2, 2
+  size: 816, 186
+  orig: 820, 190
+  offset: 2, 2
+  index: -1

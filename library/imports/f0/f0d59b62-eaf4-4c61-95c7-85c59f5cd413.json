@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mission_tip_checkmark_2",
+    "texture": "a53759f2-061e-4b88-894a-ca96c75a16a6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

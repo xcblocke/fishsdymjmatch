@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_select_mj_purpleLight",
+    "texture": "c2b4b0f8-437b-4888-ad35-4072fb424a7f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      213,
+      251
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      213,
+      251
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

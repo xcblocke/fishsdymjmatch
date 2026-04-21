@@ -1,0 +1,83 @@
+
+journey_result_Collection.png
+size: 219,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glowLight
+  rotate: true
+  xy: 182, 186
+  size: 26, 27
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+glow_ring_01
+  rotate: false
+  xy: 2, 137
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_ring_02
+  rotate: true
+  xy: 120, 46
+  size: 89, 97
+  orig: 100, 103
+  offset: 6, 3
+  index: -1
+lightAdd1
+  rotate: true
+  xy: 2, 16
+  size: 119, 116
+  orig: 128, 128
+  offset: 6, 3
+  index: -1
+paper
+  rotate: true
+  xy: 2, 2
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+par_03
+  rotate: false
+  xy: 159, 6
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+par_star_01
+  rotate: false
+  xy: 120, 7
+  size: 37, 37
+  orig: 41, 41
+  offset: 2, 2
+  index: -1
+rayB1
+  rotate: true
+  xy: 132, 214
+  size: 51, 79
+  orig: 66, 100
+  offset: 7, 7
+  index: -1
+spark_1
+  rotate: true
+  xy: 159, 22
+  size: 22, 56
+  orig: 26, 60
+  offset: 2, 2
+  index: -1
+spot_2
+  rotate: false
+  xy: 132, 138
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+star_l
+  rotate: false
+  xy: 132, 164
+  size: 48, 48
+  orig: 54, 54
+  offset: 3, 3
+  index: -1

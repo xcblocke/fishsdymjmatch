@@ -1,0 +1,55 @@
+
+gameplay_elimination_a.png
+size: 458,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blast_13
+  rotate: false
+  xy: 2, 200
+  size: 306, 306
+  orig: 320, 320
+  offset: 7, 7
+  index: -1
+hua_3
+  rotate: true
+  xy: 310, 356
+  size: 150, 146
+  orig: 166, 158
+  offset: 10, 6
+  index: -1
+mj_7
+  rotate: false
+  xy: 310, 252
+  size: 41, 40
+  orig: 47, 46
+  offset: 3, 3
+  index: -1
+sk_10
+  rotate: false
+  xy: 310, 294
+  size: 51, 60
+  orig: 53, 62
+  offset: 1, 1
+  index: -1
+sk_12
+  rotate: true
+  xy: 237, 31
+  size: 167, 200
+  orig: 167, 201
+  offset: 0, 1
+  index: -1
+sk_2
+  rotate: true
+  xy: 353, 266
+  size: 26, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+sk_4
+  rotate: false
+  xy: 2, 2
+  size: 233, 196
+  orig: 233, 196
+  offset: 0, 0
+  index: -1

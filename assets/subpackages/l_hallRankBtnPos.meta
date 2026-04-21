@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "be4d1a7c-026a-452d-98fb-1b71fa8448f0",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_hallRankBtnPos",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

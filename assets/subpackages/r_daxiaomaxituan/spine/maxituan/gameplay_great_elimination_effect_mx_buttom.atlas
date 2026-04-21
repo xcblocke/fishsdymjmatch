@@ -1,0 +1,342 @@
+
+gameplay_great_elimination_effect_mx_buttom.png
+size: 993,574
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG2
+  rotate: false
+  xy: 2, 9
+  size: 262, 262
+  orig: 270, 270
+  offset: 4, 4
+  index: -1
+guangxian
+  rotate: false
+  xy: 334, 375
+  size: 65, 197
+  orig: 65, 197
+  offset: 0, 0
+  index: -1
+guangxian_3
+  rotate: false
+  xy: 266, 3
+  size: 170, 51
+  orig: 170, 51
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 512, 100
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+yanhua3/mx_fireworks_01
+  rotate: true
+  xy: 476, 332
+  size: 54, 163
+  orig: 69, 463
+  offset: 6, 292
+  index: -1
+yanhua3/mx_fireworks_03
+  rotate: false
+  xy: 266, 56
+  size: 54, 215
+  orig: 69, 463
+  offset: 7, 239
+  index: -1
+yanhua3/mx_fireworks_05
+  rotate: false
+  xy: 167, 313
+  size: 53, 259
+  orig: 69, 463
+  offset: 8, 192
+  index: -1
+yanhua3/mx_fireworks_07
+  rotate: false
+  xy: 2, 273
+  size: 53, 299
+  orig: 69, 463
+  offset: 8, 149
+  index: -1
+yanhua3/mx_fireworks_09
+  rotate: false
+  xy: 57, 280
+  size: 52, 292
+  orig: 69, 463
+  offset: 9, 108
+  index: -1
+yanhua3/mx_fireworks_11
+  rotate: false
+  xy: 111, 300
+  size: 54, 272
+  orig: 69, 463
+  offset: 9, 74
+  index: -1
+yanhua3/mx_fireworks_13
+  rotate: false
+  xy: 222, 317
+  size: 55, 255
+  orig: 69, 463
+  offset: 8, 43
+  index: -1
+yanhua3/mx_fireworks_15
+  rotate: false
+  xy: 279, 332
+  size: 53, 240
+  orig: 69, 463
+  offset: 8, 12
+  index: -1
+yanhua3/mx_fireworks_17
+  rotate: false
+  xy: 457, 70
+  size: 53, 202
+  orig: 69, 463
+  offset: 8, 7
+  index: -1
+yanhua3/mx_fireworks_19
+  rotate: false
+  xy: 777, 423
+  size: 53, 149
+  orig: 69, 463
+  offset: 8, 7
+  index: -1
+yanhua3/mx_fireworks_21
+  rotate: false
+  xy: 885, 4
+  size: 50, 113
+  orig: 69, 463
+  offset: 9, 9
+  index: -1
+yanhua3/mx_fireworks_23
+  rotate: true
+  xy: 255, 273
+  size: 42, 73
+  orig: 69, 463
+  offset: 14, 12
+  index: -1
+yanhua3/mx_fireworks_25
+  rotate: true
+  xy: 207, 274
+  size: 37, 46
+  orig: 69, 463
+  offset: 16, 14
+  index: -1
+yanhua4/mx_fireworks2_01
+  rotate: true
+  xy: 766, 13
+  size: 122, 53
+  orig: 342, 142
+  offset: 8, 82
+  index: -1
+yanhua4/mx_fireworks2_03
+  rotate: false
+  xy: 330, 274
+  size: 156, 56
+  orig: 342, 142
+  offset: 8, 79
+  index: -1
+yanhua4/mx_fireworks2_05
+  rotate: true
+  xy: 476, 388
+  size: 184, 59
+  orig: 342, 142
+  offset: 12, 75
+  index: -1
+yanhua4/mx_fireworks2_07
+  rotate: true
+  xy: 322, 63
+  size: 208, 63
+  orig: 342, 142
+  offset: 13, 69
+  index: -1
+yanhua4/mx_fireworks2_09
+  rotate: true
+  xy: 387, 68
+  size: 204, 68
+  orig: 342, 142
+  offset: 42, 62
+  index: -1
+yanhua4/mx_fireworks2_11
+  rotate: true
+  xy: 401, 378
+  size: 194, 73
+  orig: 342, 142
+  offset: 73, 54
+  index: -1
+yanhua4/mx_fireworks2_13
+  rotate: true
+  xy: 611, 397
+  size: 175, 78
+  orig: 342, 142
+  offset: 110, 46
+  index: -1
+yanhua4/mx_fireworks2_15
+  rotate: true
+  xy: 691, 414
+  size: 158, 84
+  orig: 342, 142
+  offset: 143, 36
+  index: -1
+yanhua4/mx_fireworks2_17
+  rotate: true
+  xy: 760, 137
+  size: 140, 86
+  orig: 342, 142
+  offset: 176, 26
+  index: -1
+yanhua4/mx_fireworks2_19
+  rotate: true
+  xy: 735, 279
+  size: 133, 92
+  orig: 342, 142
+  offset: 194, 15
+  index: -1
+yanhua4/mx_fireworks2_21
+  rotate: true
+  xy: 641, 279
+  size: 116, 92
+  orig: 342, 142
+  offset: 218, 8
+  index: -1
+yanhua4/mx_fireworks2_23
+  rotate: true
+  xy: 614, 2
+  size: 96, 82
+  orig: 342, 142
+  offset: 238, 8
+  index: -1
+yanhua4/mx_fireworks2_25
+  rotate: false
+  xy: 901, 426
+  size: 82, 75
+  orig: 342, 142
+  offset: 252, 8
+  index: -1
+yanhua4/mx_fireworks2_27
+  rotate: false
+  xy: 903, 364
+  size: 62, 60
+  orig: 342, 142
+  offset: 271, 10
+  index: -1
+yanhua4/mx_fireworks2_29
+  rotate: false
+  xy: 937, 17
+  size: 49, 48
+  orig: 342, 142
+  offset: 282, 12
+  index: -1
+yanhua4/mx_fireworks2_31
+  rotate: false
+  xy: 334, 340
+  size: 33, 33
+  orig: 342, 142
+  offset: 294, 15
+  index: -1
+yanhua5/mx_fireworks3_01
+  rotate: true
+  xy: 832, 461
+  size: 111, 67
+  orig: 274, 93
+  offset: 155, 8
+  index: -1
+yanhua5/mx_fireworks3_03
+  rotate: true
+  xy: 829, 281
+  size: 140, 72
+  orig: 274, 93
+  offset: 126, 9
+  index: -1
+yanhua5/mx_fireworks3_05
+  rotate: true
+  xy: 687, 119
+  size: 158, 71
+  orig: 274, 93
+  offset: 103, 13
+  index: -1
+yanhua5/mx_fireworks3_07
+  rotate: true
+  xy: 537, 394
+  size: 178, 72
+  orig: 274, 93
+  offset: 83, 14
+  index: -1
+yanhua5/mx_fireworks3_09
+  rotate: false
+  xy: 438, 2
+  size: 174, 64
+  orig: 274, 93
+  offset: 64, 22
+  index: -1
+yanhua5/mx_fireworks3_11
+  rotate: false
+  xy: 488, 275
+  size: 151, 55
+  orig: 274, 93
+  offset: 51, 31
+  index: -1
+yanhua5/mx_fireworks3_13
+  rotate: false
+  xy: 848, 220
+  size: 137, 59
+  orig: 274, 93
+  offset: 38, 27
+  index: -1
+yanhua5/mx_fireworks3_15
+  rotate: true
+  xy: 821, 14
+  size: 121, 62
+  orig: 274, 93
+  offset: 27, 22
+  index: -1
+yanhua5/mx_fireworks3_17
+  rotate: true
+  xy: 698, 4
+  size: 113, 66
+  orig: 274, 93
+  offset: 17, 16
+  index: -1
+yanhua5/mx_fireworks3_19
+  rotate: true
+  xy: 916, 119
+  size: 99, 70
+  orig: 274, 93
+  offset: 10, 9
+  index: -1
+yanhua5/mx_fireworks3_21
+  rotate: false
+  xy: 903, 503
+  size: 88, 69
+  orig: 274, 93
+  offset: 7, 7
+  index: -1
+yanhua5/mx_fireworks3_23
+  rotate: true
+  xy: 848, 143
+  size: 75, 66
+  orig: 274, 93
+  offset: 7, 6
+  index: -1
+yanhua5/mx_fireworks3_25
+  rotate: true
+  xy: 903, 302
+  size: 60, 58
+  orig: 274, 93
+  offset: 9, 8
+  index: -1
+yanhua5/mx_fireworks3_27
+  rotate: false
+  xy: 937, 67
+  size: 50, 50
+  orig: 274, 93
+  offset: 12, 11
+  index: -1
+yanhua5/mx_fireworks3_29
+  rotate: false
+  xy: 167, 273
+  size: 38, 38
+  orig: 274, 93
+  offset: 14, 14
+  index: -1

@@ -1,0 +1,172 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_adv_icon",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "Ae+IzYLXZM2QmGFs+FrPGXBUyJw",
+      "spine": "3.8.99",
+      "x": -68,
+      "y": -68,
+      "width": 136,
+      "height": 136,
+      "images": "./images/icon/",
+      "audio": "E:/chen_项目/27年3月/082_tile4格基础之吸铁石道具/advertising_icon"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "advertising_icon",
+        "parent": "root"
+      },
+      {
+        "name": "loading_icon",
+        "parent": "advertising_icon",
+        "x": 0.07,
+        "y": 10.27
+      },
+      {
+        "name": "hook_loading",
+        "parent": "root",
+        "y": 4.16
+      }
+    ],
+    "slots": [
+      {
+        "name": "loading_di",
+        "bone": "advertising_icon",
+        "attachment": "loading_di"
+      },
+      {
+        "name": "loading_icon",
+        "bone": "loading_icon",
+        "attachment": "loading_icon"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "loading_di": {
+            "loading_di": {
+              "width": 136,
+              "height": 136
+            }
+          },
+          "loading_icon": {
+            "loading_icon": {
+              "width": 106,
+              "height": 106
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "in": {
+        "bones": {
+          "advertising_icon": {
+            "translate": [
+              {
+                "x": -213.67,
+                "curve": 0.073,
+                "c2": 0.29,
+                "c3": 0.965,
+                "c4": 0.48
+              },
+              {
+                "time": 0.2,
+                "x": 4,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3,
+                "x": -2,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.4,
+                "x": 1,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.5
+              }
+            ]
+          }
+        }
+      },
+      "init": {
+        "bones": {
+          "loading_icon": {
+            "rotate": [
+              {},
+              {
+                "time": 6.6667,
+                "angle": 180
+              }
+            ]
+          }
+        }
+      },
+      "out": {
+        "slots": {
+          "loading_di": {
+            "color": [
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "loading_icon": {
+            "color": [
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "advertising_icon": {
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.2,
+                "x": -213.67
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ngameplay_adv_icon.png\nsize: 248,140\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nloading_di\n  rotate: false\n  xy: 2, 2\n  size: 136, 136\n  orig: 136, 136\n  offset: 0, 0\n  index: -1\nloading_icon\n  rotate: false\n  xy: 140, 32\n  size: 106, 106\n  orig: 106, 106\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "e17627d6-2d26-4499-92a7-81fa8ec7971b"
+    }
+  ],
+  "textureNames": [
+    "gameplay_adv_icon.png"
+  ],
+  "scale": 1
+}

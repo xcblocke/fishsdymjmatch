@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_star_tail",
+    "texture": "bdc335ed-321b-437a-a38b-5983d4286dcd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      354
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      354
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

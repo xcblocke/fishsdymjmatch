@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "fbd4d825-1b24-445a-be6c-8ebade7a87e5",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_dazeTime",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

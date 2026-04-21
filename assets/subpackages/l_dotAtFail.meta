@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "df9d75e3-821c-4570-805d-ed20301372ce",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_dotAtFail",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

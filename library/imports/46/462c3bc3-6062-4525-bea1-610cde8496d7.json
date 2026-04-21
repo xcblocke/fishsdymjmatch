@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leaderboard_info_timer_bg",
+    "texture": "08e5b4bc-3a59-4aff-b80e-62fa15cb5edf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      75
+    ],
+    "capInsets": [
+      30,
+      0,
+      40,
+      0
+    ]
+  }
+}

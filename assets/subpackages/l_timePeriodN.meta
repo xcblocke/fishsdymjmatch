@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "1327e84e-c5fc-4273-a009-244b30e80c64",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_timePeriodN",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

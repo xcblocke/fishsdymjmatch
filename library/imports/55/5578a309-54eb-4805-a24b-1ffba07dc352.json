@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "compjourney_bg_tip",
+    "texture": "a4f03a6d-0add-418d-b31c-0711cf21a554",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      217,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      217,
+      68
+    ],
+    "capInsets": [
+      0,
+      18,
+      0,
+      37
+    ]
+  }
+}

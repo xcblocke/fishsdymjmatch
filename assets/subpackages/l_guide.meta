@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "57f31182-98c2-4b38-80a8-ed1c780ba6de",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_guide",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

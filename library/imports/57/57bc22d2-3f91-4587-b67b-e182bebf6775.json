@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "collection_btn",
+    "texture": "a9684b9c-bb8e-4201-b66b-755ddceb9617",
+    "atlas": "5b909cc1-c41c-4b8c-b5cd-cfd2b484891f",
+    "rect": [
+      3,
+      3,
+      377,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      377,
+      118
+    ],
+    "rotated": 1,
+    "capInsets": [
+      132,
+      0,
+      123,
+      0
+    ]
+  }
+}

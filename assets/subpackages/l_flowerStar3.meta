@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "33bc5a0b-52f2-4e05-9cc1-0ceb99fd5be7",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_flowerStar3",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

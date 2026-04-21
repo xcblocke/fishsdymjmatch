@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ad_icon_revert",
+    "texture": "3919f09e-693f-4673-b7e1-3774424e6551",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      220,
+      201
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      220,
+      201
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

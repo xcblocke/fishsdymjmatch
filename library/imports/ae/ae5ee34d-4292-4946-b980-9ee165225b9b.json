@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_img_mj_up",
+    "texture": "874e0798-ee06-43d9-949a-3a1c82e93e9e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      157,
+      193
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      157,
+      193
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

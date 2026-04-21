@@ -1,0 +1,27 @@
+
+gameplay_touch.png
+size: 227,100
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+hua
+  rotate: false
+  xy: 4, 4
+  size: 92, 92
+  orig: 96, 95
+  offset: 2, 2
+  index: -1
+huaban
+  rotate: false
+  xy: 190, 59
+  size: 33, 37
+  orig: 37, 41
+  offset: 2, 2
+  index: -1
+paopao
+  rotate: false
+  xy: 100, 10
+  size: 86, 86
+  orig: 89, 89
+  offset: 1, 2
+  index: -1

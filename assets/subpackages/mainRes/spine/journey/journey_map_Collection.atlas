@@ -1,0 +1,27 @@
+
+journey_map_Collection.png
+size: 94,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glowLight
+  rotate: true
+  xy: 55, 2
+  size: 26, 27
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+par_snow
+  rotate: true
+  xy: 2, 17
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+par_star_01
+  rotate: false
+  xy: 55, 30
+  size: 37, 37
+  orig: 41, 41
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,160 @@
+
+gameplay_selected_special.png
+size: 942,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb_3
+  rotate: false
+  xy: 773, 11
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 153, 192
+  orig: 153, 192
+  offset: 0, 0
+  index: -1
+xl/xl0001
+  rotate: false
+  xy: 157, 12
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0002
+  rotate: false
+  xy: 234, 104
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0003
+  rotate: false
+  xy: 234, 12
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0004
+  rotate: false
+  xy: 311, 104
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0005
+  rotate: false
+  xy: 311, 12
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0006
+  rotate: false
+  xy: 388, 104
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0007
+  rotate: false
+  xy: 388, 12
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0008
+  rotate: false
+  xy: 465, 104
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0009
+  rotate: false
+  xy: 465, 12
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0010
+  rotate: false
+  xy: 542, 104
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0011
+  rotate: false
+  xy: 542, 12
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0012
+  rotate: false
+  xy: 619, 104
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0013
+  rotate: false
+  xy: 619, 12
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0014
+  rotate: false
+  xy: 696, 104
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0015
+  rotate: false
+  xy: 696, 12
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0016
+  rotate: true
+  xy: 773, 119
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0017
+  rotate: false
+  xy: 865, 104
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0018
+  rotate: true
+  xy: 773, 42
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0019
+  rotate: false
+  xy: 865, 12
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+xl/xl0020
+  rotate: false
+  xy: 157, 104
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1

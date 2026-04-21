@@ -1,0 +1,41 @@
+
+journey_map_snow.png
+size: 222,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s/04
+  rotate: false
+  xy: 2, 126
+  size: 121, 131
+  orig: 121, 131
+  offset: 0, 0
+  index: -1
+s/sn01
+  rotate: true
+  xy: 125, 153
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+s/sn02
+  rotate: false
+  xy: 2, 6
+  size: 121, 118
+  orig: 121, 118
+  offset: 0, 0
+  index: -1
+s/sn03
+  rotate: true
+  xy: 125, 2
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+s/sn06
+  rotate: true
+  xy: 125, 76
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1

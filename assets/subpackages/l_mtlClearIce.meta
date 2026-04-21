@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "a124e825-e276-4506-87d1-74b636782c27",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_mtlClearIce",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "b6ba3027-c009-4685-839d-9bb6bcad380f",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_daxiaohaiyang",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

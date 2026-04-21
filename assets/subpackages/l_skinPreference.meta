@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "0b00abf7-7bdc-44e0-b1ff-d34ef7c81ddb",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_skinPreference",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

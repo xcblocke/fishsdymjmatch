@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Z_fa",
+    "texture": "2f9622df-a3b7-46d2-9c19-d83e50739973",
+    "atlas": "e04e2419-4b2f-4480-9cfd-9e2671d0b2ba",
+    "rect": [
+      184,
+      3,
+      143,
+      177
+    ],
+    "offset": [
+      -4,
+      6
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

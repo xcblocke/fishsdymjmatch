@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "a6358da3-480c-42de-bc3e-5f6427ce46dc",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_valentineDragCardEffect",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

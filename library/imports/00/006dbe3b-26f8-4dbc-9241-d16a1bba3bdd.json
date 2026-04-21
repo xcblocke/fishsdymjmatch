@@ -1,0 +1,482 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "journey_result_boxBar",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "bxPJ19NDoTd1Ifzk035qpEgbK44",
+      "spine": "3.8.99",
+      "images": "",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root",
+        "scaleX": 1.0295,
+        "scaleY": 1.0295
+      },
+      {
+        "name": "boxRoot",
+        "parent": "root",
+        "color": "76ff37ff"
+      },
+      {
+        "name": "hook_icon",
+        "parent": "boxRoot",
+        "color": "76ff37ff"
+      },
+      {
+        "name": "images/gameplay_chest_level_bg",
+        "parent": "hook_icon",
+        "x": 1.29,
+        "y": -63.05,
+        "color": "76ff37ff"
+      },
+      {
+        "name": "hook_num",
+        "parent": "images/gameplay_chest_level_bg",
+        "color": "76ff37ff"
+      },
+      {
+        "name": "barEfxRoot",
+        "parent": "boxRoot",
+        "color": "76ff37ff"
+      },
+      {
+        "name": "images/glowLight",
+        "parent": "barEfxRoot",
+        "color": "76ff37ff"
+      },
+      {
+        "name": "images/star_box_1",
+        "parent": "barEfxRoot",
+        "transform": "noScale",
+        "color": "76ff37ff"
+      },
+      {
+        "name": "images/star_box_2",
+        "parent": "barEfxRoot",
+        "transform": "noScale",
+        "color": "76ff37ff"
+      },
+      {
+        "name": "images/star_box_3",
+        "parent": "barEfxRoot",
+        "transform": "noScale",
+        "color": "76ff37ff"
+      }
+    ],
+    "slots": [
+      {
+        "name": "slot_icon",
+        "bone": "hook_icon"
+      },
+      {
+        "name": "images/gameplay_chest_level_bg",
+        "bone": "images/gameplay_chest_level_bg"
+      },
+      {
+        "name": "slot_num",
+        "bone": "hook_num"
+      },
+      {
+        "name": "images/glowLight",
+        "bone": "images/glowLight",
+        "blend": "additive"
+      },
+      {
+        "name": "images/star_box_1",
+        "bone": "images/star_box_1",
+        "blend": "additive"
+      },
+      {
+        "name": "images/star_box_2",
+        "bone": "images/star_box_2",
+        "blend": "additive"
+      },
+      {
+        "name": "images/star_box_3",
+        "bone": "images/star_box_3",
+        "blend": "additive"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "images/gameplay_chest_level_bg": {
+            "images/gameplay_chest_level_bg": {
+              "width": 206,
+              "height": 57
+            }
+          },
+          "images/glowLight": {
+            "images/glowLight": {
+              "width": 32,
+              "height": 32
+            }
+          },
+          "images/star_box_1": {
+            "images/star_box_1": {
+              "width": 28,
+              "height": 28
+            }
+          },
+          "images/star_box_2": {
+            "images/star_box_1": {
+              "width": 28,
+              "height": 28
+            }
+          },
+          "images/star_box_3": {
+            "images/star_box_1": {
+              "width": 28,
+              "height": 28
+            }
+          }
+        }
+      }
+    ],
+    "events": {
+      "event_level": {}
+    },
+    "animations": {
+      "click": {
+        "slots": {
+          "images/gameplay_chest_level_bg": {
+            "attachment": [
+              {
+                "name": "images/gameplay_chest_level_bg"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "hook_icon": {
+            "scale": [
+              {
+                "curve": 0,
+                "c2": 0.33,
+                "c3": 0.724
+              },
+              {
+                "time": 0.0667,
+                "x": 0.8,
+                "y": 0.8,
+                "curve": 0.258,
+                "c4": 0.67
+              },
+              {
+                "time": 0.1667
+              }
+            ]
+          },
+          "hook_num": {
+            "translate": [
+              {
+                "y": 3.84
+              }
+            ]
+          }
+        }
+      },
+      "in": {
+        "slots": {
+          "images/gameplay_chest_level_bg": {
+            "attachment": [
+              {
+                "name": "images/gameplay_chest_level_bg"
+              }
+            ]
+          },
+          "images/glowLight": {
+            "color": [
+              {
+                "time": 0.0333,
+                "color": "ffc149ff",
+                "curve": 0,
+                "c2": 0.33,
+                "c3": 0.724
+              },
+              {
+                "time": 0.1333,
+                "color": "ffea49ec",
+                "curve": 0.243,
+                "c3": 0.771
+              },
+              {
+                "time": 0.5333,
+                "color": "ffc14900"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.0333,
+                "name": "images/glowLight"
+              }
+            ]
+          },
+          "images/star_box_1": {
+            "attachment": [
+              {
+                "time": 0.0333,
+                "name": "images/star_box_1"
+              },
+              {
+                "time": 0.6,
+                "name": null
+              }
+            ]
+          },
+          "images/star_box_2": {
+            "attachment": [
+              {
+                "time": 0.1333,
+                "name": "images/star_box_1"
+              },
+              {
+                "time": 0.7333,
+                "name": null
+              }
+            ]
+          },
+          "images/star_box_3": {
+            "attachment": [
+              {
+                "time": 0.0333,
+                "name": "images/star_box_1"
+              },
+              {
+                "time": 0.5667,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "hook_num": {
+            "translate": [
+              {
+                "y": 3.84
+              }
+            ],
+            "scale": [
+              {
+                "curve": 0,
+                "c2": 0.33,
+                "c3": 0.724
+              },
+              {
+                "time": 0.1,
+                "x": 1.2,
+                "y": 1.2,
+                "curve": 0.258,
+                "c4": 0.67
+              },
+              {
+                "time": 0.2
+              }
+            ]
+          },
+          "images/glowLight": {
+            "scale": [
+              {
+                "time": 0.0333,
+                "x": 3.627,
+                "y": 1.465,
+                "curve": 0,
+                "c2": 0.33,
+                "c3": 0.724
+              },
+              {
+                "time": 0.1333,
+                "x": 12.405,
+                "y": 4.503,
+                "curve": 0.258,
+                "c3": 0.861
+              },
+              {
+                "time": 0.5333,
+                "x": 5.303,
+                "y": 2.048
+              }
+            ]
+          },
+          "images/star_box_1": {
+            "rotate": [
+              {
+                "time": 0.0333,
+                "curve": 0,
+                "c2": 0.33,
+                "c3": 0.724
+              },
+              {
+                "time": 0.6,
+                "angle": -19.67
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.0333,
+                "x": 10.37,
+                "y": -14.75,
+                "curve": 0.189,
+                "c3": 0.889
+              },
+              {
+                "time": 0.6,
+                "x": 13.1,
+                "y": -36.54
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.0333,
+                "x": 1.251,
+                "y": 1.251,
+                "curve": 0.259,
+                "c2": 0.01,
+                "c3": 0.819
+              },
+              {
+                "time": 0.6,
+                "x": 0.04,
+                "y": 0.04
+              }
+            ]
+          },
+          "images/star_box_2": {
+            "rotate": [
+              {
+                "time": 0.1333,
+                "curve": 0,
+                "c2": 0.33,
+                "c3": 0.724
+              },
+              {
+                "time": 0.7333,
+                "angle": -19.67
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.1333,
+                "x": -12.52,
+                "y": -7.12,
+                "curve": 0.189,
+                "c3": 0.889
+              },
+              {
+                "time": 0.7333,
+                "x": -11.86,
+                "y": -45.55
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.1333,
+                "x": 1.234,
+                "y": 1.234,
+                "curve": 0.259,
+                "c2": 0.01,
+                "c3": 0.819
+              },
+              {
+                "time": 0.7333,
+                "x": 0.04,
+                "y": 0.04
+              }
+            ]
+          },
+          "images/star_box_3": {
+            "rotate": [
+              {
+                "time": 0.0333,
+                "curve": 0,
+                "c2": 0.33,
+                "c3": 0.724
+              },
+              {
+                "time": 0.5667,
+                "angle": -19.67
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.0333,
+                "x": -6.97,
+                "y": -14.75,
+                "curve": 0.189,
+                "c3": 0.889
+              },
+              {
+                "time": 0.5667,
+                "x": -2.15,
+                "y": -53.18
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.0333,
+                "x": 1.396,
+                "y": 1.396,
+                "curve": 0.259,
+                "c2": 0.01,
+                "c3": 0.819
+              },
+              {
+                "time": 0.5667,
+                "x": 0.04,
+                "y": 0.04
+              }
+            ]
+          },
+          "barEfxRoot": {
+            "translate": [
+              {
+                "y": -62.17
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.2,
+            "name": "event_level"
+          }
+        ]
+      },
+      "init": {
+        "slots": {
+          "images/gameplay_chest_level_bg": {
+            "attachment": [
+              {
+                "name": "images/gameplay_chest_level_bg"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "hook_num": {
+            "translate": [
+              {
+                "y": 3.84
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\njourney_result_boxBar.png\nsize: 238,61\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimages/gameplay_chest_level_bg\n  rotate: false\n  xy: 2, 2\n  size: 206, 57\n  orig: 206, 57\n  offset: 0, 0\n  index: -1\nimages/glowLight\n  rotate: false\n  xy: 210, 32\n  size: 26, 27\n  orig: 32, 32\n  offset: 4, 3\n  index: -1\nimages/star_box_1\n  rotate: false\n  xy: 210, 8\n  size: 22, 22\n  orig: 28, 28\n  offset: 3, 3\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "73c7c1aa-5846-47cf-a119-ce1cf2b99dfd"
+    }
+  ],
+  "textureNames": [
+    "journey_result_boxBar.png"
+  ],
+  "scale": 1
+}

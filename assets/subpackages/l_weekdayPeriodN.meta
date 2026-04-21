@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "d4160ebc-64f0-4713-a441-ed68c7fb98fc",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_weekdayPeriodN",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

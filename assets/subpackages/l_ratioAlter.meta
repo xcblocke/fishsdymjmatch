@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "867f598e-e011-4f49-a4ab-324ebd3f515b",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_ratioAlter",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

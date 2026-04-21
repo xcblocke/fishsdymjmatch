@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "daf651e5-1c5a-445d-8fc9-d6cabcbceaf2",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_winFullComboOpt",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

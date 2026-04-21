@@ -1,0 +1,17 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_combo_groove_a",
+  "_objFlags": 0,
+  "_native": ".bin",
+  "_skeletonJson": null,
+  "_atlasText": "\ngameplay_combo_groove_a.png\nsize: 414,75\nformat: RGBA8888\nfilter: MipMap,MipMap\nrepeat: none\nfly_1\n  rotate: true\n  xy: 4, 4\n  size: 67, 72\n  orig: 67, 72\n  offset: 0, 0\n  index: -1\nfly_2\n  rotate: false\n  xy: 206, 14\n  size: 53, 57\n  orig: 53, 57\n  offset: 0, 0\n  index: -1\nfly_3\n  rotate: false\n  xy: 263, 15\n  size: 48, 56\n  orig: 48, 56\n  offset: 0, 0\n  index: -1\nfly_4\n  rotate: true\n  xy: 362, 26\n  size: 45, 48\n  orig: 45, 48\n  offset: 0, 0\n  index: -1\nfly_5\n  rotate: true\n  xy: 362, 26\n  size: 45, 48\n  orig: 45, 48\n  offset: 0, 0\n  index: -1\nfly_6\n  rotate: false\n  xy: 315, 15\n  size: 43, 56\n  orig: 43, 56\n  offset: 0, 0\n  index: -1\nfly_7\n  rotate: false\n  xy: 80, 4\n  size: 63, 67\n  orig: 63, 67\n  offset: 0, 0\n  index: -1\nfly_8\n  rotate: false\n  xy: 147, 14\n  size: 55, 57\n  orig: 55, 57\n  offset: 0, 0\n  index: -1\nxinxin\n  rotate: false\n  xy: 362, 5\n  size: 17, 17\n  orig: 17, 17\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "9027a76a-586b-4923-84e5-d75af3855a20"
+    }
+  ],
+  "textureNames": [
+    "gameplay_combo_groove_a.png"
+  ],
+  "scale": 1
+}

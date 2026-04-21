@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "3f62cb10-b6e9-4382-93d8-6bab9d5ce4ea",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_tile2EarlyStarBaseCard",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

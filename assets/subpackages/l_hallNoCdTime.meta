@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "ba55ea5f-7b4f-4258-9e0c-b4b20f32e7ad",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_hallNoCdTime",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

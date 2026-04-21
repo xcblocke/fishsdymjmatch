@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "aacabee5-188b-4507-84a9-01107be98608",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_subOpTime",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

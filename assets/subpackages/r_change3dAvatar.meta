@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "9d0cf0da-8047-4e73-9664-ed4492d3ebe6",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_change3dAvatar",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

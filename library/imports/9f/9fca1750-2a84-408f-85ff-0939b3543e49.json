@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "flowerCardIcon.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "H_ju": {
+      "__uuid__": "af84662f-313c-4bb1-8975-d8c605fe83df"
+    },
+    "H_lan": {
+      "__uuid__": "944c7c7f-2934-4a11-954c-1ae4debec84c"
+    },
+    "H_mei": {
+      "__uuid__": "37d85c77-5dc1-4422-9c8f-c48c30cbd8b8"
+    },
+    "H_zhu": {
+      "__uuid__": "c5cb2dab-6655-424a-a1f1-16ad8d0e7477"
+    },
+    "J_chun": {
+      "__uuid__": "f59fece2-3098-4c4c-99cc-6056791d1e25"
+    },
+    "J_dong": {
+      "__uuid__": "dc662d15-b587-4a8d-b5d4-b158e84d8075"
+    },
+    "J_qiu": {
+      "__uuid__": "58a1c518-1a9a-4956-b0a2-ca5c695a78bb"
+    },
+    "J_xia": {
+      "__uuid__": "c74251b5-d0a4-4522-aa0a-157754cf2ae2"
+    },
+    "Z_bai": {
+      "__uuid__": "11b76d03-804f-4608-98eb-96a906f99edf"
+    },
+    "Z_bei": {
+      "__uuid__": "807f8bca-eba4-46c1-a195-191c3be71bfd"
+    },
+    "Z_dong": {
+      "__uuid__": "a7178ed2-7d4b-4fc1-80af-e0af042d45ec"
+    },
+    "Z_fa": {
+      "__uuid__": "0c3c5fd7-f40f-44dc-a164-6dada6c6aafd"
+    },
+    "Z_nan": {
+      "__uuid__": "0dcb0496-2859-4694-8e9d-11b6b534bd68"
+    },
+    "Z_xi": {
+      "__uuid__": "69557e98-e23a-48ff-a8c8-9ae55f2ccaa0"
+    },
+    "Z_zhong": {
+      "__uuid__": "bf7f8123-e919-4719-be49-7676db5027cf"
+    }
+  }
+}

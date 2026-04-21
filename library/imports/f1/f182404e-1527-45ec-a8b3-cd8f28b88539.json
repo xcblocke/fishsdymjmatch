@@ -1,0 +1,17 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_word_perfect",
+  "_objFlags": 0,
+  "_native": ".bin",
+  "_skeletonJson": null,
+  "_atlasText": "\ngameplay_word_perfect.png\nsize: 418,135\nformat: RGBA8888\nfilter: MipMap,MipMap\nrepeat: none\nplaygame_txt_prefect\n  rotate: false\n  xy: 4, 4\n  size: 410, 127\n  orig: 415, 132\n  offset: 2, 3\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "5a40b768-ff71-4a9d-b26e-0813e4665bb5"
+    }
+  ],
+  "textureNames": [
+    "gameplay_word_perfect.png"
+  ],
+  "scale": 1
+}

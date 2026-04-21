@@ -1,0 +1,62 @@
+
+journey_collectionDisplay.png
+size: 394,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glowLight
+  rotate: false
+  xy: 289, 12
+  size: 26, 27
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+glow_ring_01
+  rotate: false
+  xy: 2, 10
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_ring_02
+  rotate: false
+  xy: 250, 41
+  size: 89, 97
+  orig: 100, 103
+  offset: 6, 3
+  index: -1
+lightAdd1
+  rotate: true
+  xy: 132, 19
+  size: 119, 116
+  orig: 128, 128
+  offset: 6, 3
+  index: -1
+par_star_01
+  rotate: false
+  xy: 250, 2
+  size: 37, 37
+  orig: 41, 41
+  offset: 2, 2
+  index: -1
+rayB1
+  rotate: false
+  xy: 341, 59
+  size: 51, 79
+  orig: 66, 100
+  offset: 7, 7
+  index: -1
+spot_2
+  rotate: false
+  xy: 317, 15
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+star_l
+  rotate: false
+  xy: 343, 9
+  size: 48, 48
+  orig: 54, 54
+  offset: 3, 3
+  index: -1

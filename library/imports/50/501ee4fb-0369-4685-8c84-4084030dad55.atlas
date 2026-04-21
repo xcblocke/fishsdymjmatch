@@ -1,0 +1,62 @@
+
+gameplay_special_elimination.png
+size: 710,405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/fx/blast_13
+  rotate: false
+  xy: 405, 11
+  size: 122, 122
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+image/fx/fx_005
+  rotate: true
+  xy: 529, 28
+  size: 105, 113
+  orig: 114, 125
+  offset: 1, 4
+  index: -1
+image/fx/fx_006
+  rotate: true
+  xy: 611, 286
+  size: 117, 95
+  orig: 119, 95
+  offset: 2, 0
+  index: -1
+image/fx/fx_007
+  rotate: false
+  xy: 611, 199
+  size: 78, 85
+  orig: 83, 99
+  offset: 2, 2
+  index: -1
+image/fx/fx_014
+  rotate: false
+  xy: 644, 92
+  size: 33, 33
+  orig: 39, 39
+  offset: 3, 3
+  index: -1
+image/fx/hat
+  rotate: true
+  xy: 405, 135
+  size: 268, 204
+  orig: 268, 204
+  offset: 0, 0
+  index: -1
+image/fx/hat-gigapixel-cgi-2x
+  rotate: false
+  xy: 644, 127
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+image/fx/light
+  rotate: false
+  xy: 2, 2
+  size: 401, 401
+  orig: 408, 408
+  offset: 5, 3
+  index: -1

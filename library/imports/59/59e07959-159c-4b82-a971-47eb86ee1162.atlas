@@ -1,0 +1,76 @@
+
+gameplay_comboBonus.png
+size: 958,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Combo Bonus!
+  rotate: false
+  xy: 324, 2
+  size: 473, 59
+  orig: 473, 59
+  offset: 0, 0
+  index: -1
+Combo Bonus!2
+  rotate: false
+  xy: 604, 102
+  size: 192, 150
+  orig: 192, 150
+  offset: 0, 0
+  index: -1
+blast_12
+  rotate: false
+  xy: 324, 63
+  size: 278, 278
+  orig: 278, 278
+  offset: 0, 0
+  index: -1
+blast_13
+  rotate: false
+  xy: 2, 21
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+cb_3
+  rotate: false
+  xy: 604, 71
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+hua_1
+  rotate: false
+  xy: 874, 288
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+hua_2
+  rotate: true
+  xy: 799, 26
+  size: 58, 101
+  orig: 58, 101
+  offset: 0, 0
+  index: -1
+hua_3
+  rotate: true
+  xy: 798, 86
+  size: 166, 158
+  orig: 166, 158
+  offset: 0, 0
+  index: -1
+mj_7
+  rotate: false
+  xy: 902, 38
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+unbelibevable
+  rotate: false
+  xy: 604, 254
+  size: 268, 87
+  orig: 268, 87
+  offset: 0, 0
+  index: -1

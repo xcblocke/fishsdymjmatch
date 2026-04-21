@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_newseason",
+    "texture": "2b03d739-24cb-4c64-b8ce-5ac5fdfee7c2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      160
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

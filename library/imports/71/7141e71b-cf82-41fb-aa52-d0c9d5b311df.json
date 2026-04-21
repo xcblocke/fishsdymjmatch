@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_tips_icon_lock",
+    "texture": "86bcd2dd-23b1-4094-8553-a4cfa0119d2d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

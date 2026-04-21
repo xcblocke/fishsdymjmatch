@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "main_enter_unlock",
+    "texture": "73d34d3e-99e9-4ec7-88fd-4da4df00652e",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      514,
+      266
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      517,
+      269
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

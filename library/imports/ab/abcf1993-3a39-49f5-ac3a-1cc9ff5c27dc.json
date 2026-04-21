@@ -1,0 +1,1135 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "journey_result_WellDone",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "4tookthdC4LIX7MYB1upllFtX1Y",
+      "spine": "3.8.99",
+      "images": "",
+      "audio": "D:/zhoumeng/work/11月/外围/动效/结算+藏品收集/胜利结算页面"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "scaleX": 1.0295,
+        "scaleY": 1.0295
+      },
+      {
+        "name": "WellDone",
+        "parent": "root",
+        "color": "ff79d3ff"
+      },
+      {
+        "name": "hook_icon",
+        "parent": "WellDone",
+        "color": "e728ffff"
+      },
+      {
+        "name": "iconEfxB",
+        "parent": "WellDone",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightAdd3",
+        "parent": "iconEfxB",
+        "color": "4e04acff"
+      },
+      {
+        "name": "lightRR2",
+        "parent": "iconEfxB",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightD11",
+        "parent": "lightRR2",
+        "length": 100,
+        "rotation": 90,
+        "scaleY": 0.7058,
+        "transform": "noScale",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightD12",
+        "parent": "lightRR2",
+        "length": 100,
+        "rotation": 45,
+        "scaleY": 0.7058,
+        "transform": "noScale",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightD13",
+        "parent": "lightRR2",
+        "length": 100,
+        "scaleY": 0.7058,
+        "transform": "noScale",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightD14",
+        "parent": "lightRR2",
+        "length": 100,
+        "rotation": -45,
+        "scaleY": 0.7058,
+        "transform": "noScale",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightD15",
+        "parent": "lightRR2",
+        "length": 100,
+        "rotation": -90,
+        "scaleY": 0.7058,
+        "transform": "noScale",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightD16",
+        "parent": "lightRR2",
+        "length": 100,
+        "rotation": -135,
+        "scaleY": 0.7058,
+        "transform": "noScale",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightD17",
+        "parent": "lightRR2",
+        "length": 100,
+        "rotation": -180,
+        "scaleY": 0.7058,
+        "transform": "noScale",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightD18",
+        "parent": "lightRR2",
+        "length": 100,
+        "rotation": 135,
+        "scaleY": 0.7058,
+        "transform": "noScale",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightD19",
+        "parent": "lightRR2",
+        "length": 100,
+        "rotation": 75,
+        "scaleY": 0.7058,
+        "transform": "noScale",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightD20",
+        "parent": "lightRR2",
+        "length": 100,
+        "rotation": 120,
+        "scaleY": 0.7058,
+        "transform": "noScale",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "images/glow_ring_1",
+        "parent": "iconEfxB",
+        "transform": "onlyTranslation",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightD21",
+        "parent": "lightRR2",
+        "length": 100,
+        "rotation": -105,
+        "scaleY": 0.7058,
+        "transform": "noScale",
+        "color": "ff1b1bff"
+      },
+      {
+        "name": "lightD22",
+        "parent": "lightRR2",
+        "length": 100,
+        "rotation": -30,
+        "scaleY": 0.7058,
+        "transform": "noScale",
+        "color": "ff1b1bff"
+      }
+    ],
+    "slots": [
+      {
+        "name": "rdd2",
+        "bone": "lightAdd3",
+        "blend": "additive"
+      },
+      {
+        "name": "lightD12",
+        "bone": "lightD11",
+        "blend": "additive"
+      },
+      {
+        "name": "lightD21",
+        "bone": "lightD20",
+        "blend": "additive"
+      },
+      {
+        "name": "lightD22",
+        "bone": "lightD21",
+        "blend": "additive"
+      },
+      {
+        "name": "lightD20",
+        "bone": "lightD19",
+        "blend": "additive"
+      },
+      {
+        "name": "lightD23",
+        "bone": "lightD22",
+        "blend": "additive"
+      },
+      {
+        "name": "lightD13",
+        "bone": "lightD12",
+        "blend": "additive"
+      },
+      {
+        "name": "lightD14",
+        "bone": "lightD13",
+        "blend": "additive"
+      },
+      {
+        "name": "lightD15",
+        "bone": "lightD14",
+        "blend": "additive"
+      },
+      {
+        "name": "lightD16",
+        "bone": "lightD15",
+        "blend": "additive"
+      },
+      {
+        "name": "lightD17",
+        "bone": "lightD16",
+        "blend": "additive"
+      },
+      {
+        "name": "lightD18",
+        "bone": "lightD17",
+        "blend": "additive"
+      },
+      {
+        "name": "lightD19",
+        "bone": "lightD18",
+        "blend": "additive"
+      },
+      {
+        "name": "images/glow_ring_1",
+        "bone": "images/glow_ring_1",
+        "blend": "additive"
+      },
+      {
+        "name": "slot_icon",
+        "bone": "hook_icon"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "images/glow_ring_1": {
+            "images/glow_ring_01": {
+              "width": 128,
+              "height": 128
+            }
+          },
+          "lightD12": {
+            "images/lightD": {
+              "x": 58.28,
+              "rotation": -90,
+              "width": 68,
+              "height": 150
+            }
+          },
+          "lightD13": {
+            "images/lightD": {
+              "x": 58.28,
+              "rotation": -90,
+              "width": 68,
+              "height": 150
+            }
+          },
+          "lightD14": {
+            "images/lightD": {
+              "x": 58.28,
+              "rotation": -90,
+              "width": 68,
+              "height": 150
+            }
+          },
+          "lightD15": {
+            "images/lightD": {
+              "x": 58.28,
+              "rotation": -90,
+              "width": 68,
+              "height": 150
+            }
+          },
+          "lightD16": {
+            "images/lightD": {
+              "x": 58.28,
+              "rotation": -90,
+              "width": 68,
+              "height": 150
+            }
+          },
+          "lightD17": {
+            "images/lightD": {
+              "x": 58.28,
+              "rotation": -90,
+              "width": 68,
+              "height": 150
+            }
+          },
+          "lightD18": {
+            "images/lightD": {
+              "x": 58.28,
+              "rotation": -90,
+              "width": 68,
+              "height": 150
+            }
+          },
+          "lightD19": {
+            "images/lightD": {
+              "x": 58.28,
+              "rotation": -90,
+              "width": 68,
+              "height": 150
+            }
+          },
+          "lightD20": {
+            "images/lightD": {
+              "x": 58.28,
+              "rotation": -90,
+              "width": 68,
+              "height": 150
+            }
+          },
+          "lightD21": {
+            "images/lightD": {
+              "x": 58.28,
+              "rotation": -90,
+              "width": 68,
+              "height": 150
+            }
+          },
+          "lightD22": {
+            "images/lightD": {
+              "x": 58.28,
+              "rotation": -90,
+              "width": 68,
+              "height": 150
+            }
+          },
+          "lightD23": {
+            "images/lightD": {
+              "x": 58.28,
+              "rotation": -90,
+              "width": 68,
+              "height": 150
+            }
+          },
+          "rdd2": {
+            "images/glowLight": {
+              "width": 32,
+              "height": 32
+            }
+          }
+        }
+      }
+    ],
+    "events": {
+      "event_icon": {}
+    },
+    "animations": {
+      "in": {
+        "slots": {
+          "images/glow_ring_1": {
+            "color": [
+              {
+                "time": 0.6333,
+                "color": "ffca47ff",
+                "curve": 0.201,
+                "c2": 0.01,
+                "c3": 0.659
+              },
+              {
+                "time": 1.6,
+                "color": "ffb96700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.6333,
+                "name": "images/glow_ring_01"
+              }
+            ]
+          },
+          "lightD12": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffba4900",
+                "curve": 0,
+                "c2": 0.35,
+                "c3": 0.448
+              },
+              {
+                "time": 0.7,
+                "color": "ffd539ff",
+                "curve": 0.493,
+                "c3": 0.738
+              },
+              {
+                "time": 1.3667,
+                "color": "ff982700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "images/lightD"
+              }
+            ]
+          },
+          "lightD13": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffba4900",
+                "curve": 0,
+                "c2": 0.35,
+                "c3": 0.448
+              },
+              {
+                "time": 0.7,
+                "color": "ffd539ff",
+                "curve": 0.493,
+                "c3": 0.738
+              },
+              {
+                "time": 1.3333,
+                "color": "ff982700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "images/lightD"
+              }
+            ]
+          },
+          "lightD14": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffba4900",
+                "curve": 0,
+                "c2": 0.35,
+                "c3": 0.448
+              },
+              {
+                "time": 0.7,
+                "color": "ffd539ff",
+                "curve": 0.493,
+                "c3": 0.738
+              },
+              {
+                "time": 1.5333,
+                "color": "ff982700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "images/lightD"
+              }
+            ]
+          },
+          "lightD15": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffba4900",
+                "curve": 0,
+                "c2": 0.35,
+                "c3": 0.448
+              },
+              {
+                "time": 0.7,
+                "color": "ffd539ff",
+                "curve": 0.493,
+                "c3": 0.738
+              },
+              {
+                "time": 1.4667,
+                "color": "ff982700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "images/lightD"
+              }
+            ]
+          },
+          "lightD16": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffba4900",
+                "curve": 0,
+                "c2": 0.35,
+                "c3": 0.448
+              },
+              {
+                "time": 0.7,
+                "color": "ffd539ff",
+                "curve": 0.493,
+                "c3": 0.738
+              },
+              {
+                "time": 1.3333,
+                "color": "ff982700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "images/lightD"
+              }
+            ]
+          },
+          "lightD17": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffba4900",
+                "curve": 0,
+                "c2": 0.35,
+                "c3": 0.448
+              },
+              {
+                "time": 0.7,
+                "color": "ffd539ff",
+                "curve": 0.493,
+                "c3": 0.738
+              },
+              {
+                "time": 1.4,
+                "color": "ff982700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "images/lightD"
+              }
+            ]
+          },
+          "lightD18": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffba4900",
+                "curve": 0,
+                "c2": 0.35,
+                "c3": 0.448
+              },
+              {
+                "time": 0.7,
+                "color": "ffd539ff",
+                "curve": 0.493,
+                "c3": 0.738
+              },
+              {
+                "time": 1.5,
+                "color": "ff982700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "images/lightD"
+              }
+            ]
+          },
+          "lightD19": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffba4900",
+                "curve": 0,
+                "c2": 0.35,
+                "c3": 0.448
+              },
+              {
+                "time": 0.7,
+                "color": "ffd539ff",
+                "curve": 0.493,
+                "c3": 0.738
+              },
+              {
+                "time": 1.3333,
+                "color": "ff982700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "images/lightD"
+              }
+            ]
+          },
+          "lightD20": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffba4900",
+                "curve": 0,
+                "c2": 0.35,
+                "c3": 0.448
+              },
+              {
+                "time": 0.7,
+                "color": "ffd539ff",
+                "curve": 0.493,
+                "c3": 0.738
+              },
+              {
+                "time": 1.5,
+                "color": "ff982700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "images/lightD"
+              }
+            ]
+          },
+          "lightD21": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffba4900",
+                "curve": 0,
+                "c2": 0.35,
+                "c3": 0.448
+              },
+              {
+                "time": 0.7,
+                "color": "ffd539ff",
+                "curve": 0.493,
+                "c3": 0.738
+              },
+              {
+                "time": 1.5333,
+                "color": "ff982700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "images/lightD"
+              }
+            ]
+          },
+          "lightD22": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffba4900",
+                "curve": 0,
+                "c2": 0.35,
+                "c3": 0.448
+              },
+              {
+                "time": 0.7,
+                "color": "ffd539ff",
+                "curve": 0.493,
+                "c3": 0.738
+              },
+              {
+                "time": 1.5,
+                "color": "ff982700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "images/lightD"
+              }
+            ]
+          },
+          "lightD23": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffba4900",
+                "curve": 0,
+                "c2": 0.35,
+                "c3": 0.448
+              },
+              {
+                "time": 0.7,
+                "color": "ffd539ff",
+                "curve": 0.493,
+                "c3": 0.738
+              },
+              {
+                "time": 1.3333,
+                "color": "ff982700"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "images/lightD"
+              }
+            ]
+          },
+          "rdd2": {
+            "color": [
+              {
+                "time": 0.6333,
+                "color": "ffb632ff",
+                "curve": 0.587,
+                "c3": 0.726
+              },
+              {
+                "time": 1.6,
+                "color": "ffd66b00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.6333,
+                "name": "images/glowLight"
+              },
+              {
+                "time": 1.5,
+                "name": null
+              }
+            ]
+          },
+          "slot_icon": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7,
+                "color": "ffffffff"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "hook_icon": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 0.6,
+                "y": 0.6,
+                "curve": 0,
+                "c2": 0.33,
+                "c3": 0.724
+              },
+              {
+                "time": 0.7,
+                "x": 1.1,
+                "y": 1.1,
+                "curve": 0.294,
+                "c4": 0.9
+              },
+              {
+                "time": 0.8667
+              }
+            ]
+          },
+          "lightD13": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 2.04,
+                "y": 1.396,
+                "curve": 0.168,
+                "c3": 0.572
+              },
+              {
+                "time": 0.7,
+                "x": 3.751,
+                "y": 3.526,
+                "curve": 0.493,
+                "c3": 0.902
+              },
+              {
+                "time": 1.5333,
+                "x": 2.515,
+                "y": 3.294
+              }
+            ]
+          },
+          "lightD15": {
+            "rotate": [
+              {
+                "time": 0.5,
+                "angle": 6.79
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 2.001,
+                "y": 1.32,
+                "curve": 0.168,
+                "c3": 0.572
+              },
+              {
+                "time": 0.7,
+                "x": 3.463,
+                "y": 2.708,
+                "curve": 0.493,
+                "c3": 0.902
+              },
+              {
+                "time": 1.3333,
+                "x": 2.658,
+                "y": 2.678
+              }
+            ]
+          },
+          "lightD16": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1.249,
+                "y": 1.438,
+                "curve": 0.168,
+                "c3": 0.572
+              },
+              {
+                "time": 0.7,
+                "x": 2.231,
+                "y": 2.95,
+                "curve": 0.493,
+                "c3": 0.902
+              },
+              {
+                "time": 1.4,
+                "x": 1.713,
+                "y": 2.917
+              }
+            ]
+          },
+          "lightD17": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1.818,
+                "y": 1.684,
+                "curve": 0.168,
+                "c3": 0.572
+              },
+              {
+                "time": 0.7,
+                "x": 3.432,
+                "y": 3.454,
+                "curve": 0.493,
+                "c3": 0.902
+              },
+              {
+                "time": 1.5,
+                "x": 2.477,
+                "y": 3.332
+              }
+            ]
+          },
+          "lightAdd3": {
+            "scale": [
+              {
+                "time": 0.6333,
+                "x": 14.23,
+                "y": 14.23,
+                "curve": 0,
+                "c2": 0.4,
+                "c3": 0.65
+              },
+              {
+                "time": 1.6,
+                "x": 35,
+                "y": 35
+              }
+            ]
+          },
+          "lightD11": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1.296,
+                "y": 1.053,
+                "curve": 0.168,
+                "c3": 0.572
+              },
+              {
+                "time": 0.7,
+                "x": 2.303,
+                "y": 1.82,
+                "curve": 0.493,
+                "c3": 0.902
+              },
+              {
+                "time": 1.3667,
+                "x": 1.768,
+                "y": 1.799
+              }
+            ]
+          },
+          "lightD12": {
+            "rotate": [
+              {
+                "time": 0.5,
+                "angle": -10.63
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1.604,
+                "y": 1.545,
+                "curve": 0.168,
+                "c3": 0.572
+              },
+              {
+                "time": 0.7,
+                "x": 3.194,
+                "y": 2.387,
+                "curve": 0.493,
+                "c3": 0.902
+              },
+              {
+                "time": 1.3333,
+                "x": 2.452,
+                "y": 2.36
+              }
+            ]
+          },
+          "lightD14": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1.604,
+                "y": 1.292,
+                "curve": 0.168,
+                "c3": 0.572
+              },
+              {
+                "time": 0.7,
+                "x": 3.928,
+                "y": 2.395,
+                "curve": 0.493,
+                "c3": 0.902
+              },
+              {
+                "time": 1.4667,
+                "x": 2.679,
+                "y": 2.008
+              }
+            ]
+          },
+          "lightD18": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1.734,
+                "y": 1.814,
+                "curve": 0.168,
+                "c3": 0.572
+              },
+              {
+                "time": 0.7,
+                "x": 3.471,
+                "y": 3.643,
+                "curve": 0.493,
+                "c3": 0.902
+              },
+              {
+                "time": 1.3333,
+                "x": 2.665,
+                "y": 3.603
+              }
+            ]
+          },
+          "lightD19": {
+            "rotate": [
+              {
+                "time": 0.5,
+                "angle": -15.22
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1.296,
+                "y": 1.292,
+                "curve": 0.168,
+                "c3": 0.572
+              },
+              {
+                "time": 0.7,
+                "x": 3.194,
+                "y": 1.926,
+                "curve": 0.493,
+                "c3": 0.902
+              },
+              {
+                "time": 1.5,
+                "x": 2.452,
+                "y": 1.905
+              }
+            ]
+          },
+          "lightD20": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1.666,
+                "y": 1.12,
+                "curve": 0.168,
+                "c3": 0.572
+              },
+              {
+                "time": 0.7,
+                "x": 4.296,
+                "y": 2.94,
+                "curve": 0.493,
+                "c3": 0.902
+              },
+              {
+                "time": 1.5333,
+                "x": 3.049,
+                "y": 2.304
+              }
+            ]
+          },
+          "images/glow_ring_1": {
+            "scale": [
+              {
+                "time": 0.6333,
+                "x": 1.026,
+                "y": 1.026,
+                "curve": 0.034,
+                "c2": 0.65,
+                "c3": 0.628
+              },
+              {
+                "time": 1.6,
+                "x": 6,
+                "y": 6
+              }
+            ]
+          },
+          "lightD21": {
+            "rotate": [
+              {
+                "time": 0.5,
+                "angle": -5.26
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1.666,
+                "y": 1.12,
+                "curve": 0.168,
+                "c3": 0.572
+              },
+              {
+                "time": 0.7,
+                "x": 4.296,
+                "y": 2.94,
+                "curve": 0.493,
+                "c3": 0.902
+              },
+              {
+                "time": 1.5,
+                "x": 3.057,
+                "y": 2.353
+              }
+            ]
+          },
+          "lightD22": {
+            "rotate": [
+              {
+                "time": 0.5,
+                "angle": 1.22
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1.296,
+                "y": 1.292,
+                "curve": 0.168,
+                "c3": 0.572
+              },
+              {
+                "time": 0.7,
+                "x": 3.194,
+                "y": 1.926,
+                "curve": 0.493,
+                "c3": 0.902
+              },
+              {
+                "time": 1.3333,
+                "x": 2.452,
+                "y": 1.905
+              }
+            ]
+          },
+          "lightRR2": {
+            "rotate": [
+              {
+                "time": 0.5,
+                "angle": 25,
+                "curve": 0,
+                "c2": 0.21,
+                "c3": 0.721
+              },
+              {
+                "time": 1.5333,
+                "angle": -19.39
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.5,
+            "name": "event_icon"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\njourney_result_WellDone.png\nsize: 220,132\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimages/glowLight\n  rotate: false\n  xy: 192, 103\n  size: 26, 27\n  orig: 32, 32\n  offset: 4, 3\n  index: -1\nimages/glow_ring_01\n  rotate: false\n  xy: 2, 2\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\nimages/lightD\n  rotate: false\n  xy: 132, 3\n  size: 58, 127\n  orig: 68, 150\n  offset: 5, 7\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "38fb4852-0255-4186-81b7-a99033c05b82"
+    }
+  ],
+  "textureNames": [
+    "journey_result_WellDone.png"
+  ],
+  "scale": 1
+}

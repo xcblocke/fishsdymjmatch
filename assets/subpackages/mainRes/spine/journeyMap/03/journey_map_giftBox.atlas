@@ -1,0 +1,188 @@
+
+journey_map_giftBox.png
+size: 993,701
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liHe_1_2
+  rotate: true
+  xy: 439, 12
+  size: 78, 66
+  orig: 78, 66
+  offset: 0, 0
+  index: -1
+liHe_2_2_x
+  rotate: false
+  xy: 409, 331
+  size: 340, 368
+  orig: 340, 368
+  offset: 0, 0
+  index: -1
+liHe_2_3_x
+  rotate: true
+  xy: 2, 359
+  size: 340, 405
+  orig: 340, 405
+  offset: 0, 0
+  index: -1
+liHe_2_x
+  rotate: true
+  xy: 2, 17
+  size: 340, 368
+  orig: 340, 368
+  offset: 0, 0
+  index: -1
+liHe_3_2_x
+  rotate: false
+  xy: 518, 119
+  size: 336, 47
+  orig: 336, 47
+  offset: 0, 0
+  index: -1
+liHe_3_3_x
+  rotate: false
+  xy: 533, 168
+  size: 336, 71
+  orig: 336, 71
+  offset: 0, 0
+  index: -1
+liHe_3_touYing
+  rotate: false
+  xy: 518, 70
+  size: 336, 47
+  orig: 336, 47
+  offset: 0, 0
+  index: -1
+liHe_3_x
+  rotate: false
+  xy: 507, 21
+  size: 336, 47
+  orig: 336, 47
+  offset: 0, 0
+  index: -1
+liHe_4_2_x
+  rotate: false
+  xy: 751, 337
+  size: 47, 362
+  orig: 47, 362
+  offset: 0, 0
+  index: -1
+liHe_4_3_x
+  rotate: true
+  xy: 533, 256
+  size: 73, 362
+  orig: 73, 362
+  offset: 0, 0
+  index: -1
+liHe_4_touYing
+  rotate: false
+  xy: 800, 337
+  size: 47, 362
+  orig: 47, 362
+  offset: 0, 0
+  index: -1
+liHe_4_x
+  rotate: false
+  xy: 849, 337
+  size: 47, 362
+  orig: 47, 362
+  offset: 0, 0
+  index: -1
+liHe_5_2_x
+  rotate: true
+  xy: 372, 101
+  size: 81, 76
+  orig: 86, 91
+  offset: 2, 3
+  index: -1
+liHe_5_3_x_1
+  rotate: true
+  xy: 372, 184
+  size: 145, 159
+  orig: 157, 173
+  offset: 6, 7
+  index: -1
+liHe_5_3_x_2
+  rotate: false
+  xy: 845, 2
+  size: 66, 66
+  orig: 72, 77
+  offset: 4, 3
+  index: -1
+liHe_5_3_x_3
+  rotate: false
+  xy: 856, 85
+  size: 66, 66
+  orig: 72, 77
+  offset: 4, 3
+  index: -1
+liHe_5_3_x_4
+  rotate: false
+  xy: 913, 17
+  size: 64, 66
+  orig: 72, 77
+  offset: 6, 1
+  index: -1
+liHe_5_x
+  rotate: true
+  xy: 898, 419
+  size: 88, 80
+  orig: 94, 90
+  offset: 3, 3
+  index: -1
+liHe_6_2_x
+  rotate: true
+  xy: 450, 92
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+liHe_6_3_x
+  rotate: true
+  xy: 871, 153
+  size: 86, 66
+  orig: 90, 66
+  offset: 2, 0
+  index: -1
+liHe_6_x
+  rotate: true
+  xy: 372, 9
+  size: 90, 65
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+liHe_7_2_x
+  rotate: true
+  xy: 898, 605
+  size: 94, 91
+  orig: 94, 94
+  offset: 0, 1
+  index: -1
+liHe_7_3_x
+  rotate: false
+  xy: 898, 509
+  size: 83, 94
+  orig: 94, 94
+  offset: 11, 0
+  index: -1
+liHe_7_x
+  rotate: false
+  xy: 897, 241
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+liHe_touYing_1
+  rotate: false
+  xy: 898, 349
+  size: 91, 68
+  orig: 91, 68
+  offset: 0, 0
+  index: -1
+liHe_touYing_2
+  rotate: false
+  xy: 939, 170
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1

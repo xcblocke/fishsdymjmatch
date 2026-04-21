@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reward_btn_blue_up",
+    "texture": "3e59efde-2887-4315-8dbe-403e97582768",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      166
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      166
+    ],
+    "capInsets": [
+      27,
+      25,
+      30,
+      34
+    ]
+  }
+}

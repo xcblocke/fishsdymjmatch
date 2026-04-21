@@ -1,0 +1,2639 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "i18n_config_DE",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "baseName": "i18n_config",
+    "data": [
+      [
+        "LeaderBoard_Name_1",
+        "Gartengroßmeister"
+      ],
+      [
+        "LeaderBoard_Name_2",
+        "Schneeballschlacht"
+      ],
+      [
+        "LeaderBoard_Name_3",
+        "Schwarztee-Treffen"
+      ],
+      [
+        "LeaderBoard_Name_4",
+        "Goldener Musiker"
+      ],
+      [
+        "LeaderBoard_Name_5",
+        "Strickwettbewerb"
+      ],
+      [
+        "LeaderBoard_Start_Des",
+        "{0} hat begonnen!\nSammle goldene Kacheln, steige in der Rangliste auf und gewinne tolle Belohnungen!"
+      ],
+      [
+        "LeaderBoard_Start_GoTo",
+        "Sammeln"
+      ],
+      [
+        "LeaderBoard_HowToPlay_Btn_OK",
+        "OK"
+      ],
+      [
+        "LeaderBoard_Start_Btn_Jump",
+        "Spielen"
+      ],
+      [
+        "LeaderBoard_Entrance_Num",
+        "#{0}"
+      ],
+      [
+        "LeaderBoard_Level_Settle_WinStreak",
+        "Gewinnsträhne-Bonus"
+      ],
+      [
+        "Common_Btn_Continue",
+        "Weiter"
+      ],
+      [
+        "LeaderBoard_Reward_Title",
+        "Herzlichen\nGlückwunsch!"
+      ],
+      [
+        "LeaderBoard_Reward_Des",
+        "<color=#B17240>Du hast den <color=#D15327>{0}</c>. Platz erobert!</c>"
+      ],
+      [
+        "LeaderBoard_Reward_Claim",
+        "Einfordern"
+      ],
+      [
+        "LeaderBoard_Profile_Title",
+        "Profil"
+      ],
+      [
+        "LeaderBoard_Profile_Avatar",
+        "Avatar"
+      ],
+      [
+        "LeaderBoard_Profile_Frame",
+        "Rahmen"
+      ],
+      [
+        "LeaderBoard_Profile_Btn_Save",
+        "Speichern"
+      ],
+      [
+        "DailyQuest_UI_Title",
+        "Tägliche Aufgaben"
+      ],
+      [
+        "DailyQuest_UI_Phase",
+        "Stufe {0}"
+      ],
+      [
+        "DailyQuest_UI_Phase_Lock",
+        "Schließe Stufe {0} ab, um neue Aufgaben freizuschalten"
+      ],
+      [
+        "DailyQuest_UI_GoTo",
+        "Spielen"
+      ],
+      [
+        "DailyQuest_Des_100",
+        "Verwende {0} Booster"
+      ],
+      [
+        "DailyQuest_Des_200",
+        "Schließe {0} Übereinstimmungen Ab"
+      ],
+      [
+        "DailyQuest_Des_310",
+        "Besiege {0} Reguläre Level"
+      ],
+      [
+        "DailyQuest_Entrance_Title",
+        "Quests"
+      ],
+      [
+        "DailyChallenge_Title",
+        "Tägliche Herausforderung"
+      ],
+      [
+        "DailyChallenge_Play",
+        "Spielen"
+      ],
+      [
+        "DailyChallenge_Continue",
+        "Weiter"
+      ],
+      [
+        "DailyChallenge_Replay",
+        "Nochmal"
+      ],
+      [
+        "Collection_DailyChallenge_202501",
+        "Zeus"
+      ],
+      [
+        "Collection_DailyChallenge_202502",
+        "Aphrodite"
+      ],
+      [
+        "Collection_DailyChallenge_202503",
+        "Hephaistos"
+      ],
+      [
+        "Collection_DailyChallenge_202504",
+        "Artemis"
+      ],
+      [
+        "Collection_DailyChallenge_202505",
+        "Poseidon"
+      ],
+      [
+        "Collection_DailyChallenge_202506",
+        "Apollon"
+      ],
+      [
+        "Collection_DailyChallenge_202507",
+        "Hera"
+      ],
+      [
+        "Collection_DailyChallenge_202508",
+        "Ares"
+      ],
+      [
+        "Collection_DailyChallenge_202509",
+        "Athena"
+      ],
+      [
+        "Collection_DailyChallenge_202510",
+        "Demeter"
+      ],
+      [
+        "Collection_DailyChallenge_202511",
+        "Hermes"
+      ],
+      [
+        "Collection_DailyChallenge_202512",
+        "Hestia"
+      ],
+      [
+        "Badges_Title",
+        "Sammlungen"
+      ],
+      [
+        "Badges_Type_Daily",
+        "Täglich"
+      ],
+      [
+        "Badges_Type_Journey",
+        "Reise"
+      ],
+      [
+        "Badges_Daily_Month_1",
+        "Jan"
+      ],
+      [
+        "Badges_Daily_Month_2",
+        "Feb"
+      ],
+      [
+        "Badges_Daily_Month_3",
+        "Mär"
+      ],
+      [
+        "Badges_Daily_Month_4",
+        "Apr"
+      ],
+      [
+        "Badges_Daily_Month_5",
+        "Mai"
+      ],
+      [
+        "Badges_Daily_Month_6",
+        "Jun"
+      ],
+      [
+        "Badges_Daily_Month_7",
+        "Jul"
+      ],
+      [
+        "Badges_Daily_Month_8",
+        "Aug"
+      ],
+      [
+        "Badges_Daily_Month_9",
+        "Sep"
+      ],
+      [
+        "Badges_Daily_Month_10",
+        "Okt"
+      ],
+      [
+        "Badges_Daily_Month_11",
+        "Nov"
+      ],
+      [
+        "Badges_Daily_Month_12",
+        "Dez"
+      ],
+      [
+        "DailyChallenge_Button_Great",
+        "Super"
+      ],
+      [
+        "DailyChallenge_Entrance_Title",
+        "Täglich"
+      ],
+      [
+        "MahjongTiles_MapPage_Level",
+        "Level {0}"
+      ],
+      [
+        "Common_CountDown_Minute",
+        "{0}T {1}S {2}M"
+      ],
+      [
+        "Journey_Level_Goals",
+        "Ziele"
+      ],
+      [
+        "Journey_Level_Done",
+        "Ziele Erreicht!"
+      ],
+      [
+        "Badges_Journey_Nothing",
+        "Nimm an den Event-Levels teil \nund sammle Andenken"
+      ],
+      [
+        "Journey_Name_1",
+        "Japanisches Schneedorf"
+      ],
+      [
+        "Journey_Des_1",
+        "Die hier verehrte Gottheit soll besonders wirksam sein!"
+      ],
+      [
+        "Journey_Map_Continue",
+        "Spielen"
+      ],
+      [
+        "Badges_Journey_Button_Great",
+        "Super"
+      ],
+      [
+        "Badges_Journey_Prize_1",
+        "Laterne"
+      ],
+      [
+        "Badges_Journey_Prize_2",
+        "Puppe"
+      ],
+      [
+        "Badges_Journey_Prize_3",
+        "Maneki-Neko"
+      ],
+      [
+        "Journey_Badge_Collect",
+        "Sammeln"
+      ],
+      [
+        "Journey_Map_Done",
+        "Eine neue Reise steht bevor!"
+      ],
+      [
+        "Journey_Name_2",
+        "Winterpilgerfahrt"
+      ],
+      [
+        "Journey_Des_2",
+        "Das beste Geschenk ist immer das Nächste!"
+      ],
+      [
+        "Badges_Journey_Prize_4",
+        "Gewöhnlich"
+      ],
+      [
+        "Badges_Journey_Prize_5",
+        "Selten"
+      ],
+      [
+        "Badges_Journey_Prize_6",
+        "Sammleredition"
+      ],
+      [
+        "TILE_Level",
+        "Level"
+      ],
+      [
+        "TILE_Score",
+        "Punktzahl"
+      ],
+      [
+        "TILE_Matches",
+        "Matches"
+      ],
+      [
+        "TILE_Matches_2",
+        "Matches:"
+      ],
+      [
+        "TILE_Guide_1",
+        "Tippen Sie auf zwei identische Kacheln, um sie zuzuordnen und zu entfernen"
+      ],
+      [
+        "TILE_Guide_2",
+        "Verbinde die Kacheln oben, um die Kacheln darunter freizuschalten"
+      ],
+      [
+        "TILE_Guide_3",
+        "Ordne die äußeren Kacheln zu, um die inneren zu entsperren"
+      ],
+      [
+        "TILE_Guide_4",
+        "Magische Kacheln: Können mit jeder anderen magischen Kachel kombiniert werden"
+      ],
+      [
+        "TILE_Guide_5",
+        "Durch Kacheln oben blockiert"
+      ],
+      [
+        "TILE_Guide_6",
+        "Entfernen Sie zuerst die Fliesen, die die Oberseite blockieren"
+      ],
+      [
+        "TILE_Guide_7",
+        "Entferne zuerst die Kacheln auf der linken und rechten Seite"
+      ],
+      [
+        "TILE_Guide_8",
+        "Entfernen Sie alle Kacheln, um zu gewinnen!"
+      ],
+      [
+        "TILE_OutofMove_Title",
+        "Keine weiteren Übereinstimmungen"
+      ],
+      [
+        "TILE_OutofMove_Details",
+        "Ups, diese Runde ist nicht wie gewünscht gelaufen. Starte neu oder benutze Mischen, um es erneut zu versuchen!"
+      ],
+      [
+        "TILE_Time",
+        "Zeit"
+      ],
+      [
+        "TILE_Combo",
+        "Kombination"
+      ],
+      [
+        "TILE_Restart_Title",
+        "Spiel neu starten?"
+      ],
+      [
+        "TILE_Restart_Details",
+        "Du verlierst deinen aktuellen Fortschritt!"
+      ],
+      [
+        "TILE_Win",
+        "Level abgeschlossen"
+      ],
+      [
+        "TILE_Lose",
+        "Du hast verloren"
+      ],
+      [
+        "TILE_FullCombo",
+        "Vollständige Kombination!"
+      ],
+      [
+        "TileMatch_Booster_Shuffle",
+        "Mischen"
+      ],
+      [
+        "TileMatch_Booster_Hint",
+        "Hinweis"
+      ],
+      [
+        "TileMatch_Booster_Undo",
+        "Rückgängig"
+      ],
+      [
+        "TileMatch_Guide_Skip",
+        "Überspringen"
+      ],
+      [
+        "TileMatch_Revive_Title",
+        "Keine weiteren Übereinstimmungen"
+      ],
+      [
+        "TileMatch_Revive_Details",
+        "Ups, du hast keine Matches mehr! Starte neu oder nutze Mischen, um es erneut zu versuchen!"
+      ],
+      [
+        "TileMatch_Revive_Button_Yes",
+        "Mischen"
+      ],
+      [
+        "TileMatch_Revive_Button_No",
+        "Neustart"
+      ],
+      [
+        "TileMatch_Surpass",
+        "Du hast {0} der Spieler übertroffen!"
+      ],
+      [
+        "TileMatch_Undo_Details",
+        "Derzeit nicht verfügbar. Es gibt keine rückgängig zu machenden Züge"
+      ],
+      [
+        "TileMatch_Button_NewGame",
+        "Neues Spiel"
+      ],
+      [
+        "TileMatch_DifficultyIncrease",
+        "Schwierigkeit Steigt!"
+      ],
+      [
+        "TileMatch_Guide_1_New",
+        "Entferne alle Kacheln links, rechts und oben, um weiter abzugleichen!"
+      ],
+      [
+        "TileMatch_Guide_New",
+        "Entferne Zuerst die Figuren auf Allen Vier Seiten"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_1_1",
+        "Aufschlussreich"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_1_2",
+        "Unglaublich"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_2_1",
+        "Brillant"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_2_2",
+        "Perfekt"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_3_1",
+        "Einfallsreich"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_3_2",
+        "Gut Gemacht"
+      ],
+      [
+        "MahjongTiles_GameEnd_Score",
+        "Punktzahl"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_1_1",
+        "Du warst perfekt!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_1_2",
+        "Deine Fähigkeiten sind makellos!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_1_3",
+        "Der rechtmäßige Kachel-Champion!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_2_1",
+        "Du bist außergewöhnlich!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_2_2",
+        "Unvergleichliche Fähigkeit!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_2_3",
+        "Was für eine brillante Leistung!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_3_1",
+        "Du glänzt unter Druck!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_3_2",
+        "Unaufhaltsam und unvergesslich!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_3_3",
+        "Du bist unaufhaltsam!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Level",
+        "Level {0}"
+      ],
+      [
+        "MahjongTiles_Revive_Title_1",
+        "Keine Kombinationen"
+      ],
+      [
+        "MahjongTiles_Revive_Prop_1",
+        "Benutze Mischen, um es erneut zu versuchen!"
+      ],
+      [
+        "MahjongTiles_Revive_Option_1",
+        "Mischen"
+      ],
+      [
+        "MahjongTiles_Revive_Option_2",
+        "Neustart"
+      ],
+      [
+        "MahjongTiles_Revive_Option_3",
+        "Mischen -1"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Title_1",
+        "Kostenloses Mischen"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Title_2",
+        "Kostenloser Hinweis"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Purchase_1",
+        "Sieh dir eine Werbung an,\num ein Mischen zu erhalten"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Purchase_2",
+        "Sieh dir eine Werbung an,\num einen Hinweis zu erhalten"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Get_1",
+        "Bekommen"
+      ],
+      [
+        "MahjongTiles_Settings_Title",
+        "Einstellungen"
+      ],
+      [
+        "MahjongTiles_Settings_Voice",
+        "Ton"
+      ],
+      [
+        "MahjongTiles_Settings_Music",
+        "Musik"
+      ],
+      [
+        "MahjongTiles_Settings_Vibration",
+        "Vibration"
+      ],
+      [
+        "MahjongTiles_Settings_Highlight",
+        "Verfügbare Kacheln Hervorheben"
+      ],
+      [
+        "MahjongTiles_Settings_Restart",
+        "Neustart"
+      ],
+      [
+        "MahjongTiles_Settins_Home",
+        "Startseite"
+      ],
+      [
+        "MahjongTiles_Settings_On",
+        "ON"
+      ],
+      [
+        "MahjongTiles_Settings_Off",
+        "OFF"
+      ],
+      [
+        "MahjongTiles_MainPage_Level",
+        "Level {0}"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Title_1",
+        "Fehlgeschlagen"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Word_Disable",
+        "Anzeigen Sind Derzeit Nicht\nVerfügbar. Bitte Versuchen \nSie Es Erneut."
+      ],
+      [
+        "MahjongTiles_AdsLoading_Button_NoWifi",
+        "Kein Internet"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Button_Cancel",
+        "Abbrechen"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Button_Retry",
+        "Erneut versuchen"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Button_Loading",
+        "Laden..."
+      ],
+      [
+        "Common_Settings_Title",
+        "Einstellungen"
+      ],
+      [
+        "Common_Settings_Language",
+        "Sprache"
+      ],
+      [
+        "Common_Settings_Language_Title",
+        "Sprache"
+      ],
+      [
+        "Common_Settings_SoundEffects",
+        "Soundeffekte"
+      ],
+      [
+        "Common_Settings_Music",
+        "Musik"
+      ],
+      [
+        "Common_Settings_DarkMode",
+        "Dunkelmodus"
+      ],
+      [
+        "Common_Settings_Vibration",
+        "Vibration"
+      ],
+      [
+        "Common_Settings_Ads",
+        "Gezielte Werbung"
+      ],
+      [
+        "Common_Settings_Quit",
+        "Spiel beenden"
+      ],
+      [
+        "Common_Settings_Ours",
+        "{0} und {1}"
+      ],
+      [
+        "Common_Settings_Terms",
+        "Bedingungen"
+      ],
+      [
+        "Common_Settings_PrivacyPolicy",
+        "Datenschutzrichtlinie"
+      ],
+      [
+        "Common_Settings_PrivacyPolicy_s",
+        "Datenschutz"
+      ],
+      [
+        "Common_Settings_Language_Default",
+        "Standardmäßig"
+      ],
+      [
+        "Common_Settings_Language_EN_US",
+        "Englisch"
+      ],
+      [
+        "Common_Settings_Language_FR",
+        "Französisch"
+      ],
+      [
+        "Common_Settings_Language_DE",
+        "Deutsch"
+      ],
+      [
+        "Common_Settings_Language_PT",
+        "Portugiesisch"
+      ],
+      [
+        "Common_Settings_Language_ES",
+        "Spanisch"
+      ],
+      [
+        "Common_Settings_Language_JA",
+        "Japanisch"
+      ],
+      [
+        "Common_Settings_Language_KO",
+        "Koreanisch"
+      ],
+      [
+        "Common_Settings_Language_RU",
+        "Russisch"
+      ],
+      [
+        "Common_Settings_Language_ZH_CN",
+        "Vereinfacht Chinesisch"
+      ],
+      [
+        "Common_Settings_Language_ZH_HKTW",
+        "Traditionelles Chinesisch"
+      ],
+      [
+        "Common_Reward_Title",
+        "Preise Einfordern"
+      ],
+      [
+        "Common_Reward_Claim_Ads",
+        "Okay x{0}"
+      ],
+      [
+        "Journey_Tips_1",
+        "Schlage das Level!"
+      ],
+      [
+        "Journey_Tips_2",
+        "Zerschlage Mehr!"
+      ],
+      [
+        "Journey_Tips_3",
+        "Fordere Belohnungen An!"
+      ],
+      [
+        "Common_Tap_To_Continue",
+        "Tippen, um fortzufahren"
+      ],
+      [
+        "Level_Chest_Des",
+        "Level {0}"
+      ],
+      [
+        "Common_Btn_Confirm",
+        "Los Geht's"
+      ],
+      [
+        "Common_CountDown_Hour",
+        "{0}T {1}S"
+      ],
+      [
+        "Common_CountDown_Second",
+        "{0}H {1}M"
+      ],
+      [
+        "Journey_Map_HardLevel",
+        "Schwierig Niveau"
+      ],
+      [
+        "Common_Btn_Next",
+        "Weiter"
+      ],
+      [
+        "Common_Btn_Back",
+        "Startseite"
+      ],
+      [
+        "Badges_DailyChallenge_Nothing",
+        "Kommt Bald..."
+      ],
+      [
+        "DailyQuest_Des_100_2",
+        "Verwende {0} Booster"
+      ],
+      [
+        "DailyQuest_Des_200_2",
+        "Schließe {0} Übereinstimmung Ab"
+      ],
+      [
+        "DailyQuest_Des_310_2",
+        "Besiege {0} Reguläres Level"
+      ],
+      [
+        "Hint_Already",
+        "Kacheln, die du kombinieren kannst, leuchten"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_4",
+        "Brillant"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_5",
+        "Furchtlos"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_6",
+        "Intelligent"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_4",
+        "Du hast {0} der Spieler besiegt! Eine Verbesserung von {1} im Vergleich zu deinem letzten Spiel!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_5",
+        "Du hast {0} der Spieler besiegt! Exzellenz in ihrer besten Form!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_6",
+        "Selbst die schweren Levels fürchten deine Fähigkeiten!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_7",
+        "Unglaubliche Geschwindigkeit! {0} Kombinationen alle 3 Sekunden!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_8",
+        "Das war nicht einfach, aber du hast es wie ein Profi gemeistert!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_9",
+        "Was für ein Fokus! Behalte diese stabile Denkweise bei!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_10",
+        "Ein glänzender Triumph! Niemand strahlt heller als du!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_11",
+        "Vollständige Kombo! Hast du überhaupt geschwitzt?"
+      ],
+      [
+        "DailyQuest_Des_400",
+        "Bezwinge Normales Level {0}"
+      ],
+      [
+        "MahjongTiles_EpicPlay",
+        "Spielveränderer!"
+      ],
+      [
+        "MahjongTiles_EpicPlay_Reward",
+        "Spielveränderer Preis!"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_2",
+        "Entferne Kacheln darüber"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_4",
+        "Kacheln durch Tippen verbinden"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_5",
+        "Ziehe die Kacheln oben, um sie zu entfernen und die Kacheln unten freizuschalten"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_8",
+        "Tippen Sie auf zwei <color=#FFBC46>identische</color> Kacheln,\num sie zuzuordnen und zu entfernen"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_6",
+        "Verbinde die Kacheln <color=#FFBC46>oben</color>,\num die Kacheln <color=#FFBC46>darunter</color> freizuschalten"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_7",
+        "Ordne die <color=#FFBC46>äußeren</color> Kacheln zu,\num die <color=#FFBC46>inneren</color> zu entsperren"
+      ],
+      [
+        "MahjongTiles_Reach",
+        "Nur die besten {0}% erreichen"
+      ],
+      [
+        "MahjongTiles_Hard",
+        "Schwer"
+      ],
+      [
+        "MahjongTiles_VeryHard",
+        "Sehr Schwer"
+      ],
+      [
+        "Journey_Map_VeryHardLevel",
+        "Sehr Schweres Niveau"
+      ],
+      [
+        "Common_Chest_Level",
+        "Level {0}/{1}"
+      ],
+      [
+        "Common_Settings_ContactUs",
+        "Kontakt"
+      ],
+      [
+        "Common_Evaluate_Title",
+        "Bewerten Sie uns"
+      ],
+      [
+        "Common_Evaluate_Des",
+        "Wenn dir unsere App gefällt,\nbewerten Sie uns bitte mit \n5 Sternen!"
+      ],
+      [
+        "Common_Evaluate_Button_Send",
+        "Absenden"
+      ],
+      [
+        "Common_Evaluate_Button_ToTease",
+        "Mehr Kommentare"
+      ],
+      [
+        "Common_Evaluate_Feedback",
+        "Bitte hinterlassen Sie Ihr \nFeedback, es bedeutet uns\nviel"
+      ],
+      [
+        "MahjongTiles_MainPage_TargetLevel",
+        "Level {0}"
+      ],
+      [
+        "Common_Reward_Claim",
+        "Einfordern"
+      ],
+      [
+        "LeaderBoard_reward_1",
+        "Okay x2"
+      ],
+      [
+        "MahjongTiles_ProHint_1",
+        "Freischalten bei Level {0}"
+      ],
+      [
+        "Common_Reward_target_1",
+        "Abschluss von Level {0}"
+      ],
+      [
+        "Common_Reward_target_2",
+        "Maximale Kombo > {0}\n{1} / {2}"
+      ],
+      [
+        "MahjongBlast_GameEnd_Word_1",
+        "Du hast {0} der Spieler besiegt!"
+      ],
+      [
+        "LeaderBoard_Name_6",
+        "Party-Zeit"
+      ],
+      [
+        "LeaderBoard_Name_7",
+        "Sonderzustellung der Geschenke"
+      ],
+      [
+        "LeaderBoard_Name_8",
+        "Sternen-Expedition"
+      ],
+      [
+        "LeaderBoard_Name_9",
+        "Astronomische Beobachtung"
+      ],
+      [
+        "LeaderBoard_Name_10",
+        "Hüter der Unschuld"
+      ],
+      [
+        "LeaderBoard_Name_Xmas25",
+        "Frohe Weihnachten!"
+      ],
+      [
+        "Journey_Name_Xmas25",
+        "Weihnachten"
+      ],
+      [
+        "Journey_Des_Xmas25",
+        "🎄Genießen Sie die Festtagszeit!🎁"
+      ],
+      [
+        "Badges_Journey_Prize_Xmas2501",
+        "Gewöhnlich"
+      ],
+      [
+        "Badges_Journey_Prize_Xmas2502",
+        "Selten"
+      ],
+      [
+        "Badges_Journey_Prize_Xmas2503",
+        "Sammleredition"
+      ],
+      [
+        "Collection_DailyChallenge_202601",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202602",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202603",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202604",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202605",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202606",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202607",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202608",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202609",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202610",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202611",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202612",
+        "🎊"
+      ],
+      [
+        "MahjongTiles_ProHint_2",
+        "Freischalten bei Level {0}"
+      ],
+      [
+        "LeaderBoard_Start_DesXmas25",
+        "Sammle goldene Kacheln, steige in der Rangliste auf und gewinne tolle Belohnungen!"
+      ],
+      [
+        "Date_DailyChallenge_Common",
+        "Datum"
+      ],
+      [
+        "Journey_Name_3",
+        "Roadtrip"
+      ],
+      [
+        "Journey_Des_3",
+        "Ich kam, ich sah, ich siegte."
+      ],
+      [
+        "Badges_Journey_Prize_301",
+        "Gewöhnlich"
+      ],
+      [
+        "Badges_Journey_Prize_302",
+        "Selten"
+      ],
+      [
+        "Badges_Journey_Prize_303",
+        "Sammleredition"
+      ],
+      [
+        "Journey_Name_4",
+        "Der Frühling Kommt"
+      ],
+      [
+        "Journey_Des_4",
+        "Der frühe Panda bekommt Kung Fu."
+      ],
+      [
+        "Badges_Journey_Prize_401",
+        "Gewöhnlich"
+      ],
+      [
+        "Badges_Journey_Prize_402",
+        "Selten"
+      ],
+      [
+        "Badges_Journey_Prize_403",
+        "Sammleredition"
+      ],
+      [
+        "Opening_Age_Title",
+        "Willkommen"
+      ],
+      [
+        "Opening_Age_Des",
+        "Um dir ein besseres Spielerlebnis zu bieten \nbitte wähle die passende Altersgruppe aus."
+      ],
+      [
+        "Common_Settings_AutoCombo",
+        "Auto-Combo"
+      ],
+      [
+        "TileMatch_Revive_Details_2",
+        "Mischen, um weiterzumachen"
+      ],
+      [
+        "TileMatch_Revive_Button_Yes_2",
+        "Wiederbeleben"
+      ],
+      [
+        "Common_Settings_DefaultSkin",
+        "Standard-Skin"
+      ],
+      [
+        "keyXiPai_Tips_01",
+        "{0}% der Spieler haben Mischen genutzt, um dieses Level zu schaffen."
+      ],
+      [
+        "Set_Autoshuffle",
+        "Auto-Mischen"
+      ],
+      [
+        "AutoShuffleTips_01",
+        "Automatische Nutzung des Items \"Mischen\" aktivieren?"
+      ],
+      [
+        "AutoShuffleTips_02",
+        "Ja"
+      ],
+      [
+        "AutoShuffleTips_03",
+        "Nein"
+      ],
+      [
+        "AutoShuffleTips_04",
+        "{0}% der Spieler haben Mischen genutzt, um dieses Level zu schaffen."
+      ],
+      [
+        "MahjongTiles_Free",
+        "Kostenloses Mischen"
+      ],
+      [
+        "Opening_Age_Des1",
+        "Dies hat keinen Einfluss auf den Schwierigkeitsgrad des Spiels"
+      ],
+      [
+        "Opening_Age_Des2",
+        "Bist du 18+? Bitte wähle deine Altersgruppe."
+      ],
+      [
+        "Opening_Age_Des3",
+        "Bestätige, um fortzufahren und ein Gratisgeschenk zu erhalten. \nBitte wähle deine Altersgruppe"
+      ],
+      [
+        "FES26_love_stage1_title",
+        "Liebesprobe"
+      ],
+      [
+        "FES26_love_stage1_text",
+        "Gewinne 10 Level,\num das Spiel rosa zu färben！"
+      ],
+      [
+        "FES26_love_stage1_bottom",
+        "Los geht's"
+      ],
+      [
+        "FES26_love_stage2_title",
+        "In Rosa"
+      ],
+      [
+        "FES26_love_stage2_text",
+        "Glückwunsch!\nViel Spaß auf der rosafarbenen Reise!"
+      ],
+      [
+        "FES26_love_stage2_bottom",
+        "Hurra!"
+      ],
+      [
+        "FES26_love_stage3_title",
+        "Danke"
+      ],
+      [
+        "FES26_love_stage3_text",
+        "\"In Rosa\" ist vorbei.\nDanke für die schönen Erinnerungen.\nWeitere Events folgen bald!"
+      ],
+      [
+        "FES26_love_stage3_bottom",
+        "Ciao"
+      ],
+      [
+        "TileMatch_Revive_Details_3",
+        "Mischen & Wiederbeleben"
+      ],
+      [
+        "Beat_Des_1",
+        "Schlage {0} der Spieler, indem du dieses Level meisterst!"
+      ],
+      [
+        "Beat_Des_2",
+        "{0} der Spieler sind in diesem Level gescheitert."
+      ],
+      [
+        "Beat_Des_3",
+        "{0} der Spieler empfindet dieses Level als schwierig."
+      ],
+      [
+        "Beat_Des_4",
+        "Nur {0} der Spieler schaffen es, dieses Level zu passieren."
+      ],
+      [
+        "Winning_streak_Title",
+        "Siegesserie"
+      ],
+      [
+        "Dailylog_title1",
+        "Täglicher Bonus"
+      ],
+      [
+        "Dailylog_title2",
+        "Tagesaufgabe"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_01",
+        "Dieses Level war schwer, aber du hast es trotzdem mühelos geschafft!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_02",
+        "Du bist unglaublich!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_03",
+        "Dieses Level wollte dich stressen – du hast daraus pure Entspannung gemacht.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_04",
+        "Deine Leistung in dieser Runde war absolut Profi-Niveau."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_05",
+        "Die Steine wollten sich verstecken – aber dein Können hat höflich abgelehnt."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_06",
+        "Der Stratege in dir ist heute in Bestform."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_07",
+        "Ganz entspannt – und trotzdem auf maximalem Level."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_08",
+        "Dein Fokus heute könnte eine ganze Kleinstadt erleuchten."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_09",
+        "Noch eine knifflige Runde – und du hast sie souverän gelöst."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_10",
+        "Du hast dieses Chaos entwirrt und in ein perfektes Finale verwandelt."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_11",
+        "Selbst die härtesten Schichten konnten dich nicht aufhalten."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_01",
+        "{0} Matches alle 3 Sekunden – blitzschnell!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_02",
+        "Dein Tempo ist wie eine Mikrowelle – zack, fertig!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_03",
+        "{0} Gruppen alle 3 Sekunden – selbst die Steine kommen nicht hinterher."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_04",
+        "Vor deinen Augen kann sich kein Stein lange verstecken."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_05",
+        "{0} Gruppen alle 3 Sekunden – bei dem Tempo werden die Steine nervös.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_06",
+        "{0} Matches alle 3 Sekunden – einmal blinzeln und das Board ist leer."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_07",
+        "{0} Matches alle 3 Sekunden – Tempo und Überblick, perfekt kombiniert."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_08",
+        "{0} Matches alle 3 Sekunden – dein Stil ist unverwechselbar."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_09",
+        "So ein Durchlauf macht richtig Lust auf die nächste Runde."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_10",
+        "Dein Blick für Muster ist wirklich beeindruckend."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_11",
+        "{0} Matches alle 3 Sekunden – ruhig geblieben, wunderschönes Ergebnis."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_01",
+        "Dein Spiel ist einfach grandios!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_02",
+        "Dein Spiel ist unfassbar gut!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_03",
+        "Deine Gelassenheit ist das Schönste an diesem Spiel."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_04",
+        "Du hast eine nervige Runde in ein Highlight verwandelt."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_05",
+        "Dieses Brett hat eindeutig nicht damit gerechnet, dir zu begegnen."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_06",
+        "Dein Ruhemodus ist der versteckte Cheat-Code dieses Spiels."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_07",
+        "Richtig sauber gespielt – man sieht deinen Fokus."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_08",
+        "Das ist absolute Spitzenklasse – wirklich großartig!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_09",
+        "Es sah unklar aus, aber deine Entscheidungen haben das Ergebnis bestimmt."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_10",
+        "Sobald die Steine lagen, wusstest du genau, was als Nächstes kommt."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_11",
+        "Dieser riesige Haufen Steine? Jetzt ist er Geschichte."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_01",
+        "Du bist der echte Star!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_02",
+        "Nichts entgeht deinen Augen!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_03",
+        "Du hast {0} der Spieler übertroffen und dich um {1} verbessert – richtig stark!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_04",
+        "Du hast {0} der Spieler besiegt und dich um {1}% verbessert – sogar die Steine respektieren dich."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_05",
+        "Du hast {0} der Spieler besiegt und dich um {1} verbessert – heute bist du on fire!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_06",
+        "Du hast {0} der Spieler besiegt – Schritt für Schritt sicher, und mit schönem Finish."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_07",
+        "Steine in Reih und Glied, Sieg pünktlich – richtig angenehm."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_08",
+        "Aus einem vollen Bildschirm hast du dir den Sieg Schritt für Schritt „sortiert“."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_09",
+        "Du hast {0} der Spieler besiegt – ruhig gespielt, tolles Ergebnis. Gut gemacht!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_10",
+        "Glückwunsch! Du hast {0} der Spieler besiegt – noch ein Level sicher eingesackt."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_11",
+        "Richtig sauber gespielt – man sieht deinen Fokus."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_01",
+        "Glückwunsch! Du hast {0} der Spieler besiegt – Champagner auf!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_02",
+        "Glückwunsch! Du hast {0} der Spieler besiegt – Zeit zum Feiern!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_03",
+        "Glückwunsch! Du hast {0} der Spieler besiegt – das ist echtes Können!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_04",
+        "Du hast {0} der Spieler besiegt – selbst die Steine wollen klatschen.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_05",
+        "Was für eine Runde – Lust auf noch eine?"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_06",
+        "Dein Verstand und dieses Rätsel passen einfach zusammen."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_07",
+        "Board leer – fühlt sich direkt besser an, oder?"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_08",
+        "Du hast {0} der Spieler besiegt! Du bist dem Brett immer einen Schritt voraus."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_09",
+        "Du hast {0} der Spieler besiegt! Deine Match-Skills sind richtig stabil."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_10",
+        "Du hast mit Können gewonnen – nicht mit Glück."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_11",
+        "Du hast {0} der Spieler besiegt! Mühelos gewonnen – dank deines Köpfchens!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_01",
+        "Die Kombokette war so smooth, dass die Steine nicht mal Zeit zum Meckern hatten.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_02",
+        "Die Kombokette war so smooth, dass die Steine nicht mal Zeit zum Meckern hatten.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_03",
+        "Du gibst volle Power!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_04",
+        "Die Kombos kamen am Stück – als hätten sich die Steine in eine Schlange gestellt.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_05",
+        "Du bist der echte Star!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_06",
+        "Nach der Kombokette wirkte es, als hättest du alles ganz nebenbei weggeräumt.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_07",
+        "Diese Kombokette war so natürlich und flüssig – richtig angenehm anzusehen.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_08",
+        "Du hattest dieses Brett glasklar vor Augen."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_09",
+        "Dieser Kombo-Lauf war wie aus einem Guss – man sieht dein Selbstvertrauen.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_10",
+        "Vom ersten bis zum letzten Zug – diese Kombokette war elegant.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_11",
+        "Schneller Kopf, souverän zum Sieg."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_01",
+        "Dein Fokus ist bewundernswert – weiter so!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_02",
+        "Das ist großartig!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_03",
+        "Das ist wirklich beeindruckend!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_04",
+        "Du hast diese Runde wie bei einem Spaziergang weggeräumt.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_05",
+        "Dein Gehirn hat gerade einen kleinen Siegestanz hingelegt."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_06",
+        "Sogar die Steine loben heimlich deine Technik."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_07",
+        "Sicher gewonnen – und ein besonders schönes Finale."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_08",
+        "Scharfer Kopf – der Sieg war die logische Folge."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_09",
+        "Dein Fokus hat ein schweres Problem in einen klaren, souveränen Sieg verwandelt."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_10",
+        "Deine Geduld hat sich in dieser Runde richtig ausgezahlt."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_11",
+        "Du hast diese Runde so selbstverständlich erledigt wie eine tägliche Routine."
+      ],
+      [
+        "Ranking_Avatar_Button_get",
+        "Jetzt Holen"
+      ],
+      [
+        "Ranking_Avatar_Button_cantget",
+        "Kommt bald"
+      ],
+      [
+        "Loading_Tarot_01",
+        "Folge dem Vertrauenssprung des Narren.\nEin neues Glücksabenteuer wartet auf dich!"
+      ],
+      [
+        "Loading_Tarot_02",
+        "Die Kraft des Magiers liegt in deinen Händen.\nHeute hast du Glück, Ideen wahr werden zu lassen."
+      ],
+      [
+        "Loading_Tarot_03",
+        "Die tiefe Intuition der Hohepriesterin führt dich.\nHör still auf deine innere Stimme."
+      ],
+      [
+        "Loading_Tarot_04",
+        "Der Überfluss der Herrscherin nährt dich.\nWas du mit Fokus pflegst, wird gedeihen."
+      ],
+      [
+        "Loading_Tarot_05",
+        "Die Entschlossenheit des Herrschers liegt in deinen Händen.\nBehalte die Kontrolle mit klaren Plänen und Disziplin."
+      ],
+      [
+        "Loading_Tarot_06",
+        "Die Weisheit des Hohepriesters steckt in dir.\nEin innerer Glaube oder Grundsatz wird deine Zweifel klären."
+      ],
+      [
+        "Loading_Tarot_07",
+        "Die Liebenden segnen dich mit Ganzheit.\nDeine Wahrheit führt dich zur Harmonie."
+      ],
+      [
+        "Loading_Tarot_08",
+        "Der Vorwärtsdrang des Wagens.\nHat dir heute den Weg zum Sieg geebnet."
+      ],
+      [
+        "Loading_Tarot_09",
+        "Die Ruhe der Kraft kommt von innen.\nSanfte Entschlossenheit meistert jede Herausforderung."
+      ],
+      [
+        "Loading_Tarot_10",
+        "Die Laterne des Eremiten leuchtet dir den Weg.\nStille Gedanken allein bringen wertvolle Antworten."
+      ],
+      [
+        "Loading_Tarot_11",
+        "Das Rad des Schicksals dreht sich zu dir.\nNimm Veränderungen an und du startest in eine Aufwärtsphase."
+      ],
+      [
+        "Loading_Tarot_12",
+        "Die Waage der Gerechtigkeit findet heute dein Gleichgewicht.\nDeine früheren Mühen und Entscheidungen werden fair beantwortet."
+      ],
+      [
+        "Loading_Tarot_13",
+        "Das Warten des Gehängten hat seinen Sinn.\nEin Perspektivwechsel zeigt neue Chancen."
+      ],
+      [
+        "Loading_Tarot_14",
+        "Die Wandlungskraft des Todes ist aktiv.\nDeine bewusste Veränderung bringt einen energiegeladenen Neuanfang."
+      ],
+      [
+        "Loading_Tarot_15",
+        "Die Mäßigkeit bringt alles in Einklang.\nDeine Ruhe und Geduld schaffen heute perfekte Balance."
+      ],
+      [
+        "Loading_Tarot_16",
+        "Die Illusion des Teufels verblasst.\nDein freier Wille kann jede Fessel lösen."
+      ],
+      [
+        "Loading_Tarot_17",
+        "Der Umbruch des Turms sprengt den Stillstand.\nDu kannst ein festeres Fundament bauen."
+      ],
+      [
+        "Loading_Tarot_18",
+        "Der Stern leuchtet voller Hoffnung.\nGlaub daran – deine Zukunft nimmt Gestalt an."
+      ],
+      [
+        "Loading_Tarot_19",
+        "Geh durch den Nebel des Mondes.\nDein Mut verwandelt Sorgen in klare Chancen."
+      ],
+      [
+        "Loading_Tarot_20",
+        "Die Sonne strahlt hell.\nHeute steckt voller Energie, Erfolg und unbeschwerter Freude."
+      ],
+      [
+        "Loading_Tarot_21",
+        "Das Gericht ist ein klarer Ruf.\nEs weckt neue Stärke in dir."
+      ],
+      [
+        "Loading_Tarot_22",
+        "Die Welt krönt dich.\nEin Zyklus endet – voller Erfolg und Grund zum Feiern."
+      ],
+      [
+        "Loading_Tarot_23",
+        "Bleib offen – das Unbekannte bringt Geschenke.\n   — Der Narr"
+      ],
+      [
+        "Loading_Tarot_24",
+        "Nutze alles, was du beherrschst, und erschaffe Wunder.\n   — Der Magier"
+      ],
+      [
+        "Loading_Tarot_25",
+        "Vertrau der ersten Stimme deiner Intuition.\n   — Die Hohepriesterin"
+      ],
+      [
+        "Loading_Tarot_26",
+        "Großzügigkeit und Fürsorge bringen heute Fülle.\n   — Die Herrscherin"
+      ],
+      [
+        "Loading_Tarot_27",
+        "Ein klarer Plan bringt stabile Kontrolle.\n   — Der Kaiser"
+      ],
+      [
+        "Loading_Tarot_28",
+        "Traditionelle Wege oder ein guter Mentor geben dir verlässliche Führung.\n   — Der Hohepriester"
+      ],
+      [
+        "Loading_Tarot_29",
+        "Wenn du wählen musst, hör auf dein Herz.\n   — Die Liebenden"
+      ],
+      [
+        "Loading_Tarot_30",
+        "Lenke deinen Kurs mit Willenskraft und geh voran.\n   — Der Wagen"
+      ],
+      [
+        "Loading_Tarot_31",
+        "Wahre Stärke entsteht aus sanfter Zuversicht.\n   — Die Kraft"
+      ],
+      [
+        "Loading_Tarot_32",
+        "In stiller Selbsterforschung findest du klare Führung.\n   — Der Eremit"
+      ],
+      [
+        "Loading_Tarot_33",
+        "Ein glücklicher Wandel geschieht – sei bereit für Chancen.\n   — Rad des Schicksals"
+      ],
+      [
+        "Loading_Tarot_34",
+        "Deine Mühen werden gerecht belohnt. — Die Gerechtigkeit"
+      ],
+      [
+        "Loading_Tarot_35",
+        "Mach kurz Pause – du gewinnst eine neue Perspektive.\n   — Der Gehängte"
+      ],
+      [
+        "Loading_Tarot_36",
+        "Ein Ende bedeutet einen Neuanfang.\n   — Der Tod"
+      ],
+      [
+        "Loading_Tarot_37",
+        "Finde den perfekten Rhythmus im Mischen und Ausgleichen.\n   — Die Mäßigkeit"
+      ],
+      [
+        "Loading_Tarot_38",
+        "Erkenne die Versuchung – und du holst dir deine Kraft zurück.\n   — Der Teufel"
+      ],
+      [
+        "Loading_Tarot_39",
+        "Durchbrich alte Muster und du baust ein festeres Fundament.\n   — Der Turm"
+      ],
+      [
+        "Loading_Tarot_40",
+        "Bewahre Hoffnung – Inspiration und Heilung sind bei dir.\n   — Der Stern"
+      ],
+      [
+        "Loading_Tarot_41",
+        "Vertrau dem Flüstern deiner Intuition – es führt dich sicher.\n   — Der Mond"
+      ],
+      [
+        "Loading_Tarot_42",
+        "Handle positiv – du erntest Freude und Anerkennung.\n   — Die Sonne"
+      ],
+      [
+        "Loading_Tarot_43",
+        "Triff ein weises Urteil – und ein Neubeginn kommt.\n   — Das Gericht"
+      ],
+      [
+        "Loading_Tarot_44",
+        "Du bist dabei, eine wichtige Phase rund abzuschließen.\n   — Die Welt"
+      ],
+      [
+        "Loading_Tarot_45",
+        "Kraft des Tages — Die Sonne: Deine Vitalität kann alles erhellen."
+      ],
+      [
+        "Loading_Tarot_46",
+        "Impuls des Tages — Rad des Schicksals: Geh mit dem Fluss; Gutes wird geschehen."
+      ],
+      [
+        "Loading_Tarot_47",
+        "Impuls des Tages — Neun der Kelche: Dein Wunsch geht in Erfüllung."
+      ],
+      [
+        "Loading_Tarot_48",
+        "Impuls des Tages — Zehn der Kelche: Harmonie und Erfüllung werden dein Leben füllen."
+      ],
+      [
+        "Loading_Tarot_49",
+        "Kraft des Tages — Sechs der Stäbe: Geh selbstbewusst voran; Ruhm folgt dir."
+      ],
+      [
+        "Loading_Tarot_50",
+        "Kraft des Tages — Der Stern: Das Universum unterstützt dich sanft."
+      ],
+      [
+        "Loading_Tarot_51",
+        "Kraft des Tages — Zehn der Münzen: Genieße Wohlstand und teile die Früchte."
+      ],
+      [
+        "Loading_Tarot_52",
+        "Impuls des Tages — Die Welt: Erfolg und Leistung liegen bereits in deinen Händen."
+      ],
+      [
+        "Loading_Motto_1",
+        "Jeder Tag ist eine neue Chance.\n—— George Herbert"
+      ],
+      [
+        "Loading_Motto_2",
+        "Sieh immer die sonnige Seite des Lebens.\n—— Richard Branson"
+      ],
+      [
+        "Loading_Motto_3",
+        "Das Glück deines Lebens hängt von der Qualität deiner Gedanken ab.\n—— Mark Aurel"
+      ],
+      [
+        "Loading_Motto_4",
+        "Eine Reise von tausend Meilen beginnt mit einem einzigen Schritt.\n—— Laotse"
+      ],
+      [
+        "Loading_Motto_5",
+        "Die Zukunft gehört denen, die an die Schönheit ihrer Träume glauben.\n—— Eleanor Roosevelt"
+      ],
+      [
+        "Loading_Motto_6",
+        "Leben heißt sich verändern; vollkommen sein heißt, sich oft verändert zu haben.\n—— John Henry Newman"
+      ],
+      [
+        "Loading_Motto_7",
+        "Hauptsache ist, bewegt zu sein, zu lieben, zu hoffen, zu zittern, zu leben.\n—— Auguste Rodin"
+      ],
+      [
+        "Loading_Motto_8",
+        "Du musst das tun, wovon du glaubst, dass du es nicht kannst.\n—— Eleanor Roosevelt"
+      ],
+      [
+        "Loading_Motto_9",
+        "Wenn du Hoffnung wählst, ist alles möglich.\n—— Christopher Reeve"
+      ],
+      [
+        "Loading_Motto_10",
+        "Schwere Zeiten gehen vorbei, starke Menschen bleiben.\n—— Robert H. Schuller"
+      ],
+      [
+        "Loading_Motto_11",
+        "Wenn du aufhörst zu kämpfen, hörst du auf zu leben.\n—— Thomas Carlyle"
+      ],
+      [
+        "Loading_Motto_12",
+        "Ohne Ziel zu leben ist wie Segeln ohne Kompass.\n—— Alexandre Dumas"
+      ],
+      [
+        "Loading_Motto_13",
+        "Wir gewinnen die Stärke dessen, was wir überwunden haben.\n—— Ralph Waldo Emerson"
+      ],
+      [
+        "Loading_Motto_14",
+        "Warum leuchten die Sterne? Vielleicht, damit jeder eines Tages seinen eigenen findet.\n—— Antoine de Saint-Exupéry"
+      ],
+      [
+        "Loading_Motto_15",
+        "Hoffnung ist das gefiederte Ding, das in der Seele sitzt.\n—— Emily Dickinson"
+      ],
+      [
+        "Loading_Motto_16",
+        "Wenn du dir selbst ein Licht bist, erhellst du die Welt.\n—— Mutter Teresa"
+      ],
+      [
+        "Loading_Motto_17",
+        "Ändere deine Gedanken, und du änderst deine Welt.\n—— Norman Vincent Peale"
+      ],
+      [
+        "Loading_Motto_18",
+        "Die beste Art, die Zukunft vorherzusagen, ist, sie zu erfinden.\n—— Alan Kay"
+      ],
+      [
+        "Loading_Motto_19",
+        "Steh auf, werde erleuchtet und geh weiter. \n—— Äsops Fabeln"
+      ],
+      [
+        "Loading_Motto_20",
+        "Die Freude liegt in der Reise, nicht im Ziel.\n—— Carl Lewis"
+      ],
+      [
+        "Loading_Motto_21",
+        "Setz dir niemals Grenzen."
+      ],
+      [
+        "Loading_Motto_22",
+        "Freude liegt nicht in den Dingen, sondern in uns.\n—— Richard Wagner"
+      ],
+      [
+        "Loading_Motto_23",
+        "Der Spaß steckt im Prozess des Suchens.\n—— Chinesisches Sprichwort"
+      ],
+      [
+        "Loading_Motto_24",
+        "Glück hängt von uns selbst ab.\n—— Aristoteles"
+      ],
+      [
+        "Loading_Motto_25",
+        "Alles, was du brauchst, sind Glaube, Vertrauen und ein bisschen Feenstaub.\n—— Peter Pan"
+      ],
+      [
+        "Loading_Motto_26",
+        "Stürme lassen Bäume tiefere Wurzeln schlagen.\n—— Darlo Jandron"
+      ],
+      [
+        "Loading_Motto_27",
+        "Sei du selbst; alle anderen gibt es schon.\n—— Oscar Wilde"
+      ],
+      [
+        "Loading_Motto_28",
+        "Logik bringt dich von A nach B. Fantasie bringt dich überallhin.\n—— Albert Einstein"
+      ],
+      [
+        "Loading_Motto_29",
+        "Nutze den Tag.\n—— Horaz"
+      ],
+      [
+        "Loading_Motto_30",
+        "Erkenne dich selbst.\n—— Sokrates"
+      ],
+      [
+        "Loading_Motto_31",
+        "Ein Ding von Schönheit ist eine Freude für immer.\n—— John Keats"
+      ],
+      [
+        "Loading_Motto_32",
+        "Der beste Ausweg führt immer hindurch.\n—— Robert Frost"
+      ],
+      [
+        "Loading_Motto_33",
+        "Glück ist eine Reise, kein Ziel.\n—— Ben Sweetland"
+      ],
+      [
+        "Loading_Motto_34",
+        "Du bist mutiger, als du glaubst.\n—— A. A. Milne"
+      ],
+      [
+        "Loading_Motto_35",
+        "Wer langsam geht und sein Ziel nicht verliert, kommt schneller voran als der, der ziellos umherirrt.\n—— Gotthold Ephraim Lessing"
+      ],
+      [
+        "Loading_Motto_36",
+        "Hör dem Wind zu – er weiß alles.\n—— Selma Lagerlöf"
+      ],
+      [
+        "Loading_Motto_37",
+        "In dir gibt es Stille und einen Zufluchtsort, zu dem du jederzeit zurückkehren und du selbst sein kannst.\n—— Hermann Hesse"
+      ],
+      [
+        "Loading_Motto_38",
+        "Spiel leicht, wecke innere Weisheit."
+      ],
+      [
+        "Loading_Motto_39",
+        "Lass das Spiel deinen Geist entspannen und das Bett für süße Träume bereiten."
+      ],
+      [
+        "Loading_Motto_40",
+        "Der Raum, den du für Spaß reservierst, ist auch Raum für Schlaf und Weisheit."
+      ],
+      [
+        "Ranking_Avatar_new_avatar",
+        "Neuer Avatar"
+      ],
+      [
+        "Dailylog2_text1",
+        "Spiele 7 Tage in Folge für max. Belohnung!"
+      ],
+      [
+        "Dailylog2_text2",
+        "Tag {0}"
+      ],
+      [
+        "Dailylog2_text3",
+        "Nächste Belohnung"
+      ],
+      [
+        "LeaderBoard_rank_1",
+        "<color=#f5e8c4>Du bist unglaubliche</c><outline color=#602e0b width=3><color=#ffd04b><size=38>{0}</size></color></outline><color=#f5e8c4>Plätze auf der Bestenliste aufgestiegen!</c>"
+      ],
+      [
+        "Journey_Name_Love26",
+        "Valentinstag"
+      ],
+      [
+        "Badges_Journey_Prize_Love2601",
+        "Diamant"
+      ],
+      [
+        "Badges_Journey_Prize_Love2602",
+        "Jubiläum"
+      ],
+      [
+        "Badges_Journey_Prize_Love2603",
+        "Rose"
+      ],
+      [
+        "Booster_Shuffle_text1",
+        "{0} der Spieler haben Shuffle genutzt,\num dieses Level zu schaffen"
+      ],
+      [
+        "Dailylog_icon",
+        "Stempel"
+      ],
+      [
+        "Classic_refuse",
+        "Nein, Danke"
+      ],
+      [
+        "Get_MORE_SCORE",
+        "Mehr Herausforderung"
+      ],
+      [
+        "Mahjong_RankPopUp_HINT",
+        "{0} hat begonnen!"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP1",
+        "Sammle goldene Mahjong-Steine"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP2",
+        "Wenn der Countdown endet, sei in den Top 6"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP3",
+        "Verdiene Belohnungen"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP4",
+        "Abholen"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP5",
+        "Verstanden"
+      ],
+      [
+        "Mahjong_InGameSettings_Exit",
+        "Beenden"
+      ],
+      [
+        "Mahjong_NewRecord",
+        "Neuer Rekord!"
+      ],
+      [
+        "classic_bestscore_des",
+        "Beste Punktzahl"
+      ],
+      [
+        "classic_weekbest",
+        "Bester der Woche"
+      ],
+      [
+        "classic_todaybest",
+        "Bester des Tages"
+      ],
+      [
+        "classic_gameover",
+        "Spiel vorbei"
+      ],
+      [
+        "classic_Continue",
+        "Weiter!"
+      ],
+      [
+        "classic_newmod",
+        "Neuer Modus!"
+      ],
+      [
+        "classic_button",
+        "Klassisch"
+      ],
+      [
+        "classic_stage",
+        "Level"
+      ],
+      [
+        "Get_MORE_SCOREplus",
+        "Hol dir {0}x mehr Punkte"
+      ],
+      [
+        "Dailylog2_text4",
+        "Heute"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_title",
+        "Werbefrei"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_text1",
+        "Schau ein belohntes Video an und genieße {0} Minuten werbefreies Spielen!"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_text2",
+        "Schau ein belohntes Video an und genieße {0} Runden werbefreies Spielen!"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_yes",
+        "Gerne!"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_no",
+        "Nein, danke"
+      ],
+      [
+        "Robot_Name51",
+        "PeachPup"
+      ],
+      [
+        "Robot_Name52",
+        "SunnyPaws"
+      ],
+      [
+        "Robot_Name53",
+        "Blossom"
+      ],
+      [
+        "Robot_Name54",
+        "CocoTail"
+      ],
+      [
+        "Robot_Name55",
+        "RosyWoof"
+      ],
+      [
+        "Robot_Name11",
+        "luna"
+      ],
+      [
+        "Robot_Name12",
+        "SnowBelle"
+      ],
+      [
+        "Robot_Name13",
+        "MimiAzure"
+      ],
+      [
+        "Robot_Name14",
+        "CloudKitty"
+      ],
+      [
+        "Robot_Name15",
+        "BlueCharm"
+      ],
+      [
+        "Robot_Name21",
+        "DaisyDoe"
+      ],
+      [
+        "Robot_Name22",
+        "Velvet"
+      ],
+      [
+        "Robot_Name23",
+        "AmberBreeze"
+      ],
+      [
+        "Robot_Name24",
+        "SoftMeadow"
+      ],
+      [
+        "Robot_Name25",
+        "FawnGlow"
+      ],
+      [
+        "Robot_Name31",
+        "foxyboba"
+      ],
+      [
+        "Robot_Name32",
+        "lilvibez"
+      ],
+      [
+        "Robot_Name33",
+        "amberluv"
+      ],
+      [
+        "Robot_Name34",
+        "glowfable"
+      ],
+      [
+        "Robot_Name35",
+        "slycutie"
+      ],
+      [
+        "Robot_Name41",
+        "SnowPuff"
+      ],
+      [
+        "Robot_Name42",
+        "Pingo"
+      ],
+      [
+        "Robot_Name43",
+        "ChillyBean"
+      ],
+      [
+        "Robot_Name44",
+        "PolarMochi"
+      ],
+      [
+        "Robot_Name45",
+        "Glacier"
+      ],
+      [
+        "Robot_Name61",
+        "PeacockJoy"
+      ],
+      [
+        "Robot_Name62",
+        "Azure"
+      ],
+      [
+        "Robot_Name63",
+        "SkyPlume"
+      ],
+      [
+        "Robot_Name64",
+        "NovaPea"
+      ],
+      [
+        "Robot_Name65",
+        "cozy"
+      ],
+      [
+        "Free_Shuffle",
+        "Anzahl"
+      ],
+      [
+        "Free_Shuffle_tag",
+        "Kostenlos"
+      ],
+      [
+        "normal_sentence1",
+        "Es gibt {0} Spieler, die weltweit herausfordern. Sei der Erste, der besteht, und schlage {1} der Gegner!"
+      ],
+      [
+        "normal_sentence2",
+        "Es gibt {0} Spieler, die dieses Level weltweit herausfordern, und nur {1} der Spieler haben es geschafft."
+      ],
+      [
+        "normal_sentence3",
+        "Heute haben {0} Spieler dieses Level geschafft. Bestehe es und du wirst {1} der Spieler übertreffen!"
+      ],
+      [
+        "travel_sentence1",
+        "Heute haben {0} Spieler das Abenteuer begonnen. Bestehe es und du übertriffst {1} der Abenteurer!"
+      ],
+      [
+        "travel_sentence2",
+        "Heute spielen {0} Abenteurer dieses Level, aber nur {1} der Abenteurer schaffen es!"
+      ],
+      [
+        "travel_sentence3",
+        "Du bist der {0}. Abenteurer heute. Nur {1} der Abenteurer können das Sammlerstück erhalten. Hol dir dieses einzigartige Andenken!"
+      ],
+      [
+        "challenge_sentence1",
+        "Heute fordern {0} Experten dieses Level heraus. Bestehe es und du kannst {1} der Experten schlagen!"
+      ],
+      [
+        "challenge_sentence2",
+        "Gerade fordern {0} Experten heraus, und nur {1} von ihnen schaffen es."
+      ],
+      [
+        "challenge_sentence3",
+        "Weltweit haben {0} Personen die Herausforderung angenommen. Bestehen bedeutet, dass du zu den besten {1} gehörst und ein gesetzter Spieler wirst."
+      ],
+      [
+        "no_internert",
+        "Verbindung verloren"
+      ],
+      [
+        "Journey_Name_5",
+        "Neuer Freund"
+      ],
+      [
+        "Journey_Des_5",
+        "Jedes Hallo könnte der Beginn eines neuen Freundes sein."
+      ],
+      [
+        "Badges_Journey_Prize_501",
+        "Erstes Hallo"
+      ],
+      [
+        "Badges_Journey_Prize_502",
+        "Geschichtenweber"
+      ],
+      [
+        "Badges_Journey_Prize_503",
+        "Herzverbinder"
+      ],
+      [
+        "LeaderBoard_PlayerName_me",
+        "Ich"
+      ],
+      [
+        "LeaderBoard_PlayerName_You",
+        "Du"
+      ],
+      [
+        "Ranking_Pop-up_text1",
+        "<color=#eee4d2>Sammle </c><color=#ffd000>goldenes</c><color=#eee4d2> Mahjong!</c>"
+      ],
+      [
+        "Ranking_Pop-up_text2",
+        "Erreiche die Top 6 der Rangliste"
+      ],
+      [
+        "Ranking_Pop-up_text3",
+        "Hol dir fantastische Belohnungen!"
+      ],
+      [
+        "Tile_Travel_Current_Progress_text1",
+        "{0} abgeschlossen"
+      ],
+      [
+        "Tile_Travel_Current_Progress_text2",
+        "{0} verbleibend"
+      ],
+      [
+        "Tiles_PropPurchase_Title_3",
+        "Kostenlos rückgängig"
+      ],
+      [
+        "Tiles_PropPurchase_Purchase_1",
+        "Sieh dir eine Anzeige an und erhalte {0} Shuffle"
+      ],
+      [
+        "Tiles_PropPurchase_Purchase_2",
+        "Sieh dir eine Anzeige an und erhalte {0} Hinweis"
+      ],
+      [
+        "Tiles_PropPurchase_Purchase_3",
+        "Sieh dir eine Anzeige an und erhalte {0} Rückgängig"
+      ],
+      [
+        "New_Skin_Unlock",
+        "Neues Skin freigeschaltet"
+      ],
+      [
+        "Download_Time",
+        "<1 Min"
+      ],
+      [
+        "Refuse_Download",
+        "Nein, danke"
+      ],
+      [
+        "Tile4_tip_tool_cannot_use",
+        "Versuche andere Gegenstände, um diese Herausforderung zu meistern"
+      ],
+      [
+        "Tile4_back_tool_cannot_use",
+        "Keine gültigen Steine"
+      ],
+      [
+        "MahjongTiles_GameEnd_Time",
+        "Zeit"
+      ],
+      [
+        "MahjongTiles4_Revive_Title",
+        "Kein Platz frei"
+      ],
+      [
+        "Mahjong_matches_available",
+        "{0} Matches verfügbar"
+      ],
+      [
+        "Tile4_item_not_enough",
+        "Nicht genügend Gegenstände"
+      ],
+      [
+        "MahjongTiles_GameEnd_Score_English_Most",
+        "Score"
+      ],
+      [
+        "MahjongTiles_GameEnd_Combo_English_Most",
+        "Combo"
+      ],
+      [
+        "DoubleTile_Trip_Time",
+        "{0} Tage"
+      ],
+      [
+        "DoubleTile_Trip",
+        "Reise"
+      ],
+      [
+        "DoubleTile_MainType_Hard",
+        "Schweres Level {0}"
+      ],
+      [
+        "DoubleTile_MainType_Expert",
+        "Experten-Level {0}"
+      ],
+      [
+        "Tile_End_Praise_A_title_1",
+        "Blitzschnell"
+      ],
+      [
+        "Tile_End_Praise_A_title_2",
+        "Adlerauge"
+      ],
+      [
+        "Tile_End_Praise_A_title_3",
+        "Geistreich"
+      ],
+      [
+        "Tile_End_Praise_A_title_4",
+        "Geschwindigkeitskönig"
+      ],
+      [
+        "Tile_End_Praise_A_title_5",
+        "Unbesiegt"
+      ],
+      [
+        "Tile_End_Praise_A_title_6",
+        "Sonic-Modus"
+      ],
+      [
+        "Tile_End_Praise_A_title_7",
+        "Zeitlord"
+      ],
+      [
+        "Tile_End_Praise_A_text_1",
+        "Barden werden deinen Namen besingen!"
+      ],
+      [
+        "Tile_End_Praise_A_text_2",
+        "Zu schnell. Lass uns Normalsterblichen auch noch eine Herausforderung."
+      ],
+      [
+        "Tile_End_Praise_A_text_3",
+        "Das ist für dich kein Spiel, sondern eine Siegesrunde."
+      ],
+      [
+        "Tile_End_Praise_A_text_4",
+        "Bist du sicher, dass du nicht der Endgegner bist?"
+      ],
+      [
+        "Tile_End_Praise_A_text_5",
+        "Wie für Speedruns gemacht."
+      ],
+      [
+        "Tile_End_Praise_A_text_6",
+        "Dieses Level war ja schneller geladen als der Ladebildschirm."
+      ],
+      [
+        "Tile_End_Praise_A_text_7",
+        "Geschmeidig und schnell. Wie geschmolzene Butter."
+      ],
+      [
+        "Tile_End_Praise_A_text_8",
+        "Der Blitz wäre neidisch auf diesen Lauf."
+      ],
+      [
+        "Tile_End_Praise_B_title_1",
+        "Ein Treffer"
+      ],
+      [
+        "Tile_End_Praise_B_title_2",
+        "Unversehrt"
+      ],
+      [
+        "Tile_End_Praise_B_title_3",
+        "Mit Leichtigkeit"
+      ],
+      [
+        "Tile_End_Praise_B_title_4",
+        "Perfekt"
+      ],
+      [
+        "Tile_End_Praise_B_title_5",
+        "Unsterblich"
+      ],
+      [
+        "Tile_End_Praise_B_text_1",
+        "Heute fühle ich mich glücklich!"
+      ],
+      [
+        "Tile_End_Praise_B_text_2",
+        "Wie hast du das rausgefunden? Kann ich mir dein Gehirn ausleihen?"
+      ],
+      [
+        "Tile_End_Praise_B_text_3",
+        "Das ist Denken auf einem ganz neuen Level!"
+      ],
+      [
+        "Tile_End_Praise_B_text_4",
+        "Dachtest du, du wärst verloren? Nein, du hast es gemeistert!"
+      ],
+      [
+        "Tile_End_Praise_B_text_5",
+        "Glück? Nein, das ist reines Können!"
+      ],
+      [
+        "Tile_End_Praise_B_text_6",
+        "Alle hängen fest, aber du lächelst nur!"
+      ],
+      [
+        "Tile_End_Praise_B_text_7",
+        "Kein Grund, es zu verstecken, du bist ein Genie!"
+      ],
+      [
+        "Tile_End_Praise_B_text_8",
+        "Zu klug, um wahr zu sein!"
+      ],
+      [
+        "Tile_End_Praise_B_text_9",
+        "Moment mal... du hast nie festgesteckt? Nicht ein einziges Mal?"
+      ],
+      [
+        "Tile_End_Praise_B_text_10",
+        "Unbesiegbar ist für dich kein Power-Up. Es ist ein Lebensstil."
+      ],
+      [
+        "Tile_End_Praise_B_text_11",
+        "Lehrbuchperfektion. Rahm es ein und häng es an die Wand."
+      ],
+      [
+        "Tile_End_Praise_C_title_1",
+        "Unaufhaltsam"
+      ],
+      [
+        "Tile_End_Praise_C_title_2",
+        "Klüger geworden"
+      ],
+      [
+        "Tile_End_Praise_C_title_3",
+        "Im Feuer geschmiedet"
+      ],
+      [
+        "Tile_End_Praise_C_text_1",
+        "Sieben Mal hinfallen, acht Mal aufstehen!"
+      ],
+      [
+        "Tile_End_Praise_C_text_2",
+        "In der Krise zeigt sich der Mensch!"
+      ],
+      [
+        "Tile_End_Praise_C_text_3",
+        "Durch unzählige Prüfungen hast du die Gestade des Ruhms erreicht!"
+      ],
+      [
+        "Tile_End_Praise_C_text_4",
+        "Du hast dieses Level gemeistert!"
+      ],
+      [
+        "Tile_End_Praise_C_text_5",
+        "Beharrlichkeit hat sich ausgezahlt. Wörtlich."
+      ],
+      [
+        "Tile_End_Praise_C_text_6",
+        "Jedes Scheitern war nur Übung für diesen Moment."
+      ],
+      [
+        "Tile_End_Praise_C_text_7",
+        "Verloren? Du? Niemals!"
+      ],
+      [
+        "Tile_End_Praise_C_text_8",
+        "Vom Nobody zum Helden. Wir waren dabei."
+      ],
+      [
+        "Tile_End_Praise_C_text_9",
+        "Jeder Tod war eine Lektion. Du hast die Abschlussprüfung mit Bravour bestanden."
+      ],
+      [
+        "Tile_End_Praise_C_text_10",
+        "Nichts bringt dich um. Nicht mehr."
+      ],
+      [
+        "Tile_End_Praise_D_title_1",
+        "Kluger Kopf"
+      ],
+      [
+        "Tile_End_Praise_D_title_2",
+        "Werkzeugmeister"
+      ],
+      [
+        "Tile_End_Praise_D_title_3",
+        "Taktikgenie"
+      ],
+      [
+        "Tile_End_Praise_D_title_4",
+        "Ruhm sei dir"
+      ],
+      [
+        "Tile_End_Praise_D_title_5",
+        "Maximaler Wert"
+      ],
+      [
+        "Tile_End_Praise_D_text_1",
+        "Die Nutzung dieses Gegenstands war ein Gedicht."
+      ],
+      [
+        "Tile_End_Praise_D_text_2",
+        "Du hattest das richtige Werkzeug zur richtigen Zeit. Jedes Mal."
+      ],
+      [
+        "Tile_End_Praise_D_text_3",
+        "Perfekte Bruchteilsekunden-Entscheidung. Keine Einwände."
+      ],
+      [
+        "Tile_End_Praise_D_text_4",
+        "Eine Heldentat, würdig der alten Helden!"
+      ],
+      [
+        "Tile_End_Praise_D_text_5",
+        "Eine solche Strategie verdient ihr eigenes Epos!"
+      ],
+      [
+        "Tile_End_Praise_D_text_6",
+        "Die rosenfingrige Morgenröte krönt dich!"
+      ],
+      [
+        "Tile_End_Praise_D_text_7",
+        "Dein Ruhm fliegt auf epea pteroenta - geflügelten Worten!"
+      ],
+      [
+        "Tile_End_Praise_D_text_8",
+        "Du hast die geheime Zutat gefunden!"
+      ],
+      [
+        "Tile_End_Praise_D_text_9",
+        "Das nenne ich einen Profi-Zug!"
+      ],
+      [
+        "Tile_End_Praise_D_text_10",
+        "Das hast du überlebt? Legendär!"
+      ],
+      [
+        "Tile_End_Praise_D_text_11",
+        "Diesen Gegenstand dort einsetzen? 200-IQ-Zug."
+      ],
+      [
+        "Tile_End_Praise_D_text_12",
+        "Perfektes Timing. Das sieht man gerne."
+      ],
+      [
+        "Tile3_Guide_text1",
+        "Tippe auf das gleiche Muster \nwie im Haltefach."
+      ],
+      [
+        "Tile3_Guide_color_text1",
+        "<color=#ffd000>Tippe</color> auf das Muster, \ndas mit dem im <color=#ffd000>Schlitz</color> übereinstimmt."
+      ],
+      [
+        "Double_TILE_Guide_1",
+        "<color=#8e481c>Achtung!</c>\n<color=#ff4e00> Haltefach nicht voll!</color>"
+      ],
+      [
+        "TileXiPai_Tips_01",
+        "Nur {0} der Spieler schaffen es mit nur einem Leben!"
+      ],
+      [
+        "Tile4_Guide_text1",
+        "Entferne zuerst die <color=#ffd000>oberen</color> und <color=#ffd000>seitlichen</color> Steine"
+      ],
+      [
+        "Daily_Task_Pop_Change_Title",
+        "Tagesaufgabenbelohnungen"
+      ],
+      [
+        "Tile4_xinyun_Newbie_Text_1",
+        "Kombiniere <color=#ffd000>oben</c>, um <color=#ffd000>darunter liegende</c> Steine freizuschalten"
+      ],
+      [
+        "Tile4_xinyun_Newbie_Text_2",
+        "Bewege einen Stein <color=#ffd000>nach oben</c>, um <color=#ffd000>benachbarte</c> Steine freizuschalten"
+      ],
+      [
+        "Tile4_xinyun_Newbie_Text_3",
+        "Du kannst jetzt ein <color=#ffd000>Paar</c> bilden!"
+      ],
+      [
+        "Tile4_xinyun_Newbie_Text_4",
+        "Ein neues <color=#ffd000>Paar</c> ist jetzt hier verfügbar!"
+      ]
+    ]
+  }
+}

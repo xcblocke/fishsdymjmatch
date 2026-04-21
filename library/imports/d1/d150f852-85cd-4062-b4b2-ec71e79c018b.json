@@ -1,0 +1,578 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "result_boxBarTips",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "/nlSp/X8jmLroEUqR7JFkl1IFsM",
+      "spine": "3.8.99",
+      "images": "",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root",
+        "scaleX": 1.0295,
+        "scaleY": 1.0295
+      },
+      {
+        "name": "images/gameplay_chest_tip_bg",
+        "parent": "root",
+        "length": 32.6,
+        "rotation": 90,
+        "color": "76ff37ff"
+      },
+      {
+        "name": "hook_icon_1",
+        "parent": "images/gameplay_chest_tip_bg",
+        "x": 96.29,
+        "y": 47.27,
+        "color": "76ff37ff"
+      },
+      {
+        "name": "hook_icon_2",
+        "parent": "images/gameplay_chest_tip_bg",
+        "x": 96.91,
+        "y": -52.43,
+        "color": "76ff37ff"
+      },
+      {
+        "name": "hook_num_1",
+        "parent": "hook_icon_1",
+        "x": -55.14,
+        "y": -0.17,
+        "color": "76ff37ff"
+      },
+      {
+        "name": "hook_num_2",
+        "parent": "hook_icon_2",
+        "x": -55.76,
+        "y": -0.44,
+        "color": "76ff37ff"
+      }
+    ],
+    "slots": [
+      {
+        "name": "images/gameplay_chest_tip_bg",
+        "bone": "images/gameplay_chest_tip_bg"
+      },
+      {
+        "name": "slot_icon_1",
+        "bone": "hook_icon_1"
+      },
+      {
+        "name": "slot_icon_2",
+        "bone": "hook_icon_2"
+      },
+      {
+        "name": "slot_num_1",
+        "bone": "hook_num_1"
+      },
+      {
+        "name": "slot_num_2",
+        "bone": "hook_num_2"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "images/gameplay_chest_tip_bg": {
+            "images/gameplay_chest_tip_bg": {
+              "type": "mesh",
+              "hull": 12,
+              "width": 236,
+              "height": 149,
+              "uvs": [
+                1,
+                1,
+                0.8252,
+                1,
+                0.58001,
+                1,
+                0.41838,
+                1,
+                0.158,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0.16146,
+                0,
+                0.41977,
+                0,
+                0.57932,
+                0,
+                0.8252,
+                0,
+                1,
+                0
+              ],
+              "triangles": [
+                4,
+                5,
+                6,
+                7,
+                4,
+                6,
+                3,
+                7,
+                8,
+                4,
+                7,
+                3,
+                2,
+                9,
+                10,
+                8,
+                9,
+                2,
+                3,
+                8,
+                2,
+                0,
+                1,
+                10,
+                2,
+                10,
+                1,
+                0,
+                10,
+                11
+              ],
+              "vertices": [
+                -2.13,
+                -118,
+                -2.13,
+                -76.75,
+                -2.13,
+                -18.88,
+                -2.13,
+                19.26,
+                -2.13,
+                80.71,
+                -2.13,
+                118,
+                146.87,
+                118,
+                146.87,
+                79.9,
+                146.87,
+                18.93,
+                146.87,
+                -18.72,
+                146.87,
+                -76.75,
+                146.87,
+                -118
+              ],
+              "edges": [
+                10,
+                12,
+                0,
+                22,
+                6,
+                16,
+                4,
+                6,
+                16,
+                18,
+                4,
+                18,
+                18,
+                20,
+                20,
+                22,
+                0,
+                2,
+                2,
+                4,
+                20,
+                2,
+                6,
+                8,
+                8,
+                10,
+                12,
+                14,
+                14,
+                16,
+                8,
+                14
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "events": {
+      "event_rewards": {}
+    },
+    "animations": {
+      "click_1": {
+        "slots": {
+          "images/gameplay_chest_tip_bg": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.258,
+                "c4": 0.67
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "images/gameplay_chest_tip_bg"
+              }
+            ]
+          },
+          "slot_icon_1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.258,
+                "c4": 0.67
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "slot_icon_2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "slot_num_1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.258,
+                "c4": 0.67
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "slot_num_2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "images/gameplay_chest_tip_bg": {
+            "scale": [
+              {
+                "x": 0.3,
+                "y": 0.3,
+                "curve": 0,
+                "c2": 0.33,
+                "c3": 0.724
+              },
+              {
+                "time": 0.2,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.294,
+                "c4": 0.9
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          },
+          "hook_icon_1": {
+            "translate": [
+              {
+                "y": -47.27
+              }
+            ]
+          }
+        },
+        "deform": {
+          "default": {
+            "images/gameplay_chest_tip_bg": {
+              "images/gameplay_chest_tip_bg": [
+                {
+                  "offset": 1,
+                  "vertices": [
+                    37.21826,
+                    0.00001,
+                    37.21826,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -0.00001,
+                    -37.21826,
+                    -0.00001,
+                    -37.21826,
+                    -0.00001,
+                    -37.21826,
+                    -0.00001,
+                    -37.21826,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.00001,
+                    37.21826,
+                    0.00001,
+                    37.21826
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "events": [
+          {
+            "name": "event_rewards"
+          }
+        ]
+      },
+      "click_2": {
+        "slots": {
+          "images/gameplay_chest_tip_bg": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.258,
+                "c4": 0.67
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "images/gameplay_chest_tip_bg"
+              }
+            ]
+          },
+          "slot_icon_1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.258,
+                "c4": 0.67
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "slot_icon_2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.258,
+                "c4": 0.67
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "slot_num_1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.258,
+                "c4": 0.67
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "slot_num_2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.258,
+                "c4": 0.67
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "images/gameplay_chest_tip_bg": {
+            "scale": [
+              {
+                "x": 0.3,
+                "y": 0.3,
+                "curve": 0,
+                "c2": 0.33,
+                "c3": 0.724
+              },
+              {
+                "time": 0.2,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.294,
+                "c4": 0.9
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "name": "event_rewards"
+          }
+        ]
+      },
+      "init_1": {
+        "slots": {
+          "images/gameplay_chest_tip_bg": {
+            "attachment": [
+              {
+                "name": "images/gameplay_chest_tip_bg"
+              }
+            ]
+          },
+          "slot_icon_2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "slot_num_2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "images/gameplay_chest_tip_bg": {
+            "translate": [
+              {
+                "curve": 0.08,
+                "c3": 0.941
+              },
+              {
+                "time": 2.3667,
+                "y": 24.67,
+                "curve": 0.08,
+                "c3": 0.941
+              },
+              {
+                "time": 4.7
+              }
+            ]
+          },
+          "hook_icon_1": {
+            "translate": [
+              {
+                "y": -47.27
+              }
+            ]
+          }
+        },
+        "deform": {
+          "default": {
+            "images/gameplay_chest_tip_bg": {
+              "images/gameplay_chest_tip_bg": [
+                {
+                  "offset": 1,
+                  "vertices": [
+                    37.21826,
+                    0.00001,
+                    37.21826,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -0.00001,
+                    -37.21826,
+                    -0.00001,
+                    -37.21826,
+                    -0.00001,
+                    -37.21826,
+                    -0.00001,
+                    -37.21826,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.00001,
+                    37.21826,
+                    0.00001,
+                    37.21826
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "init_2": {
+        "slots": {
+          "images/gameplay_chest_tip_bg": {
+            "attachment": [
+              {
+                "name": "images/gameplay_chest_tip_bg"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "images/gameplay_chest_tip_bg": {
+            "translate": [
+              {
+                "curve": 0.08,
+                "c3": 0.941
+              },
+              {
+                "time": 2.3667,
+                "y": 24.67,
+                "curve": 0.08,
+                "c3": 0.941
+              },
+              {
+                "time": 4.7
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nresult_boxBarTips.png\nsize: 240,153\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimages/gameplay_chest_tip_bg\n  rotate: false\n  xy: 2, 2\n  size: 236, 149\n  orig: 236, 149\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "c76fbc73-2701-471a-9172-8964d714fb29"
+    }
+  ],
+  "textureNames": [
+    "result_boxBarTips.png"
+  ],
+  "scale": 1
+}

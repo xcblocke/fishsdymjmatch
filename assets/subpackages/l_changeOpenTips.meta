@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "86c16c55-c6cf-4703-9521-2b203c21bfd4",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_changeOpenTips",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

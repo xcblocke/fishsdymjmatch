@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "f07ecd03-5474-40e8-a0a7-0286dfc7b3ee",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_tile2StaLvTHard",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

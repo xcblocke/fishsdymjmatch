@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mission_tip_bar_1",
+    "texture": "45681929-e852-4ee2-bf24-817ff0c4da28",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      44
+    ],
+    "capInsets": [
+      25,
+      0,
+      25,
+      0
+    ]
+  }
+}

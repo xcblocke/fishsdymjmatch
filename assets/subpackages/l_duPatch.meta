@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "c0b8357e-5086-4585-b761-d72b91446534",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_duPatch",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

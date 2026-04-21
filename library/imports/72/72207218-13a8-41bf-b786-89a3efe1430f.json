@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fail_img_ad",
+    "texture": "234c8173-2415-4efa-a41a-f95899489fd2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      207
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      207
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

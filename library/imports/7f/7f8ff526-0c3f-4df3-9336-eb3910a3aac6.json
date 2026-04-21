@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_combo10_snow",
+    "texture": "835004ac-0977-4b61-a736-a1e2fe8436d5",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      336,
+      267
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      340,
+      271
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

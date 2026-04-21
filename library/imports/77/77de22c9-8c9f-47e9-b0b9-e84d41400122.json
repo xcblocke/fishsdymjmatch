@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_special_unicorn",
+    "texture": "adf76c46-0cd0-493a-8504-dc0c3b78fefb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      157,
+      195
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

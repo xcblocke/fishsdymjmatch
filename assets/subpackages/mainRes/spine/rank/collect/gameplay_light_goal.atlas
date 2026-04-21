@@ -1,0 +1,20 @@
+
+gameplay_light_goal.png
+size: 219,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tsp_5
+  rotate: false
+  xy: 2, 2
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+tsp_lizi
+  rotate: false
+  xy: 203, 187
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leaderboard_flag_mj",
+    "texture": "8e88f4e4-0cb9-4eb5-b258-c8c491df124d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      64
+    ],
+    "capInsets": [
+      30,
+      23,
+      30,
+      23
+    ]
+  }
+}

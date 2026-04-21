@@ -1,0 +1,76 @@
+
+gameplay_great_elimination_effect.png
+size: 351,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_zong_guang_6
+  rotate: false
+  xy: 223, 2
+  size: 99, 198
+  orig: 205, 205
+  offset: 53, 3
+  index: -1
+bow_a
+  rotate: true
+  xy: 2, 15
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+bow_b
+  rotate: false
+  xy: 2, 320
+  size: 163, 200
+  orig: 163, 200
+  offset: 0, 0
+  index: -1
+bow_c
+  rotate: false
+  xy: 167, 320
+  size: 163, 200
+  orig: 163, 200
+  offset: 0, 0
+  index: -1
+bow_d
+  rotate: true
+  xy: 2, 204
+  size: 114, 219
+  orig: 114, 219
+  offset: 0, 0
+  index: -1
+bow_e
+  rotate: true
+  xy: 2, 88
+  size: 114, 219
+  orig: 114, 219
+  offset: 0, 0
+  index: -1
+cb_3
+  rotate: false
+  xy: 324, 175
+  size: 25, 25
+  orig: 29, 29
+  offset: 2, 2
+  index: -1
+par_02
+  rotate: false
+  xy: 119, 55
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+ring_a
+  rotate: false
+  xy: 223, 202
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+star_p
+  rotate: false
+  xy: 84, 54
+  size: 33, 32
+  orig: 44, 44
+  offset: 5, 7
+  index: -1

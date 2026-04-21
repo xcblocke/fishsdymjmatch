@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_img_hongdian",
+    "texture": "80d3a33a-8c27-4c76-b3bf-3ebe2eb523f6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gardeningMaster_boxBar",
+    "texture": "b66056c7-36c6-4da8-bde5-06527d0044b2",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      242,
+      145
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      250,
+      153
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

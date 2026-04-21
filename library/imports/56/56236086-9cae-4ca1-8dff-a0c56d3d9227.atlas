@@ -1,0 +1,76 @@
+
+dailyTask_box.png
+size: 487,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshi1
+  rotate: false
+  xy: 164, 54
+  size: 27, 32
+  orig: 31, 36
+  offset: 2, 2
+  index: -1
+baoshi2
+  rotate: false
+  xy: 164, 88
+  size: 30, 36
+  orig: 32, 38
+  offset: 1, 1
+  index: -1
+baoshi3
+  rotate: false
+  xy: 164, 126
+  size: 39, 44
+  orig: 41, 45
+  offset: 1, 1
+  index: -1
+light
+  rotate: true
+  xy: 164, 26
+  size: 26, 10
+  orig: 30, 12
+  offset: 2, 1
+  index: -1
+smallbox1_1
+  rotate: true
+  xy: 370, 215
+  size: 139, 115
+  orig: 139, 116
+  offset: 0, 0
+  index: -1
+smallbox1_2
+  rotate: true
+  xy: 344, 14
+  size: 149, 140
+  orig: 150, 143
+  offset: 1, 0
+  index: -1
+smallbox2_1
+  rotate: true
+  xy: 205, 6
+  size: 157, 137
+  orig: 157, 137
+  offset: 0, 0
+  index: -1
+smallbox2_2
+  rotate: true
+  xy: 2, 2
+  size: 168, 160
+  orig: 168, 160
+  offset: 0, 0
+  index: -1
+smallbox3_1
+  rotate: true
+  xy: 206, 165
+  size: 189, 162
+  orig: 189, 162
+  offset: 0, 0
+  index: -1
+smallbox3_2
+  rotate: false
+  xy: 2, 172
+  size: 202, 182
+  orig: 202, 182
+  offset: 0, 0
+  index: -1

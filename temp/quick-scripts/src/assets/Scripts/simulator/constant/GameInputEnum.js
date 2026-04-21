@@ -1,0 +1,92 @@
+"use strict";
+cc._RF.push(module, 'e1ddbzK6hlLMpYExQ9DBDMT', 'GameInputEnum');
+// Scripts/simulator/constant/GameInputEnum.ts
+
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.EShuffleFrom = exports.InputRunType = exports.EBehaviorEnum = exports.EGameInputEnum = void 0;
+exports.EGameInputEnum = {
+    StartSimulator: "startSimulator",
+    StopSimulator: "stopSimulator",
+    PauseSimulator: "pauseSimulator",
+    ResumeSimulator: "resumeSimulator",
+    DisplaySimulator: "displaySimulator",
+    StartInit: "startInit",
+    OpenGenerateState: "openGenerateState",
+    EnterAnimation: "enterAnimation",
+    EnterAnimationFinish: "enterAnimationFinish",
+    SetLevel: "setLevel",
+    ChooseLayout: "chooseLayout",
+    ChooseLayoutClassic: "chooseLayoutClassic",
+    InitView: "initView",
+    InitViewFinish: "initViewFinish",
+    TouchStart: "touchStart",
+    TouchEnd: "touchEnd",
+    TouchMove: "touchMove",
+    TouchCancel: "touchCancel",
+    HitTips: "hitTips",
+    Shuffle: "shuffle",
+    Restart: "restart",
+    StartAutoMerge: "startAutoMerge",
+    AutoMerge: "autoMerge",
+    SkipAutoMerge: "skipAutoMerge",
+    UpdateTime: "updateTime",
+    Guide: "guide",
+    AddProp: "addProp",
+    ToggleCardLockDarken: "toggleCardLockDarken",
+    RefreshCardLockDarken: "refreshCardLockDarken",
+    ToggleShowLockMask: "toggleShowLockMask",
+    RemoveLockMask: "removeLockMask",
+    CleanView: "cleanView",
+    InitCollectCard: "initCollectCard",
+    InitEndStrategy: "initEndStrategy",
+    TravelEnd: "travelEnd",
+    TimeoutBreakCombo: "timeoutBreakCombo",
+    UserOperate: "userOperate",
+    DuoxiaoAutoMerge: "duoxiaoAutoMerge",
+    NoMatchFail: "noMatchFail",
+    SetLevelClassic: "setLevelClassic",
+    AddLevelClassic: "addLevelClassic",
+    ClassicFail: "classicFail",
+    DropClassic: "dropClassic",
+    AddPropOff3h: "addPropOff3h",
+    TipsPropAutoMerge: "tipsPropAutoMerge",
+    GameActive: "gameActive",
+    Tile2SetSlotBarCount: "tile2SetSlotBarCount",
+    Tile2InitSlotBar: "tile2InitSlotBar",
+    Tile2Revive: "tile2Revive",
+    Tile2InitBottom: "tile2InitBottom",
+    Tile2InitTop: "tile2InitTop",
+    Tile2InitView: "tile2InitView",
+    Tile2InitViewFinish: "tile2InitViewFinish",
+    Tile2Shuffle: "tile2Shuffle",
+    Tile2HitTips: "tile2HitTips",
+    Tile2Revert: "tile2Revert",
+    Tile2EnterAnimation: "tile2EnterAnimation",
+    Tile2EnterAnimationFinish: "tile2EnterAnimationFinish",
+    Tile2DuoxiaoAutoMerge: "tile2DuoxiaoAutoMerge",
+    Tile2SetLevel: "tile2SetLevel",
+    Tile2AddProp: "tile2AddProp",
+    Tile2StartAutoMerge: "tile2StartAutoMerge",
+    Tile2AutoMerge: "tile2AutoMerge",
+    Tile2MagnetMerge: "tile2MagnetMerge",
+    Tile2SetSlotType: "tile2SetSlotType"
+};
+exports.EBehaviorEnum = {
+    Success: "success",
+    Fail: "fail",
+    Abort: "abort"
+};
+exports.InputRunType = {
+    Normal: "normal",
+    Wait: "wait",
+    RunInIdle: "runInIdle"
+};
+exports.EShuffleFrom = {
+    Free: "free",
+    WatchAd: "watchAd",
+    Normal: "normal",
+    Revive: "Revive",
+    ClassicRevive: "ClassicRevive"
+};
+
+cc._RF.pop();

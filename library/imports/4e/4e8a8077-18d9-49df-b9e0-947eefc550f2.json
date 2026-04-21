@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_bg_medal_2",
+    "texture": "803311aa-fa16-4401-91d7-84178fc11359",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      199,
+      246
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      199,
+      246
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

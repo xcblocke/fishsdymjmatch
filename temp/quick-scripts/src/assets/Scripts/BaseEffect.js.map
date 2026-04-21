@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/Scripts/BaseEffect.ts"],"names":[],"mappings":";;;;;AAAA;IAAA;IAIA,CAAC;IAHC,sBAAI,4BAAI;aAAR;YACE,OAAO,IAAI,CAAC,KAAK,CAAC;QACpB,CAAC;;;OAAA;IACH,iBAAC;AAAD,CAJA,AAIC,IAAA","file":"","sourceRoot":"/","sourcesContent":["export default class BaseEffect {\n  get name() {\n    return this._name;\n  }\n}"]}

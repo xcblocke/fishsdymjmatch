@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_great_elimination_effect",
+    "texture": "ff332f80-023c-4d9a-aed1-1fb7ca5f3756",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      807,
+      270
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      811,
+      273
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

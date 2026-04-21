@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "196ccab7-3417-4d75-9d42-35ae7981c531",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_mapping",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

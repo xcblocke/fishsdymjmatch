@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_btn_badges",
+    "texture": "9e3ff2ee-1f78-4d3d-89c4-b3daacbcbdd9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

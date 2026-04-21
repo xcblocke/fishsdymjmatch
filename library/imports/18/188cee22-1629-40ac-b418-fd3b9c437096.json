@@ -1,0 +1,203 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "main_newSeason",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "UBUwBU+Baxscuvm9Y/qWhxhQlpg",
+      "spine": "3.8.99"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "light_g",
+        "parent": "root",
+        "scaleX": 2,
+        "scaleY": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "light_g",
+        "bone": "light_g",
+        "blend": "additive"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "light_g": {
+            "light_g_000": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_001": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_002": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_003": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_004": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_005": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_006": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_007": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_008": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_009": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_010": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_011": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_012": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_013": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_014": {
+              "width": 340,
+              "height": 115
+            },
+            "light_g_015": {
+              "width": 340,
+              "height": 115
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "init": {
+        "slots": {
+          "light_g": {
+            "color": [
+              {
+                "color": "edff9900"
+              },
+              {
+                "time": 0.1,
+                "color": "edff999a"
+              },
+              {
+                "time": 0.5,
+                "color": "edff9900"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "light_g_000"
+              },
+              {
+                "time": 0.0333,
+                "name": "light_g_001"
+              },
+              {
+                "time": 0.0667,
+                "name": "light_g_002"
+              },
+              {
+                "time": 0.1,
+                "name": "light_g_003"
+              },
+              {
+                "time": 0.1333,
+                "name": "light_g_004"
+              },
+              {
+                "time": 0.1667,
+                "name": "light_g_005"
+              },
+              {
+                "time": 0.2,
+                "name": "light_g_006"
+              },
+              {
+                "time": 0.2333,
+                "name": "light_g_007"
+              },
+              {
+                "time": 0.2667,
+                "name": "light_g_008"
+              },
+              {
+                "time": 0.3,
+                "name": "light_g_009"
+              },
+              {
+                "time": 0.3333,
+                "name": "light_g_010"
+              },
+              {
+                "time": 0.3667,
+                "name": "light_g_011"
+              },
+              {
+                "time": 0.4,
+                "name": "light_g_012"
+              },
+              {
+                "time": 0.4333,
+                "name": "light_g_013"
+              },
+              {
+                "time": 0.4667,
+                "name": "light_g_014"
+              },
+              {
+                "time": 0.5,
+                "name": "light_g_015"
+              },
+              {
+                "time": 1,
+                "name": null
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nmain_newSeason.png\nsize: 905,311\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nlight_g_000\n  rotate: false\n  xy: 848, 29\n  size: 49, 79\n  orig: 340, 115\n  offset: 12, 27\n  index: -1\nlight_g_001\n  rotate: false\n  xy: 709, 11\n  size: 84, 94\n  orig: 340, 115\n  offset: 11, 12\n  index: -1\nlight_g_002\n  rotate: false\n  xy: 590, 4\n  size: 117, 99\n  orig: 340, 115\n  offset: 11, 9\n  index: -1\nlight_g_003\n  rotate: false\n  xy: 438, 3\n  size: 150, 100\n  orig: 340, 115\n  offset: 11, 8\n  index: -1\nlight_g_004\n  rotate: false\n  xy: 501, 105\n  size: 183, 101\n  orig: 340, 115\n  offset: 11, 7\n  index: -1\nlight_g_005\n  rotate: false\n  xy: 533, 208\n  size: 216, 101\n  orig: 340, 115\n  offset: 12, 7\n  index: -1\nlight_g_006\n  rotate: false\n  xy: 2, 2\n  size: 247, 101\n  orig: 340, 115\n  offset: 14, 7\n  index: -1\nlight_g_007\n  rotate: false\n  xy: 2, 105\n  size: 277, 101\n  orig: 340, 115\n  offset: 17, 7\n  index: -1\nlight_g_008\n  rotate: false\n  xy: 2, 208\n  size: 278, 101\n  orig: 340, 115\n  offset: 44, 7\n  index: -1\nlight_g_009\n  rotate: false\n  xy: 282, 208\n  size: 249, 101\n  orig: 340, 115\n  offset: 77, 7\n  index: -1\nlight_g_010\n  rotate: false\n  xy: 281, 105\n  size: 218, 101\n  orig: 340, 115\n  offset: 110, 7\n  index: -1\nlight_g_011\n  rotate: false\n  xy: 251, 2\n  size: 185, 101\n  orig: 340, 115\n  offset: 144, 7\n  index: -1\nlight_g_012\n  rotate: false\n  xy: 751, 209\n  size: 152, 100\n  orig: 340, 115\n  offset: 177, 7\n  index: -1\nlight_g_013\n  rotate: false\n  xy: 686, 107\n  size: 119, 99\n  orig: 340, 115\n  offset: 210, 7\n  index: -1\nlight_g_014\n  rotate: false\n  xy: 807, 110\n  size: 85, 97\n  orig: 340, 115\n  offset: 244, 8\n  index: -1\nlight_g_015\n  rotate: false\n  xy: 795, 19\n  size: 51, 86\n  orig: 340, 115\n  offset: 277, 9\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "5b9c4dc7-6509-425b-817f-4617c38b28c8"
+    }
+  ],
+  "textureNames": [
+    "main_newSeason.png"
+  ],
+  "scale": 1
+}

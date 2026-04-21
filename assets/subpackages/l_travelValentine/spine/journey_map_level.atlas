@@ -1,0 +1,104 @@
+
+journey_map_level.png
+size: 748,323
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dididi
+  rotate: true
+  xy: 363, 167
+  size: 154, 165
+  orig: 154, 165
+  offset: 0, 0
+  index: -1
+gqd_4_guang_1
+  rotate: true
+  xy: 2, 149
+  size: 172, 185
+  orig: 179, 190
+  offset: 3, 3
+  index: -1
+gqd_4_guang_2_1
+  rotate: false
+  xy: 678, 216
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+gqd_4_guang_2_2
+  rotate: true
+  xy: 678, 262
+  size: 59, 54
+  orig: 61, 55
+  offset: 1, 1
+  index: -1
+gqd_4_guang_2_3
+  rotate: false
+  xy: 189, 149
+  size: 172, 172
+  orig: 177, 177
+  offset: 2, 3
+  index: -1
+gqd_6_2
+  rotate: true
+  xy: 511, 11
+  size: 144, 162
+  orig: 146, 164
+  offset: 1, 1
+  index: -1
+gqd_7_2
+  rotate: false
+  xy: 363, 2
+  size: 146, 163
+  orig: 146, 164
+  offset: 0, 1
+  index: -1
+gqd_8_2
+  rotate: false
+  xy: 530, 157
+  size: 146, 164
+  orig: 146, 164
+  offset: 0, 0
+  index: -1
+level_01
+  rotate: false
+  xy: 678, 181
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+level_02
+  rotate: false
+  xy: 713, 181
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+level_beiMian
+  rotate: false
+  xy: 2, 7
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+level_ceMian
+  rotate: false
+  xy: 286, 7
+  size: 68, 140
+  orig: 68, 140
+  offset: 0, 0
+  index: -1
+level_diMian
+  rotate: true
+  xy: 675, 17
+  size: 138, 68
+  orig: 138, 68
+  offset: 0, 0
+  index: -1
+level_zhengMian
+  rotate: false
+  xy: 144, 7
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1

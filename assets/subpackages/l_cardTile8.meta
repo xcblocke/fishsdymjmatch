@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "8f629eb9-1712-4fba-b5ec-f77a75581fb2",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_cardTile8",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

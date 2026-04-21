@@ -1,0 +1,146 @@
+
+journey_map_badge.png
+size: 860,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hz_1_guang_1
+  rotate: false
+  xy: 270, 17
+  size: 109, 123
+  orig: 114, 127
+  offset: 3, 1
+  index: -1
+hz_1_guang_2
+  rotate: false
+  xy: 144, 6
+  size: 124, 134
+  orig: 132, 144
+  offset: 4, 5
+  index: -1
+hz_1_guang_3
+  rotate: false
+  xy: 2, 6
+  size: 140, 134
+  orig: 140, 134
+  offset: 0, 0
+  index: -1
+hz_1_zouGuang_00003
+  rotate: true
+  xy: 290, 6
+  size: 9, 14
+  orig: 150, 150
+  offset: 27, 46
+  index: -1
+hz_1_zouGuang_00004
+  rotate: true
+  xy: 452, 46
+  size: 24, 30
+  orig: 150, 150
+  offset: 22, 41
+  index: -1
+hz_1_zouGuang_00005
+  rotate: true
+  xy: 437, 5
+  size: 37, 51
+  orig: 150, 150
+  offset: 21, 34
+  index: -1
+hz_1_zouGuang_00006
+  rotate: false
+  xy: 807, 11
+  size: 51, 75
+  orig: 150, 150
+  offset: 21, 26
+  index: -1
+hz_1_zouGuang_00007
+  rotate: true
+  xy: 715, 15
+  size: 61, 90
+  orig: 150, 150
+  offset: 21, 20
+  index: -1
+hz_1_zouGuang_00008
+  rotate: true
+  xy: 617, 3
+  size: 67, 96
+  orig: 150, 150
+  offset: 23, 20
+  index: -1
+hz_1_zouGuang_00009
+  rotate: false
+  xy: 381, 44
+  size: 69, 96
+  orig: 150, 150
+  offset: 30, 25
+  index: -1
+hz_1_zouGuang_00010
+  rotate: true
+  xy: 519, 2
+  size: 68, 96
+  orig: 150, 150
+  offset: 40, 30
+  index: -1
+hz_1_zouGuang_00011
+  rotate: true
+  xy: 452, 72
+  size: 68, 97
+  orig: 150, 150
+  offset: 49, 35
+  index: -1
+hz_1_zouGuang_00012
+  rotate: true
+  xy: 551, 72
+  size: 68, 96
+  orig: 150, 150
+  offset: 57, 40
+  index: -1
+hz_1_zouGuang_00013
+  rotate: true
+  xy: 649, 78
+  size: 62, 90
+  orig: 150, 150
+  offset: 66, 46
+  index: -1
+hz_1_zouGuang_00014
+  rotate: true
+  xy: 741, 88
+  size: 52, 76
+  orig: 150, 150
+  offset: 76, 54
+  index: -1
+hz_1_zouGuang_00015
+  rotate: true
+  xy: 381, 3
+  size: 39, 54
+  orig: 150, 150
+  offset: 89, 68
+  index: -1
+hz_1_zouGuang_00016
+  rotate: false
+  xy: 490, 7
+  size: 27, 35
+  orig: 150, 150
+  offset: 100, 81
+  index: -1
+hz_1_zouGuang_00017
+  rotate: true
+  xy: 270, 3
+  size: 12, 18
+  orig: 150, 150
+  offset: 110, 92
+  index: -1
+hz_1_zouGuang_00018
+  rotate: false
+  xy: 306, 11
+  size: 3, 4
+  orig: 150, 150
+  offset: 117, 102
+  index: -1
+hz_3_liZi
+  rotate: false
+  xy: 484, 44
+  size: 26, 26
+  orig: 34, 34
+  offset: 4, 4
+  index: -1

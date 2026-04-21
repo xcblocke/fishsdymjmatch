@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "daily_atlas.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "challenge_btn_badges": {
+      "__uuid__": "b6c9a9a2-6d7e-416c-9481-4f45117c476b"
+    },
+    "challenge_btn_left": {
+      "__uuid__": "20adc651-0ff9-4f6b-999c-91c62c79a58b"
+    },
+    "challenge_img_duihao": {
+      "__uuid__": "173e2327-5b8f-4bf2-9d36-08fe04b7dc17"
+    },
+    "challenge_img_frame": {
+      "__uuid__": "f7d30220-790c-42a9-b9c7-1074ebddfd8e"
+    },
+    "challenge_img_selent": {
+      "__uuid__": "83dca6a7-e95c-4dc8-885a-d9ed3291920d"
+    },
+    "collection_btn": {
+      "__uuid__": "57bc22d2-3f91-4587-b67b-e182bebf6775"
+    },
+    "collection_btn_bg": {
+      "__uuid__": "955ad0ac-ad04-452b-8c80-a2f774471891"
+    },
+    "collection_img_namebg": {
+      "__uuid__": "2cb6bad6-9188-4ca7-879e-2bec1ce75dfd"
+    },
+    "collection_img_shadow": {
+      "__uuid__": "20dc5845-89b2-4b75-894d-fb3efee85a8c"
+    },
+    "collection_img_zhezhao": {
+      "__uuid__": "e01dce2a-06c2-4b0d-ab24-7a037206bdac"
+    },
+    "img_mask": {
+      "__uuid__": "27d0e4c4-45c1-4141-8dba-861d5e377d22"
+    },
+    "journey_img_empty": {
+      "__uuid__": "837ab246-ef08-4807-9442-4e493ba8af11"
+    }
+  }
+}

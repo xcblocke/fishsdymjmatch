@@ -1,0 +1,13 @@
+
+result_boxBarTips.png
+size: 240,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/gameplay_chest_tip_bg
+  rotate: false
+  xy: 2, 2
+  size: 236, 149
+  orig: 236, 149
+  offset: 0, 0
+  index: -1

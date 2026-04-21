@@ -1,0 +1,13 @@
+
+gameplay_adv_icon_camera.png
+size: 68,43
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+camera
+  rotate: false
+  xy: 2, 2
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1

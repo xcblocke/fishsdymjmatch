@@ -1,0 +1,17 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_combo_effect_b",
+  "_objFlags": 0,
+  "_native": ".bin",
+  "_skeletonJson": null,
+  "_atlasText": "\ngameplay_combo_effect_b.png\nsize: 88,32\nformat: RGBA8888\nfilter: MipMap,MipMap\nrepeat: none\npar_a2\n  rotate: false\n  xy: 4, 4\n  size: 24, 24\n  orig: 26, 26\n  offset: 1, 1\n  index: -1\npar_a3\n  rotate: false\n  xy: 32, 4\n  size: 24, 24\n  orig: 26, 26\n  offset: 1, 1\n  index: -1\npar_f\n  rotate: false\n  xy: 60, 4\n  size: 24, 24\n  orig: 26, 26\n  offset: 1, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "20538362-467c-442b-bd2e-5e5e74cd891b"
+    }
+  ],
+  "textureNames": [
+    "gameplay_combo_effect_b.png"
+  ],
+  "scale": 1
+}

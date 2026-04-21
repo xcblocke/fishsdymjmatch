@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"sFfEmO7RCVNrOaQkgC2hMaga8/Q","spine":"3.8.99","x":-0.5,"y":-0.5,"width":1,"height":1},"bones":[{"name":"root"}],"slots":[{"name":"zw","bone":"root","color":"ffffff00","attachment":"zw"}],"skins":[{"name":"default","attachments":{"zw":{"zw":{"width":1,"height":1}}}}],"animations":{"test":{"slots":{"zw":{"color":[{"color":"ffffff00"}]}}}}}

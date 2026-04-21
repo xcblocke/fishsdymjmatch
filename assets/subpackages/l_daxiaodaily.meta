@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "488c602d-9c2e-4745-9e47-d1bf6ceb2d32",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_daxiaodaily",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

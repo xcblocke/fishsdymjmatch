@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_bg_dn",
+    "texture": "80427135-9e4d-43ec-b5a9-5cf3a6103388",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1079,
+      316
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1079,
+      316
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

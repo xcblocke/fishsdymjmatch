@@ -1,0 +1,55 @@
+
+game_kaisuo1.png
+size: 692,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiesuo_4
+  rotate: false
+  xy: 582, 109
+  size: 85, 103
+  orig: 85, 103
+  offset: 0, 0
+  index: -1
+result_33
+  rotate: true
+  xy: 324, 2
+  size: 62, 92
+  orig: 62, 92
+  offset: 0, 0
+  index: -1
+tx/baidian_001
+  rotate: false
+  xy: 477, 13
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+tx/baidian_002
+  rotate: false
+  xy: 418, 9
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+tx/blast_13
+  rotate: false
+  xy: 2, 2
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tx/daxing
+  rotate: false
+  xy: 582, 214
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+tx/quanquan_6
+  rotate: false
+  xy: 324, 66
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

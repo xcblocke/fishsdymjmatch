@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "set_btn_highlight",
+    "texture": "893ebb28-e4f3-4fad-a65a-d17f61407226",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

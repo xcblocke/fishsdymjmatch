@@ -1,0 +1,48 @@
+
+result_fullCombo.png
+size: 200,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow02
+  rotate: false
+  xy: 2, 2
+  size: 178, 112
+  orig: 192, 124
+  offset: 7, 6
+  index: -1
+glow04
+  rotate: true
+  xy: 132, 144
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+glowLight
+  rotate: true
+  xy: 132, 116
+  size: 26, 27
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+glow_ring_01
+  rotate: false
+  xy: 2, 116
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+spot_1
+  rotate: false
+  xy: 182, 104
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+star_box_1
+  rotate: false
+  xy: 161, 120
+  size: 22, 22
+  orig: 28, 28
+  offset: 3, 3
+  index: -1

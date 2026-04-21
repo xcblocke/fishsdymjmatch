@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_word_face_b",
+    "texture": "42ad7e12-6aad-455d-87ff-91049589c6f5",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      882,
+      260
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      889,
+      267
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

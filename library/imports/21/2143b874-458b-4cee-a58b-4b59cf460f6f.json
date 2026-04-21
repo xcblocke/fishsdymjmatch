@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "challenge_img_diban_2",
+    "texture": "0ba1bbc5-4103-43e4-acbc-663e215e1ef5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      535,
+      187
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      535,
+      187
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

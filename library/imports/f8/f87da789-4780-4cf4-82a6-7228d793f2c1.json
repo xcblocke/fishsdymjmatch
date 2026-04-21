@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_img_level_5",
+    "texture": "690f0a8f-7c90-4bbf-b105-013d1cab78f4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      340,
+      368
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      340,
+      368
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

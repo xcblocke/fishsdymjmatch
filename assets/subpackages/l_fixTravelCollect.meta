@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "4af490a8-7a52-4bcc-878a-181fde11c8eb",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_fixTravelCollect",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

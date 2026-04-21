@@ -1,0 +1,13 @@
+
+gameplay_flowingLight.png
+size: 112,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+narajas/100000
+  rotate: false
+  xy: 2, 2
+  size: 108, 128
+  orig: 116, 136
+  offset: 4, 4
+  index: -1

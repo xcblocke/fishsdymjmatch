@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "compjourney_mask_dn",
+    "texture": "396af5e1-3ed1-4a19-8aee-ff1ce8bc1a22",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      513
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      513
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+
+mahjong_result_up1.png
+size: 748,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/s/s_00001
+  rotate: false
+  xy: 516, 15
+  size: 58, 74
+  orig: 142, 141
+  offset: 31, 37
+  index: -1
+images/s/s_00003
+  rotate: false
+  xy: 263, 4
+  size: 65, 81
+  orig: 142, 141
+  offset: 28, 34
+  index: -1
+images/s/s_00005
+  rotate: false
+  xy: 576, 3
+  size: 72, 88
+  orig: 142, 141
+  offset: 25, 31
+  index: -1
+images/s/s_00007
+  rotate: true
+  xy: 330, 10
+  size: 76, 94
+  orig: 142, 141
+  offset: 25, 28
+  index: -1
+images/s/s_00009
+  rotate: true
+  xy: 2, 3
+  size: 82, 97
+  orig: 142, 141
+  offset: 24, 27
+  index: -1
+images/s/s_00011
+  rotate: false
+  xy: 182, 87
+  size: 85, 99
+  orig: 142, 141
+  offset: 24, 27
+  index: -1
+images/s/s_00013
+  rotate: false
+  xy: 93, 87
+  size: 87, 99
+  orig: 142, 141
+  offset: 24, 28
+  index: -1
+images/s/s_00015
+  rotate: false
+  xy: 2, 87
+  size: 89, 99
+  orig: 142, 141
+  offset: 24, 29
+  index: -1
+images/s/s_00017
+  rotate: false
+  xy: 269, 88
+  size: 89, 98
+  orig: 142, 141
+  offset: 25, 30
+  index: -1
+images/s/s_00019
+  rotate: false
+  xy: 360, 90
+  size: 89, 96
+  orig: 142, 141
+  offset: 25, 32
+  index: -1
+images/s/s_00021
+  rotate: false
+  xy: 451, 91
+  size: 89, 95
+  orig: 142, 141
+  offset: 25, 33
+  index: -1
+images/s/s_00023
+  rotate: false
+  xy: 542, 93
+  size: 89, 93
+  orig: 142, 141
+  offset: 26, 35
+  index: -1
+images/s/s_00025
+  rotate: true
+  xy: 426, 2
+  size: 86, 88
+  orig: 142, 141
+  offset: 29, 39
+  index: -1
+images/s/s_00027
+  rotate: false
+  xy: 101, 3
+  size: 81, 82
+  orig: 142, 141
+  offset: 33, 44
+  index: -1
+images/shuzi_1_3
+  rotate: true
+  xy: 665, 137
+  size: 49, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+images/shuzi_1_4
+  rotate: true
+  xy: 665, 81
+  size: 54, 58
+  orig: 55, 59
+  offset: 0, 1
+  index: -1
+images/shuzi_1_5
+  rotate: false
+  xy: 184, 4
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+images/tx/0006
+  rotate: false
+  xy: 633, 119
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+images/tx/baidian_002
+  rotate: false
+  xy: 705, 3
+  size: 34, 34
+  orig: 57, 55
+  offset: 11, 10
+  index: -1
+images/tx/dian6
+  rotate: false
+  xy: 650, 24
+  size: 53, 55
+  orig: 67, 70
+  offset: 8, 9
+  index: -1
+images/tx/mj_7
+  rotate: false
+  xy: 705, 39
+  size: 41, 40
+  orig: 47, 46
+  offset: 3, 3
+  index: -1

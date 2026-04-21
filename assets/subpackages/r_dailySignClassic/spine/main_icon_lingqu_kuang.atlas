@@ -1,0 +1,188 @@
+
+main_icon_lingqu_kuang.png
+size: 993,644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang_13
+  rotate: false
+  xy: 778, 171
+  size: 159, 151
+  orig: 169, 160
+  offset: 5, 5
+  index: -1
+baoxiang_8
+  rotate: true
+  xy: 2, 324
+  size: 318, 284
+  orig: 318, 284
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0000
+  rotate: true
+  xy: 2, 101
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0002
+  rotate: true
+  xy: 99, 101
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0004
+  rotate: false
+  xy: 101, 4
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0006
+  rotate: true
+  xy: 196, 101
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0008
+  rotate: true
+  xy: 288, 421
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0010
+  rotate: false
+  xy: 288, 324
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0012
+  rotate: true
+  xy: 385, 421
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0014
+  rotate: true
+  xy: 482, 421
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0016
+  rotate: true
+  xy: 293, 101
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0018
+  rotate: false
+  xy: 324, 4
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0020
+  rotate: true
+  xy: 390, 101
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0022
+  rotate: true
+  xy: 487, 101
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0024
+  rotate: false
+  xy: 511, 324
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0026
+  rotate: true
+  xy: 579, 421
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0028
+  rotate: true
+  xy: 676, 421
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0030
+  rotate: false
+  xy: 547, 4
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0032
+  rotate: true
+  xy: 584, 101
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0034
+  rotate: true
+  xy: 681, 101
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0036
+  rotate: false
+  xy: 734, 324
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0038
+  rotate: true
+  xy: 773, 421
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0040
+  rotate: true
+  xy: 870, 421
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+png/baoxiang_8_0042
+  rotate: false
+  xy: 770, 4
+  size: 221, 95
+  orig: 221, 95
+  offset: 0, 0
+  index: -1
+tx/baidian_002
+  rotate: false
+  xy: 957, 385
+  size: 34, 34
+  orig: 57, 55
+  offset: 11, 10
+  index: -1
+tx/daxing
+  rotate: false
+  xy: 2, 2
+  size: 97, 97
+  orig: 108, 108
+  offset: 6, 6
+  index: -1

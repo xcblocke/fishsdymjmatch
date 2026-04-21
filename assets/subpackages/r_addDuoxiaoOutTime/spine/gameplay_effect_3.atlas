@@ -1,0 +1,139 @@
+
+gameplay_effect_3.png
+size: 880,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang1/glow1_4_00000
+  rotate: false
+  xy: 325, 354
+  size: 142, 172
+  orig: 180, 203
+  offset: 19, 16
+  index: -1
+kuang1/glow1_4_00001
+  rotate: false
+  xy: 149, 176
+  size: 143, 172
+  orig: 180, 203
+  offset: 19, 16
+  index: -1
+kuang1/glow1_4_00002
+  rotate: false
+  xy: 2, 2
+  size: 144, 172
+  orig: 180, 203
+  offset: 19, 16
+  index: -1
+kuang1/glow1_4_00003
+  rotate: false
+  xy: 2, 176
+  size: 145, 172
+  orig: 180, 203
+  offset: 18, 16
+  index: -1
+kuang1/glow1_4_00004
+  rotate: false
+  xy: 438, 7
+  size: 145, 171
+  orig: 180, 203
+  offset: 18, 16
+  index: -1
+kuang1/glow1_4_00005
+  rotate: false
+  xy: 469, 356
+  size: 145, 170
+  orig: 180, 203
+  offset: 18, 17
+  index: -1
+kuang1/glow1_4_00006
+  rotate: false
+  xy: 616, 357
+  size: 145, 169
+  orig: 180, 203
+  offset: 18, 17
+  index: -1
+kuang1/glow1_4_00007
+  rotate: false
+  xy: 733, 186
+  size: 145, 169
+  orig: 180, 203
+  offset: 18, 17
+  index: -1
+kuang1/glow1_4_00008
+  rotate: false
+  xy: 733, 15
+  size: 145, 169
+  orig: 180, 203
+  offset: 18, 17
+  index: -1
+kuang1/glow1_4_00009
+  rotate: false
+  xy: 585, 9
+  size: 145, 170
+  orig: 180, 203
+  offset: 18, 16
+  index: -1
+kuang1/glow1_4_00010
+  rotate: false
+  xy: 586, 184
+  size: 145, 170
+  orig: 180, 203
+  offset: 18, 16
+  index: -1
+kuang1/glow1_4_00011
+  rotate: false
+  xy: 439, 181
+  size: 145, 171
+  orig: 180, 203
+  offset: 18, 16
+  index: -1
+kuang1/glow1_4_00012
+  rotate: false
+  xy: 148, 2
+  size: 144, 172
+  orig: 180, 203
+  offset: 19, 15
+  index: -1
+kuang1/glow1_4_00013
+  rotate: false
+  xy: 180, 354
+  size: 143, 172
+  orig: 180, 203
+  offset: 19, 15
+  index: -1
+kuang1/glow1_4_00014
+  rotate: false
+  xy: 294, 180
+  size: 143, 172
+  orig: 180, 203
+  offset: 19, 15
+  index: -1
+kuang1/glow1_4_00015
+  rotate: false
+  xy: 294, 6
+  size: 142, 172
+  orig: 180, 203
+  offset: 19, 15
+  index: -1
+tx/bai3
+  rotate: false
+  xy: 2, 350
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+tx/mj_7
+  rotate: true
+  xy: 763, 377
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+tx/ornge1
+  rotate: false
+  xy: 763, 426
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_word_lucky",
+    "texture": "3ae55afb-c79e-4632-83be-ad5b76f929a3",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      703,
+      401
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      712,
+      409
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

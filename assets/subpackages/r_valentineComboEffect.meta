@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "457458ed-9ea1-426e-86cb-a0b59ba8108b",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_valentineComboEffect",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

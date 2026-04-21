@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_flip_10",
+    "texture": "78144a4f-316f-4438-8b1f-37e0ac890811",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      436,
+      499
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      440,
+      503
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

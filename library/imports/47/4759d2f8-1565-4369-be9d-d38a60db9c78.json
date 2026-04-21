@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_img_medal_7_2",
+    "texture": "836f7e61-1e02-416d-92cd-0c60c08f493c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      355,
+      397
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      355,
+      397
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "1dc9a0ea-2f65-481e-bcf2-1193def9060a",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_gameTopLabScale",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

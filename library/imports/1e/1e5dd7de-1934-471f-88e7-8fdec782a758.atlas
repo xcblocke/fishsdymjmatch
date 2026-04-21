@@ -1,0 +1,167 @@
+
+gameplay_elimination_a.png
+size: 1554,1539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui2
+  rotate: false
+  xy: 1351, 106
+  size: 172, 162
+  orig: 172, 162
+  offset: 0, 0
+  index: -1
+shui_maj_0
+  rotate: false
+  xy: 2, 6
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+shui_maj_1
+  rotate: false
+  xy: 1067, 76
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+shui_maj_10
+  rotate: false
+  xy: 343, 15
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+shui_maj_14
+  rotate: false
+  xy: 112, 22
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+shui_maj_2
+  rotate: false
+  xy: 407, 28
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+shui_maj_3
+  rotate: false
+  xy: 1067, 32
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+shui_maj_6
+  rotate: false
+  xy: 1161, 107
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+shui_maj_7
+  rotate: false
+  xy: 473, 40
+  size: 73, 39
+  orig: 73, 39
+  offset: 0, 0
+  index: -1
+shui_maj_8
+  rotate: false
+  xy: 1325, 468
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+shuihuan1_1
+  rotate: false
+  xy: 2, 735
+  size: 772, 802
+  orig: 772, 802
+  offset: 0, 0
+  index: -1
+shuihuan1_10
+  rotate: false
+  xy: 1351, 270
+  size: 170, 221
+  orig: 170, 221
+  offset: 0, 0
+  index: -1
+shuihuan1_11
+  rotate: false
+  xy: 199, 16
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
+shuihuan1_14
+  rotate: false
+  xy: 630, 248
+  size: 461, 485
+  orig: 461, 485
+  offset: 0, 0
+  index: -1
+shuihuan1_2
+  rotate: true
+  xy: 630, 85
+  size: 161, 304
+  orig: 161, 304
+  offset: 0, 0
+  index: -1
+shuihuan1_4
+  rotate: false
+  xy: 2, 81
+  size: 626, 652
+  orig: 626, 652
+  offset: 0, 0
+  index: -1
+shuihuan1_5
+  rotate: true
+  xy: 776, 735
+  size: 802, 767
+  orig: 802, 767
+  offset: 0, 0
+  index: -1
+shuihuan1_6
+  rotate: false
+  xy: 1093, 417
+  size: 230, 316
+  orig: 230, 316
+  offset: 0, 0
+  index: -1
+shuihuan1_7
+  rotate: false
+  xy: 936, 112
+  size: 117, 134
+  orig: 117, 134
+  offset: 0, 0
+  index: -1
+shuihuan1_8
+  rotate: false
+  xy: 936, 2
+  size: 129, 108
+  orig: 129, 108
+  offset: 0, 0
+  index: -1
+shuihuan1_9
+  rotate: true
+  xy: 1325, 493
+  size: 240, 227
+  orig: 240, 227
+  offset: 0, 0
+  index: -1
+tx/dian6
+  rotate: true
+  xy: 271, 12
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+tx/q1
+  rotate: false
+  xy: 1093, 159
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

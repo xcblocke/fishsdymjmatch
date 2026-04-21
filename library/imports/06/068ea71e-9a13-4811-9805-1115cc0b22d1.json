@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_img_box_3",
+    "texture": "bbfc6a60-4831-4ac9-8664-0284eba9dcb6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      340,
+      405
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      340,
+      405
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

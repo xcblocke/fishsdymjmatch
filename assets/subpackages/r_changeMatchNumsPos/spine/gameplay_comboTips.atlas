@@ -1,0 +1,27 @@
+
+gameplay_comboTips.png
+size: 306,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb_2
+  rotate: false
+  xy: 2, 181
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+cb_3
+  rotate: false
+  xy: 39, 99
+  size: 257, 117
+  orig: 257, 117
+  offset: 0, 0
+  index: -1
+cb_4
+  rotate: false
+  xy: 2, 2
+  size: 302, 95
+  orig: 302, 95
+  offset: 0, 0
+  index: -1

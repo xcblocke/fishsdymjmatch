@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "c86b39c8-a200-47f3-8136-eaa9c8d40bd5",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_firstRoundNoInterAd",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_selected_efx",
+    "texture": "bcd3dacb-50d0-4780-a810-12d05cbcf1f6",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      969,
+      517
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      977,
+      525
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

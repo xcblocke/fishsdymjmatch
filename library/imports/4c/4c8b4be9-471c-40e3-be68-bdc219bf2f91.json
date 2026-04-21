@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ad_icon_refresh",
+    "texture": "bbcbc2f0-09cf-4571-9e66-481f4c3ab46b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      253,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      253,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

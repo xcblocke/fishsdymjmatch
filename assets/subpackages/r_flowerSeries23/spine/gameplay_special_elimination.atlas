@@ -1,0 +1,76 @@
+
+gameplay_special_elimination.png
+size: 996,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ef_gd1
+  rotate: false
+  xy: 629, 225
+  size: 216, 220
+  orig: 400, 400
+  offset: 92, 90
+  index: -1
+images/ef_sx
+  rotate: false
+  xy: 132, 11
+  size: 116, 110
+  orig: 400, 400
+  offset: 140, 144
+  index: -1
+images/mz_19
+  rotate: false
+  xy: 402, 214
+  size: 225, 231
+  orig: 256, 256
+  offset: 14, 14
+  index: -1
+kuosanyan
+  rotate: false
+  xy: 2, 123
+  size: 398, 322
+  orig: 398, 323
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 402, 16
+  size: 196, 196
+  orig: 256, 256
+  offset: 30, 30
+  index: -1
+xingxing1
+  rotate: false
+  xy: 250, 18
+  size: 103, 103
+  orig: 128, 128
+  offset: 13, 12
+  index: -1
+xingxing11
+  rotate: false
+  xy: 600, 16
+  size: 196, 196
+  orig: 256, 256
+  offset: 30, 30
+  index: -1
+xingxing2
+  rotate: true
+  xy: 2, 2
+  size: 119, 128
+  orig: 125, 128
+  offset: 6, 0
+  index: -1
+xingxing22
+  rotate: false
+  xy: 798, 27
+  size: 196, 196
+  orig: 256, 256
+  offset: 30, 30
+  index: -1
+xingxing3
+  rotate: false
+  xy: 847, 314
+  size: 142, 131
+  orig: 150, 173
+  offset: 2, 9
+  index: -1

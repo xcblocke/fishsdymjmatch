@@ -1,0 +1,34 @@
+
+main_icon_lingqu_7baoxaing.png
+size: 185,429
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 159
+  size: 162, 138
+  orig: 164, 140
+  offset: 1, 1
+  index: -1
+7_xiaoxiangzi
+  rotate: false
+  xy: 2, 2
+  size: 172, 155
+  orig: 172, 155
+  offset: 0, 0
+  index: -1
+tx/baidian_001
+  rotate: true
+  xy: 2, 377
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+tx/tex_light
+  rotate: false
+  xy: 55, 299
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

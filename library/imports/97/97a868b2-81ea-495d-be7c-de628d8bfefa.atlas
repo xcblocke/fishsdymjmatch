@@ -1,0 +1,41 @@
+
+journey_map_rose.png
+size: 924,383
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+hua_1
+  rotate: true
+  xy: 710, 13
+  size: 141, 192
+  orig: 143, 194
+  offset: 1, 1
+  index: -1
+hua_2
+  rotate: false
+  xy: 710, 158
+  size: 168, 221
+  orig: 172, 223
+  offset: 2, 2
+  index: -1
+huaban1
+  rotate: true
+  xy: 882, 318
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+xueRen_di_1
+  rotate: false
+  xy: 354, 13
+  size: 352, 366
+  orig: 354, 368
+  offset: 1, 1
+  index: -1
+xueRen_di_2
+  rotate: false
+  xy: 4, 4
+  size: 346, 375
+  orig: 350, 379
+  offset: 2, 2
+  index: -1

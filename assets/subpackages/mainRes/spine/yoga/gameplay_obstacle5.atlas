@@ -1,0 +1,111 @@
+
+gameplay_obstacle5.png
+size: 931,735
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blast_12
+  rotate: false
+  xy: 606, 153
+  size: 278, 278
+  orig: 278, 278
+  offset: 0, 0
+  index: -1
+mj_7
+  rotate: true
+  xy: 270, 18
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+pian1
+  rotate: true
+  xy: 90, 25
+  size: 104, 75
+  orig: 104, 75
+  offset: 0, 0
+  index: -1
+tsp_6
+  rotate: true
+  xy: 606, 2
+  size: 149, 181
+  orig: 149, 181
+  offset: 0, 0
+  index: -1
+tx/baidian_002
+  rotate: true
+  xy: 213, 8
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+tx/zhuan_00000
+  rotate: false
+  xy: 2, 433
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+tx/zhuan_00001
+  rotate: false
+  xy: 2, 131
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+tx/zhuan_00002
+  rotate: false
+  xy: 304, 433
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+tx/zhuan_00003
+  rotate: false
+  xy: 304, 131
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+tx/zhuan_00004
+  rotate: false
+  xy: 606, 433
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+xj_11
+  rotate: false
+  xy: 90, 11
+  size: 121, 12
+  orig: 121, 12
+  offset: 0, 0
+  index: -1
+xj_12
+  rotate: false
+  xy: 789, 7
+  size: 140, 144
+  orig: 140, 144
+  offset: 0, 0
+  index: -1
+xj_6
+  rotate: false
+  xy: 90, 2
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+xj_7
+  rotate: true
+  xy: 2, 5
+  size: 124, 86
+  orig: 124, 86
+  offset: 0, 0
+  index: -1
+xj_8
+  rotate: false
+  xy: 167, 67
+  size: 106, 62
+  orig: 106, 62
+  offset: 0, 0
+  index: -1

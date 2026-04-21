@@ -1,0 +1,34 @@
+
+                (function() {
+                    var nodeEnv = typeof require !== 'undefined' && typeof process !== 'undefined';
+                    var __module = nodeEnv ? module : {exports:{}};
+                    var __filename = 'preview-scripts/assets/Scripts/simulator/constant/Tile2Interface.js';
+                    var __require = nodeEnv ? function (request) {
+                        return cc.require(request);
+                    } : function (request) {
+                        return __quick_compile_project__.require(request, __filename);
+                    };
+                    function __define (exports, require, module) {
+                        if (!nodeEnv) {__quick_compile_project__.registerModule(__filename, module);}"use strict";
+cc._RF.push(module, 'ea5837Q8DdO2qN1mErncxco', 'Tile2Interface');
+// Scripts/simulator/constant/Tile2Interface.ts
+
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.ETile2ClearType = void 0;
+exports.ETile2ClearType = {
+    InSlotBar: "inSlotBar",
+    OutSlotBar: "outSlotBar"
+};
+
+cc._RF.pop();
+                    }
+                    if (nodeEnv) {
+                        __define(__module.exports, __require, __module);
+                    }
+                    else {
+                        __quick_compile_project__.registerModuleFunc(__filename, function () {
+                            __define(__module.exports, __require, __module);
+                        });
+                    }
+                })();
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFzc2V0cy9TY3JpcHRzL3NpbXVsYXRvci9jb25zdGFudC9UaWxlMkludGVyZmFjZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7Ozs7OztBQUFXLFFBQUEsZUFBZSxHQUFHO0lBQzNCLFNBQVMsRUFBRSxXQUFXO0lBQ3RCLFVBQVUsRUFBRSxZQUFZO0NBQ3pCLENBQUMiLCJmaWxlIjoiIiwic291cmNlUm9vdCI6Ii8iLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgdmFyIEVUaWxlMkNsZWFyVHlwZSA9IHtcbiAgSW5TbG90QmFyOiBcImluU2xvdEJhclwiLFxuICBPdXRTbG90QmFyOiBcIm91dFNsb3RCYXJcIlxufTsiXX0=

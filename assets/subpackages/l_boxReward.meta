@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "3b234eb1-9a5b-4112-bea2-53b33e47c3f9",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_boxReward",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

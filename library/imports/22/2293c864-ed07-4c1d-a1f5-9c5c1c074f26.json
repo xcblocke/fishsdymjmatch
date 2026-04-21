@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rate_img_star",
+    "texture": "579706cc-bc12-4351-91d1-9f46190b7037",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      121
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

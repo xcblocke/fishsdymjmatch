@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "H_ju",
+    "texture": "f6b62860-ad44-4a34-b984-c84c3114ea0a",
+    "atlas": "f01a66bb-73cc-418e-8a2a-f153bfd6c81d",
+    "rect": [
+      1837,
+      3,
+      127,
+      127
+    ],
+    "offset": [
+      -5,
+      7
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

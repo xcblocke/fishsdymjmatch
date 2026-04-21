@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "task_box_01_open",
+    "texture": "0168c781-7395-4e53-ae88-7618a3e89ea5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      117
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "86777b55-1de5-439f-b8d2-15e4d13c215f",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_magnet",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

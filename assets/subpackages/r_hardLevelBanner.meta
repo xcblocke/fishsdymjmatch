@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "b426a12d-2e97-4ded-b677-73e0d4b267dc",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_hardLevelBanner",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

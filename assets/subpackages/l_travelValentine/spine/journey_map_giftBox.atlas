@@ -1,0 +1,132 @@
+
+journey_map_giftBox.png
+size: 988,877
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+hs
+  rotate: false
+  xy: 840, 605
+  size: 124, 88
+  orig: 124, 88
+  offset: 0, 0
+  index: -1
+liwu1_di
+  rotate: false
+  xy: 639, 263
+  size: 160, 162
+  orig: 162, 163
+  offset: 1, 1
+  index: -1
+lw1_bs
+  rotate: true
+  xy: 840, 697
+  size: 176, 144
+  orig: 184, 149
+  offset: 4, 3
+  index: -1
+lw1_hdj
+  rotate: false
+  xy: 256, 40
+  size: 221, 132
+  orig: 226, 146
+  offset: 2, 0
+  index: -1
+lw1_hezi
+  rotate: false
+  xy: 333, 206
+  size: 302, 332
+  orig: 306, 333
+  offset: 2, 1
+  index: -1
+lw1_sd
+  rotate: false
+  xy: 314, 542
+  size: 304, 331
+  orig: 304, 331
+  offset: 0, 0
+  index: -1
+lw2_di
+  rotate: false
+  xy: 803, 142
+  size: 162, 127
+  orig: 162, 127
+  offset: 0, 0
+  index: -1
+lw2_hdj
+  rotate: false
+  xy: 4, 4
+  size: 248, 168
+  orig: 250, 168
+  offset: 2, 0
+  index: -1
+lw2_hezi
+  rotate: false
+  xy: 4, 176
+  size: 325, 329
+  orig: 333, 332
+  offset: 4, 2
+  index: -1
+lw2_sidai
+  rotate: true
+  xy: 622, 583
+  size: 290, 214
+  orig: 294, 217
+  offset: 2, 2
+  index: -1
+lw3_bs
+  rotate: false
+  xy: 823, 429
+  size: 154, 150
+  orig: 164, 159
+  offset: 5, 4
+  index: -1
+lw3_di
+  rotate: false
+  xy: 481, 25
+  size: 159, 177
+  orig: 159, 177
+  offset: 0, 0
+  index: -1
+lw3_hdj_r_1
+  rotate: false
+  xy: 644, 135
+  size: 152, 124
+  orig: 152, 124
+  offset: 0, 0
+  index: -1
+lw3_hdj_r_2
+  rotate: false
+  xy: 800, 17
+  size: 147, 121
+  orig: 147, 122
+  offset: 0, 1
+  index: -1
+lw3_hdj_r_3
+  rotate: true
+  xy: 644, 46
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+lw3_hdj_r_4
+  rotate: true
+  xy: 639, 429
+  size: 150, 180
+  orig: 150, 180
+  offset: 0, 0
+  index: -1
+lw3_hezi
+  rotate: false
+  xy: 4, 509
+  size: 306, 364
+  orig: 308, 365
+  offset: 1, 1
+  index: -1
+lw3_sidai
+  rotate: true
+  xy: 803, 273
+  size: 152, 170
+  orig: 152, 170
+  offset: 0, 0
+  index: -1

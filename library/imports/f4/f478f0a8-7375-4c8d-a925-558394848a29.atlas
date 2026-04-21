@@ -1,0 +1,104 @@
+
+gameplay_special_elimination.png
+size: 967,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/dolphin
+  rotate: true
+  xy: 613, 54
+  size: 219, 198
+  orig: 219, 198
+  offset: 0, 0
+  index: -1
+FX/water/water_000
+  rotate: false
+  xy: 650, 2
+  size: 104, 50
+  orig: 249, 156
+  offset: 71, 18
+  index: -1
+FX/water/water_001
+  rotate: false
+  xy: 813, 200
+  size: 152, 73
+  orig: 249, 156
+  offset: 46, 15
+  index: -1
+FX/water/water_002
+  rotate: true
+  xy: 813, 4
+  size: 194, 142
+  orig: 249, 156
+  offset: 25, 13
+  index: -1
+FX/water/water_003
+  rotate: true
+  xy: 468, 51
+  size: 222, 143
+  orig: 249, 156
+  offset: 11, 12
+  index: -1
+FX/water/water_004
+  rotate: true
+  xy: 329, 45
+  size: 228, 137
+  orig: 249, 156
+  offset: 8, 11
+  index: -1
+FX/water/water_005
+  rotate: true
+  xy: 127, 41
+  size: 232, 119
+  orig: 249, 156
+  offset: 6, 10
+  index: -1
+FX/water/water_006
+  rotate: true
+  xy: 248, 41
+  size: 232, 79
+  orig: 249, 156
+  offset: 6, 9
+  index: -1
+FX/water/water_007
+  rotate: true
+  xy: 65, 39
+  size: 234, 60
+  orig: 249, 156
+  offset: 5, 8
+  index: -1
+FX/water/water_008
+  rotate: true
+  xy: 2, 39
+  size: 234, 61
+  orig: 249, 156
+  offset: 5, 7
+  index: -1
+FX/water/water_009
+  rotate: false
+  xy: 2, 8
+  size: 234, 29
+  orig: 249, 156
+  offset: 5, 7
+  index: -1
+FX/water/water_010
+  rotate: false
+  xy: 238, 10
+  size: 214, 29
+  orig: 249, 156
+  offset: 15, 6
+  index: -1
+FX/water/water_011
+  rotate: false
+  xy: 454, 26
+  size: 194, 17
+  orig: 249, 156
+  offset: 32, 18
+  index: -1
+FX/water/water_012
+  rotate: false
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

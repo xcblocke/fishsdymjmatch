@@ -1,0 +1,265 @@
+
+main_snowScene_christmas.png
+size: 1206,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangDian
+  rotate: false
+  xy: 1136, 236
+  size: 31, 31
+  orig: 42, 42
+  offset: 5, 6
+  index: -1
+new_laoren
+  rotate: true
+  xy: 682, 15
+  size: 145, 56
+  orig: 145, 56
+  offset: 0, 0
+  index: -1
+new_light
+  rotate: false
+  xy: 1052, 127
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+new_maozi
+  rotate: true
+  xy: 1052, 6
+  size: 110, 77
+  orig: 122, 85
+  offset: 0, 8
+  index: -1
+w_1
+  rotate: true
+  xy: 1036, 233
+  size: 113, 98
+  orig: 131, 125
+  offset: 11, 13
+  index: -1
+w_2
+  rotate: true
+  xy: 945, 3
+  size: 45, 37
+  orig: 50, 50
+  offset: 3, 7
+  index: -1
+w_6
+  rotate: true
+  xy: 920, 230
+  size: 116, 114
+  orig: 140, 140
+  offset: 13, 13
+  index: -1
+w_7
+  rotate: true
+  xy: 920, 230
+  size: 116, 114
+  orig: 140, 140
+  offset: 13, 13
+  index: -1
+w_8
+  rotate: true
+  xy: 936, 50
+  size: 115, 114
+  orig: 140, 140
+  offset: 10, 13
+  index: -1
+xj_10
+  rotate: true
+  xy: 501, 93
+  size: 253, 179
+  orig: 254, 200
+  offset: 0, 0
+  index: -1
+xj_11
+  rotate: true
+  xy: 388, 57
+  size: 289, 111
+  orig: 300, 123
+  offset: 5, 7
+  index: -1
+xj_12
+  rotate: false
+  xy: 682, 162
+  size: 132, 184
+  orig: 139, 184
+  offset: 7, 0
+  index: -1
+xj_13
+  rotate: true
+  xy: 1131, 23
+  size: 93, 24
+  orig: 94, 25
+  offset: 0, 1
+  index: -1
+xj_14
+  rotate: false
+  xy: 580, 3
+  size: 57, 88
+  orig: 57, 92
+  offset: 0, 4
+  index: -1
+xj_15
+  rotate: true
+  xy: 1019, 171
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+xj_16
+  rotate: true
+  xy: 839, 2
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+xj_17
+  rotate: false
+  xy: 1096, 118
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+xj_18
+  rotate: false
+  xy: 1096, 212
+  size: 97, 19
+  orig: 97, 20
+  offset: 0, 1
+  index: -1
+xj_19
+  rotate: false
+  xy: 740, 4
+  size: 97, 26
+  orig: 98, 28
+  offset: 0, 0
+  index: -1
+xj_2
+  rotate: true
+  xy: 740, 32
+  size: 128, 90
+  orig: 166, 90
+  offset: 8, 0
+  index: -1
+xj_20
+  rotate: true
+  xy: 920, 167
+  size: 61, 97
+  orig: 61, 97
+  offset: 0, 0
+  index: -1
+xj_21
+  rotate: true
+  xy: 408, 4
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+xj_22
+  rotate: false
+  xy: 1169, 236
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+xj_23
+  rotate: true
+  xy: 1052, 144
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+xj_24
+  rotate: false
+  xy: 552, 25
+  size: 26, 30
+  orig: 26, 31
+  offset: 0, 1
+  index: -1
+xj_3
+  rotate: true
+  xy: 639, 7
+  size: 84, 41
+  orig: 88, 41
+  offset: 4, 0
+  index: -1
+xj_4
+  rotate: true
+  xy: 455, 5
+  size: 50, 48
+  orig: 50, 54
+  offset: 0, 6
+  index: -1
+xj_5
+  rotate: false
+  xy: 832, 39
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+xj_6
+  rotate: true
+  xy: 816, 167
+  size: 179, 102
+  orig: 181, 102
+  offset: 2, 0
+  index: -1
+xj_7
+  rotate: true
+  xy: 1136, 269
+  size: 77, 68
+  orig: 77, 70
+  offset: 0, 2
+  index: -1
+xj_8
+  rotate: false
+  xy: 501, 57
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+xj_9
+  rotate: true
+  xy: 388, 2
+  size: 53, 18
+  orig: 55, 19
+  offset: 2, 1
+  index: -1
+xj_9b
+  rotate: false
+  xy: 1157, 25
+  size: 31, 91
+  orig: 31, 91
+  offset: 0, 0
+  index: -1
+xueHua_1
+  rotate: false
+  xy: 505, 5
+  size: 45, 50
+  orig: 50, 57
+  offset: 2, 2
+  index: -1
+xueHua_2
+  rotate: false
+  xy: 909, 3
+  size: 34, 34
+  orig: 43, 38
+  offset: 3, 2
+  index: -1
+xueHua_3
+  rotate: false
+  xy: 552, 5
+  size: 16, 18
+  orig: 19, 20
+  offset: 1, 1
+  index: -1
+yanCong
+  rotate: false
+  xy: 2, 2
+  size: 384, 344
+  orig: 384, 344
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,372 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_majong_glow",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "yxJ7tU7Vr7qtwsRr0ARV8BXVtQ8",
+      "spine": "3.8.99",
+      "x": -85.5,
+      "y": -104.5,
+      "width": 171,
+      "height": 209
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "glow",
+        "parent": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "glow"
+      },
+      {
+        "name": "bone4",
+        "parent": "glow"
+      },
+      {
+        "name": "glow2",
+        "parent": "glow"
+      },
+      {
+        "name": "bone6",
+        "parent": "glow2"
+      },
+      {
+        "name": "bone7",
+        "parent": "glow2"
+      },
+      {
+        "name": "nei",
+        "parent": "glow"
+      }
+    ],
+    "slots": [
+      {
+        "name": "glow/glwo2",
+        "bone": "bone7",
+        "color": "fef964ff"
+      },
+      {
+        "name": "glow/glwo",
+        "bone": "bone6",
+        "color": "fef86491",
+        "blend": "additive"
+      },
+      {
+        "name": "glow/nei_glow",
+        "bone": "nei",
+        "color": "fdfb2eff",
+        "attachment": "glow/nei_glow",
+        "blend": "additive"
+      },
+      {
+        "name": "bone2",
+        "bone": "glow",
+        "attachment": "bone2"
+      },
+      {
+        "name": "glow/saoguang",
+        "bone": "bone3",
+        "blend": "additive"
+      },
+      {
+        "name": "glow/saoguang2",
+        "bone": "bone4",
+        "blend": "additive"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "bone2": {
+            "bone2": {
+              "type": "clipping",
+              "end": "glow/saoguang2",
+              "vertexCount": 18,
+              "vertices": [
+                68.69,
+                88.11,
+                64.5,
+                93.52,
+                58.33,
+                97.54,
+                -62.06,
+                98.21,
+                -69.62,
+                95.09,
+                -75.39,
+                89.84,
+                -78.29,
+                83.21,
+                -78.51,
+                39.91,
+                -78.4,
+                -69.39,
+                -66.2,
+                -90.75,
+                -62.11,
+                -93.95,
+                -57.22,
+                -96.89,
+                65.85,
+                -96.76,
+                70.12,
+                -94.62,
+                74.4,
+                -91.06,
+                77.78,
+                -86.25,
+                78.58,
+                -83.49,
+                78.52,
+                71.2
+              ]
+            }
+          },
+          "glow/glwo": {
+            "glow/glwo": {
+              "width": 187,
+              "height": 225
+            }
+          },
+          "glow/glwo2": {
+            "glow/glwo": {
+              "width": 187,
+              "height": 225
+            }
+          },
+          "glow/nei_glow": {
+            "glow/nei_glow": {
+              "width": 171,
+              "height": 209
+            }
+          },
+          "glow/saoguang": {
+            "glow/saoguang": {
+              "x": -23.16,
+              "y": 29.26,
+              "scaleY": 1.6986,
+              "rotation": 38.37,
+              "width": 66,
+              "height": 332
+            }
+          },
+          "glow/saoguang2": {
+            "glow/saoguang": {
+              "x": -23.16,
+              "y": 29.26,
+              "scaleY": 1.6986,
+              "rotation": 38.37,
+              "width": 66,
+              "height": 332
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "in": {
+        "slots": {
+          "glow/glwo": {
+            "color": [
+              {
+                "color": "fef86400",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1,
+                "color": "fef86400"
+              },
+              {
+                "time": 0.2,
+                "color": "fffbacd7",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.6,
+                "color": "fef86400"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "glow/glwo"
+              },
+              {
+                "time": 0.1,
+                "name": "glow/glwo"
+              }
+            ]
+          },
+          "glow/glwo2": {
+            "color": [
+              {
+                "color": "fef86400",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1,
+                "color": "fef86400"
+              },
+              {
+                "time": 0.2,
+                "color": "fef964ff",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.6,
+                "color": "fef86400"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "glow/glwo"
+              },
+              {
+                "time": 0.1,
+                "name": "glow/glwo"
+              }
+            ]
+          },
+          "glow/nei_glow": {
+            "color": [
+              {
+                "color": "fdfb2e00"
+              },
+              {
+                "time": 0.2,
+                "color": "fffeb9ff"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "glow/nei_glow"
+              }
+            ]
+          },
+          "glow/saoguang": {
+            "color": [
+              {
+                "time": 0.5333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff5e"
+              },
+              {
+                "time": 1,
+                "color": "ffffff33"
+              },
+              {
+                "time": 1.2667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5333,
+                "name": "glow/saoguang"
+              }
+            ]
+          },
+          "glow/saoguang2": {
+            "color": [
+              {
+                "time": 0.5333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff5e"
+              },
+              {
+                "time": 1,
+                "color": "ffffff33"
+              },
+              {
+                "time": 1.2667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.5333,
+                "name": "glow/saoguang"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "glow2": {
+            "translate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1,
+                "curve": 0,
+                "c2": 0.57,
+                "c3": 0.75
+              },
+              {
+                "time": 0.5333,
+                "x": 1.176,
+                "y": 1.176
+              }
+            ]
+          },
+          "bone3": {
+            "translate": [
+              {
+                "time": 0.5333
+              },
+              {
+                "time": 1.2667,
+                "x": 79.44,
+                "y": 68.57
+              }
+            ]
+          },
+          "bone4": {
+            "translate": [
+              {
+                "time": 0.5333
+              },
+              {
+                "time": 1.2667,
+                "x": -71.97,
+                "y": -85.55
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ngameplay_majong_glow.png\nsize: 360,284\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nglow/glwo\n  rotate: false\n  xy: 2, 61\n  size: 183, 221\n  orig: 187, 225\n  offset: 2, 2\n  index: -1\nglow/nei_glow\n  rotate: false\n  xy: 187, 73\n  size: 171, 209\n  orig: 171, 209\n  offset: 0, 0\n  index: -1\nglow/saoguang\n  rotate: true\n  xy: 2, 2\n  size: 57, 296\n  orig: 66, 332\n  offset: 5, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "2d907a0f-9994-4ec7-8df2-5a4559b10d74"
+    }
+  ],
+  "textureNames": [
+    "gameplay_majong_glow.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "d4a5ea9b-6b04-4fd2-8d2d-06329277942e",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_unifyLibFormat",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

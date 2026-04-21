@@ -1,0 +1,104 @@
+
+journey_map_ball.png
+size: 1362,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangZi_1
+  rotate: false
+  xy: 1026, 124
+  size: 264, 228
+  orig: 264, 228
+  offset: 0, 0
+  index: -1
+icon1
+  rotate: false
+  xy: 1146, 81
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+icon2
+  rotate: false
+  xy: 1188, 94
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+icon3
+  rotate: false
+  xy: 1233, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+qq1
+  rotate: true
+  xy: 1085, 17
+  size: 105, 59
+  orig: 105, 59
+  offset: 0, 0
+  index: -1
+qq2
+  rotate: true
+  xy: 1146, 20
+  size: 59, 85
+  orig: 59, 85
+  offset: 0, 0
+  index: -1
+qq3
+  rotate: false
+  xy: 1292, 183
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+qq4
+  rotate: true
+  xy: 1233, 29
+  size: 93, 44
+  orig: 93, 44
+  offset: 0, 0
+  index: -1
+qq5
+  rotate: false
+  xy: 1292, 81
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+qq6
+  rotate: false
+  xy: 1026, 3
+  size: 57, 119
+  orig: 57, 119
+  offset: 0, 0
+  index: -1
+qq7
+  rotate: false
+  xy: 1292, 267
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+xueRen_di_1
+  rotate: true
+  xy: 2, 2
+  size: 350, 372
+  orig: 350, 372
+  offset: 0, 0
+  index: -1
+xueRen_di_2
+  rotate: false
+  xy: 376, 2
+  size: 323, 350
+  orig: 323, 350
+  offset: 0, 0
+  index: -1
+xueRen_di_3
+  rotate: false
+  xy: 701, 2
+  size: 323, 350
+  orig: 462, 447
+  offset: 72, 44
+  index: -1

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "cb7f2253-021f-4fcb-881a-17d5789dcc94",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_lowDevicePerf",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

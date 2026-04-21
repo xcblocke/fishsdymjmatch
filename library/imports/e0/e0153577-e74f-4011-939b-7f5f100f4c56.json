@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "main_newSeason",
+    "texture": "5b9c4dc7-6509-425b-817f-4617c38b28c8",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      901,
+      307
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      905,
+      311
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

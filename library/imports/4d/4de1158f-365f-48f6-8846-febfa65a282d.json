@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gardeningMaster_ourSide_efx",
+    "texture": "e874d215-3290-4b74-8b66-011ee5addb70",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      642,
+      331
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      646,
+      335
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

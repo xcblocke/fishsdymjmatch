@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "main_valentinesDay_bg",
+    "texture": "4a48be54-d88a-47a6-a40e-95b5a997bd09",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      786,
+      1076
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      786,
+      1076
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

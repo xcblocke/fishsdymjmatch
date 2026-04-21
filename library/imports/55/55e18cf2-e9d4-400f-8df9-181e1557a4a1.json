@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_Lightningcard",
+    "texture": "1cf2d57a-1496-4808-82c9-4a364e8915c2",
+    "atlas": "",
+    "rect": [
+      14,
+      36,
+      118,
+      120
+    ],
+    "offset": [
+      -7.5,
+      3.5
+    ],
+    "originalSize": [
+      161,
+      199
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

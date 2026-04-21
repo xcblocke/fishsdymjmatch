@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_num_bestScore",
+    "texture": "5d9ba92c-a94d-4e59-93c0-25209265248e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      339,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      339,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

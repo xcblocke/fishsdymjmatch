@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "5f8f0e14-67c0-4eaf-a75d-c9d6fa11c03c",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_board1",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

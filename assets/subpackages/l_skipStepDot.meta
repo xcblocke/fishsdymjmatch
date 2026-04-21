@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "ea12727b-572f-4ffb-8914-da82b241f90b",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_skipStepDot",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

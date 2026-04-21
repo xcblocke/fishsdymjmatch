@@ -1,0 +1,27 @@
+
+gameplay_score.png
+size: 607,508
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+glow5
+  rotate: false
+  xy: 4, 4
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: false
+  xy: 508, 409
+  size: 95, 95
+  orig: 97, 97
+  offset: 1, 1
+  index: -1
+yezi5
+  rotate: false
+  xy: 508, 389
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1

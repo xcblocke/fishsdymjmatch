@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "f64dd003-7ca5-4b2f-a765-95b4dc05dc8b",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_themesnow",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "e8bbaa63-944d-4ebd-a436-7d298532102a",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_duoxiaogen",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

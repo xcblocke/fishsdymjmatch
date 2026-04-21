@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "J_qiu",
+    "texture": "b2c7a2da-7d25-4249-b7e0-c2da26f7cad4",
+    "atlas": "2821434b-1775-4c8b-9044-f9c76057cd66",
+    "rect": [
+      142,
+      3,
+      109,
+      133
+    ],
+    "offset": [
+      -4,
+      7
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

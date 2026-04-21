@@ -1,0 +1,13 @@
+
+gardeningMaster_boxBar.png
+size: 250,153
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+tip_bg
+  rotate: false
+  xy: 4, 4
+  size: 242, 145
+  orig: 244, 146
+  offset: 1, 1
+  index: -1

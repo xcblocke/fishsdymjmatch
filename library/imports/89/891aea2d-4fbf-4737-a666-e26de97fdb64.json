@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_tile_newStage",
+    "texture": "656b532b-bca3-4fa9-baf6-34de12f30025",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      515,
+      281
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      523,
+      289
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

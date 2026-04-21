@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "flowerCardIcon.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "H_mei": {
+      "__uuid__": "4f429eed-d591-49ad-9a08-74e73dfad0ae"
+    },
+    "J_chun": {
+      "__uuid__": "2d337965-529e-4a9c-848d-6c5c85fb9947"
+    },
+    "Z_bai": {
+      "__uuid__": "64d991b7-06aa-412f-8263-41385ca11956"
+    },
+    "Z_bei": {
+      "__uuid__": "d0f32baf-7bde-4c29-86e2-101d0bdeb3d3"
+    },
+    "Z_dong": {
+      "__uuid__": "7ae00d8a-1e2c-47d3-9681-ac670d14c50c"
+    },
+    "Z_fa": {
+      "__uuid__": "d4cad323-4e11-4ea0-b065-79a569fa3e64"
+    },
+    "Z_nan": {
+      "__uuid__": "a88d8eab-72ee-4e93-a862-5a337c7d13a5"
+    },
+    "Z_xi": {
+      "__uuid__": "404782fb-7215-4518-87ce-bd48a8304c24"
+    },
+    "Z_zhong": {
+      "__uuid__": "80cbca2f-9009-4821-b255-b676fb7748f1"
+    }
+  }
+}

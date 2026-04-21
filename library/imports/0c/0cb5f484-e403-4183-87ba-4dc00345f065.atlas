@@ -1,0 +1,167 @@
+
+gameplay_propBtn_light.png
+size: 694,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/lanxinbao/lanxinbao_000
+  rotate: true
+  xy: 576, 14
+  size: 30, 27
+  orig: 148, 168
+  offset: 62, 75
+  index: -1
+images/lanxinbao/lanxinbao_001
+  rotate: true
+  xy: 576, 14
+  size: 30, 27
+  orig: 148, 168
+  offset: 62, 75
+  index: -1
+images/lanxinbao/lanxinbao_002
+  rotate: true
+  xy: 576, 46
+  size: 34, 29
+  orig: 148, 168
+  offset: 60, 74
+  index: -1
+images/lanxinbao/lanxinbao_003
+  rotate: false
+  xy: 468, 14
+  size: 38, 34
+  orig: 148, 168
+  offset: 58, 72
+  index: -1
+images/lanxinbao/lanxinbao_004
+  rotate: false
+  xy: 422, 16
+  size: 44, 39
+  orig: 148, 168
+  offset: 55, 69
+  index: -1
+images/lanxinbao/lanxinbao_005
+  rotate: true
+  xy: 375, 7
+  size: 50, 45
+  orig: 148, 168
+  offset: 52, 65
+  index: -1
+images/lanxinbao/lanxinbao_006
+  rotate: false
+  xy: 312, 6
+  size: 61, 51
+  orig: 148, 168
+  offset: 46, 62
+  index: -1
+images/lanxinbao/lanxinbao_007
+  rotate: false
+  xy: 245, 2
+  size: 65, 55
+  orig: 148, 168
+  offset: 43, 60
+  index: -1
+images/lanxinbao/lanxinbao_008
+  rotate: true
+  xy: 428, 57
+  size: 69, 59
+  orig: 148, 168
+  offset: 41, 58
+  index: -1
+images/lanxinbao/lanxinbao_009
+  rotate: true
+  xy: 533, 145
+  size: 72, 62
+  orig: 148, 168
+  offset: 39, 56
+  index: -1
+images/lanxinbao/lanxinbao_010
+  rotate: false
+  xy: 597, 157
+  size: 73, 60
+  orig: 148, 168
+  offset: 38, 54
+  index: -1
+images/lanxinbao/lanxinbao_011
+  rotate: false
+  xy: 533, 82
+  size: 74, 61
+  orig: 148, 168
+  offset: 37, 53
+  index: -1
+images/lanxinbao/lanxinbao_012
+  rotate: false
+  xy: 607, 14
+  size: 75, 56
+  orig: 148, 168
+  offset: 37, 58
+  index: -1
+images/lanxinbao/lanxinbao_013
+  rotate: true
+  xy: 609, 72
+  size: 76, 57
+  orig: 148, 168
+  offset: 36, 57
+  index: -1
+images/lanxinbao/lanxinbao_014
+  rotate: true
+  xy: 489, 50
+  size: 76, 42
+  orig: 148, 168
+  offset: 36, 71
+  index: -1
+images/lanxinbao/lanxinbao_015
+  rotate: true
+  xy: 533, 4
+  size: 76, 41
+  orig: 148, 168
+  offset: 36, 72
+  index: -1
+images/lanxinbao/lanxinbao_016
+  rotate: true
+  xy: 668, 72
+  size: 76, 24
+  orig: 148, 168
+  offset: 36, 72
+  index: -1
+images/lanxinbao/lanxinbao_017
+  rotate: false
+  xy: 597, 150
+  size: 75, 5
+  orig: 148, 168
+  offset: 36, 73
+  index: -1
+images/lanxinbao/lanxinbao_018
+  rotate: true
+  xy: 672, 215
+  size: 2, 1
+  orig: 148, 168
+  offset: 109, 76
+  index: -1
+images/lanxinbao/lanxinbao_019
+  rotate: false
+  xy: 672, 212
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/xb/94
+  rotate: false
+  xy: 2, 2
+  size: 241, 215
+  orig: 249, 223
+  offset: 4, 4
+  index: -1
+images/xb/a1
+  rotate: false
+  xy: 245, 59
+  size: 181, 158
+  orig: 185, 163
+  offset: 2, 3
+  index: -1
+images/xb/a2
+  rotate: false
+  xy: 428, 128
+  size: 103, 89
+  orig: 103, 89
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_icon_time",
+    "texture": "dcd56cb6-7f4b-44de-9dd9-e8a6b8c46ea8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+
+gameplay_special_elimination.png
+size: 662,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laohu_0
+  rotate: false
+  xy: 449, 294
+  size: 122, 66
+  orig: 124, 68
+  offset: 1, 1
+  index: -1
+laohu_1
+  rotate: false
+  xy: 310, 290
+  size: 137, 127
+  orig: 139, 129
+  offset: 1, 1
+  index: -1
+laohu_10
+  rotate: false
+  xy: 505, 68
+  size: 55, 52
+  orig: 57, 54
+  offset: 1, 1
+  index: -1
+laohu_11
+  rotate: true
+  xy: 562, 38
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+laohu_12
+  rotate: true
+  xy: 465, 24
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+laohu_13
+  rotate: true
+  xy: 286, 17
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+laohu_14
+  rotate: false
+  xy: 385, 60
+  size: 74, 111
+  orig: 74, 111
+  offset: 0, 0
+  index: -1
+laohu_15
+  rotate: false
+  xy: 550, 132
+  size: 85, 33
+  orig: 87, 35
+  offset: 1, 1
+  index: -1
+laohu_16
+  rotate: false
+  xy: 461, 74
+  size: 42, 103
+  orig: 42, 103
+  offset: 0, 0
+  index: -1
+laohu_17
+  rotate: false
+  xy: 436, 179
+  size: 47, 109
+  orig: 47, 109
+  offset: 0, 0
+  index: -1
+laohu_4
+  rotate: false
+  xy: 379, 2
+  size: 58, 56
+  orig: 60, 58
+  offset: 1, 1
+  index: -1
+laohu_5
+  rotate: true
+  xy: 2, 5
+  size: 208, 282
+  orig: 208, 282
+  offset: 0, 0
+  index: -1
+laohu_6
+  rotate: false
+  xy: 449, 362
+  size: 196, 55
+  orig: 198, 57
+  offset: 1, 1
+  index: -1
+laohu_7
+  rotate: false
+  xy: 310, 419
+  size: 343, 102
+  orig: 345, 104
+  offset: 1, 1
+  index: -1
+laohu_8
+  rotate: false
+  xy: 439, 15
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+laohu_9
+  rotate: false
+  xy: 505, 122
+  size: 43, 75
+  orig: 43, 75
+  offset: 0, 0
+  index: -1
+tou_0
+  rotate: false
+  xy: 286, 10
+  size: 43, 5
+  orig: 45, 7
+  offset: 1, 1
+  index: -1
+tou_1
+  rotate: true
+  xy: 573, 261
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+tou_2
+  rotate: true
+  xy: 530, 22
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+tou_3
+  rotate: true
+  xy: 485, 199
+  size: 93, 76
+  orig: 93, 76
+  offset: 0, 0
+  index: -1
+tou_4
+  rotate: false
+  xy: 310, 173
+  size: 124, 115
+  orig: 124, 115
+  offset: 0, 0
+  index: -1
+tou_5
+  rotate: false
+  xy: 562, 78
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+tx/blast_13
+  rotate: false
+  xy: 2, 215
+  size: 306, 306
+  orig: 320, 320
+  offset: 7, 7
+  index: -1
+tx/daxing
+  rotate: false
+  xy: 286, 74
+  size: 97, 97
+  orig: 108, 108
+  offset: 6, 6
+  index: -1
+tx/guangyun2
+  rotate: false
+  xy: 563, 167
+  size: 94, 92
+  orig: 100, 99
+  offset: 2, 4
+  index: -1

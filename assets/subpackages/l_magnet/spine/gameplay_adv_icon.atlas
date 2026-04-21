@@ -1,0 +1,20 @@
+
+gameplay_adv_icon.png
+size: 248,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+loading_di
+  rotate: false
+  xy: 2, 2
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+loading_icon
+  rotate: false
+  xy: 140, 32
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1

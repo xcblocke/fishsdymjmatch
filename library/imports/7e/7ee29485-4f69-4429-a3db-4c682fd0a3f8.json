@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Z_nan",
+    "texture": "36364c04-8017-4665-b8ae-de891f9fe2dd",
+    "atlas": "eafd508a-fcad-4e05-9ff8-9ad3b9b0b035",
+    "rect": [
+      3,
+      3,
+      109,
+      109
+    ],
+    "offset": [
+      -6,
+      5
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

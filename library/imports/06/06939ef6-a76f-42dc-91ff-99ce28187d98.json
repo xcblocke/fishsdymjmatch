@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_img_shadow_up",
+    "texture": "0f623a21-4376-4929-bd2f-6853ed7b9597",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      219,
+      263
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      219,
+      263
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

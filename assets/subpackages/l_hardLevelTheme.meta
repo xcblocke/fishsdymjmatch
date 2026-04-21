@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "54e79403-d958-412a-8c92-409ef44e51a6",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_hardLevelTheme",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

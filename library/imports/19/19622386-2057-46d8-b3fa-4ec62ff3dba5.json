@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_btn_refresh",
+    "texture": "80c4c6c7-9ff1-4052-9df5-c4fcf6152044",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      170
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      170
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

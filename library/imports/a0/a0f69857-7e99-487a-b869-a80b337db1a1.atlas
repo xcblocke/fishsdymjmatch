@@ -1,0 +1,104 @@
+
+gameplay_elimination_a.png
+size: 652,367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+naiyou1
+  rotate: true
+  xy: 2, 2
+  size: 363, 447
+  orig: 363, 447
+  offset: 0, 0
+  index: -1
+naiyou_10
+  rotate: true
+  xy: 598, 266
+  size: 42, 52
+  orig: 44, 54
+  offset: 1, 1
+  index: -1
+naiyou_11
+  rotate: false
+  xy: 627, 127
+  size: 21, 19
+  orig: 23, 21
+  offset: 1, 1
+  index: -1
+naiyou_15
+  rotate: false
+  xy: 598, 310
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+naiyou_16
+  rotate: false
+  xy: 451, 112
+  size: 137, 121
+  orig: 137, 121
+  offset: 0, 0
+  index: -1
+naiyou_17
+  rotate: true
+  xy: 578, 14
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+naiyou_18
+  rotate: true
+  xy: 451, 14
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+naiyou_19
+  rotate: false
+  xy: 451, 235
+  size: 145, 130
+  orig: 145, 130
+  offset: 0, 0
+  index: -1
+naiyou_20
+  rotate: true
+  xy: 590, 148
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+naiyou_21
+  rotate: true
+  xy: 590, 184
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+naiyou_3
+  rotate: false
+  xy: 539, 45
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+naiyou_4
+  rotate: true
+  xy: 598, 222
+  size: 42, 50
+  orig: 44, 52
+  offset: 1, 1
+  index: -1
+naiyou_5
+  rotate: true
+  xy: 539, 78
+  size: 32, 37
+  orig: 34, 40
+  offset: 1, 2
+  index: -1
+naiyou_6
+  rotate: false
+  xy: 590, 111
+  size: 35, 35
+  orig: 37, 37
+  offset: 1, 1
+  index: -1

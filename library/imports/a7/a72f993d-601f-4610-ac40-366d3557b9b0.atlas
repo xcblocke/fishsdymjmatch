@@ -1,0 +1,272 @@
+
+journey_map_badge.png
+size: 801,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hz_1_guang_1
+  rotate: false
+  xy: 143, 267
+  size: 126, 131
+  orig: 130, 135
+  offset: 2, 2
+  index: -1
+hz_1_guang_2
+  rotate: false
+  xy: 2, 252
+  size: 139, 146
+  orig: 143, 148
+  offset: 2, 1
+  index: -1
+hz_1_guang_3
+  rotate: false
+  xy: 2, 106
+  size: 117, 144
+  orig: 119, 146
+  offset: 1, 1
+  index: -1
+hz_2_guang_1
+  rotate: true
+  xy: 249, 134
+  size: 131, 124
+  orig: 135, 126
+  offset: 2, 1
+  index: -1
+hz_2_guang_2
+  rotate: true
+  xy: 121, 116
+  size: 134, 126
+  orig: 135, 126
+  offset: 0, 0
+  index: -1
+hz_3_guang_1
+  rotate: true
+  xy: 271, 270
+  size: 128, 116
+  orig: 130, 120
+  offset: 1, 2
+  index: -1
+hz_3_guang_2
+  rotate: true
+  xy: 302, 4
+  size: 128, 118
+  orig: 130, 118
+  offset: 1, 0
+  index: -1
+hz_3_liZi
+  rotate: false
+  xy: 531, 168
+  size: 26, 26
+  orig: 34, 34
+  offset: 4, 4
+  index: -1
+xl2/hz_light_2_00000
+  rotate: false
+  xy: 559, 167
+  size: 43, 37
+  orig: 234, 241
+  offset: 56, 75
+  index: -1
+xl2/hz_light_2_00001
+  rotate: true
+  xy: 593, 2
+  size: 66, 62
+  orig: 234, 241
+  offset: 56, 64
+  index: -1
+xl2/hz_light_2_00002
+  rotate: true
+  xy: 717, 230
+  size: 77, 82
+  orig: 234, 241
+  offset: 56, 64
+  index: -1
+xl2/hz_light_2_00003
+  rotate: false
+  xy: 582, 304
+  size: 83, 94
+  orig: 234, 241
+  offset: 61, 64
+  index: -1
+xl2/hz_light_2_00004
+  rotate: false
+  xy: 422, 56
+  size: 92, 103
+  orig: 234, 241
+  offset: 61, 68
+  index: -1
+xl2/hz_light_2_00005
+  rotate: true
+  xy: 2, 4
+  size: 100, 103
+  orig: 234, 241
+  offset: 61, 74
+  index: -1
+xl2/hz_light_2_00006
+  rotate: true
+  xy: 204, 3
+  size: 111, 96
+  orig: 234, 241
+  offset: 66, 81
+  index: -1
+xl2/hz_light_2_00007
+  rotate: true
+  xy: 375, 161
+  size: 107, 88
+  orig: 234, 241
+  offset: 71, 89
+  index: -1
+xl2/hz_light_2_00008
+  rotate: true
+  xy: 465, 196
+  size: 97, 79
+  orig: 234, 241
+  offset: 81, 98
+  index: -1
+xl2/hz_light_2_00009
+  rotate: false
+  xy: 647, 134
+  size: 67, 76
+  orig: 234, 241
+  offset: 111, 99
+  index: -1
+xl2/hz_light_2_00010
+  rotate: false
+  xy: 671, 71
+  size: 48, 61
+  orig: 234, 241
+  offset: 125, 116
+  index: -1
+xl2/hz_light_2_00011
+  rotate: false
+  xy: 476, 3
+  size: 41, 51
+  orig: 234, 241
+  offset: 132, 126
+  index: -1
+xl2/hz_light_2_00012
+  rotate: true
+  xy: 604, 169
+  size: 35, 41
+  orig: 234, 241
+  offset: 138, 136
+  index: -1
+xl2/hz_light_2_00013
+  rotate: true
+  xy: 465, 163
+  size: 31, 34
+  orig: 234, 241
+  offset: 142, 143
+  index: -1
+xl2/hz_light_2_00014
+  rotate: false
+  xy: 501, 166
+  size: 28, 28
+  orig: 234, 241
+  offset: 145, 149
+  index: -1
+xl3/hz_light_3_00000
+  rotate: true
+  xy: 749, 349
+  size: 49, 50
+  orig: 234, 241
+  offset: 59, 68
+  index: -1
+xl3/hz_light_3_00001
+  rotate: true
+  xy: 608, 70
+  size: 62, 61
+  orig: 234, 241
+  offset: 59, 68
+  index: -1
+xl3/hz_light_3_00002
+  rotate: false
+  xy: 721, 84
+  size: 77, 70
+  orig: 234, 241
+  offset: 59, 68
+  index: -1
+xl3/hz_light_3_00003
+  rotate: true
+  xy: 667, 309
+  size: 89, 80
+  orig: 234, 241
+  offset: 59, 68
+  index: -1
+xl3/hz_light_3_00004
+  rotate: true
+  xy: 516, 70
+  size: 94, 90
+  orig: 234, 241
+  offset: 60, 68
+  index: -1
+xl3/hz_light_3_00005
+  rotate: false
+  xy: 107, 5
+  size: 95, 99
+  orig: 234, 241
+  offset: 65, 68
+  index: -1
+xl3/hz_light_3_00006
+  rotate: false
+  xy: 389, 295
+  size: 95, 103
+  orig: 234, 241
+  offset: 70, 70
+  index: -1
+xl3/hz_light_3_00007
+  rotate: false
+  xy: 486, 302
+  size: 94, 96
+  orig: 234, 241
+  offset: 76, 77
+  index: -1
+xl3/hz_light_3_00008
+  rotate: true
+  xy: 546, 206
+  size: 94, 87
+  orig: 234, 241
+  offset: 81, 86
+  index: -1
+xl3/hz_light_3_00009
+  rotate: true
+  xy: 635, 212
+  size: 90, 80
+  orig: 234, 241
+  offset: 85, 93
+  index: -1
+xl3/hz_light_3_00010
+  rotate: false
+  xy: 717, 156
+  size: 82, 72
+  orig: 234, 241
+  offset: 93, 101
+  index: -1
+xl3/hz_light_3_00011
+  rotate: false
+  xy: 519, 2
+  size: 72, 66
+  orig: 234, 241
+  offset: 103, 107
+  index: -1
+xl3/hz_light_3_00012
+  rotate: true
+  xy: 657, 5
+  size: 63, 60
+  orig: 234, 241
+  offset: 112, 113
+  index: -1
+xl3/hz_light_3_00013
+  rotate: false
+  xy: 719, 13
+  size: 56, 56
+  orig: 234, 241
+  offset: 119, 117
+  index: -1
+xl3/hz_light_3_00014
+  rotate: false
+  xy: 422, 2
+  size: 52, 52
+  orig: 234, 241
+  offset: 123, 121
+  index: -1

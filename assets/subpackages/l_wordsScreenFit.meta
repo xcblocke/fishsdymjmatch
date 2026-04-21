@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "51fbc8e5-15e1-4caf-a209-a599425f85f7",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_wordsScreenFit",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

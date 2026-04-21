@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gradient_texture",
+    "texture": "eb52f241-7c9f-4d58-898d-c0cd710a5339",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      493,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      493,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

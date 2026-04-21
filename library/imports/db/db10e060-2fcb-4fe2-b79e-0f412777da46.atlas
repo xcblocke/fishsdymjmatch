@@ -1,0 +1,83 @@
+
+gameplay_special_elimination.png
+size: 704,783
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+guoqi/1
+  rotate: false
+  xy: 4, 557
+  size: 392, 222
+  orig: 392, 223
+  offset: 0, 1
+  index: -1
+guoqi/123
+  rotate: false
+  xy: 4, 274
+  size: 274, 279
+  orig: 300, 300
+  offset: 9, 15
+  index: -1
+guoqi/852
+  rotate: false
+  xy: 478, 353
+  size: 206, 216
+  orig: 256, 256
+  offset: 27, 21
+  index: -1
+guoqi/cloud_soft
+  rotate: false
+  xy: 400, 573
+  size: 300, 206
+  orig: 330, 250
+  offset: 15, 22
+  index: -1
+guoqi/diguang
+  rotate: false
+  xy: 547, 61
+  size: 76, 76
+  orig: 100, 100
+  offset: 12, 11
+  index: -1
+guoqi/feji
+  rotate: true
+  xy: 282, 270
+  size: 283, 192
+  orig: 283, 192
+  offset: 0, 0
+  index: -1
+guoqi/glow
+  rotate: false
+  xy: 547, 141
+  size: 80, 82
+  orig: 150, 150
+  offset: 35, 29
+  index: -1
+guoqi/sguang
+  rotate: false
+  xy: 547, 227
+  size: 119, 122
+  orig: 148, 159
+  offset: 24, 8
+  index: -1
+guoqi/shang
+  rotate: false
+  xy: 281, 4
+  size: 262, 262
+  orig: 270, 280
+  offset: 3, 16
+  index: -1
+guoqi/xia
+  rotate: true
+  xy: 4, 8
+  size: 262, 273
+  orig: 270, 280
+  offset: 3, 5
+  index: -1
+guoqi/xx
+  rotate: false
+  xy: 478, 291
+  size: 58, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1

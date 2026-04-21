@@ -1,0 +1,202 @@
+
+gameplay_special_elimination.png
+size: 1543,350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 2, 15
+  size: 333, 333
+  orig: 400, 400
+  offset: 25, 29
+  index: -1
+explore
+  rotate: false
+  xy: 630, 119
+  size: 294, 229
+  orig: 294, 229
+  offset: 0, 0
+  index: -1
+explore2
+  rotate: true
+  xy: 1042, 236
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 926, 234
+  size: 114, 114
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+lightAdd
+  rotate: true
+  xy: 834, 25
+  size: 92, 90
+  orig: 100, 100
+  offset: 5, 3
+  index: -1
+line
+  rotate: true
+  xy: 1042, 208
+  size: 26, 201
+  orig: 26, 201
+  offset: 0, 0
+  index: -1
+map
+  rotate: false
+  xy: 337, 104
+  size: 291, 244
+  orig: 291, 244
+  offset: 0, 0
+  index: -1
+mj_7
+  rotate: true
+  xy: 1158, 307
+  size: 41, 40
+  orig: 47, 46
+  offset: 3, 3
+  index: -1
+xl/ring_00000
+  rotate: false
+  xy: 926, 132
+  size: 100, 100
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+xl/ring_00001
+  rotate: true
+  xy: 1130, 4
+  size: 100, 94
+  orig: 110, 110
+  offset: 5, 8
+  index: -1
+xl/ring_00002
+  rotate: false
+  xy: 1232, 48
+  size: 100, 96
+  orig: 110, 110
+  offset: 5, 7
+  index: -1
+xl/ring_00003
+  rotate: false
+  xy: 1245, 248
+  size: 100, 100
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+xl/ring_00004
+  rotate: false
+  xy: 1245, 146
+  size: 100, 100
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+xl/ring_00005
+  rotate: false
+  xy: 1028, 106
+  size: 100, 100
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+xl/ring_00006
+  rotate: false
+  xy: 1347, 248
+  size: 92, 100
+  orig: 110, 110
+  offset: 9, 5
+  index: -1
+xl/ring_00007
+  rotate: true
+  xy: 1334, 50
+  size: 94, 100
+  orig: 110, 110
+  offset: 8, 5
+  index: -1
+xl/ring_00008
+  rotate: false
+  xy: 926, 30
+  size: 100, 100
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+xl/ring_00009
+  rotate: false
+  xy: 1130, 106
+  size: 100, 100
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+xl/ring_00010
+  rotate: false
+  xy: 337, 4
+  size: 100, 98
+  orig: 110, 110
+  offset: 5, 6
+  index: -1
+xl/ring_00011
+  rotate: false
+  xy: 1347, 154
+  size: 100, 92
+  orig: 110, 110
+  offset: 5, 9
+  index: -1
+xl/ring_00012
+  rotate: false
+  xy: 1441, 256
+  size: 100, 92
+  orig: 110, 110
+  offset: 5, 9
+  index: -1
+xl/ring_00013
+  rotate: false
+  xy: 630, 17
+  size: 100, 100
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+xl/ring_00014
+  rotate: false
+  xy: 732, 17
+  size: 100, 100
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+xl/ring_00015
+  rotate: true
+  xy: 1028, 8
+  size: 96, 100
+  orig: 110, 110
+  offset: 7, 5
+  index: -1
+xl/ring_00016
+  rotate: false
+  xy: 539, 2
+  size: 88, 100
+  orig: 110, 110
+  offset: 11, 5
+  index: -1
+xl/ring_00017
+  rotate: false
+  xy: 1449, 154
+  size: 88, 100
+  orig: 110, 110
+  offset: 11, 5
+  index: -1
+xl/ring_00018
+  rotate: false
+  xy: 439, 4
+  size: 98, 98
+  orig: 110, 110
+  offset: 6, 6
+  index: -1
+xl/ring_00019
+  rotate: true
+  xy: 1436, 54
+  size: 98, 92
+  orig: 110, 110
+  offset: 6, 9
+  index: -1

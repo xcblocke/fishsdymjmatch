@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "challenge_img_duihao",
+    "texture": "a9684b9c-bb8e-4201-b66b-755ddceb9617",
+    "atlas": "5b909cc1-c41c-4b8c-b5cd-cfd2b484891f",
+    "rect": [
+      601,
+      317,
+      117,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      121
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

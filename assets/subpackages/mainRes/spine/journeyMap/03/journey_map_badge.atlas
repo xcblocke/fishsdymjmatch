@@ -1,0 +1,27 @@
+
+journey_map_badge.png
+size: 201,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangYun
+  rotate: false
+  xy: 145, 89
+  size: 54, 54
+  orig: 72, 72
+  offset: 9, 9
+  index: -1
+hz_1_guang_2
+  rotate: false
+  xy: 2, 2
+  size: 141, 141
+  orig: 157, 157
+  offset: 8, 8
+  index: -1
+hz_3_liZi
+  rotate: false
+  xy: 145, 61
+  size: 26, 26
+  orig: 34, 34
+  offset: 4, 4
+  index: -1

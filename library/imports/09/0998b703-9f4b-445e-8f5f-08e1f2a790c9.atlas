@@ -1,0 +1,293 @@
+
+gameplay_special_elimination.png
+size: 1009,913
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GlowBurst
+  rotate: false
+  xy: 719, 198
+  size: 106, 106
+  orig: 128, 128
+  offset: 10, 11
+  index: -1
+diamond
+  rotate: false
+  xy: 2, 210
+  size: 214, 272
+  orig: 214, 272
+  offset: 0, 0
+  index: -1
+diamond/bao_00008
+  rotate: false
+  xy: 919, 234
+  size: 74, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+diamond/bao_00009
+  rotate: false
+  xy: 918, 163
+  size: 78, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+diamond/bao_00010
+  rotate: false
+  xy: 827, 21
+  size: 81, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+diamond/bao_00011
+  rotate: true
+  xy: 877, 493
+  size: 85, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+diamond/bao_00012
+  rotate: false
+  xy: 827, 163
+  size: 89, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+diamond/bao_00013
+  rotate: false
+  xy: 850, 305
+  size: 93, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+diamond/bao_00014
+  rotate: true
+  xy: 925, 582
+  size: 96, 69
+  orig: 107, 69
+  offset: 1, 0
+  index: -1
+diamond/bao_00015
+  rotate: false
+  xy: 719, 127
+  size: 96, 69
+  orig: 107, 69
+  offset: 5, 0
+  index: -1
+diamond/bao_00016
+  rotate: true
+  xy: 756, 29
+  size: 96, 69
+  orig: 107, 69
+  offset: 9, 0
+  index: -1
+diamond/bao_00017
+  rotate: false
+  xy: 844, 422
+  size: 94, 69
+  orig: 107, 69
+  offset: 13, 0
+  index: -1
+diamond/bao_00018
+  rotate: false
+  xy: 827, 234
+  size: 90, 69
+  orig: 107, 69
+  offset: 17, 0
+  index: -1
+diamond/bao_00019
+  rotate: false
+  xy: 827, 92
+  size: 86, 69
+  orig: 107, 69
+  offset: 21, 0
+  index: -1
+diamond/bao_00020
+  rotate: false
+  xy: 925, 680
+  size: 82, 68
+  orig: 107, 69
+  offset: 25, 1
+  index: -1
+diamond/bao_00021
+  rotate: false
+  xy: 915, 93
+  size: 77, 68
+  orig: 107, 69
+  offset: 30, 1
+  index: -1
+diamond/bao_00022
+  rotate: true
+  xy: 910, 19
+  size: 71, 68
+  orig: 107, 69
+  offset: 36, 1
+  index: -1
+diamond/bao_00023
+  rotate: true
+  xy: 940, 425
+  size: 66, 67
+  orig: 107, 69
+  offset: 41, 2
+  index: -1
+diamond/bao_00024
+  rotate: false
+  xy: 945, 310
+  size: 61, 64
+  orig: 107, 69
+  offset: 46, 5
+  index: -1
+diamond/diamond_00005
+  rotate: true
+  xy: 844, 376
+  size: 44, 131
+  orig: 306, 389
+  offset: 91, 120
+  index: -1
+diamond/diamond_00006
+  rotate: true
+  xy: 705, 306
+  size: 63, 143
+  orig: 306, 389
+  offset: 79, 117
+  index: -1
+diamond/diamond_00007
+  rotate: true
+  xy: 709, 494
+  size: 84, 166
+  orig: 306, 389
+  offset: 65, 106
+  index: -1
+diamond/diamond_00008
+  rotate: true
+  xy: 568, 12
+  size: 98, 186
+  orig: 306, 389
+  offset: 57, 97
+  index: -1
+diamond/diamond_00009
+  rotate: false
+  xy: 235, 8
+  size: 163, 207
+  orig: 306, 389
+  offset: 54, 90
+  index: -1
+diamond/diamond_00010
+  rotate: false
+  xy: 400, 2
+  size: 166, 226
+  orig: 306, 389
+  offset: 58, 83
+  index: -1
+diamond/diamond_00011
+  rotate: false
+  xy: 433, 492
+  size: 173, 242
+  orig: 306, 389
+  offset: 61, 76
+  index: -1
+diamond/diamond_00012
+  rotate: false
+  xy: 390, 230
+  size: 171, 257
+  orig: 306, 389
+  offset: 64, 66
+  index: -1
+diamond/diamond_00013
+  rotate: true
+  xy: 730, 750
+  size: 161, 273
+  orig: 306, 389
+  offset: 70, 59
+  index: -1
+diamond/diamond_00014
+  rotate: true
+  xy: 452, 752
+  size: 159, 276
+  orig: 306, 389
+  offset: 75, 57
+  index: -1
+diamond/diamond_00015
+  rotate: false
+  xy: 218, 217
+  size: 170, 265
+  orig: 306, 389
+  offset: 72, 61
+  index: -1
+diamond/diamond_00016
+  rotate: false
+  xy: 254, 489
+  size: 177, 245
+  orig: 306, 389
+  offset: 70, 71
+  index: -1
+diamond/diamond_00017
+  rotate: true
+  xy: 2, 34
+  size: 174, 231
+  orig: 306, 389
+  offset: 74, 76
+  index: -1
+diamond/diamond_00018
+  rotate: true
+  xy: 709, 580
+  size: 168, 214
+  orig: 306, 389
+  offset: 85, 81
+  index: -1
+diamond/diamond_00019
+  rotate: false
+  xy: 563, 295
+  size: 140, 195
+  orig: 306, 389
+  offset: 111, 87
+  index: -1
+diamondglow
+  rotate: false
+  xy: 568, 112
+  size: 149, 181
+  orig: 151, 184
+  offset: 2, 2
+  index: -1
+dian6
+  rotate: false
+  xy: 608, 495
+  size: 53, 55
+  orig: 67, 70
+  offset: 8, 9
+  index: -1
+heart
+  rotate: false
+  xy: 705, 371
+  size: 137, 121
+  orig: 137, 121
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 663, 505
+  size: 44, 45
+  orig: 49, 49
+  offset: 2, 2
+  index: -1
+star2
+  rotate: false
+  xy: 608, 552
+  size: 99, 198
+  orig: 103, 202
+  offset: 2, 2
+  index: -1
+xian1
+  rotate: false
+  xy: 2, 736
+  size: 448, 175
+  orig: 602, 234
+  offset: 4, 29
+  index: -1
+yuan1
+  rotate: false
+  xy: 2, 484
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1

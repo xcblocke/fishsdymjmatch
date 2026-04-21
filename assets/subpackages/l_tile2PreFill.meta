@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "7adb7166-8c8f-44e9-8177-1af08aa9ad6b",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_tile2PreFill",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

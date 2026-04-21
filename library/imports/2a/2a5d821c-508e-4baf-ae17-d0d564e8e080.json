@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_map_ball",
+    "texture": "e5e1395a-1dc8-4ae8-954d-3adaeaa6b469",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1358,
+      351
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      1362,
+      354
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

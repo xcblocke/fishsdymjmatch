@@ -1,0 +1,153 @@
+
+result_bestScore_front.png
+size: 1009,710
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai_1
+  rotate: true
+  xy: 195, 15
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+caidai_2
+  rotate: true
+  xy: 220, 2
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+caidai_3
+  rotate: false
+  xy: 979, 437
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+caidai_5
+  rotate: true
+  xy: 250, 3
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+caidai_6
+  rotate: false
+  xy: 979, 397
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+caidai_7
+  rotate: true
+  xy: 220, 35
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+caidai_8
+  rotate: false
+  xy: 166, 9
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+caihong
+  rotate: true
+  xy: 717, 31
+  size: 203, 90
+  orig: 213, 137
+  offset: 5, 46
+  index: -1
+light_circle_d
+  rotate: false
+  xy: 2, 6
+  size: 162, 163
+  orig: 171, 171
+  offset: 5, 4
+  index: -1
+light_par_star_a
+  rotate: true
+  xy: 166, 61
+  size: 108, 106
+  orig: 175, 175
+  offset: 33, 35
+  index: -1
+star_light_1
+  rotate: true
+  xy: 274, 3
+  size: 176, 181
+  orig: 300, 300
+  offset: 76, 52
+  index: -1
+star_light_11
+  rotate: true
+  xy: 742, 469
+  size: 239, 246
+  orig: 300, 300
+  offset: 48, 22
+  index: -1
+star_light_13
+  rotate: false
+  xy: 494, 455
+  size: 246, 253
+  orig: 300, 300
+  offset: 45, 19
+  index: -1
+star_light_15
+  rotate: false
+  xy: 256, 181
+  size: 253, 261
+  orig: 300, 300
+  offset: 43, 14
+  index: -1
+star_light_17
+  rotate: false
+  xy: 236, 444
+  size: 256, 264
+  orig: 300, 300
+  offset: 44, 13
+  index: -1
+star_light_19
+  rotate: false
+  xy: 2, 171
+  size: 252, 267
+  orig: 300, 300
+  offset: 48, 13
+  index: -1
+star_light_21
+  rotate: false
+  xy: 2, 440
+  size: 232, 268
+  orig: 300, 300
+  offset: 68, 13
+  index: -1
+star_light_3
+  rotate: false
+  xy: 809, 33
+  size: 192, 202
+  orig: 300, 300
+  offset: 68, 41
+  index: -1
+star_light_5
+  rotate: false
+  xy: 511, 17
+  size: 204, 217
+  orig: 300, 300
+  offset: 63, 34
+  index: -1
+star_light_7
+  rotate: true
+  xy: 511, 236
+  size: 217, 228
+  orig: 300, 300
+  offset: 58, 30
+  index: -1
+star_light_9
+  rotate: true
+  xy: 742, 237
+  size: 230, 235
+  orig: 300, 300
+  offset: 52, 29
+  index: -1

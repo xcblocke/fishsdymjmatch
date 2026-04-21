@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "7e9b882e-7578-48cf-abd8-e6a214f614d5",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_stepCutSave",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

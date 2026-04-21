@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baidian_002",
+    "texture": "9a592089-f4d1-431a-ad51-95e5f576bbd2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

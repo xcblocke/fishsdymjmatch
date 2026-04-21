@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daily_img_tick",
+    "texture": "c10575ce-9380-4f65-be9d-0e4cb2561492",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daily_img_yinbaoxiang_close",
+    "texture": "21861e1d-a7d3-46cd-8fc0-a67cc188cd53",
+    "atlas": "a525fe6c-b4a1-42cc-b4bf-4959cfb5f88d",
+    "rect": [
+      385,
+      146,
+      123,
+      103
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      125,
+      109
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

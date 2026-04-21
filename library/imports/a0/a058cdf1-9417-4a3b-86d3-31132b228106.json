@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "result_btn_expert_bg_1",
+    "texture": "c936d456-cb55-4bb0-8500-09091bdb4d42",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      106
+    ],
+    "capInsets": [
+      50,
+      50,
+      50,
+      50
+    ]
+  }
+}

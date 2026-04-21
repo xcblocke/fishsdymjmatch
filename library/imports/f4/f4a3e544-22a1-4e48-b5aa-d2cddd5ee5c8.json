@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gardeningMaster_specialCard_efx",
+    "texture": "59b3029d-9d18-4a26-9ecf-4a604a689050",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      209,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      213,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

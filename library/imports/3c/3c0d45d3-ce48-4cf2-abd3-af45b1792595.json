@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "task_bg_pop_1",
+    "texture": "0900db2c-a147-4b3f-9754-8a520f6dab89",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      209,
+      1381
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      209,
+      1381
+    ],
+    "capInsets": [
+      95,
+      0,
+      90,
+      0
+    ]
+  }
+}

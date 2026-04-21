@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "21bed5af-9187-4547-96eb-30af0270de30",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_freeTileShuffle",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

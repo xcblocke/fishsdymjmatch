@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_hintGreat",
+    "texture": "1d4d38f5-fdb0-47f9-8f96-a839d6d6ec35",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      878,
+      386
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      885,
+      393
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

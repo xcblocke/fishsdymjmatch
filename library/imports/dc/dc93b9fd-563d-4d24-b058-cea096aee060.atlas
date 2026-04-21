@@ -1,0 +1,55 @@
+
+gameplay_special_elimination.png
+size: 372,203
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+paper_02
+  rotate: false
+  xy: 297, 13
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+qipan/qipan
+  rotate: true
+  xy: 4, 4
+  size: 195, 217
+  orig: 195, 217
+  offset: 0, 0
+  index: -1
+qipan/qizi1
+  rotate: false
+  xy: 293, 123
+  size: 75, 76
+  orig: 75, 77
+  offset: 0, 1
+  index: -1
+qipan/qizi2
+  rotate: true
+  xy: 293, 80
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+qipan/qizi3
+  rotate: false
+  xy: 297, 34
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+qipan/qizi4
+  rotate: true
+  xy: 225, 8
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+tx/guangshu
+  rotate: false
+  xy: 225, 71
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1

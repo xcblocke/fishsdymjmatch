@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "6ca16aa7-0c99-4baa-ac59-f3f945fa801d",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_changeClearEffect",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

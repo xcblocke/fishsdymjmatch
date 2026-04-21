@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "ddd132cf-c546-4c14-a763-79aa1cdeed6b",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_stepNoReport",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

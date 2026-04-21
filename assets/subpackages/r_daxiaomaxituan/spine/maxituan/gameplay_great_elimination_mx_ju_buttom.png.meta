@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c238be72-bcff-4037-b929-8e7d9dc1abfb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 441,
+  "height": 266,
+  "platformSettings": {},
+  "subMetas": {
+    "gameplay_great_elimination_mx_ju_buttom": {
+      "ver": "1.0.6",
+      "uuid": "985081a9-b215-41ab-afd4-11236bf48efb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c238be72-bcff-4037-b929-8e7d9dc1abfb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 437,
+      "height": 262,
+      "rawWidth": 441,
+      "rawHeight": 266,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

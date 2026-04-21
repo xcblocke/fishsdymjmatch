@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "9a3c0cc2-d206-4031-baea-d1cd6f36f99b",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_cardCountDimension",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

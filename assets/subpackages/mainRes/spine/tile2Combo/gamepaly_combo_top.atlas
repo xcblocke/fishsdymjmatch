@@ -1,0 +1,41 @@
+
+gamepaly_combo_top.png
+size: 117,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leaves_1
+  rotate: true
+  xy: 2, 2
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+leaves_2
+  rotate: false
+  xy: 74, 15
+  size: 37, 48
+  orig: 38, 49
+  offset: 1, 1
+  index: -1
+par1
+  rotate: false
+  xy: 2, 44
+  size: 58, 101
+  orig: 58, 101
+  offset: 0, 0
+  index: -1
+par2
+  rotate: true
+  xy: 62, 65
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+par3
+  rotate: true
+  xy: 62, 65
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "331531f7-6526-4c8b-a5f7-0ef9d000a5a2",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_ageSurvey",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

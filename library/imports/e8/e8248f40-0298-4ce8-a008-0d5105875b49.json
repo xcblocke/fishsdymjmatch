@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leaderboard_img_jdt1",
+    "texture": "257b866a-9b19-4b6f-a960-98f15063423f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      31
+    ],
+    "capInsets": [
+      20,
+      0,
+      20,
+      0
+    ]
+  }
+}

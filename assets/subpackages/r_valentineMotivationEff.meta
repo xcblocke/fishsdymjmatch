@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "d255fb4b-9e8c-40d2-bbbb-2f6670a94b59",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_valentineMotivationEff",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

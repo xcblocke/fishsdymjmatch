@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_flowingLight",
+    "texture": "5e8ac83a-4e0e-4b2b-9cb3-45f019c0da0a",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      108,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      112,
+      132
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

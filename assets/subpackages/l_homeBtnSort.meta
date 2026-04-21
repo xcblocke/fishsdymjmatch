@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "db6cbdec-52b9-4cc1-aa7c-df950e116ff8",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_homeBtnSort",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mahjong_result_1",
+    "texture": "11723020-81ff-416e-82ec-9fe171b1c4ff",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      935,
+      891
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      942,
+      899
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

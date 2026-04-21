@@ -1,0 +1,2639 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "i18n_config_RU",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "baseName": "i18n_config",
+    "data": [
+      [
+        "LeaderBoard_Name_1",
+        "Мастер-садовод"
+      ],
+      [
+        "LeaderBoard_Name_2",
+        "Снежковая битва"
+      ],
+      [
+        "LeaderBoard_Name_3",
+        "Собрание за черным чаем"
+      ],
+      [
+        "LeaderBoard_Name_4",
+        "Золотой Музыкант"
+      ],
+      [
+        "LeaderBoard_Name_5",
+        "Соревнование по вязанию"
+      ],
+      [
+        "LeaderBoard_Start_Des",
+        "{0} началось!\nСобирайте золотые плитки, поднимайтесь в таблице лидеров и получайте щедрые награды!"
+      ],
+      [
+        "LeaderBoard_Start_GoTo",
+        "Собрать"
+      ],
+      [
+        "LeaderBoard_HowToPlay_Btn_OK",
+        "ОК"
+      ],
+      [
+        "LeaderBoard_Start_Btn_Jump",
+        "Играть"
+      ],
+      [
+        "LeaderBoard_Entrance_Num",
+        "#{0}"
+      ],
+      [
+        "LeaderBoard_Level_Settle_WinStreak",
+        "Бонус за Победную Серию"
+      ],
+      [
+        "Common_Btn_Continue",
+        "Продолжить"
+      ],
+      [
+        "LeaderBoard_Reward_Title",
+        "Поздравляю!"
+      ],
+      [
+        "LeaderBoard_Reward_Des",
+        "<color=#B17240>Вы заняли <color=#D15327>{0}</c> место!</c>"
+      ],
+      [
+        "LeaderBoard_Reward_Claim",
+        "Получить"
+      ],
+      [
+        "LeaderBoard_Profile_Title",
+        "Профиль"
+      ],
+      [
+        "LeaderBoard_Profile_Avatar",
+        "Аватар"
+      ],
+      [
+        "LeaderBoard_Profile_Frame",
+        "Рамка"
+      ],
+      [
+        "LeaderBoard_Profile_Btn_Save",
+        "Сохранить"
+      ],
+      [
+        "DailyQuest_UI_Title",
+        "Ежедневные Задания"
+      ],
+      [
+        "DailyQuest_UI_Phase",
+        "Этап {0}"
+      ],
+      [
+        "DailyQuest_UI_Phase_Lock",
+        "Заверши Этап {0}, чтобы открыть новые задания"
+      ],
+      [
+        "DailyQuest_UI_GoTo",
+        "Играть"
+      ],
+      [
+        "DailyQuest_Des_100",
+        "Используй {0} Бустеры"
+      ],
+      [
+        "DailyQuest_Des_200",
+        "Завершите {0} Совпадений"
+      ],
+      [
+        "DailyQuest_Des_310",
+        "Преодолей {0} Обычных Уровней"
+      ],
+      [
+        "DailyQuest_Entrance_Title",
+        "Задания"
+      ],
+      [
+        "DailyChallenge_Title",
+        "Ежедневное Испытание"
+      ],
+      [
+        "DailyChallenge_Play",
+        "Играть"
+      ],
+      [
+        "DailyChallenge_Continue",
+        "Продолжить"
+      ],
+      [
+        "DailyChallenge_Replay",
+        "Снова"
+      ],
+      [
+        "Collection_DailyChallenge_202501",
+        "Зевс"
+      ],
+      [
+        "Collection_DailyChallenge_202502",
+        "Афродита"
+      ],
+      [
+        "Collection_DailyChallenge_202503",
+        "Гефест"
+      ],
+      [
+        "Collection_DailyChallenge_202504",
+        "Артемида"
+      ],
+      [
+        "Collection_DailyChallenge_202505",
+        "Посейдон"
+      ],
+      [
+        "Collection_DailyChallenge_202506",
+        "Аполлон"
+      ],
+      [
+        "Collection_DailyChallenge_202507",
+        "Гера"
+      ],
+      [
+        "Collection_DailyChallenge_202508",
+        "Арес"
+      ],
+      [
+        "Collection_DailyChallenge_202509",
+        "Афина"
+      ],
+      [
+        "Collection_DailyChallenge_202510",
+        "Деметра"
+      ],
+      [
+        "Collection_DailyChallenge_202511",
+        "Гермес"
+      ],
+      [
+        "Collection_DailyChallenge_202512",
+        "Гестия"
+      ],
+      [
+        "Badges_Title",
+        "Коллекции"
+      ],
+      [
+        "Badges_Type_Daily",
+        "Ежедневный"
+      ],
+      [
+        "Badges_Type_Journey",
+        "Путешествие"
+      ],
+      [
+        "Badges_Daily_Month_1",
+        "Янв"
+      ],
+      [
+        "Badges_Daily_Month_2",
+        "Фев"
+      ],
+      [
+        "Badges_Daily_Month_3",
+        "Мар"
+      ],
+      [
+        "Badges_Daily_Month_4",
+        "Апр"
+      ],
+      [
+        "Badges_Daily_Month_5",
+        "Май"
+      ],
+      [
+        "Badges_Daily_Month_6",
+        "Июн"
+      ],
+      [
+        "Badges_Daily_Month_7",
+        "Июл"
+      ],
+      [
+        "Badges_Daily_Month_8",
+        "Авг"
+      ],
+      [
+        "Badges_Daily_Month_9",
+        "Сен"
+      ],
+      [
+        "Badges_Daily_Month_10",
+        "Окт"
+      ],
+      [
+        "Badges_Daily_Month_11",
+        "Ноя"
+      ],
+      [
+        "Badges_Daily_Month_12",
+        "Дек"
+      ],
+      [
+        "DailyChallenge_Button_Great",
+        "Отлично"
+      ],
+      [
+        "DailyChallenge_Entrance_Title",
+        "Сегодня"
+      ],
+      [
+        "MahjongTiles_MapPage_Level",
+        "Уровень {0}"
+      ],
+      [
+        "Common_CountDown_Minute",
+        "{0}Д {1}Ч {2}М"
+      ],
+      [
+        "Journey_Level_Goals",
+        "Цели"
+      ],
+      [
+        "Journey_Level_Done",
+        "Ты справился!"
+      ],
+      [
+        "Badges_Journey_Nothing",
+        "Участвуйте в уровнях события \nи собирайте сувениры"
+      ],
+      [
+        "Journey_Name_1",
+        "Японская Снежная Деревня"
+      ],
+      [
+        "Journey_Des_1",
+        "Говорят, что божество, почитаемое в этом святилище, особенно могущественно!"
+      ],
+      [
+        "Journey_Map_Continue",
+        "Играть"
+      ],
+      [
+        "Badges_Journey_Button_Great",
+        "Отлично"
+      ],
+      [
+        "Badges_Journey_Prize_1",
+        "Фонарь"
+      ],
+      [
+        "Badges_Journey_Prize_2",
+        "Кукла"
+      ],
+      [
+        "Badges_Journey_Prize_3",
+        "Манэки-нэко"
+      ],
+      [
+        "Journey_Badge_Collect",
+        "Собрать"
+      ],
+      [
+        "Journey_Map_Done",
+        "Новое путешествие\nприближается!"
+      ],
+      [
+        "Journey_Name_2",
+        "Зимнее Паломничество"
+      ],
+      [
+        "Journey_Des_2",
+        "Лучший подарок \nвсегда следующий!"
+      ],
+      [
+        "Badges_Journey_Prize_4",
+        "Обычный"
+      ],
+      [
+        "Badges_Journey_Prize_5",
+        "Редкий"
+      ],
+      [
+        "Badges_Journey_Prize_6",
+        "Коллекционный"
+      ],
+      [
+        "TILE_Level",
+        "Уровень"
+      ],
+      [
+        "TILE_Score",
+        "Очки"
+      ],
+      [
+        "TILE_Matches",
+        "Матчи"
+      ],
+      [
+        "TILE_Matches_2",
+        "Матчи:"
+      ],
+      [
+        "TILE_Guide_1",
+        "Нажмите на две одинаковые плитки, чтобы сопоставить и удалить их"
+      ],
+      [
+        "TILE_Guide_2",
+        "Сопоставьте плитки сверху, чтобы разблокировать плитки снизу"
+      ],
+      [
+        "TILE_Guide_3",
+        "Соедини внешние плитки, чтобы разблокировать внутренние"
+      ],
+      [
+        "TILE_Guide_4",
+        "Волшебные плитки: Можно сочетать с любой другой волшебной плиткой"
+      ],
+      [
+        "TILE_Guide_5",
+        "Заблокировано плитками сверху"
+      ],
+      [
+        "TILE_Guide_6",
+        "Сначала удалите плитки, которые блокируют верх"
+      ],
+      [
+        "TILE_Guide_7",
+        "Удалите плитки с левой и правой сторон сначала"
+      ],
+      [
+        "TILE_Guide_8",
+        "Удалите все плитки, чтобы победить!"
+      ],
+      [
+        "TILE_OutofMove_Title",
+        "Нет совпадений"
+      ],
+      [
+        "TILE_OutofMove_Details",
+        "Ой, этот раунд не пошел, как ты хотел. Перезапусти или используй Перемешать, чтобы попробовать снова!"
+      ],
+      [
+        "TILE_Time",
+        "Время"
+      ],
+      [
+        "TILE_Combo",
+        "Комбо"
+      ],
+      [
+        "TILE_Restart_Title",
+        "Перезапустить игру?"
+      ],
+      [
+        "TILE_Restart_Details",
+        "Вы потеряете текущий прогресс!"
+      ],
+      [
+        "TILE_Win",
+        "Уровень пройден"
+      ],
+      [
+        "TILE_Lose",
+        "Вы проиграли"
+      ],
+      [
+        "TILE_FullCombo",
+        "Полная Комбинация!"
+      ],
+      [
+        "TileMatch_Booster_Shuffle",
+        "Перемешать"
+      ],
+      [
+        "TileMatch_Booster_Hint",
+        "Подсказка"
+      ],
+      [
+        "TileMatch_Booster_Undo",
+        "Отменить"
+      ],
+      [
+        "TileMatch_Guide_Skip",
+        "Пропустить"
+      ],
+      [
+        "TileMatch_Revive_Title",
+        "Нет совпадений"
+      ],
+      [
+        "TileMatch_Revive_Details",
+        "Ой, у вас закончились матчи! Перезагрузите игру или используйте Перемешать, чтобы попробовать снова!"
+      ],
+      [
+        "TileMatch_Revive_Button_Yes",
+        "Перемешать"
+      ],
+      [
+        "TileMatch_Revive_Button_No",
+        "Перезапуск"
+      ],
+      [
+        "TileMatch_Surpass",
+        "Вы превзошли {0} игроков!"
+      ],
+      [
+        "TileMatch_Undo_Details",
+        "В настоящее время недоступно. Нет ходов, которые можно отменить"
+      ],
+      [
+        "TileMatch_Button_NewGame",
+        "Новая Игра"
+      ],
+      [
+        "TileMatch_DifficultyIncrease",
+        "Вызов Растёт!"
+      ],
+      [
+        "TileMatch_Guide_1_New",
+        "Удалите все плитки слева, справа и сверху, чтобы продолжить совпадение!"
+      ],
+      [
+        "TileMatch_Guide_New",
+        "Сначала Удали Фигуры со Всех Четырёх Сторон"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_1_1",
+        "Проницательный"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_1_2",
+        "Невероятно"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_2_1",
+        "Блестящий"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_2_2",
+        "Идеально"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_3_1",
+        "Находчивый"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_3_2",
+        "Молодец"
+      ],
+      [
+        "MahjongTiles_GameEnd_Score",
+        "Очки"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_1_1",
+        "Ты был идеален!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_1_2",
+        "Твои навыки безупречны!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_1_3",
+        "Законный чемпион по плиткам!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_2_1",
+        "Ты исключительный!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_2_2",
+        "Непревзойденный навык!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_2_3",
+        "Какое блестящее выступление!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_3_1",
+        "Ты сияешь под давлением!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_3_2",
+        "Неумолим и незабвенный!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_3_3",
+        "Ты неудержим!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Level",
+        "Уровень {0}"
+      ],
+      [
+        "MahjongTiles_Revive_Title_1",
+        "Нет Комбинаций"
+      ],
+      [
+        "MahjongTiles_Revive_Prop_1",
+        "Используй Перемешать, чтобы попробовать снова!"
+      ],
+      [
+        "MahjongTiles_Revive_Option_1",
+        "Перемешать"
+      ],
+      [
+        "MahjongTiles_Revive_Option_2",
+        "Перезапуск"
+      ],
+      [
+        "MahjongTiles_Revive_Option_3",
+        "Перемешать -1"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Title_1",
+        "Бесплатное Перемешать"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Title_2",
+        "Бесплатная Подсказка"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Purchase_1",
+        "Посмотри рекламу, чтобы получить Перемешать"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Purchase_2",
+        "Посмотри рекламу, чтобы получить Подсказка"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Get_1",
+        "Получить"
+      ],
+      [
+        "MahjongTiles_Settings_Title",
+        "Настройки"
+      ],
+      [
+        "MahjongTiles_Settings_Voice",
+        "Звук"
+      ],
+      [
+        "MahjongTiles_Settings_Music",
+        "Музыка"
+      ],
+      [
+        "MahjongTiles_Settings_Vibration",
+        "Вибрация"
+      ],
+      [
+        "MahjongTiles_Settings_Highlight",
+        "Выделить Доступные Плитки"
+      ],
+      [
+        "MahjongTiles_Settings_Restart",
+        "Перезапуск"
+      ],
+      [
+        "MahjongTiles_Settins_Home",
+        "Главная"
+      ],
+      [
+        "MahjongTiles_Settings_On",
+        "ON"
+      ],
+      [
+        "MahjongTiles_Settings_Off",
+        "OFF"
+      ],
+      [
+        "MahjongTiles_MainPage_Level",
+        "Уровень {0}"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Title_1",
+        "Не удалось"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Word_Disable",
+        "Реклама Временно Недоступна.\nПожалуйста, Повторите Попытку."
+      ],
+      [
+        "MahjongTiles_AdsLoading_Button_NoWifi",
+        "Нет Интернета"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Button_Cancel",
+        "Отмена"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Button_Retry",
+        "Повторить"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Button_Loading",
+        "Загрузка..."
+      ],
+      [
+        "Common_Settings_Title",
+        "Настройки"
+      ],
+      [
+        "Common_Settings_Language",
+        "Язык"
+      ],
+      [
+        "Common_Settings_Language_Title",
+        "Язык"
+      ],
+      [
+        "Common_Settings_SoundEffects",
+        "Звуковые эффекты"
+      ],
+      [
+        "Common_Settings_Music",
+        "Музыка"
+      ],
+      [
+        "Common_Settings_DarkMode",
+        "Темный режим"
+      ],
+      [
+        "Common_Settings_Vibration",
+        "Вибрация"
+      ],
+      [
+        "Common_Settings_Ads",
+        "Целевая реклама"
+      ],
+      [
+        "Common_Settings_Quit",
+        "Выйти из игры"
+      ],
+      [
+        "Common_Settings_Ours",
+        "{0} и {1}"
+      ],
+      [
+        "Common_Settings_Terms",
+        "Условия"
+      ],
+      [
+        "Common_Settings_PrivacyPolicy",
+        "Политика конфиденциальности"
+      ],
+      [
+        "Common_Settings_PrivacyPolicy_s",
+        "Конфиденциальность"
+      ],
+      [
+        "Common_Settings_Language_Default",
+        "Стандартный"
+      ],
+      [
+        "Common_Settings_Language_EN_US",
+        "Английский"
+      ],
+      [
+        "Common_Settings_Language_FR",
+        "Французский"
+      ],
+      [
+        "Common_Settings_Language_DE",
+        "Немецкий"
+      ],
+      [
+        "Common_Settings_Language_PT",
+        "Португальский"
+      ],
+      [
+        "Common_Settings_Language_ES",
+        "Испанский"
+      ],
+      [
+        "Common_Settings_Language_JA",
+        "Японский"
+      ],
+      [
+        "Common_Settings_Language_KO",
+        "Корейский"
+      ],
+      [
+        "Common_Settings_Language_RU",
+        "Русский"
+      ],
+      [
+        "Common_Settings_Language_ZH_CN",
+        "Упрощенный китайский"
+      ],
+      [
+        "Common_Settings_Language_ZH_HKTW",
+        "Традиционный китайский"
+      ],
+      [
+        "Common_Reward_Title",
+        "Получить Призы"
+      ],
+      [
+        "Common_Reward_Claim_Ads",
+        "Окей x{0}"
+      ],
+      [
+        "Journey_Tips_1",
+        "Победите Уровень!"
+      ],
+      [
+        "Journey_Tips_2",
+        "Разбейте Больше!"
+      ],
+      [
+        "Journey_Tips_3",
+        "Получите Награды!"
+      ],
+      [
+        "Common_Tap_To_Continue",
+        "Натисніть, щоб продовжити"
+      ],
+      [
+        "Level_Chest_Des",
+        "Уровень {0}"
+      ],
+      [
+        "Common_Btn_Confirm",
+        "Поехали"
+      ],
+      [
+        "Common_CountDown_Hour",
+        "{0}Д {1}Ч"
+      ],
+      [
+        "Common_CountDown_Second",
+        "{0}Ч {1}М"
+      ],
+      [
+        "Journey_Map_HardLevel",
+        "Сложный Уровень"
+      ],
+      [
+        "Common_Btn_Next",
+        "Следующий"
+      ],
+      [
+        "Common_Btn_Back",
+        "Главный экран"
+      ],
+      [
+        "Badges_DailyChallenge_Nothing",
+        "Скоро..."
+      ],
+      [
+        "DailyQuest_Des_100_2",
+        "Используй {0} Бустер"
+      ],
+      [
+        "DailyQuest_Des_200_2",
+        "Завершите {0} Совпадение"
+      ],
+      [
+        "DailyQuest_Des_310_2",
+        "Преодолей {0} Обычный Уровень"
+      ],
+      [
+        "Hint_Already",
+        "Плитки, которые ты можешь сопоставить, светятся"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_4",
+        "Блестяще"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_5",
+        "Бесстрашный"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_6",
+        "Умный"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_4",
+        "Вы победили {0} игроков! Улучшение на {1} по сравнению с вашей последней игрой!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_5",
+        "Вы победили {0} игроков! Превосходство в своем лучшем виде!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_6",
+        "Даже сложные уровни боятся твоих навыков!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_7",
+        "Невероятная скорость! {0} совпадений каждые 3 секунды!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_8",
+        "Это было непросто, но ты справился как профессионал!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_9",
+        "Вот это концентрация! Продолжай в том же стабильном духе!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_10",
+        "Великолепная победа! Никто не сияет ярче тебя!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_11",
+        "Полный комбо! Ты хоть вспотел?"
+      ],
+      [
+        "DailyQuest_Des_400",
+        "Победи Обычный Уровень {0}"
+      ],
+      [
+        "MahjongTiles_EpicPlay",
+        "Игра меняется!"
+      ],
+      [
+        "MahjongTiles_EpicPlay_Reward",
+        "Приз за изменение игры!"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_2",
+        "Удалить плитки сверху"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_4",
+        "Совместите плитки нажатием"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_5",
+        "Перетащите плитки выше, чтобы их удалить и разблокировать плитки ниже"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_8",
+        "Нажмите на две <color=#FFBC46>одинаковые</color> плитки,\nчтобы сопоставить и удалить их"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_6",
+        "Сопоставьте плитки <color=#FFBC46>сверху</color>,\nчтобы разблокировать плитки <color=#FFBC46>снизу</color>"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_7",
+        "Соедините <color=#FFBC46>внешние</color> плитки,\nчтобы разблокировать <color=#FFBC46>внутренние</color>"
+      ],
+      [
+        "MahjongTiles_Reach",
+        "Только верхние {0}% достигают"
+      ],
+      [
+        "MahjongTiles_Hard",
+        "Трудно"
+      ],
+      [
+        "MahjongTiles_VeryHard",
+        "Очень Трудно"
+      ],
+      [
+        "Journey_Map_VeryHardLevel",
+        "Очень Трудный Уровень"
+      ],
+      [
+        "Common_Chest_Level",
+        "Уровень {0}/{1}"
+      ],
+      [
+        "Common_Settings_ContactUs",
+        "Контакт"
+      ],
+      [
+        "Common_Evaluate_Title",
+        "Оцените нас"
+      ],
+      [
+        "Common_Evaluate_Des",
+        "Если вам нравится наше\nприложение, пожалуйста,\nоцените нас на 5 звезд!"
+      ],
+      [
+        "Common_Evaluate_Button_Send",
+        "Отправить"
+      ],
+      [
+        "Common_Evaluate_Button_ToTease",
+        "Написать отзыв"
+      ],
+      [
+        "Common_Evaluate_Feedback",
+        "Пожалуйста, оставьте ваш отзыв, это много значит для нас"
+      ],
+      [
+        "MahjongTiles_MainPage_TargetLevel",
+        "Уровень {0}"
+      ],
+      [
+        "Common_Reward_Claim",
+        "Получить"
+      ],
+      [
+        "LeaderBoard_reward_1",
+        "Окей x2"
+      ],
+      [
+        "MahjongTiles_ProHint_1",
+        "Разблокировка на Уровне {0}"
+      ],
+      [
+        "Common_Reward_target_1",
+        "Пройти Уровень {0}"
+      ],
+      [
+        "Common_Reward_target_2",
+        "Макс. Комбо > {0}\n{1} / {2}"
+      ],
+      [
+        "MahjongBlast_GameEnd_Word_1",
+        "Вы победили {0} игроков!"
+      ],
+      [
+        "LeaderBoard_Name_6",
+        "Время Вечеринки"
+      ],
+      [
+        "LeaderBoard_Name_7",
+        "Специальная Доставка Подарков"
+      ],
+      [
+        "LeaderBoard_Name_8",
+        "Звёздная Экспедиция"
+      ],
+      [
+        "LeaderBoard_Name_9",
+        "Астрономическое Наблюдение"
+      ],
+      [
+        "LeaderBoard_Name_10",
+        "Хранитель Детства"
+      ],
+      [
+        "LeaderBoard_Name_Xmas25",
+        "С Рождеством!"
+      ],
+      [
+        "Journey_Name_Xmas25",
+        "Рождество"
+      ],
+      [
+        "Journey_Des_Xmas25",
+        "🎄Наслаждайтесь праздничным сезоном!🎁"
+      ],
+      [
+        "Badges_Journey_Prize_Xmas2501",
+        "Обычный"
+      ],
+      [
+        "Badges_Journey_Prize_Xmas2502",
+        "Редкий"
+      ],
+      [
+        "Badges_Journey_Prize_Xmas2503",
+        "Коллекционный"
+      ],
+      [
+        "Collection_DailyChallenge_202601",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202602",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202603",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202604",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202605",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202606",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202607",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202608",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202609",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202610",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202611",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202612",
+        "🎊"
+      ],
+      [
+        "MahjongTiles_ProHint_2",
+        "Разблокировка на Уровне {0}"
+      ],
+      [
+        "LeaderBoard_Start_DesXmas25",
+        "Собирайте золотые плитки, поднимайтесь в таблице лидеров и получайте щедрые награды!"
+      ],
+      [
+        "Date_DailyChallenge_Common",
+        "Дата"
+      ],
+      [
+        "Journey_Name_3",
+        "Дорожное путешествие"
+      ],
+      [
+        "Journey_Des_3",
+        "Пришёл, увидел, победил."
+      ],
+      [
+        "Badges_Journey_Prize_301",
+        "Обычный"
+      ],
+      [
+        "Badges_Journey_Prize_302",
+        "Редкий"
+      ],
+      [
+        "Badges_Journey_Prize_303",
+        "Коллекционный"
+      ],
+      [
+        "Journey_Name_4",
+        "Приходит Весна"
+      ],
+      [
+        "Journey_Des_4",
+        "Панда, которая рано встаёт, получает кунг-фу."
+      ],
+      [
+        "Badges_Journey_Prize_401",
+        "Обычный"
+      ],
+      [
+        "Badges_Journey_Prize_402",
+        "Редкий"
+      ],
+      [
+        "Badges_Journey_Prize_403",
+        "Коллекционный"
+      ],
+      [
+        "Opening_Age_Title",
+        "Добро пожаловать"
+      ],
+      [
+        "Opening_Age_Des",
+        "Чтобы обеспечить более комфортный игровой процесс \nпожалуйста, выберите подходящую возрастную категорию."
+      ],
+      [
+        "Common_Settings_AutoCombo",
+        "Авто Комбо"
+      ],
+      [
+        "TileMatch_Revive_Details_2",
+        "Перетасуйте, чтобы продолжить"
+      ],
+      [
+        "TileMatch_Revive_Button_Yes_2",
+        "Оживить"
+      ],
+      [
+        "Common_Settings_DefaultSkin",
+        "Скин по Умолчанию"
+      ],
+      [
+        "keyXiPai_Tips_01",
+        "{0}% игроков использовали Перетасовку, чтобы пройти этот уровень."
+      ],
+      [
+        "Set_Autoshuffle",
+        "Авто-перетасовка"
+      ],
+      [
+        "AutoShuffleTips_01",
+        "Включить автоиспользование \"Перетасовка\"?"
+      ],
+      [
+        "AutoShuffleTips_02",
+        "Да"
+      ],
+      [
+        "AutoShuffleTips_03",
+        "Нет"
+      ],
+      [
+        "AutoShuffleTips_04",
+        "{0}% игроков использовали Перетасовку, чтобы пройти этот уровень."
+      ],
+      [
+        "MahjongTiles_Free",
+        "Бесплатное Перемешать"
+      ],
+      [
+        "Opening_Age_Des1",
+        "Это не повлияет на сложность игры"
+      ],
+      [
+        "Opening_Age_Des2",
+        "Вам 18+? Пожалуйста, выберите возрастную категорию."
+      ],
+      [
+        "Opening_Age_Des3",
+        "Подтвердите, чтобы продолжить и получить бесплатный подарок. \nПожалуйста, выберите возрастную категорию"
+      ],
+      [
+        "FES26_love_stage1_title",
+        "Вызов любви"
+      ],
+      [
+        "FES26_love_stage1_text",
+        "Пройдите 10 уровней,\nчтобы окрасить игру в розовый."
+      ],
+      [
+        "FES26_love_stage1_bottom",
+        "Поехали"
+      ],
+      [
+        "FES26_love_stage2_title",
+        "В Розовом"
+      ],
+      [
+        "FES26_love_stage2_text",
+        "Поздравляем!\nНаслаждайтесь розовым путешествием!"
+      ],
+      [
+        "FES26_love_stage2_bottom",
+        "Ура!"
+      ],
+      [
+        "FES26_love_stage3_title",
+        "Спасибо"
+      ],
+      [
+        "FES26_love_stage3_text",
+        "\"В Розовом\" завершён.\nСпасибо за тёплые воспоминания.\nСкоро новые события!"
+      ],
+      [
+        "FES26_love_stage3_bottom",
+        "Пока"
+      ],
+      [
+        "TileMatch_Revive_Details_3",
+        "Перетасовать & Оживить"
+      ],
+      [
+        "Beat_Des_1",
+        "Пройдя этот уровень, вы превзойдёте {0} игроков"
+      ],
+      [
+        "Beat_Des_2",
+        "{0} игроков терпят неудачу на этом уровне"
+      ],
+      [
+        "Beat_Des_3",
+        "{0} игроков считают этот уровень сложным"
+      ],
+      [
+        "Beat_Des_4",
+        "Только {0} игроков могут пройти этот уровень"
+      ],
+      [
+        "Winning_streak_Title",
+        "Серия Побед"
+      ],
+      [
+        "Dailylog_title1",
+        "Ежедневный Бонус"
+      ],
+      [
+        "Dailylog_title2",
+        "Задача дня"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_01",
+        "Уровень был сложным, но ты прошёл его легко!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_02",
+        "Ты невероятен!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_03",
+        "Этот уровень пытался создать давление, а ты превратил его в расслабленную прогулку.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_04",
+        "Твоя игра в этой партии — чистый уровень профи."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_05",
+        "Плитки хотели спрятаться, но твоё мастерство вежливо отказало."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_06",
+        "Стратег внутри тебя сегодня в отличной форме."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_07",
+        "Спокойно и расслабленно — а уровень мастерства на максимуме."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_08",
+        "Твоя концентрация сегодня могла бы осветить целый городок."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_09",
+        "Ещё одна сложная партия — и ты спокойно её разобрал."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_10",
+        "Ты распутал этот хаос и довёл до идеального финала."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_11",
+        "Даже самые сложные слои не смогли тебя остановить."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_01",
+        "{0} совпадений за 3 секунды — молниеносно!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_02",
+        "Твоя скорость как микроволновка — раз, и готово!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_03",
+        "Сбрасывать {0} наборов каждые 3 секунды — даже плитки не успевают!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_04",
+        "Перед твоими глазами ни одна плитка не может долго прятаться."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_05",
+        "{0} наборов каждые 3 секунды — от такого темпа даже плитки нервничают.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_06",
+        "{0} совпадений за 3 секунды — моргнул, и доска пустая."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_07",
+        "{0} совпадений за 3 секунды — идеальное сочетание скорости и прозорливости."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_08",
+        "{0} совпадений за 3 секунды — у тебя уникальный стиль."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_09",
+        "После такой победы хочется сыграть ещё раз."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_10",
+        "Твоя способность видеть закономерности действительно впечатляет."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_11",
+        "{0} совпадений за 3 секунды — спокойствие и отличный результат."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_01",
+        "Твоя игра просто великолепна!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_02",
+        "Твой уровень игры просто невероятный!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_03",
+        "Твоя невозмутимость — лучшее, что есть в этой игре."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_04",
+        "Ты превратил сложную партию в настоящий хайлайт."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_05",
+        "Эта раскладка явно не рассчитывала встретиться с тобой."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_06",
+        "Твой спокойный режим — скрытый чит-код этой игры."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_07",
+        "Очень чистая зачистка — видно твою концентрацию."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_08",
+        "Это уровень топ — правда, очень круто!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_09",
+        "Исход был неясен, но всё решили твои выборы."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_10",
+        "Как только плитки разложились, ты сразу понял следующий ход."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_11",
+        "Та огромная куча плиток? Уже история."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_01",
+        "Ты настоящая звезда!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_02",
+        "Ничто не ускользнёт от твоих глаз!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_03",
+        "Ты обошёл {0} игроков и улучшился на {1} — отличное чувство!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_04",
+        "Ты обошёл {0} игроков и стал лучше на {1}% — даже плитки тебя уважают."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_05",
+        "Ты победил {0} игроков и вырос на {1}. Сегодня ты в огне!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_06",
+        "Ты победил {0} игроков — уверенно шаг за шагом и с красивым финалом."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_07",
+        "Плитки выстроились, победа пришла вовремя — кайф."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_08",
+        "Из полного экрана плиток ты шаг за шагом «упорядочил» победу."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_09",
+        "Ты победил {0} игроков — спокойно сыграл и получил отличный результат. Отличная работа!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_10",
+        "Поздравляем! Ты победил {0} игроков — ещё один уровень уверенно взят."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_11",
+        "Очень чистая зачистка — видно твою концентрацию."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_01",
+        "Поздравляем! Ты обошёл {0} игроков — открывай шампанское!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_02",
+        "Поздравляем! Ты победил {0} игроков — пора праздновать!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_03",
+        "Поздравляем! Ты победил {0} игроков — вот это мастерство!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_04",
+        "Ты победил {0} игроков — сыграл так, что даже плитки хотят аплодировать.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_05",
+        "Шикарная партия — сыграем ещё раз?"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_06",
+        "Твой ум и эта головоломка явно отлично ладят."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_07",
+        "Поле очищено — настроение тоже поднялось?"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_08",
+        "Ты победил {0} игроков! Ты всегда на шаг впереди поля."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_09",
+        "Ты победил {0} игроков! Твои навыки сопоставления очень крепкие."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_10",
+        "Ты выиграл благодаря мастерству, а не удаче."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_11",
+        "Ты победил {0} игроков! Победа далась легко — благодаря твоей мудрости!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_01",
+        "Комбо было таким плавным, что плитки даже не успели пожаловаться.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_02",
+        "Комбо было таким плавным, что плитки даже не успели пожаловаться.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_03",
+        "Ты на полном ходу!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_04",
+        "Комбо шло без остановки — будто плитки сами выстроились в очередь.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_05",
+        "Ты настоящая звезда!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_06",
+        "После этой комбо-серии казалось, будто ты просто между делом убрал все проблемы.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_07",
+        "Эта серия комбо была такой естественной и плавной — смотреть одно удовольствие.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_08",
+        "Ты видел это поле как на ладони."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_09",
+        "Это комбо было как по маслу — видно, что ты уверен в себе.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_10",
+        "От первого до последнего хода эта комбо-цепочка была изящной.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_11",
+        "Быстрый ум — и победа без остановок."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_01",
+        "Твоя концентрация восхитительна — продолжай в том же духе!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_02",
+        "Это потрясающе!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_03",
+        "Это действительно впечатляет!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_04",
+        "Ты прошёл эту партию как на прогулке.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_05",
+        "Твой мозг только что станцевал маленький танец победы."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_06",
+        "Даже плитки за кулисами хвалят твою технику."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_07",
+        "Уверенная победа — и финал особенно красивый."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_08",
+        "Острый ум — и победа стала закономерной."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_09",
+        "Твоя концентрация превратила сложную задачу в чёткую победу."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_10",
+        "В этой партии твоё терпение отлично окупилось."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_11",
+        "Ты прошёл эту партию так же легко, как ежедневную рутину."
+      ],
+      [
+        "Ranking_Avatar_Button_get",
+        "Получить"
+      ],
+      [
+        "Ranking_Avatar_Button_cantget",
+        "Скоро вернётся"
+      ],
+      [
+        "Loading_Tarot_01",
+        "Сделайте шаг веры вместе с Шутом.\nВас ждёт новое счастливое приключение!"
+      ],
+      [
+        "Loading_Tarot_02",
+        "Сила Мага в ваших руках.\nСегодня вам повезёт воплотить идеи в реальность."
+      ],
+      [
+        "Loading_Tarot_03",
+        "Глубокая интуиция Верховной Жрицы ведёт вас.\nТихо прислушайтесь к своему внутреннему голосу."
+      ],
+      [
+        "Loading_Tarot_04",
+        "Изобилие Императрицы питает вас.\nТо, что вы бережно взращиваете, будет процветать."
+      ],
+      [
+        "Loading_Tarot_05",
+        "Решительность Императора в ваших руках.\nДержите ситуацию под контролем с чётким планом и дисциплиной."
+      ],
+      [
+        "Loading_Tarot_06",
+        "Мудрость Иерофанта внутри вас.\nВнутреннее убеждение или принцип прояснит ваши сомнения."
+      ],
+      [
+        "Loading_Tarot_07",
+        "Влюблённые дарят вам целостность.\nВаша искренность ведёт к гармонии."
+      ],
+      [
+        "Loading_Tarot_08",
+        "Воля Колесницы двигаться вперёд.\nУже проложила вам путь к победе сегодня."
+      ],
+      [
+        "Loading_Tarot_09",
+        "Спокойствие Силы идёт изнутри.\nМягкая, но твёрдая решимость справится с любым вызовом."
+      ],
+      [
+        "Loading_Tarot_10",
+        "Фонарь Отшельника освещает ваш путь.\nТихие размышления в одиночестве принесут ценные ответы."
+      ],
+      [
+        "Loading_Tarot_11",
+        "Колесо Фортуны поворачивается к вам.\nСмело принимая перемены, вы входите в фазу подъёма."
+      ],
+      [
+        "Loading_Tarot_12",
+        "Весы Правосудия сегодня выравниваются для вас.\nВаши прошлые усилия и выбор получат справедливый отклик."
+      ],
+      [
+        "Loading_Tarot_13",
+        "Ожидание Повешенного не случайно.\nСмена взгляда откроет новые возможности."
+      ],
+      [
+        "Loading_Tarot_14",
+        "Сила Смерти к переменам уже действует.\nВаши осознанные изменения принесут яркое новое начало."
+      ],
+      [
+        "Loading_Tarot_15",
+        "Умеренность соединяет всё воедино.\nСегодняшнее спокойствие и терпение создадут идеальный баланс."
+      ],
+      [
+        "Loading_Tarot_16",
+        "Иллюзия Дьявола рассеивается.\nВаша свободная воля способна снять любые оковы."
+      ],
+      [
+        "Loading_Tarot_17",
+        "Потрясение Башни разрушает застой.\nВы сможете заложить более прочный фундамент."
+      ],
+      [
+        "Loading_Tarot_18",
+        "Звезда сияет надеждой.\nСохраняйте веру\n   — ваше будущее уже формируется."
+      ],
+      [
+        "Loading_Tarot_19",
+        "Пройдите сквозь туман Луны.\nВаша смелость превратит тревоги в ясные возможности."
+      ],
+      [
+        "Loading_Tarot_20",
+        "Солнце сияет ярко.\nСегодня день полон энергии, успеха и простой радости."
+      ],
+      [
+        "Loading_Tarot_21",
+        "Суд — это ясный зов.\nОн пробуждает в вас новую силу."
+      ],
+      [
+        "Loading_Tarot_22",
+        "Мир венчает вас.\nЦикл завершается, принося радостный успех и повод для праздника."
+      ],
+      [
+        "Loading_Tarot_23",
+        "Будьте открыты: неизвестное приносит подарки.\n   — Шут"
+      ],
+      [
+        "Loading_Tarot_24",
+        "Используйте всё, чем владеете, чтобы творить чудеса.\n   — Маг"
+      ],
+      [
+        "Loading_Tarot_25",
+        "Доверьтесь первому голосу своей интуиции.\n   — Верховная Жрица"
+      ],
+      [
+        "Loading_Tarot_26",
+        "Сегодня щедрость и забота приносят изобилие.\n   — Императрица"
+      ],
+      [
+        "Loading_Tarot_27",
+        "Чёткий план даёт надёжный контроль.\n   — Император"
+      ],
+      [
+        "Loading_Tarot_28",
+        "Традиционный путь или хороший наставник дадут надёжное руководство.\n   — Иерофант"
+      ],
+      [
+        "Loading_Tarot_29",
+        "Когда стоите перед выбором, слушайте сердце.\n   — Влюблённые"
+      ],
+      [
+        "Loading_Tarot_30",
+        "Управляйте своим курсом решительно и двигайтесь вперёд.\n   — Колесница"
+      ],
+      [
+        "Loading_Tarot_31",
+        "Настоящая сила рождается из мягкой уверенности.\n   — Сила"
+      ],
+      [
+        "Loading_Tarot_32",
+        "В тихом самопознании вы найдёте ясное направление.\n   — Отшельник"
+      ],
+      [
+        "Loading_Tarot_33",
+        "Счастливый поворот уже происходит, будьте готовы встретить возможности. — Колесо Фортуны"
+      ],
+      [
+        "Loading_Tarot_34",
+        "Ваши усилия будут справедливо вознаграждены. — Правосудие"
+      ],
+      [
+        "Loading_Tarot_35",
+        "Сделайте паузу, и вы получите новый взгляд.\n   — Повешенный"
+      ],
+      [
+        "Loading_Tarot_36",
+        "Конец означает новое начало.\n   — Смерть"
+      ],
+      [
+        "Loading_Tarot_37",
+        "Найдите идеальный ритм в сочетании и равновесии.\n   — Умеренность"
+      ],
+      [
+        "Loading_Tarot_38",
+        "Увидьте искушение ясно, и вернёте себе силу.\n   — Дьявол"
+      ],
+      [
+        "Loading_Tarot_39",
+        "Сломайте старые шаблоны,и вы построите более прочный фундамент.\n   — Башня"
+      ],
+      [
+        "Loading_Tarot_40",
+        "Храните надежду: вдохновение и исцеление рядом.\n   — Звезда"
+      ],
+      [
+        "Loading_Tarot_41",
+        "Доверьтесь шёпоту интуиции, он безопасно вас направит.\n   — Луна"
+      ],
+      [
+        "Loading_Tarot_42",
+        "Действуйте позитивно, и получите радость и признание.\n   — Солнце"
+      ],
+      [
+        "Loading_Tarot_43",
+        "Примите мудрое решение, и вас ждёт новое начало.\n   — Суд"
+      ],
+      [
+        "Loading_Tarot_44",
+        "Вы почти завершили важный этап безупречно.\n   — Мир"
+      ],
+      [
+        "Loading_Tarot_45",
+        "Сила дня — Солнце: ваша энергия способна осветить всё."
+      ],
+      [
+        "Loading_Tarot_46",
+        "Озарение дня — Колесо Фортуны: плывите по течению, и случится хорошее."
+      ],
+      [
+        "Loading_Tarot_47",
+        "Озарение дня — Девятка Кубков: загаданное желание сбывается."
+      ],
+      [
+        "Loading_Tarot_48",
+        "Озарение дня — Десятка Кубков: гармония и полнота наполнят вашу жизнь."
+      ],
+      [
+        "Loading_Tarot_49",
+        "Сила дня — Шестёрка Жезлов: идите уверенно — и признание последует."
+      ],
+      [
+        "Loading_Tarot_50",
+        "Сила дня — Звезда: вселенная мягко поддерживает вас."
+      ],
+      [
+        "Loading_Tarot_51",
+        "Сила дня — Десятка Пентаклей: наслаждайтесь достатком и делитесь плодами."
+      ],
+      [
+        "Loading_Tarot_52",
+        "Озарение дня — Мир: успех и достижения уже у вас в руках."
+      ],
+      [
+        "Loading_Motto_1",
+        "Каждый день — новая возможность.\n—— Джордж Герберт"
+      ],
+      [
+        "Loading_Motto_2",
+        "Всегда смотрите на светлую сторону жизни.\n—— Ричард Брэнсон"
+      ],
+      [
+        "Loading_Motto_3",
+        "Счастье вашей жизни зависит от качества ваших мыслей.\n—— Марк Аврелий"
+      ],
+      [
+        "Loading_Motto_4",
+        "Путь в тысячу миль начинается с одного шага.\n—— Лао-цзы"
+      ],
+      [
+        "Loading_Motto_5",
+        "Будущее принадлежит тем, кто верит в красоту своих мечтаний.\n—— Элеонора Рузвельт"
+      ],
+      [
+        "Loading_Motto_6",
+        "Жить — значит меняться; быть совершенным — значит часто меняться.\n—— Джон Генри Ньюман"
+      ],
+      [
+        "Loading_Motto_7",
+        "Главное — быть тронутым, любить, надеяться, дрожать, жить.\n—— Огюст Роден"
+      ],
+      [
+        "Loading_Motto_8",
+        "Нужно сделать то, что вы считаете невозможным.\n—— Элеонора Рузвельт"
+      ],
+      [
+        "Loading_Motto_9",
+        "Стоит выбрать надежду — и всё становится возможным.\n—— Кристофер Рив"
+      ],
+      [
+        "Loading_Motto_10",
+        "Трудные времена не длятся вечно, а стойкие люди — да.\n—— Роберт Х. Шуллер"
+      ],
+      [
+        "Loading_Motto_11",
+        "Перестаньте бороться — и вы перестанете жить.\n—— Томас Карлейль"
+      ],
+      [
+        "Loading_Motto_12",
+        "Жить без цели — всё равно что плыть без компаса.\n—— Александр Дюма"
+      ],
+      [
+        "Loading_Motto_13",
+        "Мы обретаем силу в том, что преодолели.\n—— Ральф Уолдо Эмерсон"
+      ],
+      [
+        "Loading_Motto_14",
+        "Почему сияют звёзды? Возможно, чтобы однажды каждый нашёл свою.\n—— Антуан де Сент-Экзюпери"
+      ],
+      [
+        "Loading_Motto_15",
+        "Надежда — это пернатое создание, что гнездится в душе.\n—— Эмили Дикинсон"
+      ],
+      [
+        "Loading_Motto_16",
+        "Если вы станете светом для себя, вы осветите мир.\n—— Мать Тереза"
+      ],
+      [
+        "Loading_Motto_17",
+        "Измените мысли — и вы измените свой мир.\n—— Норман Винсент Пил"
+      ],
+      [
+        "Loading_Motto_18",
+        "Лучший способ предсказать будущее — изобрести его.\n—— Алан Кей"
+      ],
+      [
+        "Loading_Motto_19",
+        "Поднимайтесь, прозревайте и идите дальше.\n—— Басни Эзопа"
+      ],
+      [
+        "Loading_Motto_20",
+        "Радость — в пути, а не в пункте назначения.\n—— Карл Льюис"
+      ],
+      [
+        "Loading_Motto_21",
+        "Никогда не ограничивайте себя."
+      ],
+      [
+        "Loading_Motto_22",
+        "Радость не в вещах — она в нас.\n—— Рихард Вагнер"
+      ],
+      [
+        "Loading_Motto_23",
+        "Удовольствие скрыто в процессе поиска.\n—— Китайская пословица"
+      ],
+      [
+        "Loading_Motto_24",
+        "Счастье зависит от нас самих.\n—— Аристотель"
+      ],
+      [
+        "Loading_Motto_25",
+        "Всё, что нужно, — вера, доверие и немного волшебной пыли.\n—— Питер Пэн"
+      ],
+      [
+        "Loading_Motto_26",
+        "Бури заставляют деревья пускать более глубокие корни.\n—— Дарло Джендрон"
+      ],
+      [
+        "Loading_Motto_27",
+        "Будьте собой: все остальные роли уже заняты.\n—— Оскар Уайльд"
+      ],
+      [
+        "Loading_Motto_28",
+        "Логика приведёт вас из A в B. Воображение приведёт куда угодно.\n—— Альберт Эйнштейн"
+      ],
+      [
+        "Loading_Motto_29",
+        "Лови момент.\n—— Гораций"
+      ],
+      [
+        "Loading_Motto_30",
+        "Познай самого себя.\n—— Сократ"
+      ],
+      [
+        "Loading_Motto_31",
+        "Красота — радость навсегда.\n—— Джон Китс"
+      ],
+      [
+        "Loading_Motto_32",
+        "Лучший выход — пройти через.\n—— Роберт Фрост"
+      ],
+      [
+        "Loading_Motto_33",
+        "Счастье — это путь, а не пункт назначения.\n—— Бен Суитленд"
+      ],
+      [
+        "Loading_Motto_34",
+        "Вы смелее, чем думаете.\n—— А. А. Милн"
+      ],
+      [
+        "Loading_Motto_35",
+        "Тот, кто идёт медленно, но не теряет цель, продвигается быстрее, чем тот, кто блуждает без цели.\n—— Готхольд Эфраим Лессинг"
+      ],
+      [
+        "Loading_Motto_36",
+        "Прислушайтесь к ветру — он знает всё.\n—— Сельма Лагерлёф"
+      ],
+      [
+        "Loading_Motto_37",
+        "Внутри вас есть тишина и убежище, куда можно уйти в любой момент и быть собой.\n—— Герман Гессе"
+      ],
+      [
+        "Loading_Motto_38",
+        "Играйте легко — пробуждайте внутреннюю мудрость."
+      ],
+      [
+        "Loading_Motto_39",
+        "Пусть игра успокоит ваш ум и подготовит постель для сладких снов."
+      ],
+      [
+        "Loading_Motto_40",
+        "Пространство, которое вы оставляете для удовольствия, — это и место для сна и мудрости."
+      ],
+      [
+        "Ranking_Avatar_new_avatar",
+        "Нов.аватар"
+      ],
+      [
+        "Dailylog2_text1",
+        "Играйте 7 дней подряд за макс. наградой!"
+      ],
+      [
+        "Dailylog2_text2",
+        "День {0}"
+      ],
+      [
+        "Dailylog2_text3",
+        "След. награда"
+      ],
+      [
+        "LeaderBoard_rank_1",
+        "<color=#f5e8c4>Ты поднялся на</c><outline color=#602e0b width=3><color=#ffd04b><size=38>{0}</size></color></outline><color=#f5e8c4>позиций в рейтинге!\nОтличная работа!</c>"
+      ],
+      [
+        "Journey_Name_Love26",
+        "День Влюблённых"
+      ],
+      [
+        "Badges_Journey_Prize_Love2601",
+        "Алмаз"
+      ],
+      [
+        "Badges_Journey_Prize_Love2602",
+        "Дата"
+      ],
+      [
+        "Badges_Journey_Prize_Love2603",
+        "Роза"
+      ],
+      [
+        "Booster_Shuffle_text1",
+        "{0} людей использовали перемешивание,\nчтобы пройти этот уровень"
+      ],
+      [
+        "Dailylog_icon",
+        "Отметка"
+      ],
+      [
+        "Classic_refuse",
+        "Нет, спасибо"
+      ],
+      [
+        "Get_MORE_SCORE",
+        "Больше испытаний"
+      ],
+      [
+        "Mahjong_RankPopUp_HINT",
+        "{0} началось!"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP1",
+        "Соберите золотые фишки маджонга"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP2",
+        "Когда таймер закончится, войдите в топ-6"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP3",
+        "Получите награду"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP4",
+        "Забрать"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP5",
+        "Понятно"
+      ],
+      [
+        "Mahjong_InGameSettings_Exit",
+        "Выход"
+      ],
+      [
+        "Mahjong_NewRecord",
+        "Новый Рекорд!"
+      ],
+      [
+        "classic_bestscore_des",
+        "Лучший счёт"
+      ],
+      [
+        "classic_weekbest",
+        "Лучший за неделю"
+      ],
+      [
+        "classic_todaybest",
+        "Лучший за день"
+      ],
+      [
+        "classic_gameover",
+        "Игра окончена"
+      ],
+      [
+        "classic_Continue",
+        "Продолжить!"
+      ],
+      [
+        "classic_newmod",
+        "Новый режим!"
+      ],
+      [
+        "classic_button",
+        "Классика"
+      ],
+      [
+        "classic_stage",
+        "Уровень"
+      ],
+      [
+        "Get_MORE_SCOREplus",
+        "Получи в {0} раз больше очков"
+      ],
+      [
+        "Dailylog2_text4",
+        "Сегодня"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_title",
+        "Без рекламы"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_text1",
+        "Посмотрите рекламу с наградой и наслаждайтесь {0} минутами игры без рекламы!"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_text2",
+        "Посмотрите рекламу с наградой и наслаждайтесь {0} раундами без рекламы!"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_yes",
+        "Давай!"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_no",
+        "Нет, спасибо"
+      ],
+      [
+        "Robot_Name51",
+        "PeachPup"
+      ],
+      [
+        "Robot_Name52",
+        "SunnyPaws"
+      ],
+      [
+        "Robot_Name53",
+        "Blossom"
+      ],
+      [
+        "Robot_Name54",
+        "CocoTail"
+      ],
+      [
+        "Robot_Name55",
+        "RosyWoof"
+      ],
+      [
+        "Robot_Name11",
+        "luna"
+      ],
+      [
+        "Robot_Name12",
+        "SnowBelle"
+      ],
+      [
+        "Robot_Name13",
+        "MimiAzure"
+      ],
+      [
+        "Robot_Name14",
+        "CloudKitty"
+      ],
+      [
+        "Robot_Name15",
+        "BlueCharm"
+      ],
+      [
+        "Robot_Name21",
+        "DaisyDoe"
+      ],
+      [
+        "Robot_Name22",
+        "Velvet"
+      ],
+      [
+        "Robot_Name23",
+        "AmberBreeze"
+      ],
+      [
+        "Robot_Name24",
+        "SoftMeadow"
+      ],
+      [
+        "Robot_Name25",
+        "FawnGlow"
+      ],
+      [
+        "Robot_Name31",
+        "foxyboba"
+      ],
+      [
+        "Robot_Name32",
+        "lilvibez"
+      ],
+      [
+        "Robot_Name33",
+        "amberluv"
+      ],
+      [
+        "Robot_Name34",
+        "glowfable"
+      ],
+      [
+        "Robot_Name35",
+        "slycutie"
+      ],
+      [
+        "Robot_Name41",
+        "SnowPuff"
+      ],
+      [
+        "Robot_Name42",
+        "Pingo"
+      ],
+      [
+        "Robot_Name43",
+        "ChillyBean"
+      ],
+      [
+        "Robot_Name44",
+        "PolarMochi"
+      ],
+      [
+        "Robot_Name45",
+        "Glacier"
+      ],
+      [
+        "Robot_Name61",
+        "PeacockJoy"
+      ],
+      [
+        "Robot_Name62",
+        "Azure"
+      ],
+      [
+        "Robot_Name63",
+        "SkyPlume"
+      ],
+      [
+        "Robot_Name64",
+        "NovaPea"
+      ],
+      [
+        "Robot_Name65",
+        "cozy"
+      ],
+      [
+        "Free_Shuffle",
+        "Количество"
+      ],
+      [
+        "Free_Shuffle_tag",
+        "Бесплатно"
+      ],
+      [
+        "normal_sentence1",
+        "Во всем мире {0} игроков бросают вызов. Пройдите первым и победите {1} противников!"
+      ],
+      [
+        "normal_sentence2",
+        "Во всем мире {0} игроков бросают вызов этому уровню, и только {1} игроков прошли его."
+      ],
+      [
+        "normal_sentence3",
+        "Сегодня {0} игроков прошли этот уровень. Пройдите его, и вы будете впереди {1} игроков!"
+      ],
+      [
+        "travel_sentence1",
+        "Сегодня {0} игроков начали приключение. Пройдите его, и вы превзойдете {1} искателей приключений!"
+      ],
+      [
+        "travel_sentence2",
+        "Сегодня {0} искателей приключений играют на этом уровне, но только {1} из них могут пройти его!"
+      ],
+      [
+        "travel_sentence3",
+        "Вы {0}-й искатель приключений сегодня. Только {1} искателей приключений могут получить коллекционный предмет. Идите и выиграйте этот уникальный сувенир!"
+      ],
+      [
+        "challenge_sentence1",
+        "Сегодня {0} экспертов бросают вызов этому уровню. Пройдите его, и вы сможете победить {1} экспертов!"
+      ],
+      [
+        "challenge_sentence2",
+        "Прямо сейчас {0} экспертов бросают вызов, и только {1} из них преуспевают."
+      ],
+      [
+        "challenge_sentence3",
+        "Во всем мире {0} человек приняли вызов. Прохождение означает, что вы входите в топ {1} и становитесь посеянным игроком."
+      ],
+      [
+        "no_internert",
+        "Соединение потеряно"
+      ],
+      [
+        "Journey_Name_5",
+        "Новый друг"
+      ],
+      [
+        "Journey_Des_5",
+        "Каждое приветствие может стать началом новой дружбы."
+      ],
+      [
+        "Badges_Journey_Prize_501",
+        "Первое приветствие"
+      ],
+      [
+        "Badges_Journey_Prize_502",
+        "Плетельщик историй"
+      ],
+      [
+        "Badges_Journey_Prize_503",
+        "Соединитель сердец"
+      ],
+      [
+        "LeaderBoard_PlayerName_me",
+        "Я"
+      ],
+      [
+        "LeaderBoard_PlayerName_You",
+        "Ты"
+      ],
+      [
+        "Ranking_Pop-up_text1",
+        "<color=#eee4d2>Соберите </c><color=#ffd000>золотую</c><color=#eee4d2> маджонг!</c>"
+      ],
+      [
+        "Ranking_Pop-up_text2",
+        "Попадите в Топ-6 рейтинга!"
+      ],
+      [
+        "Ranking_Pop-up_text3",
+        "Получите щедрые награды!"
+      ],
+      [
+        "Tile_Travel_Current_Progress_text1",
+        "{0} завершено"
+      ],
+      [
+        "Tile_Travel_Current_Progress_text2",
+        "Осталось {0}"
+      ],
+      [
+        "Tiles_PropPurchase_Title_3",
+        "Бесплатная отмена"
+      ],
+      [
+        "Tiles_PropPurchase_Purchase_1",
+        "Посмотри рекламу и получи {0} перемешиваний"
+      ],
+      [
+        "Tiles_PropPurchase_Purchase_2",
+        "Посмотри рекламу и получи {0} подсказок"
+      ],
+      [
+        "Tiles_PropPurchase_Purchase_3",
+        "Посмотри рекламу и получи {0} отмен"
+      ],
+      [
+        "New_Skin_Unlock",
+        "Разблокировка нового скина"
+      ],
+      [
+        "Download_Time",
+        "<1 мин"
+      ],
+      [
+        "Refuse_Download",
+        "Нет, спасибо"
+      ],
+      [
+        "Tile4_tip_tool_cannot_use",
+        "Попробуйте другие предметы, чтобы пройти это испытание"
+      ],
+      [
+        "Tile4_back_tool_cannot_use",
+        "Нет допустимых плиток"
+      ],
+      [
+        "MahjongTiles_GameEnd_Time",
+        "Время"
+      ],
+      [
+        "MahjongTiles4_Revive_Title",
+        "Нет мест"
+      ],
+      [
+        "Mahjong_matches_available",
+        "{0} совпадений доступно"
+      ],
+      [
+        "Tile4_item_not_enough",
+        "Недостаточно предметов"
+      ],
+      [
+        "MahjongTiles_GameEnd_Score_English_Most",
+        "Счёт"
+      ],
+      [
+        "MahjongTiles_GameEnd_Combo_English_Most",
+        "Комбо"
+      ],
+      [
+        "DoubleTile_Trip_Time",
+        "{0} дней"
+      ],
+      [
+        "DoubleTile_Trip",
+        "поездка"
+      ],
+      [
+        "DoubleTile_MainType_Hard",
+        "Сложный уровень {0}"
+      ],
+      [
+        "DoubleTile_MainType_Expert",
+        "Уровень эксперта {0}"
+      ],
+      [
+        "Tile_End_Praise_A_title_1",
+        "Быстрый как молния"
+      ],
+      [
+        "Tile_End_Praise_A_title_2",
+        "Орлиный взор"
+      ],
+      [
+        "Tile_End_Praise_A_title_3",
+        "Искромётный юмор"
+      ],
+      [
+        "Tile_End_Praise_A_title_4",
+        "Король скорости"
+      ],
+      [
+        "Tile_End_Praise_A_title_5",
+        "Непобедим"
+      ],
+      [
+        "Tile_End_Praise_A_title_6",
+        "Звуковой режим"
+      ],
+      [
+        "Tile_End_Praise_A_title_7",
+        "Повелитель времени"
+      ],
+      [
+        "Tile_End_Praise_A_text_1",
+        "Твое имя воспоют барды!"
+      ],
+      [
+        "Tile_End_Praise_A_text_2",
+        "Слишком быстро. Оставь вызов и для нас, простых смертных."
+      ],
+      [
+        "Tile_End_Praise_A_text_3",
+        "Для тебя это не игра, а круг почета."
+      ],
+      [
+        "Tile_End_Praise_A_text_4",
+        "Ты уверен, что ты не финальный босс?"
+      ],
+      [
+        "Tile_End_Praise_A_text_5",
+        "Рождён для спидрана."
+      ],
+      [
+        "Tile_End_Praise_A_text_6",
+        "Ты прошёл этот уровень быстрее, чем он загрузился."
+      ],
+      [
+        "Tile_End_Praise_A_text_7",
+        "Гладко и быстро. Как тающее масло."
+      ],
+      [
+        "Tile_End_Praise_A_text_8",
+        "Флэш обзавидовался бы."
+      ],
+      [
+        "Tile_End_Praise_B_title_1",
+        "С одного удара"
+      ],
+      [
+        "Tile_End_Praise_B_title_2",
+        "Невредим"
+      ],
+      [
+        "Tile_End_Praise_B_title_3",
+        "С лёгкостью"
+      ],
+      [
+        "Tile_End_Praise_B_title_4",
+        "Безупречно"
+      ],
+      [
+        "Tile_End_Praise_B_title_5",
+        "Бессмертный"
+      ],
+      [
+        "Tile_End_Praise_B_text_1",
+        "Сегодня я везунчик!"
+      ],
+      [
+        "Tile_End_Praise_B_text_2",
+        "Как ты это понял? Можно одолжить твой мозг?"
+      ],
+      [
+        "Tile_End_Praise_B_text_3",
+        "Это мышление следующего уровня!"
+      ],
+      [
+        "Tile_End_Praise_B_text_4",
+        "Думал, что обречен? Нет, ты справился!"
+      ],
+      [
+        "Tile_End_Praise_B_text_5",
+        "Удача? Нет, это чистое мастерство!"
+      ],
+      [
+        "Tile_End_Praise_B_text_6",
+        "Все застряли, а ты улыбаешься!"
+      ],
+      [
+        "Tile_End_Praise_B_text_7",
+        "Бесполезно скрывать, ты гений!"
+      ],
+      [
+        "Tile_End_Praise_B_text_8",
+        "Слишком умен, чтобы быть правдой!"
+      ],
+      [
+        "Tile_End_Praise_B_text_9",
+        "Подожди... ты ни разу не застрял?"
+      ],
+      [
+        "Tile_End_Praise_B_text_10",
+        "Непобедимость для тебя не бонус, а образ жизни."
+      ],
+      [
+        "Tile_End_Praise_B_text_11",
+        "Идеально, как по учебнику. Вставь в рамку и повесь на стену."
+      ],
+      [
+        "Tile_End_Praise_C_title_1",
+        "Неудержимый"
+      ],
+      [
+        "Tile_End_Praise_C_title_2",
+        "Поумнел"
+      ],
+      [
+        "Tile_End_Praise_C_title_3",
+        "Закаленный в огне"
+      ],
+      [
+        "Tile_End_Praise_C_text_1",
+        "Семь раз упасть, восемь раз подняться!"
+      ],
+      [
+        "Tile_End_Praise_C_text_2",
+        "Кризис показывает, кто есть кто!"
+      ],
+      [
+        "Tile_End_Praise_C_text_3",
+        "Пройдя через бесчисленные испытания, ты достиг берегов славы!"
+      ],
+      [
+        "Tile_End_Praise_C_text_4",
+        "Ты освоил этот уровень!"
+      ],
+      [
+        "Tile_End_Praise_C_text_5",
+        "Настойчивость окупилась. Буквально."
+      ],
+      [
+        "Tile_End_Praise_C_text_6",
+        "Каждая неудача была лишь тренировкой для этого момента."
+      ],
+      [
+        "Tile_End_Praise_C_text_7",
+        "Заблудился? Ты? Никогда!"
+      ],
+      [
+        "Tile_End_Praise_C_text_8",
+        "От нуля до героя. Мы это видели."
+      ],
+      [
+        "Tile_End_Praise_C_text_9",
+        "Каждая смерть была уроком. Ты сдал выпускной экзамен на отлично."
+      ],
+      [
+        "Tile_End_Praise_C_text_10",
+        "Ничто тебя не сломает. Больше никогда."
+      ],
+      [
+        "Tile_End_Praise_D_title_1",
+        "Большой ум"
+      ],
+      [
+        "Tile_End_Praise_D_title_2",
+        "Мастер инструментов"
+      ],
+      [
+        "Tile_End_Praise_D_title_3",
+        "Тактический гений"
+      ],
+      [
+        "Tile_End_Praise_D_title_4",
+        "Слава тебе"
+      ],
+      [
+        "Tile_End_Praise_D_title_5",
+        "Максимальная ценность"
+      ],
+      [
+        "Tile_End_Praise_D_text_1",
+        "Использование этого предмета — просто шедевр."
+      ],
+      [
+        "Tile_End_Praise_D_text_2",
+        "У тебя был нужный инструмент в нужное время. Каждый раз."
+      ],
+      [
+        "Tile_End_Praise_D_text_3",
+        "Идеальное решение за долю секунды. Без замечаний."
+      ],
+      [
+        "Tile_End_Praise_D_text_4",
+        "Подвиг, достойный героев древности!"
+      ],
+      [
+        "Tile_End_Praise_D_text_5",
+        "Такая стратегия достойна собственной эпической поэмы!"
+      ],
+      [
+        "Tile_End_Praise_D_text_6",
+        "Заря с розовыми пальцами венчает тебя!"
+      ],
+      [
+        "Tile_End_Praise_D_text_7",
+        "Твоя слава летит на epea pteroenta - крылатых словах!"
+      ],
+      [
+        "Tile_End_Praise_D_text_8",
+        "Ты нашел секрет успеха!"
+      ],
+      [
+        "Tile_End_Praise_D_text_9",
+        "Вот это профессиональный ход!"
+      ],
+      [
+        "Tile_End_Praise_D_text_10",
+        "Ты выжил после этого? Легендарно!"
+      ],
+      [
+        "Tile_End_Praise_D_text_11",
+        "Использовать тот предмет там? Ход на 200 IQ."
+      ],
+      [
+        "Tile_End_Praise_D_text_12",
+        "Идеальный момент. Загляденье."
+      ],
+      [
+        "Tile3_Guide_text1",
+        "Нажмите на такой же узор, \nкак в держателе."
+      ],
+      [
+        "Tile3_Guide_color_text1",
+        "<color=#ffd000>Нажмите на плитку с таким же узором</color>, \nкак в слоте."
+      ],
+      [
+        "Double_TILE_Guide_1",
+        "<color=#8e481c>Осторожно!</c>\n<color=#ff4e00> Не переполните слот!</color>"
+      ],
+      [
+        "TileXiPai_Tips_01",
+        "Лишь {0} игроков проходят это с одной жизнью!"
+      ],
+      [
+        "Tile4_Guide_text1",
+        "Сначала уберите плитки <color=#ffd000>сверху</color> и <color=#ffd000>с боков</color>"
+      ],
+      [
+        "Daily_Task_Pop_Change_Title",
+        "Награды за ежедневные задания"
+      ],
+      [
+        "Tile4_xinyun_Newbie_Text_1",
+        "Сопоставьте <color=#ffd000>сверху</c>, чтобы открыть плитки <color=#ffd000>снизу</c>"
+      ],
+      [
+        "Tile4_xinyun_Newbie_Text_2",
+        "Переместите плитку <color=#ffd000>вверх</c>, чтобы открыть <color=#ffd000>соседние</c> плитки"
+      ],
+      [
+        "Tile4_xinyun_Newbie_Text_3",
+        "Теперь вы можете составить <color=#ffd000>пару</c>!"
+      ],
+      [
+        "Tile4_xinyun_Newbie_Text_4",
+        "Теперь здесь появилась новая <color=#ffd000>пара</c>!"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_map_rose",
+    "texture": "0d62217d-72ee-48f4-b945-d8c88899d565",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      916,
+      376
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      924,
+      383
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

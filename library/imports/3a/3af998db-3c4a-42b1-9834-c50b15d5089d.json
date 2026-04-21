@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "result_win_num_score",
+    "texture": "1947b458-9ab7-493d-9c24-8fef60d4d19a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      382,
+      384
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      382,
+      384
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

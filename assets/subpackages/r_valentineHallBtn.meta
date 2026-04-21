@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "a79007f3-9a0d-40f3-8e21-3b0db017d63b",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_valentineHallBtn",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

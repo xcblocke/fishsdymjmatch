@@ -1,0 +1,55 @@
+
+gameplay_collision_specialCard.png
+size: 764,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blast_12
+  rotate: false
+  xy: 324, 44
+  size: 278, 278
+  orig: 278, 278
+  offset: 0, 0
+  index: -1
+blast_13
+  rotate: false
+  xy: 2, 2
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+cb_3
+  rotate: false
+  xy: 652, 65
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+hua_1
+  rotate: true
+  xy: 707, 74
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+hua_2
+  rotate: true
+  xy: 604, 96
+  size: 58, 101
+  orig: 58, 101
+  offset: 0, 0
+  index: -1
+hua_3
+  rotate: true
+  xy: 604, 156
+  size: 166, 158
+  orig: 166, 158
+  offset: 0, 0
+  index: -1
+mj_7
+  rotate: true
+  xy: 604, 47
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

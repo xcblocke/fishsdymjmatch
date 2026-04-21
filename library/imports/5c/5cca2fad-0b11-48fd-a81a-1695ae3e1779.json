@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_mask_bg3",
+    "texture": "ba555c91-eb41-42f4-a9b2-88c7766a45c4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      323,
+      1344
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      323,
+      1344
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

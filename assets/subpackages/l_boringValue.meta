@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "eafadfba-18cf-4982-9a6b-f4cde379773f",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_boringValue",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

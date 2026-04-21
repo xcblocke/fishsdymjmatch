@@ -1,0 +1,262 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_adv_icon_camera",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "mwwy2grVLpWf8Am3A72I3ZKdEII",
+      "spine": "3.8.99",
+      "x": -29.56,
+      "y": -70.54,
+      "width": 64,
+      "height": 39,
+      "images": "./images/icon/",
+      "audio": "E:/chen_项目/27年3月/082_tile4格基础之吸铁石道具/advertising_icon"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "advertising_icon",
+        "parent": "root"
+      },
+      {
+        "name": "camera",
+        "parent": "advertising_icon",
+        "x": 2.44,
+        "y": -51.54
+      }
+    ],
+    "slots": [
+      {
+        "name": "camera",
+        "bone": "camera",
+        "attachment": "camera"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "camera": {
+            "camera": {
+              "y": 0.5,
+              "width": 64,
+              "height": 39
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "in": {
+        "bones": {
+          "advertising_icon": {
+            "translate": [
+              {
+                "x": -213.67,
+                "curve": 0.073,
+                "c2": 0.29,
+                "c3": 0.965,
+                "c4": 0.48
+              },
+              {
+                "time": 0.2,
+                "x": 4,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3,
+                "x": -2,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.4,
+                "x": 1,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.5
+              }
+            ]
+          }
+        }
+      },
+      "init": {
+        "bones": {
+          "camera": {
+            "scale": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.6667,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.3333,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.6667,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.3333,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.6667,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 3,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 3.3333,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 3.6667,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 4,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 4.3333,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 4.6667,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 5,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 5.3333,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 5.6667,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 6,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 6.3333,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 6.6667
+              }
+            ]
+          }
+        }
+      },
+      "out": {
+        "slots": {
+          "camera": {
+            "color": [
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "advertising_icon": {
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.2,
+                "x": -213.67
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ngameplay_adv_icon_camera.png\nsize: 68,43\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncamera\n  rotate: false\n  xy: 2, 2\n  size: 64, 39\n  orig: 64, 39\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "02ba744a-2089-42c4-a6ca-dd476833a34d"
+    }
+  ],
+  "textureNames": [
+    "gameplay_adv_icon_camera.png"
+  ],
+  "scale": 1
+}

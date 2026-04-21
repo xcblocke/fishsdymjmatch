@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_btn_back",
+    "texture": "7518735f-a1f1-41fb-940d-62b343769de8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

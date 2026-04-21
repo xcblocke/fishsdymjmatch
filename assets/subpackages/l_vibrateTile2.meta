@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "99aef1f8-f8ec-4818-802c-6e807213ee2f",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_vibrateTile2",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "set_btn_bgmUp",
+    "texture": "d486363c-ddb7-44a7-a65f-05def0a89dd6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

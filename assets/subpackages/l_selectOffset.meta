@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "96fc4869-dcd1-4e67-adb5-73082f424435",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_selectOffset",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

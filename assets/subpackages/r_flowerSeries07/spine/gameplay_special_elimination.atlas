@@ -1,0 +1,167 @@
+
+gameplay_special_elimination.png
+size: 817,817
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+baidian
+  rotate: false
+  xy: 665, 381
+  size: 6, 6
+  orig: 8, 8
+  offset: 1, 1
+  index: -1
+bgglow1
+  rotate: false
+  xy: 4, 6
+  size: 300, 305
+  orig: 310, 313
+  offset: 5, 4
+  index: -1
+glow5
+  rotate: false
+  xy: 675, 24
+  size: 70, 64
+  orig: 77, 77
+  offset: 3, 5
+  index: -1
+hongmao
+  rotate: true
+  xy: 677, 427
+  size: 129, 100
+  orig: 132, 103
+  offset: 1, 1
+  index: -1
+hongshen
+  rotate: false
+  xy: 308, 134
+  size: 178, 177
+  orig: 181, 180
+  offset: 1, 2
+  index: -1
+hongshou1
+  rotate: true
+  xy: 677, 349
+  size: 74, 100
+  orig: 74, 100
+  offset: 0, 0
+  index: -1
+hongshou2
+  rotate: false
+  xy: 540, 31
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+hongtou
+  rotate: false
+  xy: 308, 10
+  size: 131, 120
+  orig: 133, 123
+  offset: 1, 1
+  index: -1
+hongweijin1
+  rotate: false
+  xy: 766, 712
+  size: 47, 101
+  orig: 47, 101
+  offset: 0, 0
+  index: -1
+hongweijin2
+  rotate: false
+  xy: 506, 319
+  size: 155, 68
+  orig: 157, 70
+  offset: 1, 1
+  index: -1
+hongweijin3
+  rotate: true
+  xy: 558, 135
+  size: 55, 104
+  orig: 58, 106
+  offset: 2, 1
+  index: -1
+lanmao
+  rotate: true
+  xy: 443, 10
+  size: 120, 93
+  orig: 123, 95
+  offset: 2, 1
+  index: -1
+lanshen
+  rotate: false
+  xy: 506, 391
+  size: 167, 165
+  orig: 170, 168
+  offset: 2, 2
+  index: -1
+lanshou1
+  rotate: false
+  xy: 674, 243
+  size: 79, 102
+  orig: 79, 102
+  offset: 0, 0
+  index: -1
+lanshou2
+  rotate: true
+  xy: 674, 167
+  size: 72, 95
+  orig: 72, 95
+  offset: 0, 0
+  index: -1
+lantou
+  rotate: true
+  xy: 558, 194
+  size: 121, 112
+  orig: 124, 114
+  offset: 1, 1
+  index: -1
+lanweijin1
+  rotate: false
+  xy: 766, 614
+  size: 44, 94
+  orig: 44, 94
+  offset: 0, 0
+  index: -1
+lanweijin2
+  rotate: true
+  xy: 490, 167
+  size: 144, 64
+  orig: 146, 66
+  offset: 1, 1
+  index: -1
+lanwejin3
+  rotate: false
+  xy: 620, 29
+  size: 51, 102
+  orig: 54, 104
+  offset: 1, 1
+  index: -1
+quan
+  rotate: false
+  xy: 4, 315
+  size: 498, 498
+  orig: 512, 512
+  offset: 7, 7
+  index: -1
+rainbowglow
+  rotate: false
+  xy: 506, 560
+  size: 256, 253
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+xuehua
+  rotate: false
+  xy: 675, 92
+  size: 71, 71
+  orig: 73, 73
+  offset: 1, 1
+  index: -1
+xuehua1
+  rotate: false
+  xy: 766, 566
+  size: 44, 44
+  orig: 73, 73
+  offset: 15, 14
+  index: -1

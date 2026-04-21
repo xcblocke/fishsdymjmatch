@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "main_icon_gardeningMaster2",
+    "texture": "6c52c238-81c6-4a1f-9099-2e9758d0151b",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      862,
+      199
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      866,
+      203
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

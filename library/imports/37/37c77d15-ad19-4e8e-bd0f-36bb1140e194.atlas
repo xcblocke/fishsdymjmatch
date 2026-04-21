@@ -1,0 +1,20 @@
+
+result_light.png
+size: 122,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/par_03
+  rotate: false
+  xy: 107, 48
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+images/tex_light_2
+  rotate: true
+  xy: 2, 2
+  size: 60, 103
+  orig: 68, 115
+  offset: 4, 9
+  index: -1

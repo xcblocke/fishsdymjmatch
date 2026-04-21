@@ -1,0 +1,17 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_light_goal",
+  "_objFlags": 0,
+  "_native": ".bin",
+  "_skeletonJson": null,
+  "_atlasText": "\ngameplay_light_goal.png\nsize: 171,138\nformat: RGBA8888\nfilter: MipMap,MipMap\nrepeat: none\nlight_circle_d\n  rotate: true\n  xy: 36, 4\n  size: 130, 131\n  orig: 137, 137\n  offset: 4, 3\n  index: -1\ntsp_lizi\n  rotate: false\n  xy: 4, 106\n  size: 28, 28\n  orig: 34, 34\n  offset: 3, 3\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "571e6e04-885a-4004-a194-2751a0708718"
+    }
+  ],
+  "textureNames": [
+    "gameplay_light_goal.png"
+  ],
+  "scale": 1
+}

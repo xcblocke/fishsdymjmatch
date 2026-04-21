@@ -1,0 +1,167 @@
+
+gameplay_special_elimination.png
+size: 771,771
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+03YP/beizi1
+  rotate: false
+  xy: 243, 284
+  size: 134, 219
+  orig: 136, 221
+  offset: 1, 1
+  index: -1
+03YP/beizi2
+  rotate: true
+  xy: 413, 77
+  size: 130, 19
+  orig: 132, 40
+  offset: 1, 1
+  index: -1
+03YP/gaoliang
+  rotate: false
+  xy: 168, 18
+  size: 118, 182
+  orig: 120, 184
+  offset: 1, 1
+  index: -1
+03YP/gaoliang1
+  rotate: true
+  xy: 290, 4
+  size: 24, 172
+  orig: 26, 174
+  offset: 1, 1
+  index: -1
+03YP/ice
+  rotate: true
+  xy: 466, 12
+  size: 66, 61
+  orig: 68, 63
+  offset: 1, 1
+  index: -1
+03YP/lan1
+  rotate: false
+  xy: 418, 594
+  size: 119, 173
+  orig: 119, 173
+  offset: 0, 0
+  index: -1
+03YP/lan2
+  rotate: false
+  xy: 195, 507
+  size: 116, 37
+  orig: 118, 39
+  offset: 1, 1
+  index: -1
+03YP/lan3
+  rotate: false
+  xy: 4, 9
+  size: 78, 191
+  orig: 80, 193
+  offset: 1, 1
+  index: -1
+03YP/lan4
+  rotate: false
+  xy: 290, 32
+  size: 119, 174
+  orig: 119, 174
+  offset: 0, 0
+  index: -1
+03YP/lv1
+  rotate: true
+  xy: 388, 211
+  size: 116, 171
+  orig: 116, 171
+  offset: 0, 0
+  index: -1
+03YP/lv2
+  rotate: false
+  xy: 315, 507
+  size: 116, 37
+  orig: 118, 39
+  offset: 1, 1
+  index: -1
+03YP/lv3
+  rotate: false
+  xy: 86, 9
+  size: 78, 191
+  orig: 80, 193
+  offset: 1, 1
+  index: -1
+03YP/lv4
+  rotate: false
+  xy: 381, 331
+  size: 118, 172
+  orig: 118, 172
+  offset: 0, 0
+  index: -1
+03YP/lvglow
+  rotate: false
+  xy: 4, 487
+  size: 187, 280
+  orig: 191, 284
+  offset: 2, 2
+  index: -1
+03YP/ningmeng
+  rotate: false
+  xy: 317, 210
+  size: 67, 70
+  orig: 70, 72
+  offset: 2, 1
+  index: -1
+03YP/ningmeng3
+  rotate: false
+  xy: 243, 210
+  size: 70, 70
+  orig: 72, 72
+  offset: 1, 1
+  index: -1
+03YP/yezi
+  rotate: true
+  xy: 418, 557
+  size: 33, 28
+  orig: 35, 30
+  offset: 1, 1
+  index: -1
+boom
+  rotate: false
+  xy: 436, 82
+  size: 123, 125
+  orig: 128, 128
+  offset: 5, 2
+  index: -1
+glow5
+  rotate: true
+  xy: 450, 520
+  size: 70, 64
+  orig: 77, 77
+  offset: 3, 5
+  index: -1
+paopao
+  rotate: false
+  xy: 413, 43
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+paopao1
+  rotate: false
+  xy: 531, 48
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+ring_2
+  rotate: false
+  xy: 195, 548
+  size: 219, 219
+  orig: 256, 256
+  offset: 19, 18
+  index: -1
+shuizi
+  rotate: false
+  xy: 4, 204
+  size: 235, 279
+  orig: 237, 281
+  offset: 1, 1
+  index: -1

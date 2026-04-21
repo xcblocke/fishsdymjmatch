@@ -1,0 +1,83 @@
+
+gameplay_special_elimination.png
+size: 713,521
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+54JiaJu/dengtai
+  rotate: true
+  xy: 343, 4
+  size: 106, 100
+  orig: 108, 102
+  offset: 1, 1
+  index: -1
+54JiaJu/dengtai1
+  rotate: false
+  xy: 590, 165
+  size: 106, 100
+  orig: 108, 102
+  offset: 1, 1
+  index: -1
+54JiaJu/dengzhao
+  rotate: false
+  xy: 227, 114
+  size: 178, 109
+  orig: 180, 111
+  offset: 1, 1
+  index: -1
+54JiaJu/kaiguan
+  rotate: true
+  xy: 590, 137
+  size: 24, 66
+  orig: 24, 66
+  offset: 0, 0
+  index: -1
+54JiaJu/light
+  rotate: false
+  xy: 4, 227
+  size: 453, 290
+  orig: 800, 800
+  offset: 187, 229
+  index: -1
+boom
+  rotate: true
+  xy: 461, 142
+  size: 123, 125
+  orig: 128, 128
+  offset: 5, 2
+  index: -1
+guangquan
+  rotate: false
+  xy: 461, 269
+  size: 248, 248
+  orig: 512, 512
+  offset: 132, 132
+  index: -1
+ring_2
+  rotate: false
+  xy: 4, 4
+  size: 219, 219
+  orig: 256, 256
+  offset: 19, 18
+  index: -1
+shine2
+  rotate: true
+  xy: 227, 5
+  size: 105, 112
+  orig: 128, 128
+  offset: 11, 8
+  index: -1
+star
+  rotate: false
+  xy: 447, 86
+  size: 52, 52
+  orig: 56, 56
+  offset: 2, 2
+  index: -1
+star_l
+  rotate: false
+  xy: 409, 175
+  size: 48, 48
+  orig: 54, 54
+  offset: 3, 3
+  index: -1

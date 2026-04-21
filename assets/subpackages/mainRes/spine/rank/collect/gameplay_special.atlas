@@ -1,0 +1,41 @@
+
+gameplay_special.png
+size: 797,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gameplay_special_flower
+  rotate: false
+  xy: 161, 2
+  size: 157, 195
+  orig: 157, 195
+  offset: 0, 0
+  index: -1
+gameplay_special_knitting
+  rotate: false
+  xy: 320, 2
+  size: 157, 195
+  orig: 157, 195
+  offset: 0, 0
+  index: -1
+gameplay_special_snow
+  rotate: false
+  xy: 479, 2
+  size: 157, 195
+  orig: 157, 195
+  offset: 0, 0
+  index: -1
+gameplay_special_teacup
+  rotate: false
+  xy: 638, 2
+  size: 157, 195
+  orig: 157, 195
+  offset: 0, 0
+  index: -1
+gameplay_special_violin
+  rotate: false
+  xy: 2, 2
+  size: 157, 195
+  orig: 157, 195
+  offset: 0, 0
+  index: -1

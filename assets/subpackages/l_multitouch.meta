@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "031484f0-87da-4305-bc64-b48dbe854d64",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_multitouch",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

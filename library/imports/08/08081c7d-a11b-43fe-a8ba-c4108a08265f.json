@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "set_btn_shakeUp",
+    "texture": "cf11e7fa-f4e8-4fd8-bf5a-fa03fdfba270",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

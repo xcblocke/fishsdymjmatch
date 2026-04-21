@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "8ff834d6-8a41-4143-8e13-3dbbb7d87b2c",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_clearAnim",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

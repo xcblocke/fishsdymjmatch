@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_mr_lihe1",
+    "texture": "6eb446eb-5fb4-46a6-a1e6-6df1e7ca61e0",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      982,
+      327
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      986,
+      331
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

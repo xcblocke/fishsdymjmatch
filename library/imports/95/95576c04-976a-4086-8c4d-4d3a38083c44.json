@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_obstacle",
+    "texture": "170aafb0-ab4a-45fc-a06b-ff052b6f471d",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      747,
+      306
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      755,
+      314
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

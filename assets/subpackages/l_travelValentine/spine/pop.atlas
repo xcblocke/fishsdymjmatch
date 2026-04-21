@@ -1,0 +1,139 @@
+
+pop.png
+size: 961,598
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Balloon_01
+  rotate: false
+  xy: 443, 174
+  size: 139, 422
+  orig: 142, 430
+  offset: 3, 5
+  index: -1
+Balloon_02
+  rotate: false
+  xy: 300, 153
+  size: 141, 443
+  orig: 147, 450
+  offset: 3, 4
+  index: -1
+Balloon_03
+  rotate: true
+  xy: 300, 10
+  size: 141, 443
+  orig: 147, 450
+  offset: 3, 4
+  index: -1
+back
+  rotate: false
+  xy: 210, 83
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+envelope
+  rotate: true
+  xy: 2, 123
+  size: 473, 296
+  orig: 480, 315
+  offset: 7, 17
+  index: -1
+f1
+  rotate: true
+  xy: 165, 60
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+f2
+  rotate: true
+  xy: 2, 7
+  size: 114, 71
+  orig: 121, 76
+  offset: 3, 4
+  index: -1
+glow01
+  rotate: false
+  xy: 193, 38
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+glow02
+  rotate: false
+  xy: 210, 61
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+glow03_00
+  rotate: false
+  xy: 215, 39
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+glowLight
+  rotate: false
+  xy: 165, 31
+  size: 26, 27
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+heart001
+  rotate: true
+  xy: 75, 29
+  size: 92, 88
+  orig: 94, 90
+  offset: 1, 1
+  index: -1
+heart_02
+  rotate: true
+  xy: 129, 2
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+heart_line_001
+  rotate: true
+  xy: 745, 17
+  size: 178, 156
+  orig: 181, 161
+  offset: 1, 3
+  index: -1
+paper
+  rotate: true
+  xy: 584, 197
+  size: 399, 375
+  orig: 401, 377
+  offset: 1, 1
+  index: -1
+paper_01
+  rotate: true
+  xy: 155, 6
+  size: 21, 65
+  orig: 21, 65
+  offset: 0, 0
+  index: -1
+paper_02
+  rotate: false
+  xy: 232, 64
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+par_star_01
+  rotate: false
+  xy: 237, 25
+  size: 37, 37
+  orig: 41, 41
+  offset: 2, 2
+  index: -1
+spark_1
+  rotate: true
+  xy: 75, 2
+  size: 25, 52
+  orig: 26, 55
+  offset: 1, 3
+  index: -1

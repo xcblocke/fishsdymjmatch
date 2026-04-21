@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "4a7d9909-5edc-47da-8894-05863c8ac422",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_lowMemSkipInterAd",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

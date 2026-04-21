@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4104a505-923e-41f1-b0de-23dd651be48f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 993,
+  "height": 644,
+  "platformSettings": {},
+  "subMetas": {
+    "main_icon_lingqu_kuang": {
+      "ver": "1.0.6",
+      "uuid": "b781f911-4b66-43bc-a07f-d10b1fa4f9ac",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4104a505-923e-41f1-b0de-23dd651be48f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 989,
+      "height": 639,
+      "rawWidth": 993,
+      "rawHeight": 644,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "a6f85331-216f-4968-bd65-54b29bfa5d0e",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_gameLayoutAdapt",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

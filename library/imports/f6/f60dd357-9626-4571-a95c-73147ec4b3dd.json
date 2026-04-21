@@ -1,0 +1,17 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_combo_effect_a",
+  "_objFlags": 0,
+  "_native": ".bin",
+  "_skeletonJson": null,
+  "_atlasText": "\ngameplay_combo_effect_a.png\nsize: 551,250\nformat: RGBA8888\nfilter: MipMap,MipMap\nrepeat: none\nfol\n  rotate: true\n  xy: 481, 99\n  size: 63, 66\n  orig: 63, 66\n  offset: 0, 0\n  index: -1\nfol2\n  rotate: true\n  xy: 397, 40\n  size: 63, 66\n  orig: 63, 66\n  offset: 0, 0\n  index: -1\nhudie_1\n  rotate: true\n  xy: 431, 10\n  size: 26, 48\n  orig: 26, 50\n  offset: 0, 1\n  index: -1\nhudie_2\n  rotate: false\n  xy: 467, 47\n  size: 26, 48\n  orig: 26, 50\n  offset: 0, 1\n  index: -1\nhudie_4\n  rotate: true\n  xy: 497, 52\n  size: 43, 44\n  orig: 43, 46\n  offset: 0, 1\n  index: -1\nlight\n  rotate: true\n  xy: 4, 5\n  size: 241, 389\n  orig: 263, 398\n  offset: 0, 9\n  index: -1\npar_a\n  rotate: false\n  xy: 483, 19\n  size: 24, 24\n  orig: 26, 26\n  offset: 1, 1\n  index: -1\npar_b\n  rotate: false\n  xy: 397, 5\n  size: 30, 31\n  orig: 30, 31\n  offset: 0, 0\n  index: -1\npar_c\n  rotate: true\n  xy: 397, 184\n  size: 62, 85\n  orig: 68, 93\n  offset: 3, 4\n  index: -1\npar_d\n  rotate: false\n  xy: 486, 166\n  size: 60, 80\n  orig: 66, 86\n  offset: 3, 3\n  index: -1\npar_e\n  rotate: false\n  xy: 397, 107\n  size: 80, 73\n  orig: 83, 79\n  offset: 2, 3\n  index: -1\npar_f\n  rotate: false\n  xy: 511, 24\n  size: 24, 24\n  orig: 26, 26\n  offset: 1, 1\n  index: -1\npar_g\n  rotate: false\n  xy: 483, 4\n  size: 11, 11\n  orig: 12, 13\n  offset: 0, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "e5137326-fd17-4def-a177-b12f3736659c"
+    }
+  ],
+  "textureNames": [
+    "gameplay_combo_effect_a.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "08032ab2-59b0-4330-a7ac-a16d8271bb81",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_deadEndReExtract",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

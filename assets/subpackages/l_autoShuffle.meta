@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "79271641-19dc-400b-bcba-32c24a425a89",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_autoShuffle",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,13 @@
+
+gameplay_Lightningcard.png
+size: 161,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gameplay_special_mj
+  rotate: false
+  xy: 2, 2
+  size: 157, 195
+  orig: 157, 195
+  offset: 0, 0
+  index: -1

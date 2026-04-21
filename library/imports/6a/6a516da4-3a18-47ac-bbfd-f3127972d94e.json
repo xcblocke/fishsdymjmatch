@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dailyTask_complete",
+    "texture": "1de89e07-add2-4a73-af1e-d0d5bc8a31a1",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      894,
+      374
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      898,
+      378
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+
+gameplay_majong_glow.png
+size: 360,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow/glwo
+  rotate: false
+  xy: 2, 61
+  size: 183, 221
+  orig: 187, 225
+  offset: 2, 2
+  index: -1
+glow/nei_glow
+  rotate: false
+  xy: 187, 73
+  size: 171, 209
+  orig: 171, 209
+  offset: 0, 0
+  index: -1
+glow/saoguang
+  rotate: true
+  xy: 2, 2
+  size: 57, 296
+  orig: 66, 332
+  offset: 5, 0
+  index: -1

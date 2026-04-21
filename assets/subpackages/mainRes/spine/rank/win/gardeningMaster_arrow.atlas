@@ -1,0 +1,34 @@
+
+gardeningMaster_arrow.png
+size: 485,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_1
+  rotate: false
+  xy: 229, 10
+  size: 223, 110
+  orig: 223, 110
+  offset: 0, 0
+  index: -1
+bl_2
+  rotate: false
+  xy: 2, 2
+  size: 225, 118
+  orig: 228, 118
+  offset: 0, 0
+  index: -1
+bl_3
+  rotate: false
+  xy: 302, 148
+  size: 181, 108
+  orig: 181, 108
+  offset: 0, 0
+  index: -1
+leaderboard_result_bg1
+  rotate: false
+  xy: 2, 122
+  size: 298, 134
+  orig: 298, 134
+  offset: 0, 0
+  index: -1

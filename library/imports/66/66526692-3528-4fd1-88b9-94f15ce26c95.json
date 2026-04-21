@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iteam_box_open",
+    "texture": "034403f0-8591-473d-bfe4-bf36d53af9bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      172,
+      155
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      172,
+      155
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

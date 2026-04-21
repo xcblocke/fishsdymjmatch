@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "27903e3c-74f4-4684-9a80-54be69ee1796",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_winLayoutOpt",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

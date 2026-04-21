@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "5aa620eb-4fee-4115-bf69-8be29aa074ff",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_mainGameMatchNum",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

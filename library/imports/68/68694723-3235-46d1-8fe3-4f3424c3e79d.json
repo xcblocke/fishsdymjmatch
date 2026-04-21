@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Z_bai",
+    "texture": "5fb8993d-b474-4c2d-9d85-b217abbb59e2",
+    "atlas": "2056b5d9-b73c-45d0-b203-180e672a5294",
+    "rect": [
+      3,
+      3,
+      107,
+      121
+    ],
+    "offset": [
+      -4,
+      6
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

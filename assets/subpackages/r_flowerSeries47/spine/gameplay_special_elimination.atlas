@@ -1,0 +1,97 @@
+
+gameplay_special_elimination.png
+size: 920,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mac_0
+  rotate: true
+  xy: 484, 2
+  size: 59, 61
+  orig: 71, 73
+  offset: 6, 6
+  index: -1
+mac_3
+  rotate: true
+  xy: 842, 181
+  size: 72, 76
+  orig: 84, 88
+  offset: 6, 6
+  index: -1
+mac_4
+  rotate: true
+  xy: 842, 107
+  size: 72, 74
+  orig: 84, 88
+  offset: 6, 7
+  index: -1
+mac_5
+  rotate: true
+  xy: 746, 7
+  size: 86, 84
+  orig: 88, 86
+  offset: 1, 1
+  index: -1
+mac_6
+  rotate: false
+  xy: 832, 9
+  size: 85, 84
+  orig: 87, 86
+  offset: 1, 1
+  index: -1
+mac_7
+  rotate: false
+  xy: 484, 63
+  size: 260, 190
+  orig: 260, 190
+  offset: 0, 0
+  index: -1
+mac_8
+  rotate: false
+  xy: 2, 17
+  size: 480, 236
+  orig: 482, 243
+  offset: 2, 7
+  index: -1
+tx/baixingxing
+  rotate: true
+  xy: 547, 2
+  size: 17, 19
+  orig: 27, 27
+  offset: 5, 4
+  index: -1
+tx/guang40
+  rotate: false
+  xy: 746, 95
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+tx/guangyun2
+  rotate: false
+  xy: 746, 161
+  size: 94, 92
+  orig: 100, 99
+  offset: 2, 4
+  index: -1
+tx/yun_1
+  rotate: true
+  xy: 547, 21
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+tx/yun_4
+  rotate: true
+  xy: 610, 21
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+tx/yun_5
+  rotate: true
+  xy: 580, 21
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leaderboard_result_bar3",
+    "texture": "8a186a73-2f44-4830-9a52-360bbbaf03ae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      98
+    ],
+    "capInsets": [
+      40,
+      0,
+      38,
+      0
+    ]
+  }
+}

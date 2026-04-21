@@ -1,0 +1,76 @@
+
+gameplay_special_elimination.png
+size: 529,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/HeartRing
+  rotate: false
+  xy: 248, 12
+  size: 124, 124
+  orig: 128, 128
+  offset: 2, 2
+  index: -1
+fx/HeartShaped
+  rotate: false
+  xy: 248, 138
+  size: 213, 111
+  orig: 213, 111
+  offset: 0, 0
+  index: -1
+fx/headlight
+  rotate: false
+  xy: 2, 5
+  size: 244, 244
+  orig: 256, 256
+  offset: 6, 6
+  index: -1
+fx/star
+  rotate: false
+  xy: 453, 35
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+glowLight
+  rotate: true
+  xy: 482, 7
+  size: 26, 27
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+par_pixel_1
+  rotate: false
+  xy: 505, 55
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+tex_cloud
+  rotate: true
+  xy: 374, 2
+  size: 134, 77
+  orig: 134, 77
+  offset: 0, 0
+  index: -1
+tex_cloud_1
+  rotate: false
+  xy: 453, 6
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+tex_cloud_2
+  rotate: true
+  xy: 463, 87
+  size: 96, 63
+  orig: 96, 63
+  offset: 0, 0
+  index: -1
+tex_sun_2
+  rotate: false
+  xy: 463, 185
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

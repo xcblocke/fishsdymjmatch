@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "cardIconTile.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "W1": {
+      "__uuid__": "a6d3cb5e-8ea9-4d7c-a53c-d68e393b3d5e"
+    },
+    "W2": {
+      "__uuid__": "952cdf39-cb26-4350-86eb-460848a95d04"
+    },
+    "W3": {
+      "__uuid__": "bca19920-dace-4369-9bd4-ba5d71bdfb7b"
+    },
+    "W4": {
+      "__uuid__": "2b2b4413-202c-41fb-bffd-75ee64dac1ea"
+    },
+    "W5": {
+      "__uuid__": "d4abc590-b2b4-4e03-85c4-3238de44ea6f"
+    },
+    "W6": {
+      "__uuid__": "ced84d42-484d-4130-afaf-b6b449a2c7cd"
+    },
+    "W7": {
+      "__uuid__": "9280c8ee-8fbc-4d4e-bffc-6853d2882c04"
+    },
+    "W8": {
+      "__uuid__": "fabf116a-bedf-481a-99dc-1fd0f782990f"
+    },
+    "b1": {
+      "__uuid__": "ce27bd0d-587b-4848-b955-b749e01bf9e8"
+    },
+    "b2": {
+      "__uuid__": "1a2c0bdf-0165-4f7b-b1d9-d1455eaa4e97"
+    },
+    "b3": {
+      "__uuid__": "d95e68d7-7302-467c-882b-2e162a5d7730"
+    },
+    "b4": {
+      "__uuid__": "b5a61952-e360-44c6-933c-3093acd00127"
+    },
+    "b5": {
+      "__uuid__": "ee0503e5-fdda-4f6b-be0c-1ab96ddf86d2"
+    },
+    "b6": {
+      "__uuid__": "f870ac48-18af-46f3-8b8d-e996ff791122"
+    },
+    "b7": {
+      "__uuid__": "e0c1a61f-41e1-48eb-a52c-b6edf0fc6dc6"
+    },
+    "b8": {
+      "__uuid__": "255a45f3-4815-4447-bcb8-6c6e34b8859c"
+    },
+    "b9": {
+      "__uuid__": "d2720d23-a587-4b92-8a7a-9893fe0d6eca"
+    },
+    "t1": {
+      "__uuid__": "526cf225-8efa-48a7-a098-fdc26154f256"
+    },
+    "t2": {
+      "__uuid__": "da1c518b-00bf-4887-87c4-548b88ba61ac"
+    },
+    "t3": {
+      "__uuid__": "9ae4a12d-38bb-4ecb-b7d0-0e98bad31bd3"
+    },
+    "t4": {
+      "__uuid__": "36882fbb-6036-4645-a5da-9e4316731b0e"
+    },
+    "t5": {
+      "__uuid__": "76e8ed9a-32bf-4b07-bc97-b6d9aae63715"
+    },
+    "t6": {
+      "__uuid__": "90215812-c610-4851-80b0-d12cd90f4988"
+    },
+    "t7": {
+      "__uuid__": "9bb53697-7ca2-4d22-9bb8-90bbca3c7f78"
+    },
+    "t8": {
+      "__uuid__": "eb1e8150-b3d2-48eb-9c2b-4bebaa43d4ff"
+    },
+    "t9": {
+      "__uuid__": "2bdb73a2-c313-4d2e-a581-69c10bd0cfe0"
+    }
+  }
+}

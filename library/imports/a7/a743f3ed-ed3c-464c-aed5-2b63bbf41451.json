@@ -1,0 +1,1005 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_icon_prop",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "GKh4CsmUHos/WW9EsZOd8jyj3xA",
+      "spine": "3.8.99",
+      "x": -94,
+      "y": -85,
+      "width": 188,
+      "height": 171,
+      "images": "./images/",
+      "audio": "C:/01work/01hexiaoqi/25_11/木纹麻将4期/动效资源/icon提示"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "all",
+        "parent": "root",
+        "length": 149.74
+      },
+      {
+        "name": "btn2",
+        "parent": "all",
+        "length": 83.13,
+        "y": 3
+      },
+      {
+        "name": "all5",
+        "parent": "btn2"
+      },
+      {
+        "name": "particle_1",
+        "parent": "all5",
+        "x": 24.57,
+        "y": -12.27
+      },
+      {
+        "name": "particle_2",
+        "parent": "all5",
+        "x": -26.97,
+        "y": 19.94
+      },
+      {
+        "name": "particle_3",
+        "parent": "all5",
+        "x": -47.16,
+        "y": -39.15
+      },
+      {
+        "name": "particle_4",
+        "parent": "all5",
+        "x": 60.19,
+        "y": -22.3
+      },
+      {
+        "name": "btn3",
+        "parent": "btn2",
+        "y": 6
+      }
+    ],
+    "slots": [
+      {
+        "name": "btn3",
+        "bone": "all5",
+        "color": "ffffff32",
+        "attachment": "btn_glow1",
+        "blend": "additive"
+      },
+      {
+        "name": "hint2",
+        "bone": "btn2",
+        "color": "ffffff32",
+        "attachment": "hint1",
+        "blend": "additive"
+      },
+      {
+        "name": "btn_glow2",
+        "bone": "btn3",
+        "attachment": "btn_glow2",
+        "blend": "additive"
+      },
+      {
+        "name": "loght1",
+        "bone": "all5",
+        "attachment": "loght1",
+        "blend": "additive"
+      },
+      {
+        "name": "par_ci",
+        "bone": "particle_1",
+        "attachment": "par_ci",
+        "blend": "additive"
+      },
+      {
+        "name": "par_ci2",
+        "bone": "particle_2",
+        "attachment": "par_ci",
+        "blend": "additive"
+      },
+      {
+        "name": "par_ci4",
+        "bone": "particle_4",
+        "attachment": "par_ci",
+        "blend": "additive"
+      },
+      {
+        "name": "par_ci3",
+        "bone": "particle_3",
+        "attachment": "par_ci",
+        "blend": "additive"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "btn3": {
+            "btn_glow1": {
+              "y": 1,
+              "width": 174,
+              "height": 164
+            }
+          },
+          "btn_glow2": {
+            "btn_glow2": {
+              "width": 170,
+              "height": 151
+            }
+          },
+          "hint2": {
+            "hint1": {
+              "x": 0.14,
+              "y": 6,
+              "width": 103,
+              "height": 122
+            },
+            "refresh1": {
+              "x": 0.14,
+              "y": 6,
+              "width": 126,
+              "height": 106
+            }
+          },
+          "loght1": {
+            "loght1": {
+              "y": 6,
+              "width": 174,
+              "height": 154
+            }
+          },
+          "par_ci": {
+            "par_ci": {
+              "x": -0.24,
+              "y": 0.22,
+              "width": 36,
+              "height": 36
+            }
+          },
+          "par_ci2": {
+            "par_ci": {
+              "x": -0.24,
+              "y": 0.22,
+              "width": 36,
+              "height": 36
+            }
+          },
+          "par_ci3": {
+            "par_ci": {
+              "x": -0.24,
+              "y": 0.22,
+              "width": 36,
+              "height": 36
+            }
+          },
+          "par_ci4": {
+            "par_ci": {
+              "x": -0.24,
+              "y": 0.22,
+              "width": 36,
+              "height": 36
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "hint": {
+        "slots": {
+          "btn3": {
+            "color": [
+              {
+                "color": "99570000",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.7,
+                "color": "ff9e2477",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.4,
+                "color": "99570000",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.1,
+                "color": "ff9e2477",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.8,
+                "color": "99570000"
+              }
+            ]
+          },
+          "btn_glow2": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffdb6900",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffdb6900"
+              },
+              {
+                "time": 1.0333,
+                "color": "ffdb6995"
+              },
+              {
+                "time": 1.4,
+                "color": "ffdb6900",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5667,
+                "color": "ffdb6900",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.7333,
+                "color": "ffdb6900"
+              },
+              {
+                "time": 2.4333,
+                "color": "ffdb6995"
+              },
+              {
+                "time": 2.8,
+                "color": "ffdb6900"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": "btn_glow2"
+              },
+              {
+                "time": 1.4,
+                "name": null
+              },
+              {
+                "time": 1.5667,
+                "name": "btn_glow2"
+              },
+              {
+                "time": 2.8,
+                "name": null
+              }
+            ]
+          },
+          "hint2": {
+            "color": [
+              {
+                "color": "793f1400",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.7,
+                "color": "793f1564",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.4,
+                "color": "793f1400",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.1,
+                "color": "793f1564",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.8,
+                "color": "793f1400"
+              }
+            ]
+          },
+          "loght1": {
+            "color": [
+              {
+                "color": "ff902c1d",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.7,
+                "color": "ff902b78",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.4,
+                "color": "ff902c1d",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.1,
+                "color": "ff902b78",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.8,
+                "color": "ff902c1d"
+              }
+            ]
+          },
+          "par_ci": {
+            "color": [
+              {
+                "time": 0.5333,
+                "color": "f1713695"
+              },
+              {
+                "time": 1.7333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.5333,
+                "name": "par_ci"
+              }
+            ]
+          },
+          "par_ci2": {
+            "color": [
+              {
+                "time": 1.7333,
+                "color": "f1713600"
+              },
+              {
+                "time": 1.9333,
+                "color": "f17137c7"
+              },
+              {
+                "time": 2.8,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 1.7333,
+                "name": "par_ci"
+              }
+            ]
+          },
+          "par_ci3": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "f1713695"
+              },
+              {
+                "time": 1.2333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": "par_ci"
+              }
+            ]
+          },
+          "par_ci4": {
+            "color": [
+              {
+                "time": 1.2333,
+                "color": "f1713600"
+              },
+              {
+                "time": 1.5667,
+                "color": "f1713695"
+              },
+              {
+                "time": 2.6333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 1.2333,
+                "name": "par_ci"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "btn2": {
+            "scale": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.7,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.4,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.1,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.8
+              }
+            ]
+          },
+          "particle_1": {
+            "translate": [
+              {
+                "time": 0.5333
+              },
+              {
+                "time": 1.7333,
+                "y": 36.4
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5333,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 1.7333,
+                "x": 0.6,
+                "y": 0.6
+              }
+            ]
+          },
+          "particle_2": {
+            "translate": [
+              {
+                "time": 1.7333
+              },
+              {
+                "time": 2.8,
+                "y": 36.4
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.7333,
+                "x": 0.4,
+                "y": 0.4,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 0.4,
+                "y": 0.4
+              }
+            ]
+          },
+          "particle_3": {
+            "translate": [
+              {
+                "time": 0.1667
+              },
+              {
+                "time": 1.2333,
+                "y": 36.4
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 0.6,
+                "y": 0.6,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2333,
+                "x": 0.6,
+                "y": 0.6
+              }
+            ]
+          },
+          "particle_4": {
+            "translate": [
+              {
+                "time": 1.2333
+              },
+              {
+                "time": 2.6333,
+                "y": 36.4
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.2333,
+                "x": 0.6,
+                "y": 0.6,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6333,
+                "x": 0.6,
+                "y": 0.6
+              }
+            ]
+          },
+          "btn3": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 0.6,
+                "y": 0.6,
+                "curve": 0.422,
+                "c2": 0.84,
+                "c3": 0.75
+              },
+              {
+                "time": 1.0333,
+                "x": 1.01,
+                "y": 1.01,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5667,
+                "x": 0.6,
+                "y": 0.6,
+                "curve": 0.422,
+                "c2": 0.84,
+                "c3": 0.75
+              },
+              {
+                "time": 2.4333,
+                "x": 1.01,
+                "y": 1.01,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 1.01,
+                "y": 1.01
+              }
+            ]
+          }
+        }
+      },
+      "refresh": {
+        "slots": {
+          "btn3": {
+            "color": [
+              {
+                "color": "99570000",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.7,
+                "color": "ff9e2477",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.4,
+                "color": "99570000",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.1,
+                "color": "ff9e2477",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.8,
+                "color": "99570000"
+              }
+            ]
+          },
+          "btn_glow2": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffdb6900",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffdb6900"
+              },
+              {
+                "time": 1.0333,
+                "color": "ffdb6995"
+              },
+              {
+                "time": 1.4,
+                "color": "ffdb6900",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5667,
+                "color": "ffdb6900",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.7333,
+                "color": "ffdb6900"
+              },
+              {
+                "time": 2.4333,
+                "color": "ffdb6995"
+              },
+              {
+                "time": 2.8,
+                "color": "ffdb6900"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": "btn_glow2"
+              },
+              {
+                "time": 1.4,
+                "name": null
+              },
+              {
+                "time": 1.5667,
+                "name": "btn_glow2"
+              },
+              {
+                "time": 2.8,
+                "name": null
+              }
+            ]
+          },
+          "hint2": {
+            "color": [
+              {
+                "color": "793f1400",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.7,
+                "color": "793f1564",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.4,
+                "color": "793f1400",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.1,
+                "color": "793f1564",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.8,
+                "color": "793f1400"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "refresh1"
+              }
+            ]
+          },
+          "loght1": {
+            "color": [
+              {
+                "color": "ff902c1d",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.7,
+                "color": "ff902b78",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.4,
+                "color": "ff902c1d",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.1,
+                "color": "ff902b78",
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.8,
+                "color": "ff902c1d"
+              }
+            ]
+          },
+          "par_ci": {
+            "color": [
+              {
+                "time": 0.5333,
+                "color": "f1713695"
+              },
+              {
+                "time": 1.7333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.5333,
+                "name": "par_ci"
+              }
+            ]
+          },
+          "par_ci2": {
+            "color": [
+              {
+                "time": 1.7333,
+                "color": "f1713600"
+              },
+              {
+                "time": 1.9333,
+                "color": "f17137c7"
+              },
+              {
+                "time": 2.8,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 1.7333,
+                "name": "par_ci"
+              }
+            ]
+          },
+          "par_ci3": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "f1713695"
+              },
+              {
+                "time": 1.2333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": "par_ci"
+              }
+            ]
+          },
+          "par_ci4": {
+            "color": [
+              {
+                "time": 1.2333,
+                "color": "f1713600"
+              },
+              {
+                "time": 1.5667,
+                "color": "f1713695"
+              },
+              {
+                "time": 2.6333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 1.2333,
+                "name": "par_ci"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "particle_1": {
+            "translate": [
+              {
+                "time": 0.5333
+              },
+              {
+                "time": 1.7333,
+                "y": 36.4
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5333,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 1.7333,
+                "x": 0.6,
+                "y": 0.6
+              }
+            ]
+          },
+          "particle_2": {
+            "translate": [
+              {
+                "time": 1.7333
+              },
+              {
+                "time": 2.8,
+                "y": 36.4
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.7333,
+                "x": 0.4,
+                "y": 0.4,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 0.4,
+                "y": 0.4
+              }
+            ]
+          },
+          "particle_3": {
+            "translate": [
+              {
+                "time": 0.1667
+              },
+              {
+                "time": 1.2333,
+                "y": 36.4
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 0.6,
+                "y": 0.6,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2333,
+                "x": 0.6,
+                "y": 0.6
+              }
+            ]
+          },
+          "particle_4": {
+            "translate": [
+              {
+                "time": 1.2333
+              },
+              {
+                "time": 2.6333,
+                "y": 36.4
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.2333,
+                "x": 0.6,
+                "y": 0.6,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6333,
+                "x": 0.6,
+                "y": 0.6
+              }
+            ]
+          },
+          "btn3": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 0.6,
+                "y": 0.6,
+                "curve": 0.422,
+                "c2": 0.84,
+                "c3": 0.75
+              },
+              {
+                "time": 1.0333,
+                "x": 1.01,
+                "y": 1.01,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5667,
+                "x": 0.6,
+                "y": 0.6,
+                "curve": 0.422,
+                "c2": 0.84,
+                "c3": 0.75
+              },
+              {
+                "time": 2.4333,
+                "x": 1.01,
+                "y": 1.01,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 1.01,
+                "y": 1.01
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ngameplay_icon_prop.png\nsize: 691,180\nformat: RGBA8888\nfilter: MipMap,MipMap\nrepeat: none\nbtn_glow1\n  rotate: true\n  xy: 4, 4\n  size: 172, 162\n  orig: 174, 164\n  offset: 1, 1\n  index: -1\nbtn_glow2\n  rotate: true\n  xy: 326, 6\n  size: 170, 151\n  orig: 170, 151\n  offset: 0, 0\n  index: -1\nhint1\n  rotate: false\n  xy: 588, 56\n  size: 99, 120\n  orig: 103, 122\n  offset: 2, 1\n  index: -1\nloght1\n  rotate: true\n  xy: 170, 4\n  size: 172, 152\n  orig: 174, 154\n  offset: 1, 1\n  index: -1\npar_ci\n  rotate: false\n  xy: 588, 20\n  size: 32, 32\n  orig: 36, 36\n  offset: 2, 2\n  index: -1\nrefresh1\n  rotate: true\n  xy: 481, 54\n  size: 122, 103\n  orig: 126, 106\n  offset: 2, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "78a44ca4-a441-4d59-a839-3137c0bdcd59"
+    }
+  ],
+  "textureNames": [
+    "gameplay_icon_prop.png"
+  ],
+  "scale": 1
+}

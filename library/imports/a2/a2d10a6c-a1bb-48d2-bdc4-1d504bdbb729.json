@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_celebrate",
+    "texture": "ba9291b4-9e55-456c-8326-04ec841fd902",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      926,
+      464
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      930,
+      467
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

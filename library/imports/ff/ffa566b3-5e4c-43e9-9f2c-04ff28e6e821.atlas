@@ -1,0 +1,83 @@
+
+gameplay_obstacle.png
+size: 773,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blast_12
+  rotate: false
+  xy: 324, 170
+  size: 278, 278
+  orig: 278, 278
+  offset: 0, 0
+  index: -1
+blast_13
+  rotate: false
+  xy: 2, 128
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+cb_3
+  rotate: false
+  xy: 742, 419
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+hua_3
+  rotate: false
+  xy: 324, 10
+  size: 166, 158
+  orig: 166, 158
+  offset: 0, 0
+  index: -1
+jy_2
+  rotate: false
+  xy: 675, 87
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1
+jy_3
+  rotate: false
+  xy: 604, 177
+  size: 138, 129
+  orig: 138, 129
+  offset: 0, 0
+  index: -1
+jy_4
+  rotate: false
+  xy: 604, 308
+  size: 136, 140
+  orig: 136, 140
+  offset: 0, 0
+  index: -1
+jy_5
+  rotate: true
+  xy: 2, 2
+  size: 124, 141
+  orig: 124, 141
+  offset: 0, 0
+  index: -1
+jy_6
+  rotate: true
+  xy: 145, 3
+  size: 123, 107
+  orig: 123, 107
+  offset: 0, 0
+  index: -1
+mj_7
+  rotate: true
+  xy: 675, 38
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+tsp_6
+  rotate: true
+  xy: 492, 19
+  size: 149, 181
+  orig: 149, 181
+  offset: 0, 0
+  index: -1

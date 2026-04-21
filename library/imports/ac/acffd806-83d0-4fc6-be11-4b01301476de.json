@@ -1,0 +1,2639 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "i18n_config_EN_US",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "baseName": "i18n_config",
+    "data": [
+      [
+        "LeaderBoard_Name_1",
+        "Gardening Master"
+      ],
+      [
+        "LeaderBoard_Name_2",
+        "Snowball Fight"
+      ],
+      [
+        "LeaderBoard_Name_3",
+        "Black Tea Gathering"
+      ],
+      [
+        "LeaderBoard_Name_4",
+        "Golden Musician"
+      ],
+      [
+        "LeaderBoard_Name_5",
+        "Knitting Competition"
+      ],
+      [
+        "LeaderBoard_Start_Des",
+        "{0} has begun!\nCollect Golden Tiles, race up the leaderboard, and win amazing rewards!"
+      ],
+      [
+        "LeaderBoard_Start_GoTo",
+        "Collect"
+      ],
+      [
+        "LeaderBoard_HowToPlay_Btn_OK",
+        "OK"
+      ],
+      [
+        "LeaderBoard_Start_Btn_Jump",
+        "Play"
+      ],
+      [
+        "LeaderBoard_Entrance_Num",
+        "#{0}"
+      ],
+      [
+        "LeaderBoard_Level_Settle_WinStreak",
+        "Winning Streak Bonus"
+      ],
+      [
+        "Common_Btn_Continue",
+        "Continue"
+      ],
+      [
+        "LeaderBoard_Reward_Title",
+        "Congratulations!"
+      ],
+      [
+        "LeaderBoard_Reward_Des",
+        "<color=#B17240>You've claimed <color=#D15327>{0}</c> place!</c>"
+      ],
+      [
+        "LeaderBoard_Reward_Claim",
+        "Claim"
+      ],
+      [
+        "LeaderBoard_Profile_Title",
+        "Profile"
+      ],
+      [
+        "LeaderBoard_Profile_Avatar",
+        "Avatar"
+      ],
+      [
+        "LeaderBoard_Profile_Frame",
+        "Frame"
+      ],
+      [
+        "LeaderBoard_Profile_Btn_Save",
+        "Save"
+      ],
+      [
+        "DailyQuest_UI_Title",
+        "Daily Quests"
+      ],
+      [
+        "DailyQuest_UI_Phase",
+        "Stage {0}"
+      ],
+      [
+        "DailyQuest_UI_Phase_Lock",
+        "Complete Stage {0} to unlock new quests"
+      ],
+      [
+        "DailyQuest_UI_GoTo",
+        "Play"
+      ],
+      [
+        "DailyQuest_Des_100",
+        "Use {0} Boosters"
+      ],
+      [
+        "DailyQuest_Des_200",
+        "Complete {0} Matches"
+      ],
+      [
+        "DailyQuest_Des_310",
+        "Beat {0} Regular Levels"
+      ],
+      [
+        "DailyQuest_Entrance_Title",
+        "Task"
+      ],
+      [
+        "DailyChallenge_Title",
+        "Daily Challenge"
+      ],
+      [
+        "DailyChallenge_Play",
+        "Play"
+      ],
+      [
+        "DailyChallenge_Continue",
+        "Continue"
+      ],
+      [
+        "DailyChallenge_Replay",
+        "Again"
+      ],
+      [
+        "Collection_DailyChallenge_202501",
+        "Zeus"
+      ],
+      [
+        "Collection_DailyChallenge_202502",
+        "Aphrodite"
+      ],
+      [
+        "Collection_DailyChallenge_202503",
+        "Hephaestus"
+      ],
+      [
+        "Collection_DailyChallenge_202504",
+        "Artemis"
+      ],
+      [
+        "Collection_DailyChallenge_202505",
+        "Poseidon"
+      ],
+      [
+        "Collection_DailyChallenge_202506",
+        "Apollo"
+      ],
+      [
+        "Collection_DailyChallenge_202507",
+        "Hera"
+      ],
+      [
+        "Collection_DailyChallenge_202508",
+        "Ares"
+      ],
+      [
+        "Collection_DailyChallenge_202509",
+        "Athena"
+      ],
+      [
+        "Collection_DailyChallenge_202510",
+        "Demeter"
+      ],
+      [
+        "Collection_DailyChallenge_202511",
+        "Hermes"
+      ],
+      [
+        "Collection_DailyChallenge_202512",
+        "Hestia"
+      ],
+      [
+        "Badges_Title",
+        "Collections"
+      ],
+      [
+        "Badges_Type_Daily",
+        "Daily"
+      ],
+      [
+        "Badges_Type_Journey",
+        "Adventure"
+      ],
+      [
+        "Badges_Daily_Month_1",
+        "Jan"
+      ],
+      [
+        "Badges_Daily_Month_2",
+        "Feb"
+      ],
+      [
+        "Badges_Daily_Month_3",
+        "Mar"
+      ],
+      [
+        "Badges_Daily_Month_4",
+        "Apr"
+      ],
+      [
+        "Badges_Daily_Month_5",
+        "May"
+      ],
+      [
+        "Badges_Daily_Month_6",
+        "Jun"
+      ],
+      [
+        "Badges_Daily_Month_7",
+        "Jul"
+      ],
+      [
+        "Badges_Daily_Month_8",
+        "Aug"
+      ],
+      [
+        "Badges_Daily_Month_9",
+        "Sep"
+      ],
+      [
+        "Badges_Daily_Month_10",
+        "Oct"
+      ],
+      [
+        "Badges_Daily_Month_11",
+        "Nov"
+      ],
+      [
+        "Badges_Daily_Month_12",
+        "Dec"
+      ],
+      [
+        "DailyChallenge_Button_Great",
+        "Great"
+      ],
+      [
+        "DailyChallenge_Entrance_Title",
+        "Daily"
+      ],
+      [
+        "MahjongTiles_MapPage_Level",
+        "Level {0}"
+      ],
+      [
+        "Common_CountDown_Minute",
+        "{0}D {1}H {2}M"
+      ],
+      [
+        "Journey_Level_Goals",
+        "Goals"
+      ],
+      [
+        "Journey_Level_Done",
+        "You did it!"
+      ],
+      [
+        "Badges_Journey_Nothing",
+        "Take part in event levels and \ncollect souvenirs"
+      ],
+      [
+        "Journey_Name_1",
+        "Japanese Village"
+      ],
+      [
+        "Journey_Des_1",
+        "The deity enshrined here is said to be especially potent!"
+      ],
+      [
+        "Journey_Map_Continue",
+        "Play"
+      ],
+      [
+        "Badges_Journey_Button_Great",
+        "Great"
+      ],
+      [
+        "Badges_Journey_Prize_1",
+        "Lantern"
+      ],
+      [
+        "Badges_Journey_Prize_2",
+        "Doll"
+      ],
+      [
+        "Badges_Journey_Prize_3",
+        "Maneki-neko"
+      ],
+      [
+        "Journey_Badge_Collect",
+        "Collect"
+      ],
+      [
+        "Journey_Map_Done",
+        "A new journey is coming!"
+      ],
+      [
+        "Journey_Name_2",
+        "Winter Pilgrimage"
+      ],
+      [
+        "Journey_Des_2",
+        "The best gift is always the next one!"
+      ],
+      [
+        "Badges_Journey_Prize_4",
+        "Common"
+      ],
+      [
+        "Badges_Journey_Prize_5",
+        "Rare"
+      ],
+      [
+        "Badges_Journey_Prize_6",
+        "Collector's"
+      ],
+      [
+        "TILE_Level",
+        "Level"
+      ],
+      [
+        "TILE_Score",
+        "Score"
+      ],
+      [
+        "TILE_Matches",
+        "Matches"
+      ],
+      [
+        "TILE_Matches_2",
+        "Matches:"
+      ],
+      [
+        "TILE_Guide_1",
+        "Tap two identical tiles to match and remove them"
+      ],
+      [
+        "TILE_Guide_2",
+        "Match tiles on top to unlock the tiles below"
+      ],
+      [
+        "TILE_Guide_3",
+        "Match the outer tiles to unlock the inner ones."
+      ],
+      [
+        "TILE_Guide_4",
+        "Magic Tiles: Can be matched with any other magic tile."
+      ],
+      [
+        "TILE_Guide_5",
+        "Locked by tiles above"
+      ],
+      [
+        "TILE_Guide_6",
+        "Remove tiles blocking the top first"
+      ],
+      [
+        "TILE_Guide_7",
+        "Remove tiles on the left and right sides first"
+      ],
+      [
+        "TILE_Guide_8",
+        "Remove all the tiles to win!"
+      ],
+      [
+        "TILE_OutofMove_Title",
+        "Out of Matches"
+      ],
+      [
+        "TILE_OutofMove_Details",
+        "Oops!"
+      ],
+      [
+        "TILE_Time",
+        "Time"
+      ],
+      [
+        "TILE_Combo",
+        "Combo"
+      ],
+      [
+        "TILE_Restart_Title",
+        "Replay?"
+      ],
+      [
+        "TILE_Restart_Details",
+        "You'll lose your current progress!"
+      ],
+      [
+        "TILE_Win",
+        "Level Complete"
+      ],
+      [
+        "TILE_Lose",
+        "You Lost"
+      ],
+      [
+        "TILE_FullCombo",
+        "Full Combo!"
+      ],
+      [
+        "TileMatch_Booster_Shuffle",
+        "Shuffle"
+      ],
+      [
+        "TileMatch_Booster_Hint",
+        "Hint"
+      ],
+      [
+        "TileMatch_Booster_Undo",
+        "Undo"
+      ],
+      [
+        "TileMatch_Guide_Skip",
+        "Skip"
+      ],
+      [
+        "TileMatch_Revive_Title",
+        "Out of Matches"
+      ],
+      [
+        "TileMatch_Revive_Details",
+        "Oops!"
+      ],
+      [
+        "TileMatch_Revive_Button_Yes",
+        "Shuffle"
+      ],
+      [
+        "TileMatch_Revive_Button_No",
+        "Replay"
+      ],
+      [
+        "TileMatch_Surpass",
+        "You surpassed {0} of players!"
+      ],
+      [
+        "TileMatch_Undo_Details",
+        "Currently unavailable. There are no undoable moves!"
+      ],
+      [
+        "TileMatch_Button_NewGame",
+        "New Game"
+      ],
+      [
+        "TileMatch_DifficultyIncrease",
+        "Challenge Rises!"
+      ],
+      [
+        "TileMatch_Guide_1_New",
+        "Remove all the tiles on the left, right, and top to continue matching!"
+      ],
+      [
+        "TileMatch_Guide_New",
+        "Remove the tiles on all four sides first"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_1_1",
+        "Insightful"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_1_2",
+        "Unbelievable"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_2_1",
+        "Genius"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_2_2",
+        "Perfect"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_3_1",
+        "Resourceful"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_3_2",
+        "Well Done"
+      ],
+      [
+        "MahjongTiles_GameEnd_Score",
+        "Score"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_1_1",
+        "You were absolutely perfect!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_1_2",
+        "Your skills are flawless!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_1_3",
+        "The rightful Tile champion!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_2_1",
+        "You are truly exceptional!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_2_2",
+        "Unmatched skill, one of a kind!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_2_3",
+        "What a brilliant performance!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_3_1",
+        "You shine under pressure!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_3_2",
+        "Relentless and unforgettable!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_3_3",
+        "Nothing can stop you!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Level",
+        "Level {0}"
+      ],
+      [
+        "MahjongTiles_Revive_Title_1",
+        "Out of Matches"
+      ],
+      [
+        "MahjongTiles_Revive_Prop_1",
+        "Use Shuffle to Revive!"
+      ],
+      [
+        "MahjongTiles_Revive_Option_1",
+        "Sure"
+      ],
+      [
+        "MahjongTiles_Revive_Option_2",
+        "Replay"
+      ],
+      [
+        "MahjongTiles_Revive_Option_3",
+        "Shuffle -1"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Title_1",
+        "Free Shuffle"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Title_2",
+        "Free Hint"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Purchase_1",
+        "Watch an ad to get a Shuffle"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Purchase_2",
+        "Watch an ad to get a Hint"
+      ],
+      [
+        "MahjongTiles_PropPurchase_Get_1",
+        "Sure"
+      ],
+      [
+        "MahjongTiles_Settings_Title",
+        "Settings"
+      ],
+      [
+        "MahjongTiles_Settings_Voice",
+        "Sound"
+      ],
+      [
+        "MahjongTiles_Settings_Music",
+        "Music"
+      ],
+      [
+        "MahjongTiles_Settings_Vibration",
+        "Vibration"
+      ],
+      [
+        "MahjongTiles_Settings_Highlight",
+        "Highlight free tile"
+      ],
+      [
+        "MahjongTiles_Settings_Restart",
+        "Replay"
+      ],
+      [
+        "MahjongTiles_Settins_Home",
+        "Home"
+      ],
+      [
+        "MahjongTiles_Settings_On",
+        "ON"
+      ],
+      [
+        "MahjongTiles_Settings_Off",
+        "OFF"
+      ],
+      [
+        "MahjongTiles_MainPage_Level",
+        "Level {0}"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Title_1",
+        "Ads Unavailable"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Word_Disable",
+        "Ads are currently unavailable. \nPlease retry."
+      ],
+      [
+        "MahjongTiles_AdsLoading_Button_NoWifi",
+        "No Internet"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Button_Cancel",
+        "Cancel"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Button_Retry",
+        "Retry"
+      ],
+      [
+        "MahjongTiles_AdsLoading_Button_Loading",
+        "Loading..."
+      ],
+      [
+        "Common_Settings_Title",
+        "Settings"
+      ],
+      [
+        "Common_Settings_Language",
+        "Language"
+      ],
+      [
+        "Common_Settings_Language_Title",
+        "Language"
+      ],
+      [
+        "Common_Settings_SoundEffects",
+        "Sound Effects"
+      ],
+      [
+        "Common_Settings_Music",
+        "Music"
+      ],
+      [
+        "Common_Settings_DarkMode",
+        "Dark Mode"
+      ],
+      [
+        "Common_Settings_Vibration",
+        "Vibration"
+      ],
+      [
+        "Common_Settings_Ads",
+        "Targeted Ads"
+      ],
+      [
+        "Common_Settings_Quit",
+        "Quit Game"
+      ],
+      [
+        "Common_Settings_Ours",
+        "Our {0} and {1}"
+      ],
+      [
+        "Common_Settings_Terms",
+        "Terms"
+      ],
+      [
+        "Common_Settings_PrivacyPolicy",
+        "Privacy Policy"
+      ],
+      [
+        "Common_Settings_PrivacyPolicy_s",
+        "Privacy Policy"
+      ],
+      [
+        "Common_Settings_Language_Default",
+        "Default"
+      ],
+      [
+        "Common_Settings_Language_EN_US",
+        "English"
+      ],
+      [
+        "Common_Settings_Language_FR",
+        "French"
+      ],
+      [
+        "Common_Settings_Language_DE",
+        "German"
+      ],
+      [
+        "Common_Settings_Language_PT",
+        "Portuguese"
+      ],
+      [
+        "Common_Settings_Language_ES",
+        "Spanish"
+      ],
+      [
+        "Common_Settings_Language_JA",
+        "Japanese"
+      ],
+      [
+        "Common_Settings_Language_KO",
+        "Korean"
+      ],
+      [
+        "Common_Settings_Language_RU",
+        "Russian"
+      ],
+      [
+        "Common_Settings_Language_ZH_CN",
+        "Simplified Chinese"
+      ],
+      [
+        "Common_Settings_Language_ZH_HKTW",
+        "Traditional Chinese"
+      ],
+      [
+        "Common_Reward_Title",
+        "Rewards"
+      ],
+      [
+        "Common_Reward_Claim_Ads",
+        "Okay x{0}"
+      ],
+      [
+        "Journey_Tips_1",
+        "Beat Level!"
+      ],
+      [
+        "Journey_Tips_2",
+        "Crush More!"
+      ],
+      [
+        "Journey_Tips_3",
+        "Claim Rewards!"
+      ],
+      [
+        "Common_Tap_To_Continue",
+        "Tap to Continue"
+      ],
+      [
+        "Level_Chest_Des",
+        "Level {0}"
+      ],
+      [
+        "Common_Btn_Confirm",
+        "Let's go"
+      ],
+      [
+        "Common_CountDown_Hour",
+        "{0}D {1}H"
+      ],
+      [
+        "Common_CountDown_Second",
+        "{0}H {1}M"
+      ],
+      [
+        "Journey_Map_HardLevel",
+        "Hard Level"
+      ],
+      [
+        "Common_Btn_Next",
+        "Next Level"
+      ],
+      [
+        "Common_Btn_Back",
+        "Home"
+      ],
+      [
+        "Badges_DailyChallenge_Nothing",
+        "Coming Soon..."
+      ],
+      [
+        "DailyQuest_Des_100_2",
+        "Use {0} Booster"
+      ],
+      [
+        "DailyQuest_Des_200_2",
+        "Complete {0} Match"
+      ],
+      [
+        "DailyQuest_Des_310_2",
+        "Beat {0} Regular Level"
+      ],
+      [
+        "Hint_Already",
+        "Tiles you can match are glowing"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_4",
+        "Brilliant"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_5",
+        "Fearless"
+      ],
+      [
+        "MahjongTiles_GameEnd_Name_6",
+        "Intelligent"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_4",
+        "Crushed {0} of players! A {1} improvement from your last game!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_5",
+        "You beat {0} of players! Excellence at its finest!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_6",
+        "Even hard levels fear your skills!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_7",
+        "Incredible speed! That’s {0} matches every 3 seconds!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_8",
+        "Not an easy one, but you aced it like a pro!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_9",
+        "What focus! Keep that steady mindset going strong!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_10",
+        "A splendid triumph! None shine brighter than you!"
+      ],
+      [
+        "MahjongTiles_GameEnd_Word_11",
+        "Full Combo! Did you even break a sweat?"
+      ],
+      [
+        "DailyQuest_Des_400",
+        "Beat Regular Level {0}"
+      ],
+      [
+        "MahjongTiles_EpicPlay",
+        "Epic Play!"
+      ],
+      [
+        "MahjongTiles_EpicPlay_Reward",
+        "Epic Play Reward!"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_2",
+        "Blocked by tiles above"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_4",
+        "Tap matching tiles to remove"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_5",
+        "Drag tiles above to remove and unlock tiles below"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_8",
+        "<color=#FFBC46>Match Identical Tiles!</color>"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_6",
+        "Match upper tiles to\n<color=#FFBC46>unlock the lower ones!</color>"
+      ],
+      [
+        "MahjongTiles_InGame_Tips_7",
+        "<color=#FFBC46>To unlock blocked tiles，</c>\n<color=#FFF4E9>match the ones along the sides！</color>"
+      ],
+      [
+        "MahjongTiles_Reach",
+        "Only the top {0}% reach"
+      ],
+      [
+        "MahjongTiles_Hard",
+        "Hard"
+      ],
+      [
+        "MahjongTiles_VeryHard",
+        "Expert"
+      ],
+      [
+        "Journey_Map_VeryHardLevel",
+        "Very Hard Level"
+      ],
+      [
+        "Common_Chest_Level",
+        "Level {0}/{1}"
+      ],
+      [
+        "Common_Settings_ContactUs",
+        "Contact Us"
+      ],
+      [
+        "Common_Evaluate_Title",
+        "Evaluate Us"
+      ],
+      [
+        "Common_Evaluate_Des",
+        "If you like Double Tile!\nPlease give us a 5-star praise."
+      ],
+      [
+        "Common_Evaluate_Button_Send",
+        "Submit"
+      ],
+      [
+        "Common_Evaluate_Button_ToTease",
+        "More comments"
+      ],
+      [
+        "Common_Evaluate_Feedback",
+        "Your feedback matters!\nShare your thoughts with us."
+      ],
+      [
+        "MahjongTiles_MainPage_TargetLevel",
+        "Level {0}"
+      ],
+      [
+        "Common_Reward_Claim",
+        "Claim"
+      ],
+      [
+        "LeaderBoard_reward_1",
+        "Okay x2"
+      ],
+      [
+        "MahjongTiles_ProHint_1",
+        "Unlock at Level {0}"
+      ],
+      [
+        "Common_Reward_target_1",
+        "Finish Level {0}"
+      ],
+      [
+        "Common_Reward_target_2",
+        "Max Combo > {0}\n{1} / {2}"
+      ],
+      [
+        "MahjongBlast_GameEnd_Word_1",
+        "You beat {0} of players!"
+      ],
+      [
+        "LeaderBoard_Name_6",
+        "Party Time"
+      ],
+      [
+        "LeaderBoard_Name_7",
+        "Gift Special Dispatch"
+      ],
+      [
+        "LeaderBoard_Name_8",
+        "Stellar Expedition"
+      ],
+      [
+        "LeaderBoard_Name_9",
+        "Astronomical Observation"
+      ],
+      [
+        "LeaderBoard_Name_10",
+        "Guardian of Innocence"
+      ],
+      [
+        "LeaderBoard_Name_Xmas25",
+        "Merry Christmas"
+      ],
+      [
+        "Journey_Name_Xmas25",
+        "Christmas"
+      ],
+      [
+        "Journey_Des_Xmas25",
+        "🎄Enjoy the Holiday Season!🎁"
+      ],
+      [
+        "Badges_Journey_Prize_Xmas2501",
+        "Common"
+      ],
+      [
+        "Badges_Journey_Prize_Xmas2502",
+        "Rare"
+      ],
+      [
+        "Badges_Journey_Prize_Xmas2503",
+        "Collector's"
+      ],
+      [
+        "Collection_DailyChallenge_202601",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202602",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202603",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202604",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202605",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202606",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202607",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202608",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202609",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202610",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202611",
+        "🎊"
+      ],
+      [
+        "Collection_DailyChallenge_202612",
+        "🎊"
+      ],
+      [
+        "MahjongTiles_ProHint_2",
+        "Unlock at Level {0}"
+      ],
+      [
+        "LeaderBoard_Start_DesXmas25",
+        "Collect Golden Tiles, race up the leaderboard, and win amazing rewards!"
+      ],
+      [
+        "Date_DailyChallenge_Common",
+        "Date"
+      ],
+      [
+        "Journey_Name_3",
+        "Road Trip"
+      ],
+      [
+        "Journey_Des_3",
+        "I came, I saw, I conquered."
+      ],
+      [
+        "Badges_Journey_Prize_301",
+        "Common"
+      ],
+      [
+        "Badges_Journey_Prize_302",
+        "Rare"
+      ],
+      [
+        "Badges_Journey_Prize_303",
+        "Collector's"
+      ],
+      [
+        "Journey_Name_4",
+        "Spring Coming"
+      ],
+      [
+        "Journey_Des_4",
+        "The early panda gets Kung Fu."
+      ],
+      [
+        "Badges_Journey_Prize_401",
+        "Common"
+      ],
+      [
+        "Badges_Journey_Prize_402",
+        "Rare"
+      ],
+      [
+        "Badges_Journey_Prize_403",
+        "Collector's"
+      ],
+      [
+        "Opening_Age_Title",
+        "Welcome"
+      ],
+      [
+        "Opening_Age_Des",
+        "To provide  \na better gaming experience,\nplease select  \nthe appropriate age range."
+      ],
+      [
+        "Common_Settings_AutoCombo",
+        "Auto Combo"
+      ],
+      [
+        "TileMatch_Revive_Details_2",
+        "Shuffle to keep going"
+      ],
+      [
+        "TileMatch_Revive_Button_Yes_2",
+        "Revive"
+      ],
+      [
+        "Common_Settings_DefaultSkin",
+        "Default Skin"
+      ],
+      [
+        "keyXiPai_Tips_01",
+        "{0}% of players used Shuffle to beat this level."
+      ],
+      [
+        "Set_Autoshuffle",
+        "Auto Shuffle"
+      ],
+      [
+        "AutoShuffleTips_01",
+        "Enable auto-use for the Shuffle item?"
+      ],
+      [
+        "AutoShuffleTips_02",
+        "Yes"
+      ],
+      [
+        "AutoShuffleTips_03",
+        "No"
+      ],
+      [
+        "AutoShuffleTips_04",
+        "{0}% of players used Shuffle to beat this level."
+      ],
+      [
+        "MahjongTiles_Free",
+        "Free Shuffle"
+      ],
+      [
+        "Opening_Age_Des1",
+        "This won’t affect game difficulty"
+      ],
+      [
+        "Opening_Age_Des2",
+        "Are you 18+?Please select your age range."
+      ],
+      [
+        "Opening_Age_Des3",
+        "Confirm to continue and claim a free gift. \nPlease select your age range"
+      ],
+      [
+        "FES26_love_stage1_title",
+        "Love's Challenge"
+      ],
+      [
+        "FES26_love_stage1_text",
+        "win 10 level,\nto fill game with pink."
+      ],
+      [
+        "FES26_love_stage1_bottom",
+        "Let's go"
+      ],
+      [
+        "FES26_love_stage2_title",
+        "In the Pink"
+      ],
+      [
+        "FES26_love_stage2_text",
+        "Congratulations!\nHave fun with the \npink-hued journey!"
+      ],
+      [
+        "FES26_love_stage2_bottom",
+        "Yay!!!"
+      ],
+      [
+        "FES26_love_stage3_title",
+        "Thank you"
+      ],
+      [
+        "FES26_love_stage3_text",
+        "\"In the Pink\" has ended.\nThanks for the lovely memories.\nMore events coming soon!"
+      ],
+      [
+        "FES26_love_stage3_bottom",
+        "GoodBye"
+      ],
+      [
+        "TileMatch_Revive_Details_3",
+        "Shuffle & Revive"
+      ],
+      [
+        "Beat_Des_1",
+        "Beat {0} of players by passing this level!"
+      ],
+      [
+        "Beat_Des_2",
+        "{0} of players failed in this level."
+      ],
+      [
+        "Beat_Des_3",
+        "{0} of players find this level difficult."
+      ],
+      [
+        "Beat_Des_4",
+        "Only {0} of players can pass this level."
+      ],
+      [
+        "Winning_streak_Title",
+        "Winning Streak"
+      ],
+      [
+        "Dailylog_title1",
+        "Daily Bonus"
+      ],
+      [
+        "Dailylog_title2",
+        "Today's Task"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_01",
+        "This level was tough, but you still breezed through it!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_02",
+        "You're incredible!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_03",
+        "This level tried to stress you out—you turned it into a relaxing stroll.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_04",
+        "That performance was pure pro-level."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_05",
+        "The tiles tried to hide—you politely said no with pure skill."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_06",
+        "The strategist in you is in top form today."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_07",
+        "So calm and relaxed—yet your skill is maxed out."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_08",
+        "Your focus today could light up a whole small town."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_09",
+        "Another tricky board, calmly solved."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_10",
+        "You untangled that messy layout into a perfect ending."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type1_11",
+        "Even the toughest layers couldn't hold you back."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_01",
+        "You clear {0} matches every 3 seconds—lightning fast!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_02",
+        "Your clear speed is like reheating food in a microwave!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_03",
+        "Clearing {0} sets every 3 seconds—these tiles can't even keep up."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_04",
+        "Nothing stays hidden for long under your watch."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_05",
+        "Clearing {0} sets every 3 seconds—this pace has the tiles nervous.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_06",
+        "You clear {0} matches every 3 seconds—blink and the whole board is gone."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_07",
+        "You clear {0} matches every 3 seconds—speed and insight, perfectly paired."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_08",
+        "You clear {0} matches every 3 seconds—your style is unmistakable."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_09",
+        "That kind of win makes you want to play another round."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_10",
+        "Your pattern-reading is seriously impressive."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type2_11",
+        "You clear {0} matches every 3 seconds—steady and beautiful finish."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_01",
+        "Your gameplay is absolutely stunning!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_02",
+        "Your gameplay is insanely good!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_03",
+        "Your calm play is the best-looking part of this game."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_04",
+        "You turned a headache of a level into a highlight."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_05",
+        "This board clearly didn't expect to run into you."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_06",
+        "Your calm mode is this game's hidden cheat code."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_07",
+        "What a clean clear—your focus really shows."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_08",
+        "This is top-tier—seriously amazing!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_09",
+        "This one could've gone either way, but your choices decided it."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_10",
+        "The moment the tiles showed up, you knew exactly what to do next."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type3_11",
+        "That huge pile of tiles? Now it's history."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_01",
+        "You're the real VIP!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_02",
+        "Nothing escapes your eyes!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_03",
+        "You surpassed {0} of players—up {1}. That feel is on point.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_04",
+        "You beat {0} of players—{1}% better than last time. Even the tiles respect you."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_05",
+        "You beat {0} of players—up {1}. You're on fire today!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_06",
+        "You beat {0} of players—steady all the way, and a beautiful finish."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_07",
+        "Tiles lined up, victory arrived right on time—so satisfying."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_08",
+        "From a screen full of tiles, you \\organized\\\" your way to victory.\""
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_09",
+        "You beat {0} of players—calm play, great result. Well done!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_10",
+        "Congrats! You beat {0} of players—another level secured."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type4_11",
+        "You cleared this round beautifully—your focus really shows."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_01",
+        "Congrats on beating {0} of players! Pop the champagne!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_02",
+        "Congrats on beating {0} of players! Time to celebrate!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_03",
+        "Congrats on beating {0} of players! That's pure skill!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_04",
+        "You beat {0} of players—this round was so good even the tiles want to clap.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_05",
+        "What a great round—want to go again?"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_06",
+        "Your brain and this puzzle clearly get along."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_07",
+        "Board cleared—feeling better already?"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_08",
+        "You beat {0} of players! You're always one step ahead of the board."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_09",
+        "You beat {0} of players! Your matching skills are rock-solid."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_10",
+        "You won this one with skill—not luck."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type5_11",
+        "You beat {0} of players! You won with ease—pure brainpower!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_01",
+        "That combo streak was so smooth the tiles didn't even have time to complain.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_02",
+        "That combo streak was so smooth the tiles didn't even have time to complain.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_03",
+        "You're firing on all cylinders!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_04",
+        "Combos flowed in one breath—felt like the tiles queued up for you to clear.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_05",
+        "You're the real VIP!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_06",
+        "After that combo run, it felt like you just casually cleared all the trouble.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_07",
+        "That combo chain was so natural and smooth—it's soothing to watch.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_08",
+        "You saw this board crystal clear."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_09",
+        "That combo was silky smooth—you've got serious confidence.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_10",
+        "From the first move to the last, that combo chain was elegant.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type6_11",
+        "Quick mind, smooth path to victory"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_01",
+        "Your focus is admirable—keep it up!"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_02",
+        "That's awesome!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_03",
+        "That's seriously impressive!\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_04",
+        "You cleared this round like a casual stroll.\n"
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_05",
+        "Your brain just did a tiny victory dance."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_06",
+        "Even the tiles are praising your technique behind the scenes."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_07",
+        "Steady win—an especially beautiful finish."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_08",
+        "Sharp thinking—victory came naturally."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_09",
+        "Your focus turned a tough problem into a clean, decisive win."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_10",
+        "Your patience paid off beautifully this round."
+      ],
+      [
+        "MahjongBlast_GameEnd_Type7_11",
+        "You cleared this round as naturally as finishing a daily task."
+      ],
+      [
+        "Ranking_Avatar_Button_get",
+        "Go to Get"
+      ],
+      [
+        "Ranking_Avatar_Button_cantget",
+        "Coming Soon"
+      ],
+      [
+        "Loading_Tarot_01",
+        "Follow The Fool's leap of faith.\nA new lucky adventure awaits."
+      ],
+      [
+        "Loading_Tarot_02",
+        "The Magician's power is in your hands.\nToday you have the luck to turn ideas into reality."
+      ],
+      [
+        "Loading_Tarot_03",
+        "The deep intuition of The High Priestess is guiding you.\nListen quietly to your inner voice."
+      ],
+      [
+        "Loading_Tarot_04",
+        "The abundance of The Empress nourishes you.\nWhat you focus on cultivating will thrive."
+      ],
+      [
+        "Loading_Tarot_05",
+        "The decisiveness of The Emperor is in your hands, take control with clear plans and discipline."
+      ],
+      [
+        "Loading_Tarot_06",
+        "The wisdom of The Hierophant is within you.\nAn inner belief or principle will clarify your doubts."
+      ],
+      [
+        "Loading_Tarot_07",
+        "The Lovers bless you with wholeness. Your truth leads to harmony."
+      ],
+      [
+        "Loading_Tarot_08",
+        "The Chariot's will to move forward.\nHas paved your path to victory today."
+      ],
+      [
+        "Loading_Tarot_09",
+        "he calm of Strength comes from within; gentle firmness can resolve any challenge."
+      ],
+      [
+        "Loading_Tarot_10",
+        "The Hermit's lantern lights your way. Quiet thought alone will bring precious answers."
+      ],
+      [
+        "Loading_Tarot_11",
+        "The Wheel of Fortune turns to you; actively embracing change ushers in an upward cycle."
+      ],
+      [
+        "Loading_Tarot_12",
+        "The Justice scales balance for you today.\nYour past efforts and choices will receive a fair echo."
+      ],
+      [
+        "Loading_Tarot_13",
+        "The Hanged Man's wait is wise. Your new view reveals fresh opportunities."
+      ],
+      [
+        "Loading_Tarot_14",
+        "The transformative power of Death is active; your proactive change welcomes a vibrant new beginning."
+      ],
+      [
+        "Loading_Tarot_15",
+        "Temperance blends all things. Today's calm and patience will create perfect balance."
+      ],
+      [
+        "Loading_Tarot_16",
+        "The Devil's illusion fades. You have the power to choose freedom."
+      ],
+      [
+        "Loading_Tarot_17",
+        "The upheaval of The Tower breaks deadlocks; you can build a firmer foundation."
+      ],
+      [
+        "Loading_Tarot_18",
+        "The Star shines with hope. Move forward with faith, and the universe will guide you."
+      ],
+      [
+        "Loading_Tarot_19",
+        "Walk through The Moon's mist. Your courage will turn vague fears into clear chances."
+      ],
+      [
+        "Loading_Tarot_20",
+        "The Sun shines bright. Today is full of energy, success, and simple joy."
+      ],
+      [
+        "Loading_Tarot_21",
+        "Judgment is a clear call. It awakens new strength within you."
+      ],
+      [
+        "Loading_Tarot_22",
+        "The World crowns you.\nA cycle completes, bringing joyful success and celebration."
+      ],
+      [
+        "Loading_Tarot_23",
+        "Stay open; the unknown brings gifts.\n   — The Fool"
+      ],
+      [
+        "Loading_Tarot_24",
+        "Use all you command to create wonders.\n   — The Magician"
+      ],
+      [
+        "Loading_Tarot_25",
+        "Trust the first voice of your intuition.\n   — The High Priestess"
+      ],
+      [
+        "Loading_Tarot_26",
+        "Generosity and nurture bring abundance today.\n   — The Empress"
+      ],
+      [
+        "Loading_Tarot_27",
+        "A clear plan brings solid control.\n   — The Emperor"
+      ],
+      [
+        "Loading_Tarot_28",
+        "Traditional ways or a mentor offer reliable guidance.\n   — The Hierophant"
+      ],
+      [
+        "Loading_Tarot_29",
+        "When choosing, listen to your heart.\n   — The Lovers"
+      ],
+      [
+        "Loading_Tarot_30",
+        "Steer your course with will and advance.\n   — The Chariot"
+      ],
+      [
+        "Loading_Tarot_31",
+        "rue strength comes from gentle confidence. —The Strength"
+      ],
+      [
+        "Loading_Tarot_32",
+        "n quiet self-exploration, you will gain clear guidance.\n   — The Hermit"
+      ],
+      [
+        "Loading_Tarot_33",
+        "A fortunate turn is happening; be ready to welcome opportunities.\n   — The Wheel of Fortune"
+      ],
+      [
+        "Loading_Tarot_34",
+        "Your efforts will be justly rewarded. —The Justice"
+      ],
+      [
+        "Loading_Tarot_35",
+        "Pause, and you'll gain a new perspective.\n   — The Hanged Man"
+      ],
+      [
+        "Loading_Tarot_36",
+        "An ending means a brand new start. —The Death"
+      ],
+      [
+        "Loading_Tarot_37",
+        "Find perfect rhythm in blending and balance. —The Temperance"
+      ],
+      [
+        "Loading_Tarot_38",
+        "See the temptation, and you claim your power.\n   — The Devil"
+      ],
+      [
+        "Loading_Tarot_39",
+        "Break through old patterns, and you will build a more solid foundation.\n   — The Tower"
+      ],
+      [
+        "Loading_Tarot_40",
+        "Hold hope, with inspiration and healing.\n   — The Star"
+      ],
+      [
+        "Loading_Tarot_41",
+        "Trust the whisper of your intuition; it will guide you safely.\n   — The Moon"
+      ],
+      [
+        "Loading_Tarot_42",
+        "Take positive action for joy and recognition.\n   — The Sun"
+      ],
+      [
+        "Loading_Tarot_43",
+        "Make a wise judgment, and you will welcome a brand new beginning.\n   — Judgement"
+      ],
+      [
+        "Loading_Tarot_44",
+        "You are about to complete an important phase flawlessly.\n   — The World"
+      ],
+      [
+        "Loading_Tarot_45",
+        "Power of the Day — The Sun: Your vitality can illuminate everything."
+      ],
+      [
+        "Loading_Tarot_46",
+        "Insight of the Day — Wheel of Fortune: Go with the flow, and good things will happen."
+      ],
+      [
+        "Loading_Tarot_47",
+        "Insight of the Day — Nine of Cups: The wish you made is coming true."
+      ],
+      [
+        "Loading_Tarot_48",
+        "Insight of the Day — Ten of Cups: Harmony and fulfillment will fill your life."
+      ],
+      [
+        "Loading_Tarot_49",
+        "Power of the Day — Six of Wands: Move forward with confidence; honor follows."
+      ],
+      [
+        "Loading_Tarot_50",
+        "Power of the Day — The Star: You are gently supported by the universe."
+      ],
+      [
+        "Loading_Tarot_51",
+        "Power of the Day — Ten of Pentacles: Enjoy prosperity and share the fruits."
+      ],
+      [
+        "Loading_Tarot_52",
+        "Insight of the Day — The World: Success and achievement are already in your hands."
+      ],
+      [
+        "Loading_Motto_1",
+        "Every day is a new opportunity.\n—— George Herbert"
+      ],
+      [
+        "Loading_Motto_2",
+        "Always look on the bright side of life.\n—— Richard Branson"
+      ],
+      [
+        "Loading_Motto_3",
+        "The happiness of your life depends on the quality of your thoughts.\n—— Marcus Aurelius"
+      ],
+      [
+        "Loading_Motto_4",
+        "A journey of a thousand miles begins with a single step.\n—— Lao Tzu"
+      ],
+      [
+        "Loading_Motto_5",
+        "The future belongs to those who believe in the beauty of their dreams.\n—— Eleanor Roosevelt"
+      ],
+      [
+        "Loading_Motto_6",
+        "To live is to change, and to be perfect is to have changed often.\n—— John Henry Newman"
+      ],
+      [
+        "Loading_Motto_7",
+        "The main thing is to be moved, to love, to hope, to tremble, to live.\n—— Auguste Rodin"
+      ],
+      [
+        "Loading_Motto_8",
+        "You must do the thing you think you cannot do.\n—— Eleanor Roosevelt"
+      ],
+      [
+        "Loading_Motto_9",
+        "Once you choose hope, anything's possible.\n—— Christopher Reeve"
+      ],
+      [
+        "Loading_Motto_10",
+        "Tough times never last, but tough people do.\n—— Robert H. Schuller"
+      ],
+      [
+        "Loading_Motto_11",
+        "Cease to struggle and you cease to live.\n—— Thomas Carlyle"
+      ],
+      [
+        "Loading_Motto_12",
+        "Living without an aim is like sailing without a compass.\n—— Alexandre Dumas"
+      ],
+      [
+        "Loading_Motto_13",
+        "We acquire the strength we have overcome.\n—— Ralph Waldo Emerson"
+      ],
+      [
+        "Loading_Motto_14",
+        "Why do the stars shine? Perhaps so that each of us may one day find our own.\n—— Antoine de Saint-Exupéry"
+      ],
+      [
+        "Loading_Motto_15",
+        "Hope is the thing with feathers that perches in the soul.\n—— Emily Dickinson"
+      ],
+      [
+        "Loading_Motto_16",
+        "If you are a light to yourself, you will light up the world.\n—— Mother Teresa"
+      ],
+      [
+        "Loading_Motto_17",
+        "Change your thoughts and you change your world.\n—— Norman Vincent Peale"
+      ],
+      [
+        "Loading_Motto_18",
+        "The best way to predict the future is to invent it.\n—— Alan Kay"
+      ],
+      [
+        "Loading_Motto_19",
+        "Rise up, be enlightened, and go forward.\n—— Aesop's Fables"
+      ],
+      [
+        "Loading_Motto_20",
+        "The joy is in the journey, not the destination.\n—— Carl Lewis"
+      ],
+      [
+        "Loading_Motto_21",
+        "Never limit yourself."
+      ],
+      [
+        "Loading_Motto_22",
+        "Joy is not in things; it is in us.\n—— Richard Wagner"
+      ],
+      [
+        "Loading_Motto_23",
+        "The fun is hidden in the process of seeking.\n—— Chinese Proverb"
+      ],
+      [
+        "Loading_Motto_24",
+        "Happiness depends upon ourselves.\n—— Aristotle"
+      ],
+      [
+        "Loading_Motto_25",
+        "All you need is faith, trust, and a little bit of pixie dust.\n—— Peter Pan"
+      ],
+      [
+        "Loading_Motto_26",
+        "Storms make trees take deeper roots.\n—— Darlo Jandron"
+      ],
+      [
+        "Loading_Motto_27",
+        "Be yourself; everyone else is already taken.\n—— Oscar Wilde"
+      ],
+      [
+        "Loading_Motto_28",
+        "Logic will get you from A to B. Imagination will take you everywhere.—— Albert Einstein"
+      ],
+      [
+        "Loading_Motto_29",
+        "Seize the day.\n—— Horace"
+      ],
+      [
+        "Loading_Motto_30",
+        "Know thyself.\n—— Socrates"
+      ],
+      [
+        "Loading_Motto_31",
+        "A thing of beauty is a joy forever.\n—— John Keats"
+      ],
+      [
+        "Loading_Motto_32",
+        "The best way out is always through.\n—— Robert Frost"
+      ],
+      [
+        "Loading_Motto_33",
+        "Happiness is a journey, not a destination.\n—— Ben Sweetland"
+      ],
+      [
+        "Loading_Motto_34",
+        "You are braver than you believe.\n—— A. A. Milne"
+      ],
+      [
+        "Loading_Motto_35",
+        "A person who walks slowly, as long as he does not lose his goal, walks faster than one who wanders aimlessly.\n—— Gotthold Ephraim Lessing"
+      ],
+      [
+        "Loading_Motto_36",
+        "Listen to the wind, it knows everything."
+      ],
+      [
+        "Loading_Motto_37",
+        "Within you there is a stillness and a sanctuary to which you can retreat at any time and be yourself.\n—— Hermann Hesse"
+      ],
+      [
+        "Loading_Motto_38",
+        "Play Lightly, Awaken Inner Wisdom."
+      ],
+      [
+        "Loading_Motto_39",
+        "Let the game ease your mind and make the bed for sweet dreams."
+      ],
+      [
+        "Loading_Motto_40",
+        "The space reserved for fun is also the place reserved for sleep and wisdom."
+      ],
+      [
+        "Ranking_Avatar_new_avatar",
+        "New Avatar"
+      ],
+      [
+        "Dailylog2_text1",
+        "Play 7 days in a row for max bonus!"
+      ],
+      [
+        "Dailylog2_text2",
+        "Day {0}"
+      ],
+      [
+        "Dailylog2_text3",
+        "Next Reward"
+      ],
+      [
+        "LeaderBoard_rank_1",
+        "<color=#f5e8c4>You climbed an amazing </c><outline color=#602e0b width=3><color=#ffd04b><size=38> {0}</size></color></outline><color=#f5e8c4>\nspots up the leaderboard</c>"
+      ],
+      [
+        "Journey_Name_Love26",
+        "Valentine's Day"
+      ],
+      [
+        "Badges_Journey_Prize_Love2601",
+        "Diamond"
+      ],
+      [
+        "Badges_Journey_Prize_Love2602",
+        "Anniversary"
+      ],
+      [
+        "Badges_Journey_Prize_Love2603",
+        "Rose"
+      ],
+      [
+        "Booster_Shuffle_text1",
+        "{0} of people used shuffle \n to pass this level"
+      ],
+      [
+        "Dailylog_icon",
+        "Check"
+      ],
+      [
+        "Classic_refuse",
+        "No, Thanks"
+      ],
+      [
+        "Get_MORE_SCORE",
+        "More Challenge"
+      ],
+      [
+        "Mahjong_RankPopUp_HINT",
+        "{0} has started!"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP1",
+        "Collect Golden Mahjong Tiles"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP2",
+        "When the countdown ends, place in the Top 6"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP3",
+        "Earn rewards"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP4",
+        "Claim"
+      ],
+      [
+        "Mahjong_RankPopUp_STEP5",
+        "Got it"
+      ],
+      [
+        "Mahjong_InGameSettings_Exit",
+        "Exit"
+      ],
+      [
+        "Mahjong_NewRecord",
+        "New Record!"
+      ],
+      [
+        "classic_bestscore_des",
+        "Best Score"
+      ],
+      [
+        "classic_weekbest",
+        "Week Best"
+      ],
+      [
+        "classic_todaybest",
+        "Today Best"
+      ],
+      [
+        "classic_gameover",
+        "Game Over"
+      ],
+      [
+        "classic_Continue",
+        "Continue!"
+      ],
+      [
+        "classic_newmod",
+        "New Mod!"
+      ],
+      [
+        "classic_button",
+        "Classic"
+      ],
+      [
+        "classic_stage",
+        "Stage"
+      ],
+      [
+        "Get_MORE_SCOREplus",
+        "Get More Score x {0}"
+      ],
+      [
+        "Dailylog2_text4",
+        "Today"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_title",
+        "No Interstitial Ads"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_text1",
+        "Watch a rewarded video and enjoy {0} minutes of ad-free gameplay!"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_text2",
+        "Watch a rewarded video and enjoy {0} ad-free games!"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_yes",
+        "Okay!"
+      ],
+      [
+        "Mahjong_AD_Remove_ads_no",
+        "No, thanks"
+      ],
+      [
+        "Robot_Name51",
+        "PeachPup"
+      ],
+      [
+        "Robot_Name52",
+        "SunnyPaws"
+      ],
+      [
+        "Robot_Name53",
+        "Blossom"
+      ],
+      [
+        "Robot_Name54",
+        "CocoTail"
+      ],
+      [
+        "Robot_Name55",
+        "RosyWoof"
+      ],
+      [
+        "Robot_Name11",
+        "luna"
+      ],
+      [
+        "Robot_Name12",
+        "SnowBelle"
+      ],
+      [
+        "Robot_Name13",
+        "MimiAzure"
+      ],
+      [
+        "Robot_Name14",
+        "CloudKitty"
+      ],
+      [
+        "Robot_Name15",
+        "BlueCharm"
+      ],
+      [
+        "Robot_Name21",
+        "DaisyDoe"
+      ],
+      [
+        "Robot_Name22",
+        "Velvet"
+      ],
+      [
+        "Robot_Name23",
+        "AmberBreeze"
+      ],
+      [
+        "Robot_Name24",
+        "SoftMeadow"
+      ],
+      [
+        "Robot_Name25",
+        "FawnGlow"
+      ],
+      [
+        "Robot_Name31",
+        "foxyboba"
+      ],
+      [
+        "Robot_Name32",
+        "lilvibez"
+      ],
+      [
+        "Robot_Name33",
+        "amberluv"
+      ],
+      [
+        "Robot_Name34",
+        "glowfable"
+      ],
+      [
+        "Robot_Name35",
+        "slycutie"
+      ],
+      [
+        "Robot_Name41",
+        "SnowPuff"
+      ],
+      [
+        "Robot_Name42",
+        "Pingo"
+      ],
+      [
+        "Robot_Name43",
+        "ChillyBean"
+      ],
+      [
+        "Robot_Name44",
+        "PolarMochi"
+      ],
+      [
+        "Robot_Name45",
+        "Glacier"
+      ],
+      [
+        "Robot_Name61",
+        "PeacockJoy"
+      ],
+      [
+        "Robot_Name62",
+        "Azure"
+      ],
+      [
+        "Robot_Name63",
+        "SkyPlume"
+      ],
+      [
+        "Robot_Name64",
+        "NovaPea"
+      ],
+      [
+        "Robot_Name65",
+        "cozy"
+      ],
+      [
+        "Free_Shuffle",
+        "Times"
+      ],
+      [
+        "Free_Shuffle_tag",
+        "Free"
+      ],
+      [
+        "normal_sentence1",
+        "There are {0} players challenging worldwide. Be the first to pass and beat {1} of opponents!"
+      ],
+      [
+        "normal_sentence2",
+        "There are {0} players challenging this level worldwide, and only {1} of players have passed."
+      ],
+      [
+        "normal_sentence3",
+        "Today, {0} players have passed this level. Pass it and you will be ahead of {1} of players!"
+      ],
+      [
+        "travel_sentence1",
+        "Today, {0} players have started the adventure. Clear it and you'll surpass {1} of adventurers!"
+      ],
+      [
+        "travel_sentence2",
+        "Today, {0} adventurers are playing this level, but only {1} of adventurers can pass it!"
+      ],
+      [
+        "travel_sentence3",
+        "You are adventurer #{0} today. Only {1} of adventurers can obtain the collectible. Go win this unique souvenir!"
+      ],
+      [
+        "challenge_sentence1",
+        "Today, {0} experts are challenging this level. Pass it and you can beat {1} of the experts!"
+      ],
+      [
+        "challenge_sentence2",
+        "Right now, {0} experts are challenging, and only {1} of them succeed."
+      ],
+      [
+        "challenge_sentence3",
+        "Globally, {0} people have entered the challenge. Passing means you are in the top {1} and become a seeded player."
+      ],
+      [
+        "no_internert",
+        "Connection Lost"
+      ],
+      [
+        "Journey_Name_5",
+        "New Friend"
+      ],
+      [
+        "Journey_Des_5",
+        "Every hello might be the start of a new friend."
+      ],
+      [
+        "Badges_Journey_Prize_501",
+        "First Hello"
+      ],
+      [
+        "Badges_Journey_Prize_502",
+        "Story Weaver"
+      ],
+      [
+        "Badges_Journey_Prize_503",
+        "Heart Connector"
+      ],
+      [
+        "LeaderBoard_PlayerName_me",
+        "I"
+      ],
+      [
+        "LeaderBoard_PlayerName_You",
+        "You"
+      ],
+      [
+        "Ranking_Pop-up_text1",
+        "<color=#eee4d2>Collect</c><color=#ffd000> Golden</c><color=#eee4d2> Mahjong!</c>"
+      ],
+      [
+        "Ranking_Pop-up_text2",
+        "Aim for Top 6 on the Leaderboard"
+      ],
+      [
+        "Ranking_Pop-up_text3",
+        "Win Rewards!"
+      ],
+      [
+        "Tile_Travel_Current_Progress_text1",
+        "{0} completed"
+      ],
+      [
+        "Tile_Travel_Current_Progress_text2",
+        "{0} remaining"
+      ],
+      [
+        "Tiles_PropPurchase_Title_3",
+        "Free Undo"
+      ],
+      [
+        "Tiles_PropPurchase_Purchase_1",
+        "Watch an ad to get {0} Shuffle"
+      ],
+      [
+        "Tiles_PropPurchase_Purchase_2",
+        "Watch an ad to get {0} Hint"
+      ],
+      [
+        "Tiles_PropPurchase_Purchase_3",
+        "Watch an ad to get {0} Undo"
+      ],
+      [
+        "New_Skin_Unlock",
+        "New Skin Unlock"
+      ],
+      [
+        "Download_Time",
+        "<1 minute"
+      ],
+      [
+        "Refuse_Download",
+        "No, thanks"
+      ],
+      [
+        "Tile4_tip_tool_cannot_use",
+        "Try other items to beat this challenge"
+      ],
+      [
+        "Tile4_back_tool_cannot_use",
+        "No valid tiles"
+      ],
+      [
+        "MahjongTiles_GameEnd_Time",
+        "Time"
+      ],
+      [
+        "MahjongTiles4_Revive_Title",
+        "Out of Space"
+      ],
+      [
+        "Mahjong_matches_available",
+        "{0} matches available"
+      ],
+      [
+        "Tile4_item_not_enough",
+        "Not enough items"
+      ],
+      [
+        "MahjongTiles_GameEnd_Score_English_Most",
+        "Score"
+      ],
+      [
+        "MahjongTiles_GameEnd_Combo_English_Most",
+        "Combo"
+      ],
+      [
+        "DoubleTile_Trip_Time",
+        "{0} Days"
+      ],
+      [
+        "DoubleTile_Trip",
+        "Trip"
+      ],
+      [
+        "DoubleTile_MainType_Hard",
+        "Hard Level {0}"
+      ],
+      [
+        "DoubleTile_MainType_Expert",
+        "Expert Level {0}"
+      ],
+      [
+        "Tile_End_Praise_A_title_1",
+        "Lightning-fast"
+      ],
+      [
+        "Tile_End_Praise_A_title_2",
+        "Eagle-eyed"
+      ],
+      [
+        "Tile_End_Praise_A_title_3",
+        "Crackling wit"
+      ],
+      [
+        "Tile_End_Praise_A_title_4",
+        "Speed king"
+      ],
+      [
+        "Tile_End_Praise_A_title_5",
+        "Unconquered"
+      ],
+      [
+        "Tile_End_Praise_A_title_6",
+        "Sonic Mode"
+      ],
+      [
+        "Tile_End_Praise_A_title_7",
+        "Time Lord"
+      ],
+      [
+        "Tile_End_Praise_A_text_1",
+        "Your name shall be sung by bards!"
+      ],
+      [
+        "Tile_End_Praise_A_text_2",
+        "Too fast. Leave some challenge for the rest of us."
+      ],
+      [
+        "Tile_End_Praise_A_text_3",
+        "This isn't a game for you, it's a victory lap."
+      ],
+      [
+        "Tile_End_Praise_A_text_4",
+        "Are you sure you're not the final boss?"
+      ],
+      [
+        "Tile_End_Praise_A_text_5",
+        "Speed run material right here."
+      ],
+      [
+        "Tile_End_Praise_A_text_6",
+        "You made that level look like a loading screen."
+      ],
+      [
+        "Tile_End_Praise_A_text_7",
+        "Smooth and speedy. Like butter on a hot pan."
+      ],
+      [
+        "Tile_End_Praise_A_text_8",
+        "Flash would be jealous of that run."
+      ],
+      [
+        "Tile_End_Praise_B_title_1",
+        "One-shot"
+      ],
+      [
+        "Tile_End_Praise_B_title_2",
+        "Untouched"
+      ],
+      [
+        "Tile_End_Praise_B_title_3",
+        "With ease"
+      ],
+      [
+        "Tile_End_Praise_B_title_4",
+        "Watertight"
+      ],
+      [
+        "Tile_End_Praise_B_title_5",
+        "Immortal"
+      ],
+      [
+        "Tile_End_Praise_B_text_1",
+        "Feeling lucky today!"
+      ],
+      [
+        "Tile_End_Praise_B_text_2",
+        "How did you figure that out? Can I borrow your brain?"
+      ],
+      [
+        "Tile_End_Praise_B_text_3",
+        "That's some next-level thinking!"
+      ],
+      [
+        "Tile_End_Praise_B_text_4",
+        "Thought you were doomed? Nope, you owned it!"
+      ],
+      [
+        "Tile_End_Praise_B_text_5",
+        "Luck? No, that's pure skill!"
+      ],
+      [
+        "Tile_End_Praise_B_text_6",
+        "Everyone's stuck, but you're just smiling!"
+      ],
+      [
+        "Tile_End_Praise_B_text_7",
+        "No use hiding it, you're a genius!"
+      ],
+      [
+        "Tile_End_Praise_B_text_8",
+        "Too smart to be true!"
+      ],
+      [
+        "Tile_End_Praise_B_text_9",
+        "Wait... you didn't get stumped? Not even once?"
+      ],
+      [
+        "Tile_End_Praise_B_text_10",
+        "Invincible isn't a power-up for you. It's a lifestyle."
+      ],
+      [
+        "Tile_End_Praise_B_text_11",
+        "Textbook perfection. Frame it and hang it on the wall."
+      ],
+      [
+        "Tile_End_Praise_C_title_1",
+        "Unstoppable"
+      ],
+      [
+        "Tile_End_Praise_C_title_2",
+        "Got smarter"
+      ],
+      [
+        "Tile_End_Praise_C_title_3",
+        "Forged in Fire"
+      ],
+      [
+        "Tile_End_Praise_C_text_1",
+        "Fall seven, rise eight!"
+      ],
+      [
+        "Tile_End_Praise_C_text_2",
+        "A crisis reveals who is a man!"
+      ],
+      [
+        "Tile_End_Praise_C_text_3",
+        "Through trials untold, you've reached the shores of glory!"
+      ],
+      [
+        "Tile_End_Praise_C_text_4",
+        "You've mastered this level!"
+      ],
+      [
+        "Tile_End_Praise_C_text_5",
+        "Persistence paid off. Literally."
+      ],
+      [
+        "Tile_End_Praise_C_text_6",
+        "Every failure was just practice for this moment."
+      ],
+      [
+        "Tile_End_Praise_C_text_7",
+        "Lost? You? Never!"
+      ],
+      [
+        "Tile_End_Praise_C_text_8",
+        "From zero to hero. We watched it happen."
+      ],
+      [
+        "Tile_End_Praise_C_text_9",
+        "Every death was a lesson. You aced the final exam."
+      ],
+      [
+        "Tile_End_Praise_C_text_10",
+        "Nothing breaks you. Not anymore."
+      ],
+      [
+        "Tile_End_Praise_D_title_1",
+        "Big Brain"
+      ],
+      [
+        "Tile_End_Praise_D_title_2",
+        "Toolbox Hero"
+      ],
+      [
+        "Tile_End_Praise_D_title_3",
+        "Tactical Genius"
+      ],
+      [
+        "Tile_End_Praise_D_title_4",
+        "Glory be"
+      ],
+      [
+        "Tile_End_Praise_D_title_5",
+        "Max value"
+      ],
+      [
+        "Tile_End_Praise_D_text_1",
+        "That item usage was chef's kiss."
+      ],
+      [
+        "Tile_End_Praise_D_text_2",
+        "You had the right tool at the right time. Every time."
+      ],
+      [
+        "Tile_End_Praise_D_text_3",
+        "Perfect split-second decision. No notes."
+      ],
+      [
+        "Tile_End_Praise_D_text_4",
+        "A feat worthy of the heroes of old!"
+      ],
+      [
+        "Tile_End_Praise_D_text_5",
+        "Such strategy deserves its own epic!"
+      ],
+      [
+        "Tile_End_Praise_D_text_6",
+        "The rosy-fingered dawn crowns you!"
+      ],
+      [
+        "Tile_End_Praise_D_text_7",
+        "Your fame flies on \nepea pteroenta - winged words!"
+      ],
+      [
+        "Tile_End_Praise_D_text_8",
+        "You found the secret sauce!"
+      ],
+      [
+        "Tile_End_Praise_D_text_9",
+        "Now THAT'S a pro move!"
+      ],
+      [
+        "Tile_End_Praise_D_text_10",
+        "You survived THAT? Legendary!"
+      ],
+      [
+        "Tile_End_Praise_D_text_11",
+        "Using that item there? 200 IQ play."
+      ],
+      [
+        "Tile_End_Praise_D_text_12",
+        "Perfect timing. You love to see it."
+      ],
+      [
+        "Tile3_Guide_text1",
+        "Tap the same pattern\nas in the holder."
+      ],
+      [
+        "Tile3_Guide_color_text1",
+        "<color=#ffd000>Tap the same pattern</color> \nas in the holder."
+      ],
+      [
+        "Double_TILE_Guide_1",
+        "<color=#8e481c>Careful!</c>\n<color=#ff4e00> Don't fill the holder!</color>"
+      ],
+      [
+        "TileXiPai_Tips_01",
+        "Only {0} of players cleared it in one life"
+      ],
+      [
+        "Tile4_Guide_text1",
+        "Clear <color=#ffd000>top</color> and <color=#ffd000>side</color> tiles first"
+      ],
+      [
+        "Daily_Task_Pop_Change_Title",
+        "Daily Task Rewards"
+      ],
+      [
+        "Tile4_xinyun_Newbie_Text_1",
+        "Match at the <color=#ffd000>top</c> to unlock tiles <color=#ffd000>below</c>"
+      ],
+      [
+        "Tile4_xinyun_Newbie_Text_2",
+        "Move a tile <color=#ffd000>upward</c> to unlock <color=#ffd000>nearby</c> tiles"
+      ],
+      [
+        "Tile4_xinyun_Newbie_Text_3",
+        "You can now make a <color=#ffd000>match</c>!"
+      ],
+      [
+        "Tile4_xinyun_Newbie_Text_4",
+        "A new <color=#ffd000>match</c> is now available here!"
+      ]
+    ]
+  }
+}

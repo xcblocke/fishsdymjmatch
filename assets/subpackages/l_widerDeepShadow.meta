@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "c9fce92f-63e1-44f3-b0ac-514f76f635bc",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_widerDeepShadow",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

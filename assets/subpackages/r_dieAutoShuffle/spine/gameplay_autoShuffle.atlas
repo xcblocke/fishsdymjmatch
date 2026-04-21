@@ -1,0 +1,41 @@
+
+gameplay_autoShuffle.png
+size: 906,734
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_b
+  rotate: false
+  xy: 2, 8
+  size: 227, 194
+  orig: 229, 196
+  offset: 1, 1
+  index: -1
+icon_c
+  rotate: false
+  xy: 231, 8
+  size: 227, 194
+  orig: 229, 196
+  offset: 1, 1
+  index: -1
+rim_front
+  rotate: false
+  xy: 460, 2
+  size: 285, 286
+  orig: 323, 323
+  offset: 19, 19
+  index: -1
+ring_d
+  rotate: true
+  xy: 2, 204
+  size: 528, 444
+  orig: 542, 486
+  offset: 7, 21
+  index: -1
+ring_f
+  rotate: false
+  xy: 448, 290
+  size: 456, 442
+  orig: 460, 454
+  offset: 2, 6
+  index: -1

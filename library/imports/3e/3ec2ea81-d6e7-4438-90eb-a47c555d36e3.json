@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_collision_specialCard",
+    "texture": "c619a28e-3b3b-435a-aee8-27b31cb2f9d2",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      959,
+      801
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      962,
+      804
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

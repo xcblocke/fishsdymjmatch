@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "7f670bab-db21-4b84-9999-acce36c26204",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_mirrorLock",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

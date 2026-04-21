@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/Scripts/types/IDynamicCurve.ts"],"names":[],"mappings":";;;;;;AAAA,IAAY,UAIX;AAJD,WAAY,UAAU;IACpB,2CAAQ,CAAA;IACR,6CAAS,CAAA;IACT,+CAAU,CAAA;AACZ,CAAC,EAJW,UAAU,GAAV,kBAAU,KAAV,kBAAU,QAIrB","file":"","sourceRoot":"/","sourcesContent":["export enum EDDAFilter {\n  NONE = 0,\n  LEVEL = 1,\n  FILTER = 2,\n}"]}

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "45f0763d-a280-412a-923e-f1aa399fbeb8",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_dda2",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

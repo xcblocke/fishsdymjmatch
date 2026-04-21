@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guide_txt_bg_2",
+    "texture": "73cb19f6-9e8d-47cd-8d34-fedd2448e778",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      481,
+      3
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      481,
+      3
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "9c380e43-ce8c-4a19-9d51-169f15f2dba7",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_cbad",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

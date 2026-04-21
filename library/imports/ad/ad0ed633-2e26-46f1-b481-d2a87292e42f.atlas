@@ -1,0 +1,20 @@
+
+gardeningMaster_specialCard_efx.png
+size: 213,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paipai
+  rotate: false
+  xy: 138, 26
+  size: 73, 92
+  orig: 80, 98
+  offset: 3, 4
+  index: -1
+paipai_guang_1
+  rotate: true
+  xy: 2, 2
+  size: 116, 134
+  orig: 125, 143
+  offset: 4, 5
+  index: -1

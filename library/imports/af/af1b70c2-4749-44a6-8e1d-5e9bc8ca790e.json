@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Play_pink",
+    "texture": "96f556a4-c1f8-43eb-b0a8-c83c5470fb2b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      444,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      444,
+      136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

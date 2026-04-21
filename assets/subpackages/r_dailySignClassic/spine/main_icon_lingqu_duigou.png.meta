@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6aa6d8ce-2ddb-49cf-a3f1-e300f264c799",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 115,
+  "height": 59,
+  "platformSettings": {},
+  "subMetas": {
+    "main_icon_lingqu_duigou": {
+      "ver": "1.0.6",
+      "uuid": "9e3d6fd8-3526-43b2-a3e8-4b4593df6e5b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6aa6d8ce-2ddb-49cf-a3f1-e300f264c799",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 111,
+      "height": 55,
+      "rawWidth": 115,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

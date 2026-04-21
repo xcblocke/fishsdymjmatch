@@ -1,0 +1,13 @@
+
+result_gameOver_bg_light.png
+size: 132,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sky_light
+  rotate: false
+  xy: 2, 2
+  size: 128, 232
+  orig: 128, 234
+  offset: 0, 2
+  index: -1

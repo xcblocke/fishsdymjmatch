@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "J_chun",
+    "texture": "811ad19c-ae22-4b3f-9d5a-e18b407e3360",
+    "atlas": "b4f2cc74-c9b3-473a-ae8a-5cf8854aebed",
+    "rect": [
+      144,
+      3,
+      135,
+      137
+    ],
+    "offset": [
+      -5,
+      4
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

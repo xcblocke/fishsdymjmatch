@@ -1,0 +1,17 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_elimination_a",
+  "_objFlags": 0,
+  "_native": ".bin",
+  "_skeletonJson": null,
+  "_atlasText": "\ngameplay_elimination_a.png\nsize: 78,85\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nliZi_xmj_3\n  rotate: false\n  xy: 2, 2\n  size: 74, 81\n  orig: 74, 81\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "8e183c4d-78f4-4cee-8229-1a0ff54a2652"
+    }
+  ],
+  "textureNames": [
+    "gameplay_elimination_a.png"
+  ],
+  "scale": 1
+}

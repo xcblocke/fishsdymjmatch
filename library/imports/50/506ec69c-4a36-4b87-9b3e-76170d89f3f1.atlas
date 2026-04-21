@@ -1,0 +1,13 @@
+
+gameplay_flowingLight_gf.png
+size: 102,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gf_flowingLight/mx_flowingLight_01
+  rotate: false
+  xy: 2, 2
+  size: 98, 117
+  orig: 106, 125
+  offset: 4, 4
+  index: -1

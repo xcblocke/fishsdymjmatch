@@ -1,0 +1,62 @@
+
+rank_progbar.png
+size: 491,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian
+  rotate: false
+  xy: 177, 46
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+duigou
+  rotate: false
+  xy: 345, 18
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+glowLight
+  rotate: false
+  xy: 448, 22
+  size: 28, 29
+  orig: 32, 32
+  offset: 3, 2
+  index: -1
+glowfang
+  rotate: false
+  xy: 1, 38
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+jindu
+  rotate: false
+  xy: 1, 214
+  size: 480, 40
+  orig: 480, 40
+  offset: 0, 0
+  index: -1
+mj_7
+  rotate: true
+  xy: 448, 53
+  size: 43, 42
+  orig: 47, 46
+  offset: 2, 2
+  index: -1
+point1
+  rotate: false
+  xy: 345, 98
+  size: 114, 114
+  orig: 117, 117
+  offset: 1, 1
+  index: -1
+tiao123
+  rotate: false
+  xy: 177, 1
+  size: 154, 43
+  orig: 154, 43
+  offset: 0, 0
+  index: -1

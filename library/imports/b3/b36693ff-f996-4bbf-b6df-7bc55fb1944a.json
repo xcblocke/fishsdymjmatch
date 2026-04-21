@@ -1,0 +1,17 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_word_lucky",
+  "_objFlags": 0,
+  "_native": ".bin",
+  "_skeletonJson": null,
+  "_atlasText": "\ngameplay_word_lucky.png\nsize: 712,409\nformat: RGBA8888\nfilter: MipMap,MipMap\nrepeat: none\ndashuye_L\n  rotate: true\n  xy: 583, 256\n  size: 149, 125\n  orig: 149, 125\n  offset: 0, 0\n  index: -1\ndashuye_R\n  rotate: true\n  xy: 583, 113\n  size: 139, 117\n  orig: 139, 117\n  offset: 0, 0\n  index: -1\nlucky\n  rotate: true\n  xy: 409, 92\n  size: 313, 170\n  orig: 325, 183\n  offset: 6, 7\n  index: -1\nshuye_1\n  rotate: false\n  xy: 543, 34\n  size: 54, 54\n  orig: 60, 61\n  offset: 3, 4\n  index: -1\nshuye_2\n  rotate: true\n  xy: 477, 29\n  size: 59, 62\n  orig: 66, 70\n  offset: 4, 4\n  index: -1\nshuye_3\n  rotate: false\n  xy: 409, 28\n  size: 64, 60\n  orig: 66, 62\n  offset: 1, 1\n  index: -1\nstar\n  rotate: false\n  xy: 601, 65\n  size: 44, 44\n  orig: 48, 48\n  offset: 2, 2\n  index: -1\nzi_6\n  rotate: false\n  xy: 4, 4\n  size: 401, 401\n  orig: 445, 445\n  offset: 22, 22\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "3ae55afb-c79e-4632-83be-ad5b76f929a3"
+    }
+  ],
+  "textureNames": [
+    "gameplay_word_lucky.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_btn_suiJi",
+    "texture": "a4f9de17-7768-4962-9273-cb892d216bde",
+    "atlas": "e1df643a-e0d7-4171-9294-7f80f1d25b5f",
+    "rect": [
+      3,
+      3,
+      80,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

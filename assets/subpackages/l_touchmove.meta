@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "730cfede-748a-4d0f-8ad8-11342c9ee063",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_touchmove",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

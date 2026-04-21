@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "45f2c534-c525-4e53-a7b7-929825ba918d",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_gatherClear",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

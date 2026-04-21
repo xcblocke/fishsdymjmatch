@@ -1,0 +1,1278 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "main_icon_tile",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "Gcm74v+hbquGftZexQTvHSHifKM",
+      "spine": "3.8.99",
+      "x": -132,
+      "y": -118.8,
+      "width": 264,
+      "height": 267.8,
+      "images": "./images/",
+      "audio": "C:/01work/01hexiaoqi/26_01/无尽tile主页面ICON/UI/动效资源/源文件"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "icon",
+        "parent": "root",
+        "length": 39.45
+      },
+      {
+        "name": "icon2",
+        "parent": "icon",
+        "y": 22
+      },
+      {
+        "name": "icon3",
+        "parent": "icon2",
+        "x": -40
+      },
+      {
+        "name": "icon4",
+        "parent": "icon2",
+        "x": 40
+      },
+      {
+        "name": "icon5",
+        "parent": "icon4",
+        "x": -17.5,
+        "y": -6
+      },
+      {
+        "name": "icon6",
+        "parent": "icon",
+        "y": -50
+      },
+      {
+        "name": "icon7",
+        "parent": "icon2",
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "star1",
+        "parent": "icon",
+        "x": 17.96,
+        "y": -3.35
+      },
+      {
+        "name": "star2",
+        "parent": "icon",
+        "x": -68.91,
+        "y": 42.48
+      },
+      {
+        "name": "star3",
+        "parent": "icon",
+        "x": 70.69,
+        "y": 25.92,
+        "scaleX": 0.7,
+        "scaleY": 0.7
+      },
+      {
+        "name": "star4",
+        "parent": "icon",
+        "x": 40.05,
+        "y": 86.92,
+        "scaleX": 0.6,
+        "scaleY": 0.6
+      },
+      {
+        "name": "hook_name",
+        "parent": "icon6"
+      }
+    ],
+    "slots": [
+      {
+        "name": "yuan",
+        "bone": "icon",
+        "attachment": "yuan"
+      },
+      {
+        "name": "glow2",
+        "bone": "icon",
+        "attachment": "glow2",
+        "blend": "additive"
+      },
+      {
+        "name": "miaobian1",
+        "bone": "icon",
+        "attachment": "miaobian1"
+      },
+      {
+        "name": "miaobian2",
+        "bone": "icon5",
+        "attachment": "miaobian2"
+      },
+      {
+        "name": "map",
+        "bone": "icon",
+        "attachment": "map"
+      },
+      {
+        "name": "zuobiao",
+        "bone": "icon5",
+        "attachment": "zuobiao"
+      },
+      {
+        "name": "xl/tile_00000",
+        "bone": "icon7",
+        "attachment": "xl/tile_00011",
+        "blend": "additive"
+      },
+      {
+        "name": "yinying",
+        "bone": "icon",
+        "attachment": "yinying"
+      },
+      {
+        "name": "muban",
+        "bone": "icon6",
+        "attachment": "muban"
+      },
+      {
+        "name": "mj_3",
+        "bone": "star1",
+        "attachment": "mj_3"
+      },
+      {
+        "name": "mj_4",
+        "bone": "star2",
+        "attachment": "mj_3",
+        "blend": "additive"
+      },
+      {
+        "name": "mj_5",
+        "bone": "star3",
+        "attachment": "mj_3"
+      },
+      {
+        "name": "mj_6",
+        "bone": "star4",
+        "attachment": "mj_3",
+        "blend": "additive"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "glow2": {
+            "glow2": {
+              "y": 12.5,
+              "scaleX": 1.3,
+              "scaleY": 1.3,
+              "width": 202,
+              "height": 202
+            }
+          },
+          "map": {
+            "map": {
+              "type": "mesh",
+              "hull": 9,
+              "width": 126,
+              "height": 120,
+              "uvs": [
+                0.64707,
+                0.08037,
+                1,
+                0.03295,
+                1,
+                1,
+                0.65033,
+                1,
+                0.33611,
+                1,
+                0,
+                1,
+                0,
+                0.05892,
+                0.25707,
+                0,
+                0.33569,
+                0
+              ],
+              "triangles": [
+                2,
+                3,
+                0,
+                2,
+                0,
+                1,
+                4,
+                5,
+                6,
+                7,
+                8,
+                4,
+                7,
+                4,
+                6,
+                4,
+                0,
+                3,
+                0,
+                4,
+                8
+              ],
+              "vertices": [
+                2,
+                2,
+                18.3,
+                49.38,
+                0.5,
+                4,
+                -21.7,
+                49.38,
+                0.5,
+                1,
+                4,
+                22.77,
+                55.07,
+                1,
+                1,
+                4,
+                22.77,
+                -60.97,
+                1,
+                2,
+                2,
+                18.72,
+                -60.97,
+                0.5,
+                4,
+                -21.28,
+                -60.97,
+                0.5,
+                2,
+                2,
+                -20.88,
+                -60.97,
+                0.5,
+                3,
+                19.12,
+                -60.97,
+                0.5,
+                1,
+                3,
+                -23.23,
+                -60.97,
+                1,
+                1,
+                3,
+                -23.23,
+                51.96,
+                1,
+                2,
+                2,
+                -30.84,
+                59.03,
+                0.4,
+                3,
+                9.16,
+                59.03,
+                0.6,
+                2,
+                2,
+                -20.93,
+                59.03,
+                0.5,
+                3,
+                19.07,
+                59.03,
+                0.5
+              ],
+              "edges": [
+                10,
+                12,
+                12,
+                14,
+                14,
+                16,
+                16,
+                0,
+                4,
+                2,
+                0,
+                2,
+                4,
+                6,
+                0,
+                6,
+                6,
+                8,
+                8,
+                10,
+                16,
+                8
+              ]
+            }
+          },
+          "miaobian1": {
+            "miaobian1": {
+              "type": "mesh",
+              "hull": 8,
+              "width": 142,
+              "height": 136,
+              "uvs": [
+                1,
+                1,
+                0.60294,
+                1,
+                0.31929,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0.31543,
+                0,
+                0.59136,
+                0,
+                1,
+                0
+              ],
+              "triangles": [
+                1,
+                6,
+                7,
+                1,
+                7,
+                0,
+                3,
+                5,
+                2,
+                3,
+                4,
+                5,
+                2,
+                5,
+                6,
+                2,
+                6,
+                1
+              ],
+              "vertices": [
+                1,
+                4,
+                36.24,
+                -73.45,
+                1,
+                2,
+                2,
+                19.86,
+                -73.45,
+                0.5,
+                4,
+                -20.14,
+                -73.45,
+                0.5,
+                2,
+                2,
+                -20.42,
+                -73.45,
+                0.5,
+                3,
+                19.58,
+                -73.45,
+                0.5,
+                1,
+                3,
+                -25.76,
+                -73.45,
+                1,
+                1,
+                3,
+                -25.76,
+                62.55,
+                1,
+                2,
+                2,
+                -20.97,
+                62.55,
+                0.5,
+                3,
+                19.03,
+                62.55,
+                0.5,
+                2,
+                2,
+                18.22,
+                62.55,
+                0.5,
+                4,
+                -21.78,
+                62.55,
+                0.5,
+                1,
+                4,
+                36.24,
+                62.55,
+                1
+              ],
+              "edges": [
+                6,
+                8,
+                0,
+                14,
+                8,
+                10,
+                4,
+                6,
+                10,
+                4,
+                10,
+                12,
+                12,
+                14,
+                0,
+                2,
+                2,
+                4,
+                12,
+                2
+              ]
+            }
+          },
+          "miaobian2": {
+            "miaobian2": {
+              "x": -0.5,
+              "y": 32,
+              "width": 62,
+              "height": 76
+            }
+          },
+          "mj_3": {
+            "mj_3": {
+              "width": 47,
+              "height": 46
+            }
+          },
+          "mj_4": {
+            "mj_3": {
+              "width": 47,
+              "height": 46
+            }
+          },
+          "mj_5": {
+            "mj_3": {
+              "width": 47,
+              "height": 46
+            }
+          },
+          "mj_6": {
+            "mj_3": {
+              "width": 47,
+              "height": 46
+            }
+          },
+          "muban": {
+            "muban": {
+              "y": -6,
+              "width": 194,
+              "height": 73
+            }
+          },
+          "xl/tile_00000": {
+            "xl/tile_00000": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00001": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00002": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00003": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00004": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00005": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00006": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00007": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00008": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00009": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00010": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00011": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00012": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00013": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00014": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00015": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00016": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00017": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00018": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00019": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00020": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00021": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00022": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00023": {
+              "width": 132,
+              "height": 127
+            },
+            "xl/tile_00024": {
+              "width": 132,
+              "height": 127
+            }
+          },
+          "yinying": {
+            "yinying": {
+              "y": -21.48,
+              "width": 124,
+              "height": 28
+            }
+          },
+          "yuan": {
+            "yuan": {
+              "y": 11,
+              "width": 160,
+              "height": 160
+            }
+          },
+          "zuobiao": {
+            "zuobiao": {
+              "x": -0.5,
+              "y": 32,
+              "width": 56,
+              "height": 70
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "init": {
+        "slots": {
+          "glow2": {
+            "color": [
+              {
+                "color": "ff9f4700",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1,
+                "color": "ff9f4700"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffbb7bff"
+              },
+              {
+                "time": 0.7667,
+                "color": "ff9f4700"
+              }
+            ]
+          },
+          "mj_3": {
+            "color": [
+              {
+                "time": 0.1,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.1,
+                "name": "mj_3"
+              }
+            ]
+          },
+          "mj_4": {
+            "color": [
+              {
+                "time": 0.4333,
+                "color": "fad27000"
+              },
+              {
+                "time": 0.7667,
+                "color": "fad271ff"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.4333,
+                "name": "mj_3"
+              }
+            ]
+          },
+          "mj_5": {
+            "color": [
+              {
+                "time": 0.6333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.6333,
+                "name": "mj_3"
+              }
+            ]
+          },
+          "mj_6": {
+            "color": [
+              {
+                "time": 0.2667,
+                "color": "ff9d7b00"
+              },
+              {
+                "time": 0.6,
+                "color": "ff9d7bc7"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.2667,
+                "name": "mj_3"
+              }
+            ]
+          },
+          "xl/tile_00000": {
+            "color": [
+              {
+                "color": "ffb3a8ff"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.1,
+                "name": "xl/tile_00000"
+              },
+              {
+                "time": 0.1333,
+                "name": "xl/tile_00001"
+              },
+              {
+                "time": 0.1667,
+                "name": "xl/tile_00002"
+              },
+              {
+                "time": 0.2,
+                "name": "xl/tile_00003"
+              },
+              {
+                "time": 0.2333,
+                "name": "xl/tile_00004"
+              },
+              {
+                "time": 0.2667,
+                "name": "xl/tile_00005"
+              },
+              {
+                "time": 0.3,
+                "name": "xl/tile_00006"
+              },
+              {
+                "time": 0.3333,
+                "name": "xl/tile_00007"
+              },
+              {
+                "time": 0.3667,
+                "name": "xl/tile_00008"
+              },
+              {
+                "time": 0.4,
+                "name": "xl/tile_00009"
+              },
+              {
+                "time": 0.4333,
+                "name": "xl/tile_00010"
+              },
+              {
+                "time": 0.4667,
+                "name": "xl/tile_00011"
+              },
+              {
+                "time": 0.5,
+                "name": "xl/tile_00012"
+              },
+              {
+                "time": 0.5333,
+                "name": "xl/tile_00013"
+              },
+              {
+                "time": 0.5667,
+                "name": "xl/tile_00014"
+              },
+              {
+                "time": 0.6,
+                "name": "xl/tile_00015"
+              },
+              {
+                "time": 0.6333,
+                "name": "xl/tile_00016"
+              },
+              {
+                "time": 0.6667,
+                "name": "xl/tile_00017"
+              },
+              {
+                "time": 0.7,
+                "name": "xl/tile_00018"
+              },
+              {
+                "time": 0.7333,
+                "name": "xl/tile_00019"
+              },
+              {
+                "time": 0.7667,
+                "name": "xl/tile_00020"
+              },
+              {
+                "time": 0.8,
+                "name": "xl/tile_00021"
+              },
+              {
+                "time": 0.8333,
+                "name": "xl/tile_00022"
+              },
+              {
+                "time": 0.8667,
+                "name": "xl/tile_00023"
+              },
+              {
+                "time": 0.9,
+                "name": "xl/tile_00024"
+              },
+              {
+                "time": 0.9333,
+                "name": null
+              }
+            ]
+          },
+          "yinying": {
+            "color": [
+              {
+                "time": 1.2667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.4333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.1,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.2667,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 1.4333,
+                "name": null
+              },
+              {
+                "time": 2.1,
+                "name": "yinying"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "icon2": {
+            "translate": [
+              {
+                "time": 1.1667,
+                "curve": 0.322,
+                "c2": 0.82,
+                "c3": 0.75
+              },
+              {
+                "time": 1.2667,
+                "y": -6,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.6,
+                "y": 20,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6667,
+                "y": 20,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.9333,
+                "y": -5,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.1,
+                "y": 3,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.2667
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.1667,
+                "curve": 0.327,
+                "c2": 0.71,
+                "c3": 0.75
+              },
+              {
+                "time": 1.2667,
+                "x": 0.9,
+                "y": 0.9,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.6,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6667,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.9333,
+                "x": 1.05,
+                "y": 0.95,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.1,
+                "x": 0.98,
+                "y": 1.02,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.2667
+              }
+            ]
+          },
+          "icon3": {
+            "translate": [
+              {
+                "time": 1.1667,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.3333,
+                "x": 21.22,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.5333,
+                "x": -10,
+                "y": -10,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.7333,
+                "x": 3.01,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.8667
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.1667,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.3333,
+                "x": 0.745
+              },
+              {
+                "time": 1.5333
+              }
+            ]
+          },
+          "icon4": {
+            "translate": [
+              {
+                "time": 1.1667,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.3333,
+                "x": -16.71,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.5333,
+                "x": 10,
+                "y": -10,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.7333,
+                "x": -3.01,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.8667
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.1667,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.3333,
+                "x": 0.571,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.5333
+              }
+            ]
+          },
+          "icon5": {
+            "translate": [
+              {
+                "time": 1.1667,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.3333,
+                "x": 6.61,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.5333,
+                "x": -4.27,
+                "y": 5,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.7333,
+                "x": 1.75,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.9333
+              }
+            ]
+          },
+          "icon6": {
+            "translate": [
+              {
+                "time": 1.9,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.9667,
+                "y": -2,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.0667
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.1667,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.2667,
+                "x": 1.03,
+                "y": 1.03,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.3667,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.9,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.9667,
+                "x": 1.04,
+                "y": 1.04,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.0667
+              }
+            ]
+          },
+          "star1": {
+            "scale": [
+              {
+                "time": 0.1,
+                "x": 0,
+                "y": 0,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.4333,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.7667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "star2": {
+            "scale": [
+              {
+                "time": 0.4333,
+                "x": 0,
+                "y": 0,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.7667,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.1,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "star3": {
+            "scale": [
+              {
+                "time": 0.6333,
+                "x": 0,
+                "y": 0,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.9,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.2,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "star4": {
+            "scale": [
+              {
+                "time": 0.2667,
+                "x": 0,
+                "y": 0,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.6,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.9333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "hook_name": {
+            "translate": [
+              {
+                "time": 1.9,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.9667,
+                "y": -2,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.0667
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.1667,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.2667,
+                "x": 1.03,
+                "y": 1.03,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.3667,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.9,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1.9667,
+                "x": 1.04,
+                "y": 1.04,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 2.0667
+              }
+            ]
+          },
+          "root": {
+            "scale": [
+              {
+                "time": 4
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nmain_icon_tile.png\nsize: 913,188\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nglow2\n  rotate: true\n  xy: 2, 6\n  size: 180, 179\n  orig: 202, 202\n  offset: 11, 11\n  index: -1\nmap\n  rotate: true\n  xy: 479, 60\n  size: 126, 120\n  orig: 126, 120\n  offset: 0, 0\n  index: -1\nmiaobian1\n  rotate: true\n  xy: 341, 44\n  size: 142, 136\n  orig: 142, 136\n  offset: 0, 0\n  index: -1\nmiaobian2\n  rotate: false\n  xy: 630, 112\n  size: 60, 74\n  orig: 62, 76\n  offset: 1, 1\n  index: -1\nmj_3\n  rotate: false\n  xy: 346, 2\n  size: 41, 40\n  orig: 47, 46\n  offset: 3, 3\n  index: -1\nmuban\n  rotate: false\n  xy: 692, 119\n  size: 188, 67\n  orig: 194, 73\n  offset: 3, 3\n  index: -1\nxl/tile_00001\n  rotate: false\n  xy: 2, 2\n  size: 1, 2\n  orig: 132, 127\n  offset: 34, 36\n  index: -1\nxl/tile_00002\n  rotate: false\n  xy: 271, 9\n  size: 9, 19\n  orig: 132, 127\n  offset: 33, 32\n  index: -1\nxl/tile_00003\n  rotate: true\n  xy: 311, 11\n  size: 17, 33\n  orig: 132, 127\n  offset: 33, 32\n  index: -1\nxl/tile_00004\n  rotate: true\n  xy: 183, 3\n  size: 25, 47\n  orig: 132, 127\n  offset: 33, 32\n  index: -1\nxl/tile_00005\n  rotate: true\n  xy: 389, 9\n  size: 33, 58\n  orig: 132, 127\n  offset: 33, 32\n  index: -1\nxl/tile_00006\n  rotate: true\n  xy: 823, 76\n  size: 41, 60\n  orig: 132, 127\n  offset: 33, 32\n  index: -1\nxl/tile_00007\n  rotate: true\n  xy: 630, 61\n  size: 49, 62\n  orig: 132, 127\n  offset: 33, 32\n  index: -1\nxl/tile_00008\n  rotate: true\n  xy: 644, 2\n  size: 57, 63\n  orig: 132, 127\n  offset: 33, 32\n  index: -1\nxl/tile_00009\n  rotate: true\n  xy: 709, 3\n  size: 64, 63\n  orig: 132, 127\n  offset: 33, 32\n  index: -1\nxl/tile_00010\n  rotate: true\n  xy: 774, 8\n  size: 66, 63\n  orig: 132, 127\n  offset: 33, 32\n  index: -1\nxl/tile_00011\n  rotate: false\n  xy: 839, 11\n  size: 61, 63\n  orig: 132, 127\n  offset: 38, 32\n  index: -1\nxl/tile_00012\n  rotate: true\n  xy: 579, 4\n  size: 54, 63\n  orig: 132, 127\n  offset: 45, 32\n  index: -1\nxl/tile_00013\n  rotate: true\n  xy: 694, 69\n  size: 48, 63\n  orig: 132, 127\n  offset: 51, 32\n  index: -1\nxl/tile_00014\n  rotate: true\n  xy: 759, 76\n  size: 41, 62\n  orig: 132, 127\n  offset: 58, 33\n  index: -1\nxl/tile_00015\n  rotate: true\n  xy: 449, 9\n  size: 33, 58\n  orig: 132, 127\n  offset: 66, 37\n  index: -1\nxl/tile_00016\n  rotate: false\n  xy: 882, 139\n  size: 29, 47\n  orig: 132, 127\n  offset: 70, 48\n  index: -1\nxl/tile_00017\n  rotate: true\n  xy: 232, 4\n  size: 24, 37\n  orig: 132, 127\n  offset: 75, 58\n  index: -1\nxl/tile_00018\n  rotate: true\n  xy: 282, 10\n  size: 18, 27\n  orig: 132, 127\n  offset: 81, 67\n  index: -1\nxl/tile_00019\n  rotate: true\n  xy: 479, 47\n  size: 11, 17\n  orig: 132, 127\n  offset: 88, 75\n  index: -1\nxl/tile_00020\n  rotate: true\n  xy: 311, 2\n  size: 7, 9\n  orig: 132, 127\n  offset: 92, 83\n  index: -1\nyinying\n  rotate: true\n  xy: 601, 62\n  size: 124, 27\n  orig: 124, 28\n  offset: 0, 0\n  index: -1\nyuan\n  rotate: false\n  xy: 183, 30\n  size: 156, 156\n  orig: 160, 160\n  offset: 2, 2\n  index: -1\nzuobiao\n  rotate: true\n  xy: 509, 4\n  size: 54, 68\n  orig: 56, 70\n  offset: 1, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "9b41fd9a-9e86-424a-8960-813f2b67e9c9"
+    }
+  ],
+  "textureNames": [
+    "main_icon_tile.png"
+  ],
+  "scale": 1
+}

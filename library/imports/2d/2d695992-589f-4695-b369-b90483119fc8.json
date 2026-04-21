@@ -1,0 +1,739 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gardeningMaster_boxBar2",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "lnU32NcLo6w2EfQkDwUofvGhpwc",
+      "spine": "3.8.99",
+      "x": -122,
+      "y": -10,
+      "width": 244,
+      "height": 146
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "xiaobaoxiang4",
+        "parent": "root",
+        "length": 53.09,
+        "rotation": 90
+      },
+      {
+        "name": "hook_num_1",
+        "parent": "xiaobaoxiang4",
+        "x": 41,
+        "y": 46
+      },
+      {
+        "name": "hook_num_2",
+        "parent": "xiaobaoxiang4",
+        "x": 41,
+        "y": -53
+      },
+      {
+        "name": "hook_icon_2",
+        "parent": "xiaobaoxiang4",
+        "x": 92,
+        "y": -53
+      },
+      {
+        "name": "hook_icon_1",
+        "parent": "xiaobaoxiang4",
+        "x": 92,
+        "y": 46
+      }
+    ],
+    "slots": [
+      {
+        "name": "slot_icon_1",
+        "bone": "hook_icon_1"
+      },
+      {
+        "name": "slot_icon_2",
+        "bone": "hook_icon_2"
+      },
+      {
+        "name": "slot_num_1",
+        "bone": "hook_num_1"
+      },
+      {
+        "name": "slot_num_2",
+        "bone": "hook_num_2"
+      },
+      {
+        "name": "leaderboard_tip_bg2",
+        "bone": "xiaobaoxiang4",
+        "attachment": "leaderboard_tip_bg2"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "leaderboard_tip_bg2": {
+            "leaderboard_tip_bg2": {
+              "type": "mesh",
+              "hull": 12,
+              "uvs": [
+                1,
+                1,
+                0.77778,
+                1,
+                0.66667,
+                1,
+                0.33333,
+                1,
+                0.22222,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0.22222,
+                0,
+                0.33333,
+                0,
+                0.66667,
+                0,
+                0.77778,
+                0,
+                1,
+                0
+              ],
+              "triangles": [
+                5,
+                6,
+                7,
+                4,
+                7,
+                8,
+                5,
+                7,
+                4,
+                3,
+                8,
+                9,
+                4,
+                8,
+                3,
+                2,
+                9,
+                10,
+                3,
+                9,
+                2,
+                0,
+                1,
+                10,
+                2,
+                10,
+                1,
+                0,
+                10,
+                11
+              ],
+              "vertices": [
+                -10,
+                -72,
+                -10,
+                -40,
+                -10,
+                -24,
+                -10,
+                24,
+                -10,
+                40,
+                -10,
+                72,
+                136,
+                72,
+                136,
+                40,
+                136,
+                24,
+                136,
+                -24,
+                136,
+                -40,
+                136,
+                -72
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "events": {
+      "event_rewards": {}
+    },
+    "animations": {
+      "click_1": {
+        "slots": {
+          "leaderboard_tip_bg2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "slot_icon_1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "slot_icon_2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "slot_num_1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "slot_num_2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "xiaobaoxiang4": {
+            "scale": [
+              {
+                "x": 0.5,
+                "y": 0.5,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.1667,
+                "x": 1.1,
+                "y": 1.1,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.2667
+              }
+            ]
+          },
+          "hook_num_1": {
+            "translate": [
+              {
+                "y": -46
+              }
+            ]
+          },
+          "hook_num_2": {
+            "translate": [
+              {
+                "x": -41,
+                "y": 53
+              }
+            ],
+            "scale": [
+              {
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "hook_icon_2": {
+            "translate": [
+              {
+                "x": -92,
+                "y": 53
+              }
+            ],
+            "scale": [
+              {
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "hook_icon_1": {
+            "translate": [
+              {
+                "y": -46
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "name": "event_rewards"
+          }
+        ]
+      },
+      "click_2": {
+        "slots": {
+          "leaderboard_tip_bg2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "slot_icon_1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "slot_icon_2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "slot_num_1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "slot_num_2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "xiaobaoxiang4": {
+            "scale": [
+              {
+                "x": 0.5,
+                "y": 0.5,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.1667,
+                "x": 1.1,
+                "y": 1.1,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.2667
+              }
+            ]
+          },
+          "hook_icon_1": {
+            "translate": [
+              {
+                "time": 0.5667
+              }
+            ]
+          }
+        },
+        "deform": {
+          "default": {
+            "leaderboard_tip_bg2": {
+              "leaderboard_tip_bg2": [
+                {
+                  "offset": 1,
+                  "vertices": [
+                    -50.90908,
+                    0.00002,
+                    -50.90908,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -0.00002,
+                    50.90908,
+                    -0.00002,
+                    50.90908,
+                    -0.00002,
+                    50.90908,
+                    -0.00002,
+                    50.90908,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.00002,
+                    -50.90908,
+                    0.00002,
+                    -50.90908
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "events": [
+          {
+            "name": "event_rewards"
+          }
+        ]
+      },
+      "init_1": {
+        "bones": {
+          "hook_icon_1": {
+            "translate": [
+              {
+                "y": -46
+              }
+            ]
+          },
+          "hook_icon_2": {
+            "translate": [
+              {
+                "x": -92,
+                "y": 53
+              }
+            ],
+            "scale": [
+              {
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "hook_num_1": {
+            "translate": [
+              {
+                "y": -46
+              }
+            ]
+          },
+          "hook_num_2": {
+            "translate": [
+              {
+                "x": -41,
+                "y": 53
+              }
+            ],
+            "scale": [
+              {
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      },
+      "init_2": {
+        "deform": {
+          "default": {
+            "leaderboard_tip_bg2": {
+              "leaderboard_tip_bg2": [
+                {
+                  "offset": 1,
+                  "vertices": [
+                    -50.90908,
+                    0.00002,
+                    -50.90908,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -0.00002,
+                    50.90908,
+                    -0.00002,
+                    50.90908,
+                    -0.00002,
+                    50.90908,
+                    -0.00002,
+                    50.90908,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.00002,
+                    -50.90908,
+                    0.00002,
+                    -50.90908
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "out_1": {
+        "slots": {
+          "leaderboard_tip_bg2": {
+            "color": [
+              {
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "slot_icon_1": {
+            "color": [
+              {
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "slot_icon_2": {
+            "color": [
+              {
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "slot_num_1": {
+            "color": [
+              {
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "slot_num_2": {
+            "color": [
+              {
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "xiaobaoxiang4": {
+            "scale": [
+              {},
+              {
+                "time": 0.1,
+                "x": 0.6,
+                "y": 0.6
+              }
+            ]
+          },
+          "hook_icon_1": {
+            "translate": [
+              {
+                "y": -46
+              }
+            ]
+          },
+          "hook_icon_2": {
+            "translate": [
+              {
+                "x": -92,
+                "y": 53
+              }
+            ],
+            "scale": [
+              {
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "hook_num_1": {
+            "translate": [
+              {
+                "y": -46
+              }
+            ]
+          },
+          "hook_num_2": {
+            "translate": [
+              {
+                "x": -41,
+                "y": 53
+              }
+            ],
+            "scale": [
+              {
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      },
+      "out_2": {
+        "slots": {
+          "leaderboard_tip_bg2": {
+            "color": [
+              {
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "slot_icon_1": {
+            "color": [
+              {
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "slot_icon_2": {
+            "color": [
+              {
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "slot_num_1": {
+            "color": [
+              {
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "slot_num_2": {
+            "color": [
+              {
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "xiaobaoxiang4": {
+            "scale": [
+              {},
+              {
+                "time": 0.1,
+                "x": 0.6,
+                "y": 0.6
+              }
+            ]
+          }
+        },
+        "deform": {
+          "default": {
+            "leaderboard_tip_bg2": {
+              "leaderboard_tip_bg2": [
+                {
+                  "offset": 1,
+                  "vertices": [
+                    -50.90908,
+                    0.00002,
+                    -50.90908,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -0.00002,
+                    50.90908,
+                    -0.00002,
+                    50.90908,
+                    -0.00002,
+                    50.90908,
+                    -0.00002,
+                    50.90908,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.00002,
+                    -50.90908,
+                    0.00002,
+                    -50.90908
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ngardeningMaster_boxBar2.png\nsize: 152,154\nformat: RGBA8888\nfilter: MipMap,MipMap\nrepeat: none\nleaderboard_tip_bg2\n  rotate: false\n  xy: 4, 4\n  size: 144, 146\n  orig: 144, 146\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "e6ecb081-5a98-4198-b5de-9504d1421f0a"
+    }
+  ],
+  "textureNames": [
+    "gardeningMaster_boxBar2.png"
+  ],
+  "scale": 1
+}

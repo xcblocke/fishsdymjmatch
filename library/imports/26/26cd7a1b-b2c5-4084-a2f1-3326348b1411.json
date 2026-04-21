@@ -1,0 +1,173 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_Lightningcard",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "7xykUvfwfRCIIld64dKSfaHdYT4",
+      "spine": "3.8.99",
+      "x": -78.5,
+      "y": -90.08,
+      "width": 157,
+      "height": 195,
+      "images": "",
+      "audio": "D:/Work/10月/麻将/闪电牌/掉落+小碎块 -换皮加量 - 2"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "hook_hammer",
+        "parent": "root",
+        "y": 2
+      },
+      {
+        "name": "r",
+        "parent": "hook_hammer",
+        "x": 37.63,
+        "y": -23.95
+      }
+    ],
+    "slots": [
+      {
+        "name": "mj_8",
+        "bone": "r",
+        "attachment": "gameplay_special_mj"
+      },
+      {
+        "name": "gameplay_special_mj",
+        "bone": "r",
+        "color": "ffffff64",
+        "blend": "additive"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "gameplay_special_mj": {
+            "gameplay_special_mj": {
+              "x": -37.63,
+              "y": 29.37,
+              "width": 157,
+              "height": 195
+            }
+          },
+          "mj_8": {
+            "gameplay_special_mj": {
+              "x": -37.63,
+              "y": 29.37,
+              "width": 157,
+              "height": 195
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "in": {
+        "slots": {
+          "gameplay_special_mj": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.082,
+                "c2": 0.15,
+                "c3": 0.75
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff64",
+                "curve": 0.25,
+                "c3": 0.927,
+                "c4": 0.84
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "gameplay_special_mj"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "hook_hammer": {
+            "scale": [
+              {
+                "curve": 0.082,
+                "c2": 0.21,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.918,
+                "c4": 0.75
+              },
+              {
+                "time": 0.5667
+              }
+            ]
+          },
+          "r": {
+            "rotate": [
+              {
+                "curve": 0.06,
+                "c2": 0.47,
+                "c3": 0.543
+              },
+              {
+                "time": 0.3333,
+                "angle": -5.45,
+                "curve": 0.512,
+                "c3": 0.984,
+                "c4": 0.64
+              },
+              {
+                "time": 0.5667,
+                "angle": 8.62,
+                "curve": 0.061,
+                "c2": 0.17,
+                "c3": 0.764
+              },
+              {
+                "time": 0.7333,
+                "angle": -0.42,
+                "curve": 0.02,
+                "c2": 0.11,
+                "c3": 0.83
+              },
+              {
+                "time": 0.8667,
+                "angle": 1.23,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ngameplay_Lightningcard.png\nsize: 161,199\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ngameplay_special_mj\n  rotate: false\n  xy: 2, 2\n  size: 157, 195\n  orig: 157, 195\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "1cf2d57a-1496-4808-82c9-4a364e8915c2"
+    }
+  ],
+  "textureNames": [
+    "gameplay_Lightningcard.png"
+  ],
+  "scale": 1
+}

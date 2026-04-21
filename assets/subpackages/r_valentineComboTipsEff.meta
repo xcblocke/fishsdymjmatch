@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "998e7d73-359a-41a1-817f-ebc9b587a82d",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_valentineComboTipsEff",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

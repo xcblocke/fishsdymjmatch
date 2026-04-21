@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "92ae385b-4960-4286-9259-3c7de5ccb0be",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_lockMask",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

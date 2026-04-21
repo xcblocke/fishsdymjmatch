@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "06c7846f-ea99-40c0-bb0c-0430925e2b6e",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_dynamicLib",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

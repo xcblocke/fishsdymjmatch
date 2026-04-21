@@ -1,0 +1,83 @@
+
+gameplay_special_elimination.png
+size: 231,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beak
+  rotate: true
+  xy: 132, 216
+  size: 29, 30
+  orig: 31, 32
+  offset: 1, 1
+  index: -1
+images/body
+  rotate: false
+  xy: 2, 84
+  size: 224, 123
+  orig: 224, 123
+  offset: 0, 0
+  index: -1
+images/feather_1
+  rotate: true
+  xy: 133, 2
+  size: 80, 93
+  orig: 82, 95
+  offset: 1, 1
+  index: -1
+images/feather_2
+  rotate: false
+  xy: 161, 361
+  size: 60, 71
+  orig: 62, 73
+  offset: 1, 1
+  index: -1
+images/glowLight
+  rotate: false
+  xy: 161, 434
+  size: 67, 67
+  orig: 74, 74
+  offset: 4, 3
+  index: -1
+images/glow_ring_01
+  rotate: false
+  xy: 2, 209
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/leg_l
+  rotate: true
+  xy: 195, 220
+  size: 25, 34
+  orig: 28, 36
+  offset: 1, 1
+  index: -1
+images/leg_r
+  rotate: true
+  xy: 164, 218
+  size: 27, 29
+  orig: 29, 31
+  offset: 1, 1
+  index: -1
+images/star_01
+  rotate: false
+  xy: 132, 247
+  size: 82, 90
+  orig: 88, 96
+  offset: 3, 3
+  index: -1
+images/wing_1
+  rotate: false
+  xy: 2, 339
+  size: 157, 162
+  orig: 157, 162
+  offset: 0, 0
+  index: -1
+images/wing_2
+  rotate: true
+  xy: 2, 3
+  size: 79, 129
+  orig: 79, 129
+  offset: 0, 0
+  index: -1

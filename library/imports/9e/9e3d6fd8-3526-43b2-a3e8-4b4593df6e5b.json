@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "main_icon_lingqu_duigou",
+    "texture": "6aa6d8ce-2ddb-49cf-a3f1-e300f264c799",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      111,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

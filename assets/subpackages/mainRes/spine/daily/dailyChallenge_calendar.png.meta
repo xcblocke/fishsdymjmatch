@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0b8ef294-d7a0-40dc-a2e5-dd77a0657ec7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 849,
+  "height": 134,
+  "platformSettings": {},
+  "subMetas": {
+    "dailyChallenge_calendar": {
+      "ver": "1.0.6",
+      "uuid": "5e7e4bd2-5863-48f7-ba28-217065e7ad62",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0b8ef294-d7a0-40dc-a2e5-dd77a0657ec7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 845,
+      "height": 130,
+      "rawWidth": 849,
+      "rawHeight": 134,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

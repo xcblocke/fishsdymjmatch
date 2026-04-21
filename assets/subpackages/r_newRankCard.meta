@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "5513109e-1851-4c6f-ae62-2ef5b6ca03a8",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_newRankCard",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,221 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "main_word",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "SP0XDUPrqR0g4Q5VMyjc5she6x4",
+      "spine": "3.8.99",
+      "images": "./images/",
+      "audio": "D:/Luka/blockBlast/策划需求/0717_高价值用户首局无尽结束即解锁关卡，并在结算页添加关卡第一关跳转"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "rotation": -0.07
+      },
+      {
+        "name": "a1",
+        "parent": "root"
+      },
+      {
+        "name": "bg_1",
+        "parent": "a1",
+        "y": -3.21
+      },
+      {
+        "name": "hook_txt",
+        "parent": "a1",
+        "y": 2.73
+      }
+    ],
+    "slots": [
+      {
+        "name": "bg_1",
+        "bone": "bg_1"
+      },
+      {
+        "name": "slot_txt",
+        "bone": "hook_txt"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "bg_1": {
+            "bg_1": {
+              "y": 31,
+              "width": 284,
+              "height": 99
+            },
+            "bg_2": {
+              "y": 31,
+              "width": 284,
+              "height": 99
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "continue_in": {
+        "slots": {
+          "bg_1": {
+            "attachment": [
+              {
+                "name": "bg_1"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "hook_txt": {
+            "scale": [
+              {
+                "x": 0.01,
+                "y": 0.01
+              },
+              {
+                "time": 0.2,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 0.4
+              }
+            ]
+          },
+          "bg_1": {
+            "scale": [
+              {
+                "x": 0.01,
+                "y": 0.01,
+                "curve": 0,
+                "c3": 0.5
+              },
+              {
+                "time": 0.2,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.5
+              },
+              {
+                "time": 0.4
+              }
+            ]
+          }
+        }
+      },
+      "continue_init": {
+        "slots": {
+          "bg_1": {
+            "attachment": [
+              {
+                "name": "bg_1"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "a1": {
+            "translate": [
+              {},
+              {
+                "time": 0.4,
+                "y": -6
+              },
+              {
+                "time": 0.8
+              }
+            ]
+          }
+        }
+      },
+      "newMod_in": {
+        "slots": {
+          "bg_1": {
+            "attachment": [
+              {
+                "name": "bg_2"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "hook_txt": {
+            "scale": [
+              {
+                "x": 0.01,
+                "y": 0.01
+              },
+              {
+                "time": 0.2,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 0.4
+              }
+            ]
+          },
+          "bg_1": {
+            "scale": [
+              {
+                "x": 0.01,
+                "y": 0.01,
+                "curve": 0,
+                "c3": 0.5
+              },
+              {
+                "time": 0.2,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.5
+              },
+              {
+                "time": 0.4
+              }
+            ]
+          }
+        }
+      },
+      "newMod_init": {
+        "slots": {
+          "bg_1": {
+            "attachment": [
+              {
+                "name": "bg_2"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "a1": {
+            "translate": [
+              {},
+              {
+                "time": 0.4,
+                "y": -6
+              },
+              {
+                "time": 0.8
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nmain_word.png\nsize: 574,103\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbg_1\n  rotate: false\n  xy: 2, 2\n  size: 284, 99\n  orig: 284, 99\n  offset: 0, 0\n  index: -1\nbg_2\n  rotate: false\n  xy: 288, 2\n  size: 284, 99\n  orig: 284, 99\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "1c21fdd2-cb64-4649-8b03-4306ce8c9acf"
+    }
+  ],
+  "textureNames": [
+    "main_word.png"
+  ],
+  "scale": 1
+}

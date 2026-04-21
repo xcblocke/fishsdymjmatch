@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "compjourney_img_colletion_1",
+    "texture": "911c4770-73a7-4d9a-a20c-81ac3d8bd842",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      310,
+      401
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      310,
+      401
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

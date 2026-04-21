@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "collection_daily_challenge_202502_gray",
+    "texture": "dceb63ce-e665-4293-a17e-44b04d2e183e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      274,
+      274
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      274,
+      274
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

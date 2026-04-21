@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_weekBest",
+    "texture": "23e27cb0-b91e-47bd-a0c8-abc2e97966b2",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      956,
+      369
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      959,
+      372
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

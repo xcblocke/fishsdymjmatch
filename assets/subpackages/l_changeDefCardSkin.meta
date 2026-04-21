@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "c8a27e20-5465-4810-8b60-b534ad6c6857",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_changeDefCardSkin",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

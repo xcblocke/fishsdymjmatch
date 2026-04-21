@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "rank_col_reward",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "baseName": "rank_col_reward",
+    "data": [
+      [
+        1,
+        30001
+      ],
+      [
+        2,
+        30002
+      ],
+      [
+        3,
+        30003
+      ],
+      [
+        4,
+        30004
+      ],
+      [
+        5,
+        30004
+      ],
+      [
+        6,
+        30004
+      ]
+    ]
+  }
+}

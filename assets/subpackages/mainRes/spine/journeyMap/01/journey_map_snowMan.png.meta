@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8c0093e9-dfc0-4af0-a162-1cd02d712854",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 739,
+  "height": 709,
+  "platformSettings": {},
+  "subMetas": {
+    "journey_map_snowMan": {
+      "ver": "1.0.6",
+      "uuid": "4b145bcf-41d0-42f2-8ad8-a07dff8f6e9e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8c0093e9-dfc0-4af0-a162-1cd02d712854",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 736,
+      "height": 706,
+      "rawWidth": 739,
+      "rawHeight": 709,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

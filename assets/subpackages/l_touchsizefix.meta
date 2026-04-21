@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "dba5248a-b137-4db1-8759-ad5fbf03e8ba",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_touchsizefix",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

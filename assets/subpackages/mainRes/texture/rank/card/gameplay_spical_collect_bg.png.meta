@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f3be3f3b-fc04-460c-9b8b-dae04d425d52",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": false,
+  "width": 136,
+  "height": 136,
+  "platformSettings": {},
+  "subMetas": {
+    "gameplay_spical_collect_bg": {
+      "ver": "1.0.6",
+      "uuid": "afe7dbaf-26e5-48e1-b0cb-08a207d05da9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f3be3f3b-fc04-460c-9b8b-dae04d425d52",
+      "trimType": "none",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 136,
+      "height": 136,
+      "rawWidth": 136,
+      "rawHeight": 136,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

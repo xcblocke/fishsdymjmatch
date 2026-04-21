@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "a41acdce-71e5-479e-a642-9f88bc2d6b47",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_motivationWordsMan",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

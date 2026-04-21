@@ -1,0 +1,41 @@
+
+result_boxBar.png
+size: 400,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/gameplay_chest_level_bg
+  rotate: false
+  xy: 2, 2
+  size: 206, 57
+  orig: 206, 57
+  offset: 0, 0
+  index: -1
+images/gameplay_chest_tip_bg
+  rotate: false
+  xy: 2, 61
+  size: 242, 145
+  orig: 244, 146
+  offset: 1, 1
+  index: -1
+images/gameplay_icon_chest
+  rotate: true
+  xy: 246, 25
+  size: 181, 152
+  orig: 182, 154
+  offset: 0, 0
+  index: -1
+images/glowLight
+  rotate: false
+  xy: 210, 32
+  size: 26, 27
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+images/star_box_1
+  rotate: false
+  xy: 210, 8
+  size: 22, 22
+  orig: 28, 28
+  offset: 3, 3
+  index: -1

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "43188392-9415-4283-9528-0007e294870e",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_cardClickSound",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

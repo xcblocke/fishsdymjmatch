@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "d48f62f3-b106-45d6-8a06-82bc134a090a",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_travelDaysPush",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

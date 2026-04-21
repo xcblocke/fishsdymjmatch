@@ -1,0 +1,41 @@
+
+journey_map_giftBox.png
+size: 627,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/blast_12
+  rotate: false
+  xy: 518, 9
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Fx/glow012
+  rotate: false
+  xy: 518, 151
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+Fx/glow033
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Fx/glow038
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Lock
+  rotate: true
+  xy: 518, 81
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1

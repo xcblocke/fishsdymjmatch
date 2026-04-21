@@ -1,0 +1,99 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_hit_mx",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "X3ixXDYu9jbg+zytGRU6lzXRaBY",
+      "spine": "3.8.99",
+      "x": -103.5,
+      "y": -122,
+      "width": 207,
+      "height": 244,
+      "images": "./images/",
+      "audio": "../"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "gameplay_hit_mx",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "mx_gameplay_hit",
+        "bone": "gameplay_hit_mx",
+        "attachment": "mx_gameplay_hit",
+        "blend": "additive"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "mx_gameplay_hit": {
+            "mx_gameplay_hit": {
+              "width": 207,
+              "height": 244
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "gameplay_hit_mx": {
+        "slots": {
+          "mx_gameplay_hit": {
+            "color": [
+              {
+                "time": 0.1333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.4333,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "gameplay_hit_mx": {
+            "scale": [
+              {},
+              {
+                "time": 0.1333,
+                "x": 1.33,
+                "y": 1.33
+              },
+              {
+                "time": 0.4,
+                "x": 1.4,
+                "y": 1.4
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ngameplay_hit_mx.png\nsize: 202,240\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nmx_gameplay_hit\n  rotate: false\n  xy: 2, 2\n  size: 198, 236\n  orig: 207, 244\n  offset: 4, 4\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "9690f03e-f32c-4282-aaa6-c4ae4f3894b1"
+    }
+  ],
+  "textureNames": [
+    "gameplay_hit_mx.png"
+  ],
+  "scale": 1
+}

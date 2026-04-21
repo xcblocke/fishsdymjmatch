@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "096cf645-d989-42d6-9197-4b14db4292ae",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_flowerSeries15",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_perfectCombo",
+    "texture": "01cd0332-c7df-4f1d-864b-20fdd63f5016",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      961,
+      479
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      965,
+      483
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

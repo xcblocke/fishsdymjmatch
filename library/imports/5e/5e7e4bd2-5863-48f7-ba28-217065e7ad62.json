@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dailyChallenge_calendar",
+    "texture": "0b8ef294-d7a0-40dc-a2e5-dd77a0657ec7",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      845,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      849,
+      134
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_spical_collect_bg",
+    "texture": "f3be3f3b-fc04-460c-9b8b-dae04d425d52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

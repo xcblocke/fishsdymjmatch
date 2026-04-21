@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "277d1875-89dd-4a71-bf44-08be529cc6ff",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_selectLoopAnim",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

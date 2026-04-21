@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "3ae18246-14e3-421a-96a9-dd5a430a3474",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_valentineIntroPopTime",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

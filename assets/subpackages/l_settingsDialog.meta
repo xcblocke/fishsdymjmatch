@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "da9febde-daa0-4f7c-8a1d-e9829db04a1a",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_settingsDialog",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

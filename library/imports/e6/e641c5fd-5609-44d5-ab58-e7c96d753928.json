@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_map_snow",
+    "texture": "d40dc909-8b84-4d27-802d-dde63b1085d2",
+    "atlas": "",
+    "rect": [
+      6,
+      4,
+      214,
+      253
+    ],
+    "offset": [
+      2,
+      -1
+    ],
+    "originalSize": [
+      222,
+      259
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

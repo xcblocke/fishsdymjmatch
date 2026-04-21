@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "main_snowScene_bg_christmas",
+    "texture": "2434179b-e6f8-4f94-a8c4-752d7709e9ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      831,
+      1108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      831,
+      1108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

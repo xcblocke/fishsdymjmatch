@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "ef066718-cc05-456c-b1b2-39b5b9d7c0d6",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_mtlClearRed2",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

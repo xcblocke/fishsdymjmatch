@@ -1,0 +1,208 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "main_icon_lock",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "5jInjjilFgQqxTpkPtvbq98GbAA",
+      "spine": "3.8.99",
+      "x": -35.5,
+      "y": -42.5,
+      "width": 71,
+      "height": 85,
+      "images": "./images/",
+      "audio": "C:/01work/01hexiaoqi/25_11/木纹麻将4期/动效资源/icon提示"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "lock",
+        "bone": "bone3",
+        "attachment": "lock"
+      },
+      {
+        "name": "lock4",
+        "bone": "bone3",
+        "color": "ffe66332",
+        "blend": "additive"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "lock": {
+            "lock": {
+              "width": 71,
+              "height": 85
+            }
+          },
+          "lock4": {
+            "lock": {
+              "width": 71,
+              "height": 85
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "in": {
+        "slots": {
+          "lock4": {
+            "color": [
+              {
+                "color": "ffe66300"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffe66332",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3667,
+                "color": "ffe66332"
+              },
+              {
+                "time": 0.5333,
+                "color": "ffe66300"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "lock"
+              },
+              {
+                "time": 0.5333,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "rotate": [
+              {
+                "curve": 0.258,
+                "c3": 0.619,
+                "c4": 0.45
+              },
+              {
+                "time": 0.0667,
+                "angle": 3,
+                "curve": 0.363,
+                "c2": 0.44,
+                "c3": 0.755
+              },
+              {
+                "time": 0.1667,
+                "angle": -4,
+                "curve": 0.269,
+                "c3": 0.618,
+                "c4": 0.42
+              },
+              {
+                "time": 0.2667,
+                "angle": 4,
+                "curve": 0.32,
+                "c2": 0.29,
+                "c3": 0.667,
+                "c4": 0.67
+              },
+              {
+                "time": 0.3667,
+                "angle": -4,
+                "curve": 0.363,
+                "c2": 0.44,
+                "c3": 0.711,
+                "c4": 0.83
+              },
+              {
+                "time": 0.4667,
+                "angle": 4,
+                "curve": 0.36,
+                "c2": 0.64,
+                "c3": 0.695
+              },
+              {
+                "time": 0.5333
+              }
+            ],
+            "translate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5333
+              }
+            ],
+            "scale": [
+              {
+                "curve": 0.37,
+                "c2": 0.49,
+                "c3": 0.75
+              },
+              {
+                "time": 0.1667,
+                "x": 1.1,
+                "y": 1.1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3667,
+                "x": 1.1,
+                "y": 1.1,
+                "curve": 0.25,
+                "c3": 0.594,
+                "c4": 0.48
+              },
+              {
+                "time": 0.5333
+              }
+            ]
+          }
+        }
+      },
+      "init": {
+        "slots": {
+          "lock4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "rotate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nmain_icon_lock.png\nsize: 75,87\nformat: RGBA8888\nfilter: MipMap,MipMap\nrepeat: none\nlock\n  rotate: false\n  xy: 4, 4\n  size: 67, 79\n  orig: 71, 85\n  offset: 2, 3\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "20bb1425-14a3-48c1-a455-4abaa3d1ed6c"
+    }
+  ],
+  "textureNames": [
+    "main_icon_lock.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "d7842f4b-32f6-4b26-96ca-b51616f6e2b6",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_tile2StaticLevel",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

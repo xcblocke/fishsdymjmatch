@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "dad832e6-fcae-4226-8e61-f8335696ac40",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_randomShuffleAni",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "68ae6eb0-42ae-4499-be7d-77db101b40da",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_mainGameUIEdge",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

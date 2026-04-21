@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "d06e9849-1590-44b1-bc32-daa1e663e944",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_hallLockDark",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

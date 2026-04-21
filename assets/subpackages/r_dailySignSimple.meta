@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "176bbb98-6ad4-48f3-837c-624fe68adb19",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_dailySignSimple",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

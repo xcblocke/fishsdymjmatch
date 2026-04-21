@@ -1,0 +1,363 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "rate_rating",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "wKpZFHXQCry3vyu/DJKEwNzEC8w",
+      "spine": "3.8.99"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "star_a1",
+        "parent": "root"
+      },
+      {
+        "name": "hook_btn",
+        "parent": "root"
+      },
+      {
+        "name": "hook_backdrop",
+        "parent": "root",
+        "x": 0.5,
+        "y": 68
+      }
+    ],
+    "slots": [
+      {
+        "name": "star_a1",
+        "bone": "star_a1"
+      },
+      {
+        "name": "star_a1r",
+        "bone": "star_a1",
+        "color": "ffffff00",
+        "blend": "additive"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "star_a1": {
+            "star_a1": {
+              "width": 124,
+              "height": 121
+            }
+          },
+          "star_a1r": {
+            "star_a1": {
+              "width": 124,
+              "height": 121
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "back_idle": {
+        "slots": {
+          "star_a1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          }
+        }
+      },
+      "back_in": {
+        "slots": {
+          "star_a1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "star_a1": {
+            "scale": [
+              {
+                "x": 0.5,
+                "y": 0.5
+              }
+            ]
+          },
+          "hook_backdrop": {
+            "scale": [
+              {
+                "x": 0,
+                "y": 0,
+                "curve": 0.213,
+                "c2": 0.38,
+                "c3": 0.595,
+                "c4": 0.81
+              },
+              {
+                "time": 0.1667,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.853,
+                "c4": 0.68
+              },
+              {
+                "time": 0.2667
+              }
+            ]
+          }
+        }
+      },
+      "back_init": {
+        "slots": {
+          "star_a1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "hook_backdrop": {
+            "scale": [
+              {
+                "curve": 0.32,
+                "c2": 0.48,
+                "c3": 0.75
+              },
+              {
+                "time": 0.0667,
+                "x": 1.02,
+                "y": 1.02,
+                "curve": 0.25,
+                "c3": 0.875,
+                "c4": 0.75
+              },
+              {
+                "time": 0.2
+              }
+            ]
+          }
+        }
+      },
+      "back_out": {
+        "slots": {
+          "star_a1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "star_a1": {
+            "scale": [
+              {
+                "x": 0.5,
+                "y": 0.5
+              }
+            ]
+          },
+          "hook_backdrop": {
+            "scale": [
+              {
+                "curve": 0.28,
+                "c2": 0.48,
+                "c3": 0.75
+              },
+              {
+                "time": 0.1,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.2667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      },
+      "btn_idle": {},
+      "btn_out": {
+        "bones": {
+          "hook_btn": {
+            "scale": [
+              {
+                "curve": 1,
+                "c2": -0.19,
+                "c3": 0.75
+              },
+              {
+                "time": 0.1333,
+                "x": 0.9,
+                "y": 0.9,
+                "curve": 0.213,
+                "c2": 0.34,
+                "c3": 0.75
+              },
+              {
+                "time": 0.2667
+              }
+            ]
+          }
+        }
+      },
+      "star_idle": {
+        "slots": {
+          "star_a1": {
+            "attachment": [
+              {
+                "name": "star_a1"
+              }
+            ]
+          },
+          "star_a1r": {
+            "attachment": [
+              {
+                "name": "star_a1"
+              }
+            ]
+          }
+        }
+      },
+      "star_in": {
+        "slots": {
+          "star_a1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "star_a1"
+              }
+            ]
+          },
+          "star_a1r": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffff37"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "star_a1"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "star_a1": {
+            "scale": [
+              {
+                "x": 0.5,
+                "y": 0.5,
+                "curve": 0.25,
+                "c3": 0.625,
+                "c4": 0.5
+              },
+              {
+                "time": 0.1,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.375,
+                "c2": 0.5,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "star_out": {
+        "slots": {
+          "star_a1": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "7f7f7f00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "star_a1"
+              }
+            ]
+          },
+          "star_a1r": {
+            "attachment": [
+              {
+                "name": "star_a1"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "star_a1": {
+            "scale": [
+              {
+                "curve": 0.25,
+                "c3": 0.625,
+                "c4": 0.5
+              },
+              {
+                "time": 0.1667,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": 0.375,
+                "c2": 0.5,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": 0.5,
+                "y": 0.5
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nrate_rating.png\nsize: 132,129\nformat: RGBA8888\nfilter: MipMap,MipMap\nrepeat: none\nstar_a1\n  rotate: false\n  xy: 4, 4\n  size: 124, 121\n  orig: 124, 121\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "9e3892fd-a902-4d22-ad68-e5b38051460a"
+    }
+  ],
+  "textureNames": [
+    "rate_rating.png"
+  ],
+  "scale": 1
+}

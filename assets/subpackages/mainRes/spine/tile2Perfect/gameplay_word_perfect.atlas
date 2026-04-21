@@ -1,0 +1,13 @@
+
+gameplay_word_perfect.png
+size: 418,135
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+playgame_txt_prefect
+  rotate: false
+  xy: 4, 4
+  size: 410, 127
+  orig: 415, 132
+  offset: 2, 3
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_num_comboScore",
+    "texture": "3fac2f90-18bc-449a-a3c9-8101f34a5bd2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      725,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      725,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

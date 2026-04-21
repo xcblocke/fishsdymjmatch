@@ -1,0 +1,181 @@
+
+gameplay_moreAwesome.png
+size: 282,521
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+mb_29
+  rotate: false
+  xy: 4, 8
+  size: 105, 105
+  orig: 107, 107
+  offset: 1, 1
+  index: -1
+mb_34
+  rotate: false
+  xy: 113, 46
+  size: 79, 79
+  orig: 83, 83
+  offset: 2, 2
+  index: -1
+rim_b
+  rotate: false
+  xy: 90, 419
+  size: 97, 98
+  orig: 99, 99
+  offset: 1, 1
+  index: -1
+star_1
+  rotate: false
+  xy: 158, 14
+  size: 29, 28
+  orig: 31, 32
+  offset: 1, 2
+  index: -1
+star_1g
+  rotate: false
+  xy: 191, 14
+  size: 29, 28
+  orig: 31, 32
+  offset: 1, 2
+  index: -1
+star_1y
+  rotate: true
+  xy: 210, 142
+  size: 27, 28
+  orig: 31, 32
+  offset: 2, 2
+  index: -1
+txt_awesome
+  rotate: true
+  xy: 4, 117
+  size: 400, 82
+  orig: 400, 82
+  offset: 0, 0
+  index: -1
+txt_star1
+  rotate: false
+  xy: 196, 84
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+txt_star2
+  rotate: true
+  xy: 113, 4
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+txt_star3
+  rotate: true
+  xy: 176, 142
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+unbelievable_guang_3
+  rotate: true
+  xy: 90, 129
+  size: 286, 82
+  orig: 330, 110
+  offset: 22, 14
+  index: -1
+xx
+  rotate: false
+  xy: 224, 35
+  size: 45, 45
+  orig: 53, 53
+  offset: 4, 4
+  index: -1
+yh_2
+  rotate: true
+  xy: 158, 4
+  size: 6, 53
+  orig: 6, 65
+  offset: 0, 12
+  index: -1
+yh_3
+  rotate: false
+  xy: 254, 13
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+yh_3g
+  rotate: false
+  xy: 251, 91
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+yh_4
+  rotate: false
+  xy: 258, 237
+  size: 18, 62
+  orig: 20, 74
+  offset: 1, 12
+  index: -1
+yh_4b
+  rotate: false
+  xy: 258, 371
+  size: 20, 64
+  orig: 20, 74
+  offset: 0, 10
+  index: -1
+yh_4o
+  rotate: false
+  xy: 258, 303
+  size: 20, 64
+  orig: 20, 74
+  offset: 0, 10
+  index: -1
+yh_5
+  rotate: false
+  xy: 176, 337
+  size: 78, 78
+  orig: 80, 80
+  offset: 1, 1
+  index: -1
+yh_5g
+  rotate: false
+  xy: 191, 439
+  size: 78, 78
+  orig: 80, 80
+  offset: 1, 1
+  index: -1
+yh_5o
+  rotate: false
+  xy: 176, 255
+  size: 78, 78
+  orig: 80, 80
+  offset: 1, 1
+  index: -1
+yh_5y
+  rotate: false
+  xy: 176, 173
+  size: 78, 78
+  orig: 80, 80
+  offset: 1, 1
+  index: -1
+yh_6
+  rotate: false
+  xy: 242, 143
+  size: 26, 26
+  orig: 30, 30
+  offset: 2, 2
+  index: -1
+yh_7
+  rotate: false
+  xy: 224, 5
+  size: 26, 26
+  orig: 30, 30
+  offset: 2, 2
+  index: -1
+yh_9
+  rotate: false
+  xy: 251, 113
+  size: 26, 26
+  orig: 30, 30
+  offset: 2, 2
+  index: -1

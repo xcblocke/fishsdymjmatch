@@ -1,0 +1,69 @@
+
+gameplay_flip_26.png
+size: 882,168
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+beiMian
+  rotate: false
+  xy: 458, 18
+  size: 118, 146
+  orig: 118, 146
+  offset: 0, 0
+  index: -1
+beiPai
+  rotate: false
+  xy: 198, 8
+  size: 126, 156
+  orig: 126, 156
+  offset: 0, 0
+  index: -1
+bu
+  rotate: false
+  xy: 847, 142
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+ceMian
+  rotate: false
+  xy: 702, 19
+  size: 54, 145
+  orig: 54, 145
+  offset: 0, 0
+  index: -1
+dingDi
+  rotate: false
+  xy: 760, 8
+  size: 118, 54
+  orig: 118, 54
+  offset: 0, 0
+  index: -1
+efx
+  rotate: true
+  xy: 4, 4
+  size: 160, 190
+  orig: 166, 196
+  offset: 3, 3
+  index: -1
+touYing
+  rotate: false
+  xy: 760, 66
+  size: 83, 98
+  orig: 98, 121
+  offset: 9, 8
+  index: -1
+zhengMian
+  rotate: false
+  xy: 580, 19
+  size: 118, 145
+  orig: 118, 145
+  offset: 0, 0
+  index: -1
+zhengPai_xuanZhong
+  rotate: false
+  xy: 328, 8
+  size: 126, 156
+  orig: 126, 156
+  offset: 0, 0
+  index: -1

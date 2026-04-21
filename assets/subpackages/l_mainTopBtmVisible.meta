@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "cab455de-e78b-463a-b072-e562f3ba5d75",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_mainTopBtmVisible",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

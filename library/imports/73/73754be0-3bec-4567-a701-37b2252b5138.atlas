@@ -1,0 +1,62 @@
+
+gameplay_word_lucky.png
+size: 712,409
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+dashuye_L
+  rotate: true
+  xy: 583, 256
+  size: 149, 125
+  orig: 149, 125
+  offset: 0, 0
+  index: -1
+dashuye_R
+  rotate: true
+  xy: 583, 113
+  size: 139, 117
+  orig: 139, 117
+  offset: 0, 0
+  index: -1
+lucky
+  rotate: true
+  xy: 409, 92
+  size: 313, 170
+  orig: 325, 183
+  offset: 6, 7
+  index: -1
+shuye_1
+  rotate: false
+  xy: 543, 34
+  size: 54, 54
+  orig: 60, 61
+  offset: 3, 4
+  index: -1
+shuye_2
+  rotate: true
+  xy: 477, 29
+  size: 59, 62
+  orig: 66, 70
+  offset: 4, 4
+  index: -1
+shuye_3
+  rotate: false
+  xy: 409, 28
+  size: 64, 60
+  orig: 66, 62
+  offset: 1, 1
+  index: -1
+star
+  rotate: false
+  xy: 601, 65
+  size: 44, 44
+  orig: 48, 48
+  offset: 2, 2
+  index: -1
+zi_6
+  rotate: false
+  xy: 4, 4
+  size: 401, 401
+  orig: 445, 445
+  offset: 22, 22
+  index: -1

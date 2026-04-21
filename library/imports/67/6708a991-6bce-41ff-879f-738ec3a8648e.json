@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_Black_hole2",
+    "texture": "15974eda-1521-4403-8c44-ca17cf120ff8",
+    "atlas": "",
+    "rect": [
+      42,
+      2,
+      399,
+      319
+    ],
+    "offset": [
+      13.5,
+      7.5
+    ],
+    "originalSize": [
+      456,
+      338
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

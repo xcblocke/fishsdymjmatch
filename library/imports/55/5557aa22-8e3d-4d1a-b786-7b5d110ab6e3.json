@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leaderboard_flag_light",
+    "texture": "ab4753c5-5ae4-4848-ad8c-b8814954f2ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      312,
+      153
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      312,
+      153
+    ],
+    "capInsets": [
+      0,
+      20,
+      0,
+      130
+    ]
+  }
+}

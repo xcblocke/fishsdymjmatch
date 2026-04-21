@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "a1ee69af-c700-4003-8cca-2b32ea41f8c4",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_rewardCombo",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,41 @@
+
+gameplay_goalAchieve.png
+size: 764,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_3
+  rotate: false
+  xy: 491, 32
+  size: 69, 69
+  orig: 77, 77
+  offset: 4, 4
+  index: -1
+a_liZi_xingXing
+  rotate: false
+  xy: 412, 25
+  size: 77, 76
+  orig: 79, 78
+  offset: 1, 1
+  index: -1
+a_xx_2
+  rotate: true
+  xy: 2, 2
+  size: 99, 198
+  orig: 205, 205
+  offset: 53, 3
+  index: -1
+dc_1
+  rotate: false
+  xy: 2, 103
+  size: 760, 160
+  orig: 760, 160
+  offset: 0, 0
+  index: -1
+guang_1
+  rotate: false
+  xy: 202, 21
+  size: 208, 80
+  orig: 228, 80
+  offset: 10, 0
+  index: -1

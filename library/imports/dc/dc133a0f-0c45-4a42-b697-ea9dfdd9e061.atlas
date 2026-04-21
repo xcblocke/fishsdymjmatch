@@ -1,0 +1,244 @@
+
+main_snowScene.png
+size: 882,457
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangDian
+  rotate: false
+  xy: 480, 8
+  size: 31, 31
+  orig: 42, 42
+  offset: 5, 6
+  index: -1
+w_1
+  rotate: false
+  xy: 517, 9
+  size: 113, 98
+  orig: 131, 125
+  offset: 11, 13
+  index: -1
+w_2
+  rotate: true
+  xy: 480, 111
+  size: 45, 37
+  orig: 50, 50
+  offset: 3, 7
+  index: -1
+w_6
+  rotate: true
+  xy: 522, 226
+  size: 116, 114
+  orig: 140, 140
+  offset: 13, 13
+  index: -1
+w_7
+  rotate: true
+  xy: 522, 226
+  size: 116, 114
+  orig: 140, 140
+  offset: 13, 13
+  index: -1
+w_8
+  rotate: true
+  xy: 522, 109
+  size: 115, 114
+  orig: 140, 140
+  offset: 10, 13
+  index: -1
+xj_10
+  rotate: true
+  xy: 679, 202
+  size: 253, 179
+  orig: 254, 200
+  offset: 0, 0
+  index: -1
+xj_11
+  rotate: false
+  xy: 388, 344
+  size: 289, 111
+  orig: 300, 123
+  offset: 5, 7
+  index: -1
+xj_12
+  rotate: false
+  xy: 388, 158
+  size: 132, 184
+  orig: 139, 184
+  offset: 7, 0
+  index: -1
+xj_13
+  rotate: true
+  xy: 729, 3
+  size: 93, 24
+  orig: 94, 25
+  offset: 0, 1
+  index: -1
+xj_14
+  rotate: false
+  xy: 755, 8
+  size: 57, 88
+  orig: 57, 92
+  offset: 0, 4
+  index: -1
+xj_15
+  rotate: true
+  xy: 209, 52
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+xj_16
+  rotate: false
+  xy: 480, 41
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+xj_17
+  rotate: false
+  xy: 632, 4
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+xj_18
+  rotate: true
+  xy: 860, 358
+  size: 97, 19
+  orig: 97, 20
+  offset: 0, 1
+  index: -1
+xj_19
+  rotate: true
+  xy: 819, 4
+  size: 97, 26
+  orig: 98, 28
+  offset: 0, 0
+  index: -1
+xj_2
+  rotate: true
+  xy: 388, 28
+  size: 128, 90
+  orig: 166, 90
+  offset: 8, 0
+  index: -1
+xj_20
+  rotate: false
+  xy: 819, 103
+  size: 61, 97
+  orig: 61, 97
+  offset: 0, 0
+  index: -1
+xj_21
+  rotate: true
+  xy: 329, 58
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+xj_22
+  rotate: false
+  xy: 860, 325
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+xj_23
+  rotate: true
+  xy: 638, 202
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+xj_24
+  rotate: true
+  xy: 130, 13
+  size: 26, 30
+  orig: 26, 31
+  offset: 0, 1
+  index: -1
+xj_3
+  rotate: true
+  xy: 286, 25
+  size: 84, 41
+  orig: 88, 41
+  offset: 4, 0
+  index: -1
+xj_4
+  rotate: false
+  xy: 209, 2
+  size: 50, 48
+  orig: 50, 54
+  offset: 0, 6
+  index: -1
+xj_5
+  rotate: true
+  xy: 2, 7
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+xj_6
+  rotate: false
+  xy: 638, 98
+  size: 179, 102
+  orig: 181, 102
+  offset: 2, 0
+  index: -1
+xj_7
+  rotate: false
+  xy: 130, 41
+  size: 77, 68
+  orig: 77, 70
+  offset: 0, 2
+  index: -1
+xj_8
+  rotate: true
+  xy: 638, 265
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+xj_9
+  rotate: true
+  xy: 860, 270
+  size: 53, 18
+  orig: 55, 19
+  offset: 2, 1
+  index: -1
+xj_9b
+  rotate: false
+  xy: 847, 10
+  size: 31, 91
+  orig: 31, 91
+  offset: 0, 0
+  index: -1
+xueHua_1
+  rotate: true
+  xy: 329, 11
+  size: 45, 50
+  orig: 50, 57
+  offset: 2, 2
+  index: -1
+xueHua_2
+  rotate: false
+  xy: 638, 229
+  size: 34, 34
+  orig: 43, 38
+  offset: 3, 2
+  index: -1
+xueHua_3
+  rotate: false
+  xy: 860, 250
+  size: 16, 18
+  orig: 19, 20
+  offset: 1, 1
+  index: -1
+yanCong
+  rotate: false
+  xy: 2, 111
+  size: 384, 344
+  orig: 384, 344
+  offset: 0, 0
+  index: -1

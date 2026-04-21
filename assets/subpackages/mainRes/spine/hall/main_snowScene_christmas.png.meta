@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7072a6dc-e3ae-4f84-b2d9-83bf6fd5ec81",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1206,
+  "height": 348,
+  "platformSettings": {},
+  "subMetas": {
+    "main_snowScene_christmas": {
+      "ver": "1.0.6",
+      "uuid": "7fcca311-df2c-43d5-8759-744bc5e4b1de",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7072a6dc-e3ae-4f84-b2d9-83bf6fd5ec81",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 2,
+      "width": 1200,
+      "height": 344,
+      "rawWidth": 1206,
+      "rawHeight": 348,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

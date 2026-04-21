@@ -1,0 +1,97 @@
+
+gamplay_doubleLikes.png
+size: 551,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blast_12
+  rotate: false
+  xy: 405, 364
+  size: 127, 127
+  orig: 139, 139
+  offset: 6, 6
+  index: -1
+dp
+  rotate: false
+  xy: 179, 198
+  size: 57, 57
+  orig: 64, 64
+  offset: 4, 3
+  index: -1
+gameplay_img_hand_1
+  rotate: false
+  xy: 339, 2
+  size: 151, 156
+  orig: 153, 158
+  offset: 1, 1
+  index: -1
+gameplay_img_hand_2
+  rotate: false
+  xy: 238, 320
+  size: 165, 171
+  orig: 168, 174
+  offset: 1, 2
+  index: -1
+gameplay_img_hand_3
+  rotate: false
+  xy: 2, 74
+  size: 175, 181
+  orig: 179, 185
+  offset: 2, 2
+  index: -1
+glow005
+  rotate: true
+  xy: 238, 160
+  size: 158, 159
+  orig: 173, 173
+  offset: 7, 7
+  index: -1
+hand_2
+  rotate: true
+  xy: 179, 5
+  size: 153, 158
+  orig: 153, 158
+  offset: 0, 0
+  index: -1
+heart_b
+  rotate: false
+  xy: 76, 13
+  size: 70, 59
+  orig: 72, 61
+  offset: 1, 1
+  index: -1
+hua_3
+  rotate: false
+  xy: 399, 172
+  size: 150, 146
+  orig: 166, 158
+  offset: 10, 6
+  index: -1
+mj_3
+  rotate: false
+  xy: 405, 322
+  size: 41, 40
+  orig: 47, 46
+  offset: 3, 3
+  index: -1
+paper_8
+  rotate: false
+  xy: 534, 474
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+rim
+  rotate: false
+  xy: 2, 257
+  size: 234, 234
+  orig: 256, 256
+  offset: 11, 11
+  index: -1
+star_1
+  rotate: false
+  xy: 2, 8
+  size: 72, 64
+  orig: 75, 66
+  offset: 2, 1
+  index: -1

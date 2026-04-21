@@ -1,0 +1,657 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "gameplay_light_goal",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "Mi1RTzK+hq77cYmrUT3oeNGBAZg",
+      "spine": "3.8.99",
+      "x": -139.3,
+      "y": -139.3,
+      "width": 278.6,
+      "height": 278.6,
+      "images": "",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "icon",
+        "parent": "root"
+      },
+      {
+        "name": "sjicon_light",
+        "parent": "root"
+      },
+      {
+        "name": "nu",
+        "parent": "root",
+        "y": -39.24
+      },
+      {
+        "name": "lizi_icon",
+        "parent": "root",
+        "x": -48.42,
+        "y": 36.29
+      },
+      {
+        "name": "lizi_icon2",
+        "parent": "lizi_icon",
+        "x": 48.28,
+        "y": -36.31
+      },
+      {
+        "name": "lizi_icon3",
+        "parent": "lizi_icon",
+        "x": 48.28,
+        "y": -36.31,
+        "scaleX": 1.6,
+        "scaleY": 1.6
+      },
+      {
+        "name": "lizi_icon4",
+        "parent": "lizi_icon",
+        "x": 48.28,
+        "y": -36.31
+      },
+      {
+        "name": "lizi_icon5",
+        "parent": "lizi_icon",
+        "x": 48.28,
+        "y": -36.31
+      },
+      {
+        "name": "lizi_icon6",
+        "parent": "lizi_icon",
+        "x": 48.28,
+        "y": -36.31
+      },
+      {
+        "name": "lizi_icon7",
+        "parent": "lizi_icon",
+        "x": 48.28,
+        "y": -36.31
+      },
+      {
+        "name": "lizi_icon8",
+        "parent": "lizi_icon",
+        "x": 48.28,
+        "y": -36.31,
+        "scaleX": 1.4,
+        "scaleY": 1.4
+      },
+      {
+        "name": "lizi_icon9",
+        "parent": "lizi_icon",
+        "x": 48.28,
+        "y": -36.31,
+        "scaleX": 1.7,
+        "scaleY": 1.7
+      }
+    ],
+    "slots": [
+      {
+        "name": "tsp_5",
+        "bone": "sjicon_light",
+        "attachment": "tsp_5",
+        "blend": "additive"
+      },
+      {
+        "name": "tsp_lizi",
+        "bone": "lizi_icon2",
+        "attachment": "tsp_lizi",
+        "blend": "additive"
+      },
+      {
+        "name": "tsp_lizi3",
+        "bone": "lizi_icon4",
+        "attachment": "tsp_lizi",
+        "blend": "additive"
+      },
+      {
+        "name": "tsp_lizi4",
+        "bone": "lizi_icon5",
+        "attachment": "tsp_lizi",
+        "blend": "additive"
+      },
+      {
+        "name": "tsp_lizi5",
+        "bone": "lizi_icon6",
+        "attachment": "tsp_lizi",
+        "blend": "additive"
+      },
+      {
+        "name": "tsp_lizi6",
+        "bone": "lizi_icon7",
+        "attachment": "tsp_lizi",
+        "blend": "additive"
+      },
+      {
+        "name": "tsp_lizi7",
+        "bone": "lizi_icon8",
+        "attachment": "tsp_lizi",
+        "blend": "additive"
+      },
+      {
+        "name": "tsp_lizi8",
+        "bone": "lizi_icon9",
+        "attachment": "tsp_lizi",
+        "blend": "additive"
+      },
+      {
+        "name": "tsp_lizi2",
+        "bone": "lizi_icon3",
+        "attachment": "tsp_lizi",
+        "blend": "additive"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "tsp_5": {
+            "tsp_5": {
+              "scaleX": 1.4,
+              "scaleY": 1.4,
+              "width": 199,
+              "height": 199
+            }
+          },
+          "tsp_lizi": {
+            "tsp_lizi": {
+              "width": 14,
+              "height": 14
+            }
+          },
+          "tsp_lizi2": {
+            "tsp_lizi": {
+              "width": 14,
+              "height": 14
+            }
+          },
+          "tsp_lizi3": {
+            "tsp_lizi": {
+              "width": 14,
+              "height": 14
+            }
+          },
+          "tsp_lizi4": {
+            "tsp_lizi": {
+              "width": 14,
+              "height": 14
+            }
+          },
+          "tsp_lizi5": {
+            "tsp_lizi": {
+              "width": 14,
+              "height": 14
+            }
+          },
+          "tsp_lizi6": {
+            "tsp_lizi": {
+              "width": 14,
+              "height": 14
+            }
+          },
+          "tsp_lizi7": {
+            "tsp_lizi": {
+              "width": 14,
+              "height": 14
+            }
+          },
+          "tsp_lizi8": {
+            "tsp_lizi": {
+              "width": 14,
+              "height": 14
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "in": {
+        "slots": {
+          "tsp_5": {
+            "color": [
+              {
+                "time": 0.0333,
+                "color": "ffec8aff",
+                "curve": 0.426,
+                "c2": 0.01,
+                "c4": 0.64
+              },
+              {
+                "time": 0.5,
+                "color": "ffec8a00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.0333,
+                "name": "tsp_5"
+              }
+            ]
+          },
+          "tsp_lizi": {
+            "color": [
+              {
+                "time": 0.0333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.0333,
+                "name": "tsp_lizi"
+              }
+            ]
+          },
+          "tsp_lizi2": {
+            "color": [
+              {
+                "time": 0.0333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.0333,
+                "name": "tsp_lizi"
+              }
+            ]
+          },
+          "tsp_lizi3": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.0333,
+                "name": "tsp_lizi"
+              }
+            ]
+          },
+          "tsp_lizi4": {
+            "color": [
+              {
+                "time": 0.0333,
+                "color": "ffffff7e"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.0333,
+                "name": "tsp_lizi"
+              }
+            ]
+          },
+          "tsp_lizi5": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.0333,
+                "name": "tsp_lizi"
+              }
+            ]
+          },
+          "tsp_lizi6": {
+            "color": [
+              {
+                "time": 0.0333,
+                "color": "ffffff70"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.0333,
+                "name": "tsp_lizi"
+              }
+            ]
+          },
+          "tsp_lizi7": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.0333,
+                "name": "tsp_lizi"
+              }
+            ]
+          },
+          "tsp_lizi8": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": null
+              },
+              {
+                "time": 0.0333,
+                "name": "tsp_lizi"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "icon": {
+            "scale": [
+              {},
+              {
+                "time": 0.0667,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 0.1667
+              }
+            ]
+          },
+          "nu": {
+            "scale": [
+              {},
+              {
+                "time": 0.0667,
+                "x": 2,
+                "y": 2
+              },
+              {
+                "time": 0.1667
+              }
+            ]
+          },
+          "lizi_icon2": {
+            "translate": [
+              {
+                "time": 0.0333,
+                "curve": 0,
+                "c2": 0.69,
+                "c3": 0.444
+              },
+              {
+                "time": 0.4,
+                "y": 86.95
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.0333
+              },
+              {
+                "time": 0.4,
+                "x": 0.5,
+                "y": 0.5
+              }
+            ]
+          },
+          "lizi_icon3": {
+            "translate": [
+              {
+                "time": 0.0333,
+                "curve": 0,
+                "c2": 0.69,
+                "c3": 0.444
+              },
+              {
+                "time": 0.6333,
+                "x": 71.15,
+                "y": 7.09
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.0333
+              },
+              {
+                "time": 0.6333,
+                "x": 0.25,
+                "y": 0.25
+              }
+            ]
+          },
+          "lizi_icon4": {
+            "translate": [
+              {
+                "time": 0.0333,
+                "curve": 0,
+                "c2": 0.69,
+                "c3": 0.444
+              },
+              {
+                "time": 0.4,
+                "x": -81.01,
+                "y": -21.52
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.0333
+              },
+              {
+                "time": 0.4,
+                "x": 0.5,
+                "y": 0.5
+              }
+            ]
+          },
+          "lizi_icon5": {
+            "translate": [
+              {
+                "time": 0.0333,
+                "curve": 0,
+                "c2": 0.69,
+                "c3": 0.444
+              },
+              {
+                "time": 0.5,
+                "x": -52.27,
+                "y": 11.93
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.0333
+              },
+              {
+                "time": 0.5,
+                "x": 0.5,
+                "y": 0.5
+              }
+            ]
+          },
+          "lizi_icon6": {
+            "translate": [
+              {
+                "time": 0.0333,
+                "curve": 0,
+                "c2": 0.69,
+                "c3": 0.444
+              },
+              {
+                "time": 0.4667,
+                "x": 50.47,
+                "y": -72.45
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.0333
+              },
+              {
+                "time": 0.4667,
+                "x": 0.5,
+                "y": 0.5
+              }
+            ]
+          },
+          "lizi_icon7": {
+            "translate": [
+              {
+                "time": 0.0333,
+                "curve": 0,
+                "c2": 0.69,
+                "c3": 0.444
+              },
+              {
+                "time": 0.4,
+                "x": 59.32,
+                "y": 45.86
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.0333
+              },
+              {
+                "time": 0.4,
+                "x": 0.5,
+                "y": 0.5
+              }
+            ]
+          },
+          "lizi_icon8": {
+            "translate": [
+              {
+                "time": 0.0333,
+                "curve": 0,
+                "c2": 0.69,
+                "c3": 0.444
+              },
+              {
+                "time": 0.6,
+                "x": -60.91,
+                "y": 53.78
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.0333
+              },
+              {
+                "time": 0.6,
+                "x": 0.5,
+                "y": 0.5
+              }
+            ]
+          },
+          "lizi_icon9": {
+            "translate": [
+              {
+                "time": 0.0333,
+                "curve": 0,
+                "c2": 0.69,
+                "c3": 0.444
+              },
+              {
+                "time": 0.6333,
+                "x": -54.38,
+                "y": -64.58
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.0333
+              },
+              {
+                "time": 0.6333,
+                "x": 0.294,
+                "y": 0.294
+              }
+            ]
+          },
+          "root": {
+            "translate": [
+              {
+                "time": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ngameplay_light_goal.png\nsize: 219,203\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ntsp_5\n  rotate: false\n  xy: 2, 2\n  size: 199, 199\n  orig: 199, 199\n  offset: 0, 0\n  index: -1\ntsp_lizi\n  rotate: false\n  xy: 203, 187\n  size: 14, 14\n  orig: 14, 14\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "0b364dd9-b15a-4002-a2d0-536ab3b56a86"
+    }
+  ],
+  "textureNames": [
+    "gameplay_light_goal.png"
+  ],
+  "scale": 1
+}

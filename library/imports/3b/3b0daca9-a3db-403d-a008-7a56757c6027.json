@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_light_combo",
+    "texture": "b78052d8-47b6-4351-8949-efdacab88c5e",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      367,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      371,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

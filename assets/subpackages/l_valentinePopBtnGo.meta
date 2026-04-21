@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "f0e06547-4a11-4bd1-a350-c28bf9da2250",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_valentinePopBtnGo",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

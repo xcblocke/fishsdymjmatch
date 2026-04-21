@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "290b22b4-07b6-4434-ac72-85bbf2536d43",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_valentineFullCombo",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

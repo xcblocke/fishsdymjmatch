@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "1347a6fe-3bc4-4f2a-9d6e-03a2b064acfd",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_materialCard12",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

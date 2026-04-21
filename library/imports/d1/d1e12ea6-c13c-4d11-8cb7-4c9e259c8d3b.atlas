@@ -1,0 +1,97 @@
+
+journey_map_water.png
+size: 977,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/09
+  rotate: true
+  xy: 2, 2
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+water/water_00000
+  rotate: true
+  xy: 101, 5
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+water/water_00001
+  rotate: true
+  xy: 174, 5
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+water/water_00002
+  rotate: true
+  xy: 247, 5
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+water/water_00003
+  rotate: true
+  xy: 320, 5
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+water/water_00004
+  rotate: true
+  xy: 393, 5
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+water/water_00005
+  rotate: true
+  xy: 466, 5
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+water/water_00006
+  rotate: true
+  xy: 539, 5
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+water/water_00007
+  rotate: true
+  xy: 612, 5
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+water/water_00008
+  rotate: true
+  xy: 685, 5
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+water/water_00009
+  rotate: true
+  xy: 758, 5
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+water/water_00010
+  rotate: true
+  xy: 831, 5
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+water/water_00011
+  rotate: true
+  xy: 904, 5
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1

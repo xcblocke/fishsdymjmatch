@@ -1,0 +1,15 @@
+info face="Arial" size=72 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=72 base=129 scaleW=382 scaleH=384 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="result_win_num_score.png"
+chars count=11
+char id=32   x=0    y=0     width=0    height=0    xoffset=0     yoffset=0     xadvance=19    page=0  chnl=15
+char id=48   x=0    y=0     width=102    height=129    xoffset=-1     yoffset=-1     xadvance=102    page=0  chnl=15
+char id=49   x=299    y=0     width=65    height=126    xoffset=-1     yoffset=0     xadvance=65    page=0  chnl=15
+char id=50   x=97    y=130     width=94    height=127    xoffset=-1     yoffset=-1     xadvance=94    page=0  chnl=15
+char id=51   x=103    y=0     width=95    height=129    xoffset=-1     yoffset=-1     xadvance=95    page=0  chnl=15
+char id=52   x=0    y=259     width=105    height=125    xoffset=-1     yoffset=1     xadvance=105    page=0  chnl=15
+char id=53   x=192    y=130     width=95    height=127    xoffset=-1     yoffset=1     xadvance=95    page=0  chnl=15
+char id=54   x=0    y=130     width=96    height=128    xoffset=-1     yoffset=0     xadvance=96    page=0  chnl=15
+char id=55   x=106    y=259     width=92    height=125    xoffset=-1     yoffset=1     xadvance=92    page=0  chnl=15
+char id=56   x=199    y=0     width=99    height=129    xoffset=-1     yoffset=-1     xadvance=99    page=0  chnl=15
+char id=57   x=288    y=130     width=94    height=127    xoffset=-1     yoffset=-1     xadvance=94    page=0  chnl=15

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "c760c1a5-6220-4499-ba30-ba01caf29c9c",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_coldStartBgm",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

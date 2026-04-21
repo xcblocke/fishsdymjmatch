@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_light_goal",
+    "texture": "571e6e04-885a-4004-a194-2751a0708718",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      163,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      171,
+      138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

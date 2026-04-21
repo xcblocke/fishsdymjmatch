@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "d5908ca1-8159-48b5-bff9-be5b90112900",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_winBoxNextBtn",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

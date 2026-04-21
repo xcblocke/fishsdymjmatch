@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "541458fc-5134-465d-8d25-aec56c24a078",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_creatRollCardBySolver",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

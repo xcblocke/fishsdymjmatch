@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "c6568963-440e-4435-b4c8-a8381d68f65c",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_ratingDialog",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

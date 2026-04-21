@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "acc0292c-acc9-4873-a3d4-04826ab2a217",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_patch4",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

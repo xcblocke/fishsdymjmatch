@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_map_giftBox",
+    "texture": "a9de591c-6f70-4217-820d-ae07d6fb8869",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      1793,
+      351
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      1797,
+      354
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

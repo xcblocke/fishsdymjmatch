@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_combo_groove_b",
+    "texture": "940eb558-3254-40b1-9178-b405d70b1276",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      998,
+      939
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      1006,
+      946
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

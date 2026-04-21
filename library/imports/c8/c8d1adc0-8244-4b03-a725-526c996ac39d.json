@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daily_bg_pop_1",
+    "texture": "d3ce8bac-d8d3-47ca-aafa-cee67f9bf72b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      168,
+      1186
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      1186
+    ],
+    "capInsets": [
+      82,
+      0,
+      73,
+      0
+    ]
+  }
+}

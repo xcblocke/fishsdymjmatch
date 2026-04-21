@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "8ea7b9fb-9952-4aec-9ec7-6766f8d8ff3c",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_selectspine",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

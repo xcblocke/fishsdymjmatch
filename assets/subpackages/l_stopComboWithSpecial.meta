@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "b36b312f-90f3-4c7a-a2dd-f7b73784232e",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_stopComboWithSpecial",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

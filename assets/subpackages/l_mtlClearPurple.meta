@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "d0f99974-ca67-482f-a955-9f1bd84b9655",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_mtlClearPurple",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

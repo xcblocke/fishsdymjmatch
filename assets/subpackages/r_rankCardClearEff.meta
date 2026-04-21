@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "1f3a81af-b947-4c7c-9989-555be31536fb",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_rankCardClearEff",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

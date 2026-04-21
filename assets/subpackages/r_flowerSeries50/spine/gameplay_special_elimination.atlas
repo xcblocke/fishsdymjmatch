@@ -1,0 +1,195 @@
+
+gameplay_special_elimination.png
+size: 559,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cai
+  rotate: true
+  xy: 2, 68
+  size: 224, 152
+  orig: 256, 256
+  offset: 16, 52
+  index: -1
+glow
+  rotate: false
+  xy: 367, 2
+  size: 114, 114
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+mj_7
+  rotate: false
+  xy: 483, 4
+  size: 41, 40
+  orig: 47, 46
+  offset: 3, 3
+  index: -1
+ring1
+  rotate: true
+  xy: 367, 118
+  size: 210, 128
+  orig: 210, 128
+  offset: 0, 0
+  index: -1
+ring2
+  rotate: true
+  xy: 526, 4
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+ring3
+  rotate: true
+  xy: 497, 229
+  size: 48, 47
+  orig: 51, 50
+  offset: 2, 1
+  index: -1
+ring4
+  rotate: true
+  xy: 497, 141
+  size: 38, 44
+  orig: 40, 47
+  offset: 1, 1
+  index: -1
+ring5
+  rotate: false
+  xy: 497, 279
+  size: 51, 61
+  orig: 53, 63
+  offset: 1, 1
+  index: -1
+ring6
+  rotate: true
+  xy: 239, 90
+  size: 238, 126
+  orig: 238, 126
+  offset: 0, 0
+  index: -1
+ring8
+  rotate: false
+  xy: 2, 294
+  size: 235, 235
+  orig: 239, 239
+  offset: 2, 2
+  index: -1
+ring9
+  rotate: false
+  xy: 239, 330
+  size: 199, 199
+  orig: 203, 203
+  offset: 2, 2
+  index: -1
+sg/light_00000
+  rotate: true
+  xy: 154, 4
+  size: 25, 36
+  orig: 125, 68
+  offset: 15, 24
+  index: -1
+sg/light_00001
+  rotate: false
+  xy: 504, 345
+  size: 37, 56
+  orig: 125, 68
+  offset: 10, 6
+  index: -1
+sg/light_00002
+  rotate: true
+  xy: 440, 342
+  size: 59, 62
+  orig: 125, 68
+  offset: 10, 6
+  index: -1
+sg/light_00003
+  rotate: false
+  xy: 440, 403
+  size: 60, 62
+  orig: 125, 68
+  offset: 10, 6
+  index: -1
+sg/light_00004
+  rotate: true
+  xy: 483, 46
+  size: 70, 62
+  orig: 125, 68
+  offset: 10, 6
+  index: -1
+sg/light_00005
+  rotate: false
+  xy: 2, 4
+  size: 74, 62
+  orig: 125, 68
+  offset: 10, 6
+  index: -1
+sg/light_00006
+  rotate: true
+  xy: 156, 31
+  size: 82, 62
+  orig: 125, 68
+  offset: 10, 6
+  index: -1
+sg/light_00007
+  rotate: true
+  xy: 156, 200
+  size: 92, 62
+  orig: 125, 68
+  offset: 15, 6
+  index: -1
+sg/light_00008
+  rotate: true
+  xy: 156, 115
+  size: 83, 62
+  orig: 125, 68
+  offset: 32, 6
+  index: -1
+sg/light_00009
+  rotate: false
+  xy: 78, 4
+  size: 74, 62
+  orig: 125, 68
+  offset: 41, 6
+  index: -1
+sg/light_00010
+  rotate: false
+  xy: 220, 26
+  size: 70, 62
+  orig: 125, 68
+  offset: 45, 6
+  index: -1
+sg/light_00011
+  rotate: true
+  xy: 292, 22
+  size: 66, 62
+  orig: 125, 68
+  offset: 49, 6
+  index: -1
+sg/light_00012
+  rotate: false
+  xy: 440, 467
+  size: 62, 62
+  orig: 125, 68
+  offset: 53, 6
+  index: -1
+sg/light_00013
+  rotate: false
+  xy: 502, 403
+  size: 55, 62
+  orig: 125, 68
+  offset: 60, 6
+  index: -1
+sg/light_00014
+  rotate: false
+  xy: 504, 467
+  size: 48, 62
+  orig: 125, 68
+  offset: 67, 6
+  index: -1
+star
+  rotate: false
+  xy: 497, 181
+  size: 46, 46
+  orig: 49, 48
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_hardTips",
+    "texture": "400ddc42-bed0-4300-b89f-2b981cb9ee44",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      502,
+      278
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      510,
+      286
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

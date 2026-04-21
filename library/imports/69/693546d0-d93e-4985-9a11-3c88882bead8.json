@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "H_mei",
+    "texture": "ee7d2c71-839c-49a8-aedb-6436c31a5452",
+    "atlas": "2da64291-18db-4205-b8e7-9ca2696eb13f",
+    "rect": [
+      3,
+      364,
+      113,
+      95
+    ],
+    "offset": [
+      -5,
+      5
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

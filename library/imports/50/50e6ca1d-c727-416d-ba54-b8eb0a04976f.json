@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_tipsbg",
+    "texture": "cacdf097-c9ee-4a93-9503-7cfd13d22066",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      114
+    ],
+    "capInsets": [
+      38,
+      40,
+      46,
+      46
+    ]
+  }
+}

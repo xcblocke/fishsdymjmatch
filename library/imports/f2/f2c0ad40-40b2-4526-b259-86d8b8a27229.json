@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "main_icon_dailyTask",
+    "texture": "9ed571b8-adbc-4c22-9693-116e04a946f5",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      275,
+      512
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      282,
+      520
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

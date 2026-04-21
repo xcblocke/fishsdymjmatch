@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "ec282c23-0bc5-4250-b6dd-275c42db9ec6",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_daxiaoshipin",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

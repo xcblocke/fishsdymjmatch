@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "H_lan",
+    "texture": "ad57a895-31e0-41f0-a3e3-512be1fae617",
+    "atlas": "24f20f00-e573-4e4b-85a2-f65af3f97abf",
+    "rect": [
+      1507,
+      3,
+      103,
+      103
+    ],
+    "offset": [
+      -2,
+      1
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/Scripts/config/ShuffleAnimationConfig.ts"],"names":[],"mappings":";;;;;;AAAW,QAAA,aAAa,GAAG;IACzB,MAAM,EAAE,QAAQ;IAChB,IAAI,EAAE,MAAM;IACZ,MAAM,EAAE,QAAQ;CACjB,CAAC","file":"","sourceRoot":"/","sourcesContent":["export var EShufflePhase = {\n  Gather: \"gather\",\n  Stay: \"stay\",\n  Expand: \"expand\"\n};"]}

@@ -1,0 +1,62 @@
+
+journey_map_display_1.png
+size: 724,686
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_01
+  rotate: false
+  xy: 2, 100
+  size: 163, 210
+  orig: 163, 210
+  offset: 0, 0
+  index: -1
+ball_2
+  rotate: false
+  xy: 167, 104
+  size: 149, 206
+  orig: 205, 243
+  offset: 28, 18
+  index: -1
+balllizi_1
+  rotate: false
+  xy: 2, 43
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+balllizi_2
+  rotate: true
+  xy: 318, 270
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+balllizi_3
+  rotate: false
+  xy: 2, 62
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+xueRen_di_1
+  rotate: false
+  xy: 2, 312
+  size: 350, 372
+  orig: 350, 373
+  offset: 0, 0
+  index: -1
+xueRen_di_2
+  rotate: true
+  xy: 354, 344
+  size: 340, 368
+  orig: 340, 368
+  offset: 0, 0
+  index: -1
+xueRen_di_3
+  rotate: true
+  xy: 354, 2
+  size: 340, 368
+  orig: 340, 368
+  offset: 0, 0
+  index: -1

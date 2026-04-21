@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "J_xia",
+    "texture": "e436f87a-5d38-40d4-92d2-b0065bf5c87e",
+    "atlas": "94b3d584-1a35-43e5-b7bd-a73e0adf8f4e",
+    "rect": [
+      3,
+      1007,
+      105,
+      129
+    ],
+    "offset": [
+      -5,
+      7
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+
+dailyChallenge_badges.png
+size: 235,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightAdd1
+  rotate: true
+  xy: 2, 2
+  size: 119, 116
+  orig: 128, 128
+  offset: 6, 3
+  index: -1
+par_03
+  rotate: false
+  xy: 120, 2
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+par_star_01
+  rotate: false
+  xy: 182, 3
+  size: 37, 37
+  orig: 41, 41
+  offset: 2, 2
+  index: -1
+rayB1
+  rotate: false
+  xy: 182, 42
+  size: 51, 79
+  orig: 66, 100
+  offset: 7, 7
+  index: -1
+tex_light_2
+  rotate: false
+  xy: 120, 18
+  size: 60, 103
+  orig: 68, 115
+  offset: 4, 9
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "journey_map_level",
+    "texture": "c0f281d1-730f-4fc0-aa21-9f49539b8f7f",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      747,
+      321
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      750,
+      324
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

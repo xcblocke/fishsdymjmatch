@@ -1,0 +1,48 @@
+
+gameplay_layerClear.png
+size: 879,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gg
+  rotate: false
+  xy: 573, 256
+  size: 256, 66
+  orig: 256, 66
+  offset: 0, 0
+  index: -1
+hf1
+  rotate: false
+  xy: 2, 72
+  size: 569, 250
+  orig: 569, 250
+  offset: 0, 0
+  index: -1
+layerClear
+  rotate: false
+  xy: 2, 324
+  size: 875, 181
+  orig: 875, 181
+  offset: 0, 0
+  index: -1
+mj_d
+  rotate: false
+  xy: 573, 234
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+sy
+  rotate: false
+  xy: 2, 2
+  size: 569, 22
+  orig: 569, 22
+  offset: 0, 0
+  index: -1
+xy
+  rotate: false
+  xy: 2, 26
+  size: 569, 44
+  orig: 569, 44
+  offset: 0, 0
+  index: -1

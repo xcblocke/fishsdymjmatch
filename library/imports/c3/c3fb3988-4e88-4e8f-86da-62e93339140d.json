@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "result_boxBarTips",
+    "texture": "c76fbc73-2701-471a-9172-8964d714fb29",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      236,
+      149
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      153
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

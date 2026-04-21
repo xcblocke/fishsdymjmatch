@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e6ecb081-5a98-4198-b5de-9504d1421f0a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 152,
+  "height": 154,
+  "platformSettings": {},
+  "subMetas": {
+    "gardeningMaster_boxBar2": {
+      "ver": "1.0.6",
+      "uuid": "96551982-4f02-45cf-8805-ac8c52ef9711",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e6ecb081-5a98-4198-b5de-9504d1421f0a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 144,
+      "height": 146,
+      "rawWidth": 152,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

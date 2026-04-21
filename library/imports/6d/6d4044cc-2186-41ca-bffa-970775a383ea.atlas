@@ -1,0 +1,118 @@
+
+main_newSeason.png
+size: 905,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_g_000
+  rotate: false
+  xy: 848, 29
+  size: 49, 79
+  orig: 340, 115
+  offset: 12, 27
+  index: -1
+light_g_001
+  rotate: false
+  xy: 709, 11
+  size: 84, 94
+  orig: 340, 115
+  offset: 11, 12
+  index: -1
+light_g_002
+  rotate: false
+  xy: 590, 4
+  size: 117, 99
+  orig: 340, 115
+  offset: 11, 9
+  index: -1
+light_g_003
+  rotate: false
+  xy: 438, 3
+  size: 150, 100
+  orig: 340, 115
+  offset: 11, 8
+  index: -1
+light_g_004
+  rotate: false
+  xy: 501, 105
+  size: 183, 101
+  orig: 340, 115
+  offset: 11, 7
+  index: -1
+light_g_005
+  rotate: false
+  xy: 533, 208
+  size: 216, 101
+  orig: 340, 115
+  offset: 12, 7
+  index: -1
+light_g_006
+  rotate: false
+  xy: 2, 2
+  size: 247, 101
+  orig: 340, 115
+  offset: 14, 7
+  index: -1
+light_g_007
+  rotate: false
+  xy: 2, 105
+  size: 277, 101
+  orig: 340, 115
+  offset: 17, 7
+  index: -1
+light_g_008
+  rotate: false
+  xy: 2, 208
+  size: 278, 101
+  orig: 340, 115
+  offset: 44, 7
+  index: -1
+light_g_009
+  rotate: false
+  xy: 282, 208
+  size: 249, 101
+  orig: 340, 115
+  offset: 77, 7
+  index: -1
+light_g_010
+  rotate: false
+  xy: 281, 105
+  size: 218, 101
+  orig: 340, 115
+  offset: 110, 7
+  index: -1
+light_g_011
+  rotate: false
+  xy: 251, 2
+  size: 185, 101
+  orig: 340, 115
+  offset: 144, 7
+  index: -1
+light_g_012
+  rotate: false
+  xy: 751, 209
+  size: 152, 100
+  orig: 340, 115
+  offset: 177, 7
+  index: -1
+light_g_013
+  rotate: false
+  xy: 686, 107
+  size: 119, 99
+  orig: 340, 115
+  offset: 210, 7
+  index: -1
+light_g_014
+  rotate: false
+  xy: 807, 110
+  size: 85, 97
+  orig: 340, 115
+  offset: 244, 8
+  index: -1
+light_g_015
+  rotate: false
+  xy: 795, 19
+  size: 51, 86
+  orig: 340, 115
+  offset: 277, 9
+  index: -1

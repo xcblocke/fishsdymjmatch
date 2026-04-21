@@ -1,0 +1,160 @@
+
+gameplay_special_elimination.png
+size: 993,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 196, 56
+  size: 26, 26
+  orig: 50, 50
+  offset: 12, 12
+  index: -1
+diguang2
+  rotate: false
+  xy: 2, 256
+  size: 227, 227
+  orig: 282, 283
+  offset: 24, 31
+  index: -1
+love
+  rotate: false
+  xy: 2, 22
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+par_pixel_1
+  rotate: false
+  xy: 865, 331
+  size: 24, 24
+  orig: 30, 30
+  offset: 3, 3
+  index: -1
+x2
+  rotate: true
+  xy: 138, 42
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 897, 299
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 897, 241
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+xl_xc_0
+  rotate: false
+  xy: 847, 33
+  size: 124, 124
+  orig: 300, 300
+  offset: 88, 88
+  index: -1
+xl_xc_1
+  rotate: false
+  xy: 865, 357
+  size: 126, 126
+  orig: 300, 300
+  offset: 87, 87
+  index: -1
+xl_xc_10
+  rotate: false
+  xy: 459, 313
+  size: 215, 170
+  orig: 300, 300
+  offset: 20, 65
+  index: -1
+xl_xc_11
+  rotate: false
+  xy: 2, 84
+  size: 226, 170
+  orig: 300, 300
+  offset: 9, 65
+  index: -1
+xl_xc_12
+  rotate: false
+  xy: 231, 313
+  size: 226, 170
+  orig: 300, 300
+  offset: 9, 65
+  index: -1
+xl_xc_13
+  rotate: true
+  xy: 747, 159
+  size: 170, 148
+  orig: 300, 300
+  offset: 31, 76
+  index: -1
+xl_xc_2
+  rotate: false
+  xy: 717, 29
+  size: 128, 128
+  orig: 300, 300
+  offset: 86, 86
+  index: -1
+xl_xc_3
+  rotate: false
+  xy: 584, 28
+  size: 131, 130
+  orig: 300, 300
+  offset: 84, 85
+  index: -1
+xl_xc_4
+  rotate: true
+  xy: 604, 160
+  size: 151, 141
+  orig: 300, 300
+  offset: 65, 75
+  index: -1
+xl_xc_5
+  rotate: false
+  xy: 419, 2
+  size: 163, 157
+  orig: 300, 300
+  offset: 61, 67
+  index: -1
+xl_xc_6
+  rotate: false
+  xy: 230, 9
+  size: 173, 148
+  orig: 300, 300
+  offset: 51, 76
+  index: -1
+xl_xc_7
+  rotate: false
+  xy: 419, 161
+  size: 183, 150
+  orig: 300, 300
+  offset: 42, 75
+  index: -1
+xl_xc_8
+  rotate: false
+  xy: 231, 159
+  size: 186, 152
+  orig: 300, 300
+  offset: 40, 74
+  index: -1
+xl_xc_9
+  rotate: false
+  xy: 676, 331
+  size: 187, 152
+  orig: 300, 300
+  offset: 39, 74
+  index: -1
+zs
+  rotate: false
+  xy: 70, 28
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1

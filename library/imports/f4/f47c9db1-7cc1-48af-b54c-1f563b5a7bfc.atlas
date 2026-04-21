@@ -1,0 +1,125 @@
+
+gameplay_great_elimination_a.png
+size: 893,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower_1
+  rotate: false
+  xy: 408, 15
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1
+flower_2
+  rotate: false
+  xy: 288, 11
+  size: 118, 118
+  orig: 121, 120
+  offset: 2, 1
+  index: -1
+flower_3
+  rotate: false
+  xy: 2, 2
+  size: 118, 116
+  orig: 121, 119
+  offset: 1, 2
+  index: -1
+flower_4
+  rotate: false
+  xy: 144, 128
+  size: 142, 125
+  orig: 144, 129
+  offset: 1, 2
+  index: -1
+flower_5
+  rotate: false
+  xy: 428, 131
+  size: 137, 122
+  orig: 139, 125
+  offset: 1, 2
+  index: -1
+flower_6
+  rotate: false
+  xy: 288, 131
+  size: 138, 122
+  orig: 141, 125
+  offset: 1, 2
+  index: -1
+flower_7
+  rotate: true
+  xy: 693, 127
+  size: 126, 121
+  orig: 130, 124
+  offset: 2, 2
+  index: -1
+flower_8
+  rotate: false
+  xy: 532, 34
+  size: 95, 95
+  orig: 99, 99
+  offset: 2, 2
+  index: -1
+flower_a
+  rotate: false
+  xy: 816, 100
+  size: 72, 72
+  orig: 74, 74
+  offset: 1, 1
+  index: -1
+flower_b
+  rotate: false
+  xy: 629, 5
+  size: 52, 60
+  orig: 54, 63
+  offset: 1, 2
+  index: -1
+flower_c
+  rotate: true
+  xy: 776, 4
+  size: 94, 103
+  orig: 96, 105
+  offset: 1, 1
+  index: -1
+flower_d
+  rotate: true
+  xy: 629, 67
+  size: 62, 54
+  orig: 66, 56
+  offset: 2, 1
+  index: -1
+flower_e
+  rotate: true
+  xy: 2, 120
+  size: 133, 140
+  orig: 138, 143
+  offset: 3, 3
+  index: -1
+flower_f
+  rotate: true
+  xy: 685, 13
+  size: 112, 89
+  orig: 115, 91
+  offset: 2, 1
+  index: -1
+flower_g
+  rotate: false
+  xy: 567, 131
+  size: 124, 122
+  orig: 127, 124
+  offset: 2, 1
+  index: -1
+flower_h
+  rotate: true
+  xy: 144, 10
+  size: 116, 129
+  orig: 119, 131
+  offset: 1, 1
+  index: -1
+flower_j
+  rotate: false
+  xy: 816, 174
+  size: 75, 79
+  orig: 79, 83
+  offset: 2, 2
+  index: -1

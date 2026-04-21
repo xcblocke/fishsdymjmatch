@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Z_dong",
+    "texture": "480e0183-1d0c-41af-8c7a-cfc3073cf7f7",
+    "atlas": "6d92b306-63e3-46f9-99d4-a6a56d095acf",
+    "rect": [
+      3,
+      851,
+      103,
+      105
+    ],
+    "offset": [
+      -4,
+      3
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

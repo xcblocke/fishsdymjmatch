@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c619a28e-3b3b-435a-aee8-27b31cb2f9d2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 962,
+  "height": 804,
+  "platformSettings": {},
+  "subMetas": {
+    "gameplay_collision_specialCard": {
+      "ver": "1.0.6",
+      "uuid": "3ec2ea81-d6e7-4438-90eb-a47c555d36e3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c619a28e-3b3b-435a-aee8-27b31cb2f9d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 959,
+      "height": 801,
+      "rawWidth": 962,
+      "rawHeight": 804,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

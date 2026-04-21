@@ -1,0 +1,76 @@
+
+gameplay_special_elimination.png
+size: 502,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baidian_001
+  rotate: false
+  xy: 256, 2
+  size: 38, 39
+  orig: 50, 51
+  offset: 6, 6
+  index: -1
+huoguo_b_14
+  rotate: false
+  xy: 426, 976
+  size: 54, 55
+  orig: 64, 63
+  offset: 5, 4
+  index: -1
+n_halo
+  rotate: true
+  xy: 2, 289
+  size: 317, 293
+  orig: 340, 340
+  offset: 12, 23
+  index: -1
+tx/baidian_002
+  rotate: false
+  xy: 296, 7
+  size: 34, 34
+  orig: 57, 55
+  offset: 11, 10
+  index: -1
+yihu_2
+  rotate: false
+  xy: 297, 294
+  size: 100, 100
+  orig: 106, 106
+  offset: 3, 3
+  index: -1
+yihu_22
+  rotate: false
+  xy: 399, 294
+  size: 100, 100
+  orig: 106, 106
+  offset: 3, 3
+  index: -1
+yihu_6
+  rotate: false
+  xy: 2, 26
+  size: 252, 261
+  orig: 258, 268
+  offset: 3, 4
+  index: -1
+yihu_7
+  rotate: false
+  xy: 297, 396
+  size: 200, 210
+  orig: 202, 212
+  offset: 1, 1
+  index: -1
+yihu_7_1
+  rotate: false
+  xy: 256, 43
+  size: 244, 244
+  orig: 254, 264
+  offset: 5, 10
+  index: -1
+yihu_8
+  rotate: false
+  xy: 2, 608
+  size: 422, 423
+  orig: 438, 439
+  offset: 8, 9
+  index: -1

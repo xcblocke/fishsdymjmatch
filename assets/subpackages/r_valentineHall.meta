@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "a9605a71-9864-438c-951d-344a4aec103f",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_valentineHall",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

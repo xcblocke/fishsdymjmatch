@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "5fb47a2d-5595-440b-8429-277b73f4f96b",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_travelMedalPush",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,20 @@
+
+journey_map_light.png
+size: 392,317
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/blast_12
+  rotate: false
+  xy: 2, 245
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Fx/blast_13
+  rotate: true
+  xy: 74, 2
+  size: 313, 316
+  orig: 313, 316
+  offset: 0, 0
+  index: -1

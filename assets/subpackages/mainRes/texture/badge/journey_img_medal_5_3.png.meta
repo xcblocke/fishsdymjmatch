@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bd3e5a65-34e2-40a7-878f-86f735f703a6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": false,
+  "width": 355,
+  "height": 397,
+  "platformSettings": {},
+  "subMetas": {
+    "journey_img_medal_5_3": {
+      "ver": "1.0.6",
+      "uuid": "02618b55-ae18-4d88-bc2b-02f2878cf4d2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bd3e5a65-34e2-40a7-878f-86f735f703a6",
+      "trimType": "none",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 355,
+      "height": 397,
+      "rawWidth": 355,
+      "rawHeight": 397,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

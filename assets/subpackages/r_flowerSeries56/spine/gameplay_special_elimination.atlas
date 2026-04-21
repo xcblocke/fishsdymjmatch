@@ -1,0 +1,125 @@
+
+gameplay_special_elimination.png
+size: 787,248
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+aixin1
+  rotate: true
+  xy: 742, 79
+  size: 36, 31
+  orig: 38, 33
+  offset: 1, 1
+  index: -1
+aixin2
+  rotate: false
+  xy: 4, 6
+  size: 271, 238
+  orig: 273, 240
+  offset: 1, 1
+  index: -1
+bizi
+  rotate: true
+  xy: 716, 119
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+gaoguang1
+  rotate: false
+  xy: 774, 158
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+gaoguang2
+  rotate: false
+  xy: 774, 145
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+gebo1
+  rotate: true
+  xy: 549, 9
+  size: 74, 79
+  orig: 76, 81
+  offset: 1, 1
+  index: -1
+gebo2
+  rotate: false
+  xy: 549, 87
+  size: 83, 81
+  orig: 85, 83
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 279, 9
+  size: 235, 266
+  orig: 235, 266
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 636, 65
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 724, 171
+  size: 73, 48
+  orig: 75, 50
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: false
+  xy: 636, 117
+  size: 76, 51
+  orig: 78, 53
+  offset: 1, 1
+  index: -1
+tx/glow1
+  rotate: false
+  xy: 683, 16
+  size: 46, 45
+  orig: 58, 58
+  offset: 6, 6
+  index: -1
+yanbai1
+  rotate: true
+  xy: 694, 66
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+yanbai2
+  rotate: false
+  xy: 632, 16
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+yanzhu1
+  rotate: false
+  xy: 742, 41
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1
+yanzhu2
+  rotate: true
+  xy: 733, 4
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 549, 172
+  size: 171, 72
+  orig: 171, 72
+  offset: 0, 0
+  index: -1

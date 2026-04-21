@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "main_btn_red_up",
+    "texture": "39e6b72f-03c6-4a30-ac92-937d654861f7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      166
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      166
+    ],
+    "capInsets": [
+      50,
+      0,
+      50,
+      0
+    ]
+  }
+}

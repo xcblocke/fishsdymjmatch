@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "e09601b7-719d-466a-ac38-ec10505e91e3",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_matchTimeDisplay",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

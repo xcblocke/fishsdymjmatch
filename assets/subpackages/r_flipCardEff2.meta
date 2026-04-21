@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "3f98fdf4-6934-40ca-890c-3ee86bac5122",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "r_flipCardEff2",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

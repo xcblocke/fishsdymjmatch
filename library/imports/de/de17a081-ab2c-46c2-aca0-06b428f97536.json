@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Z_zhong",
+    "texture": "00dcfa6c-a03f-4e4d-b5a7-ed8cef04f684",
+    "atlas": "68a7297a-a47c-4eb3-8d71-2dfcc1a4ad5c",
+    "rect": [
+      3,
+      997,
+      105,
+      135
+    ],
+    "offset": [
+      -6,
+      5
+    ],
+    "originalSize": [
+      157,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

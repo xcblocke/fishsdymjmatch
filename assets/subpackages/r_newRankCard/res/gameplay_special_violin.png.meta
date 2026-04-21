@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "83344359-3028-4f41-96a4-eac261f32fe4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": false,
+  "width": 157,
+  "height": 195,
+  "platformSettings": {},
+  "subMetas": {
+    "gameplay_special_violin": {
+      "ver": "1.0.6",
+      "uuid": "f242b07f-7204-4f71-8a3a-c2982c2c2401",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "83344359-3028-4f41-96a4-eac261f32fe4",
+      "trimType": "none",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 157,
+      "height": 195,
+      "rawWidth": 157,
+      "rawHeight": 195,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

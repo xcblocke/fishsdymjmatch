@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "profile_img_jdt1",
+    "texture": "bb009fc8-c95e-4114-bc9a-a92308d32643",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      86,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      43
+    ],
+    "capInsets": [
+      30,
+      0,
+      30,
+      0
+    ]
+  }
+}

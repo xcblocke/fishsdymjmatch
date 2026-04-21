@@ -1,0 +1,13 @@
+
+gameplay_flip_efx.png
+size: 253,64
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+fz_guang_1
+  rotate: false
+  xy: 4, 4
+  size: 245, 56
+  orig: 245, 56
+  offset: 0, 0
+  index: -1

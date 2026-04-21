@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "9c716da9-3430-4ca7-9058-f51fa8575444",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_colorSetMerge",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

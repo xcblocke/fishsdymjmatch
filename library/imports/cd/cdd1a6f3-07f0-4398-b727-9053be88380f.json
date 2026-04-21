@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameplay_guide_finger",
+    "texture": "31b37015-2cd5-46b9-b446-6010232504fc",
+    "atlas": "",
+    "rect": [
+      6,
+      2,
+      468,
+      259
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      476,
+      263
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

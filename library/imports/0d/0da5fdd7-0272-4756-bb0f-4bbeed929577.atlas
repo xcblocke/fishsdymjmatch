@@ -1,0 +1,111 @@
+
+gameplay_special_elimination.png
+size: 409,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+emo1
+  rotate: false
+  xy: 300, 131
+  size: 103, 104
+  orig: 104, 106
+  offset: 0, 1
+  index: -1
+emo10
+  rotate: false
+  xy: 234, 39
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+emo11
+  rotate: true
+  xy: 349, 3
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+emo2
+  rotate: true
+  xy: 234, 2
+  size: 35, 29
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+emo3
+  rotate: true
+  xy: 336, 50
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+emo4
+  rotate: true
+  xy: 329, 102
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+emo6
+  rotate: true
+  xy: 2, 4
+  size: 231, 230
+  orig: 237, 236
+  offset: 3, 3
+  index: -1
+emo7
+  rotate: false
+  xy: 299, 3
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+emo8
+  rotate: true
+  xy: 295, 46
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+emo9
+  rotate: false
+  xy: 234, 100
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+lp_4
+  rotate: true
+  xy: 374, 105
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+lp_5
+  rotate: false
+  xy: 300, 101
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+lp_6
+  rotate: false
+  xy: 384, 54
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+lp_7
+  rotate: true
+  xy: 265, 4
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+lp_9
+  rotate: false
+  xy: 391, 111
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+gameplay_touch.png
+size: 88,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main_img_heart
+  rotate: false
+  xy: 2, 2
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1

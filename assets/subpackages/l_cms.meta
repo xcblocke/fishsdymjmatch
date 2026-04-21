@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "df362334-ba03-4509-84ec-9748b355a6fd",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_cms",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "result_boxBar_qrj",
+    "texture": "1a925f6e-c377-4c69-b0c1-a8ad3df7e1c8",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      671,
+      139
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      675,
+      143
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.Material",
+  "_name": "gradient_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "25ab408e-cce9-408e-b5bd-b649d3ee1996"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      },
+      "props": {
+        "angle": 90,
+        "gradientTex": {
+          "__uuid__": "eb52f241-7c9f-4d58-898d-c0cd710a5339"
+        }
+      }
+    }
+  }
+}

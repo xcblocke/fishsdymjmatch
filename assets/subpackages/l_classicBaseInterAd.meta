@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "87fa83bf-9d7d-42cd-8319-09ce5df643b1",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "l_classicBaseInterAd",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}
