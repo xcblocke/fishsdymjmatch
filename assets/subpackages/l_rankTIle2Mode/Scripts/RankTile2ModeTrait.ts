@@ -33,15 +33,8 @@ export default class RankTile2ModeTrait extends Trait {
         n.getInstance().levelPassed();
         if (Tile2NormalGameData.getInstance().getRankCardCount() > 0) {
           n.getInstance().addGameCount();
-          this.pushController("RankBonusController", {
-            isReuse: true,
-            isShowAction: false,
-            instance: e.ins
-          });
-          t({
-            isBreak: true,
-            returnType: TraitCallbackReturnType.return
-          });
+          // Skip rank bonus page and continue to normal win settlement directly.
+          t();
         } else {
           n.getInstance().resetWinStreakCount();
           t();

@@ -224,15 +224,8 @@ export default class RankTrait extends Trait {
       RankModel.getInstance().levelPassed();
       if (NormalGameData.getInstance().getRankCardCount() > 0) {
         RankModel.getInstance().addGameCount();
-        this.pushController("RankBonusController", {
-          isReuse: true,
-          isShowAction: false,
-          instance: t.ins
-        });
-        e({
-          isBreak: true,
-          returnType: TraitCallbackReturnType.return
-        });
+        // Skip rank bonus page and continue to normal win settlement directly.
+        e();
       } else {
         RankModel.getInstance().resetWinStreakCount();
         e();
