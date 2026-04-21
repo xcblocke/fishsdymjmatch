@@ -24,7 +24,7 @@ export default class TipsView extends UIView {
   }
   doAction(e) {
     e.stopAllActions();
-    e.runAction(cc.sequence(cc.delayTime(0.1), cc.spawn(cc.fadeOut(0.5), cc.moveBy(0.5, 0, 200))));
+    e.runAction(cc.sequence(cc.delayTime(0.1), cc.spawn(cc.fadeOut(1。5), cc.moveBy(1.8, 0, 200))));
   }
   showTips(e, t) {
     var o = this;

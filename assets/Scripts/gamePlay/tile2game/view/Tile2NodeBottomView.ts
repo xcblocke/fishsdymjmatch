@@ -3,6 +3,7 @@ import { GameInteraction } from '../../../GameInteraction/GameInteraction';
 import BaseUI from '../../../framework/ui/BaseUI';
 import { DotGameBtnClick, EBoardClickType } from '../../../dot/DGameBtnClick';
 import { EItemType } from '../../../user/IUserData';
+import UserModel from '../../user/UserModel';
 @mj.class
 export default class Tile2NodeBottomView extends BaseUI {
   _btnShuffle = null;
@@ -84,10 +85,28 @@ export default class Tile2NodeBottomView extends BaseUI {
     e.parent.getChildByName("GrayMask").active = true;
   }
   updateShuffleNum(e) {
-    this.updatePropNode(this._btnShuffleProp, e);
+    if (this._btnShuffleProp) {
+      var t = Math.max(0, e);
+      this._btnShuffleProp.active = true;
+      this._btnShuffleProp.getChildByName("nodeNum").active = true;
+      this._btnShuffleProp.getChildByName("nodeNum").getChildByName("labelNum").getComponent(cc.Label).string = t.toString();
+      this._btnShuffleProp.getChildByName("nodeVideo").active = false;
+      this._btnShuffleProp.getChildByName("nodeLock").active = false;
+      this._btnShuffleProp.getChildByName("nodeUnlimit").active = false;
+      this._btnShuffleProp.parent.getChildByName("GrayMask").active = false;
+    }
   }
   updateHitTipsNum(e) {
-    this.updatePropNode(this._btnHitTipsProp, e);
+    if (this._btnHitTipsProp) {
+      var t = Math.max(0, e);
+      this._btnHitTipsProp.active = true;
+      this._btnHitTipsProp.getChildByName("nodeNum").active = true;
+      this._btnHitTipsProp.getChildByName("nodeNum").getChildByName("labelNum").getComponent(cc.Label).string = t.toString();
+      this._btnHitTipsProp.getChildByName("nodeVideo").active = false;
+      this._btnHitTipsProp.getChildByName("nodeLock").active = false;
+      this._btnHitTipsProp.getChildByName("nodeUnlimit").active = false;
+      this._btnHitTipsProp.parent.getChildByName("GrayMask").active = false;
+    }
   }
   updateRevertNum(e) {
     this.updatePropNode(this._btnRevertProp, e);
@@ -98,6 +117,8 @@ export default class Tile2NodeBottomView extends BaseUI {
       DotGameBtnClick.dotGame(EBoardClickType.Shuffle);
       if (this.isPropLocked(this._btnShuffleProp)) {
         this.showLockTips(EItemType.Shuffle);
+      } else if (UserModel.getInstance().getCurrentGameData().getShuffleNums() < 1) {
+        mj.EventManager.emit("SHOWTIPS", "Insufficient number of props.", cc.v2(0, 0));
       } else {
         GameInteraction.input({
           inputType: EGameInputEnum.Tile2Shuffle,
@@ -113,6 +134,8 @@ export default class Tile2NodeBottomView extends BaseUI {
       DotGameBtnClick.dotGame(EBoardClickType.Hint);
       if (this.isPropLocked(this._btnHitTipsProp)) {
         this.showLockTips(EItemType.Hint);
+      } else if (UserModel.getInstance().getCurrentGameData().getHitTipsNums() < 1) {
+        mj.EventManager.emit("SHOWTIPS", "Insufficient number of props.", cc.v2(0, 0));
       } else {
         GameInteraction.input({
           inputType: EGameInputEnum.Tile2HitTips

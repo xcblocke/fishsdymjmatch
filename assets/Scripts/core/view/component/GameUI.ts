@@ -100,11 +100,12 @@ export default class GameUI extends cc.Component {
     if (UserModel.getInstance().getCurrentGameType() !== MjGameType.Classic) {
       var t = this.node.getChildByName("nodeBottom").active;
       t || (this.node.getChildByName("nodeBottom").active = true);
-      var o = e <= 0;
+      var o = Math.max(0, e);
       this.btnHitTipsProp.active = true;
-      this.btnHitTipsProp.getChildByName("nodeNum").active = !o;
-      this.btnHitTipsProp.getChildByName("nodeNum").getChildByName("labelNum").getComponent(cc.Label).string = e.toString();
-      this.btnHitTipsProp.getChildByName("nodeVideo").active = o;
+      this.btnHitTipsProp.getChildByName("nodeNum").active = true;
+      this.btnHitTipsProp.getChildByName("nodeNum").getChildByName("labelNum").getComponent(cc.Label).string = o.toString();
+      // Disable watch-ad entrance on hint prop; only show numeric count.
+      this.btnHitTipsProp.getChildByName("nodeVideo").active = false;
       this.node.getChildByName("nodeBottom").active = t;
     }
   }
@@ -113,17 +114,23 @@ export default class GameUI extends cc.Component {
     if (UserModel.getInstance().getCurrentGameType() !== MjGameType.Classic) {
       var t = this.node.getChildByName("nodeBottom").active;
       t || (this.node.getChildByName("nodeBottom").active = true);
-      var o = e <= 0;
+      var o = Math.max(0, e);
       this.btnShuffleProp.active = true;
-      this.btnShuffleProp.getChildByName("nodeNum").active = !o;
-      this.btnShuffleProp.getChildByName("nodeNum").getChildByName("labelNum").getComponent(cc.Label).string = e.toString();
-      this.btnShuffleProp.getChildByName("nodeVideo").active = o;
+      this.btnShuffleProp.getChildByName("nodeNum").active = true;
+      this.btnShuffleProp.getChildByName("nodeNum").getChildByName("labelNum").getComponent(cc.Label).string = o.toString();
+      // Disable watch-ad entrance on shuffle prop; only show numeric count.
+      this.btnShuffleProp.getChildByName("nodeVideo").active = false;
       this.node.getChildByName("nodeBottom").active = t;
     }
   }
   @mj.traitEvent("GameUI_onBtnHitTips")
   onBtnHitTips() {
     DotGameBtnClick.dotGame(EBoardClickType.Hint);
+    var e = UserModel.getInstance().getCurrentGameData();
+    if (!e || e.getHitTipsNums() < 1) {
+      mj.EventManager.emit("SHOWTIPS", "Insufficient number of props.", cc.v2(0, 0));
+      return;
+    }
     GameInteraction.input({
       inputType: EGameInputEnum.HitTips
     });
@@ -131,6 +138,11 @@ export default class GameUI extends cc.Component {
   @mj.traitEvent("GameUI_onBtnShuffle")
   onBtnShuffle() {
     DotGameBtnClick.dotGame(EBoardClickType.Shuffle);
+    var e = UserModel.getInstance().getCurrentGameData();
+    if (!e || e.getShuffleNums() < 1) {
+      mj.EventManager.emit("SHOWTIPS", "Insufficient number of props.", cc.v2(0, 0));
+      return;
+    }
     GameInteraction.input({
       inputType: EGameInputEnum.Shuffle,
       from: EShuffleFrom.Normal
