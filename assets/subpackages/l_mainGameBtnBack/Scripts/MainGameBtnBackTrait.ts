@@ -18,24 +18,14 @@ export default class MainGameBtnBackTrait extends Trait {
       n = null === (a = null == o ? void 0 : o.node) || void 0 === a ? void 0 : a.getChildByName("nodeTop"),
       r = null == n ? void 0 : n.getChildByName("btnBack");
     if (r) {
-      var i = UserModel.getInstance().isGuideFinished();
-      i || (i = this.localData.isGuidedFinished);
-      r.active = i;
-      r.getComponent(BaseUI) || this.addBtnBackClickEvent(r);
+      // Hall is removed from the startup flow, so keep back-to-hall button disabled.
+      r.active = false;
     }
     t();
   }
   onGuideBhv_finish(e, t) {
-    var a, o;
     this.localData.isGuidedFinished = true;
-    var n = null === (o = null === (a = e.ins) || void 0 === a ? void 0 : a.context) || void 0 === o ? void 0 : o.gameView;
-    if (n && n.topRootNode) {
-      var r = n.topRootNode.getChildByName("btnBack");
-      if (r) {
-        r.active = true;
-        r.getComponent(BaseUI) || this.addBtnBackClickEvent(r);
-      }
-    }
+    // Keep hidden even after guide completion.
     t();
   }
   addBtnBackClickEvent(e) {

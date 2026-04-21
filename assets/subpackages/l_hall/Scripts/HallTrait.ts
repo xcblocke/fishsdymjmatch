@@ -17,27 +17,8 @@ export default class HallTrait extends Trait {
     return o.getTotalGames() >= r;
   }
   onLoginM_enterGame(t, e) {
-    var o,
-      r = this;
-    if (null === (o = this.traitData) || void 0 === o ? void 0 : o.isGuideColdStartBack) {
-      var n = mj.getClassByName("GuideTrait"),
-        a = UserModel.getInstance();
-      if (n && n.getInstance() && true === n.getInstance().eventEnabled && !a.isGuideFinished() && 1 == a.getTotalGames()) {
-        e();
-        return;
-      }
-    }
-    if (this.isGuidePass()) {
-      DotGamePageShow.dot(EPageShowType.LoadingToMainPage);
-      this.pushController("HallController", {
-        isReplace: true
-      }, function () {
-        r.dispatchEvent(HIDELOADING);
-      });
-      e({
-        returnType: TraitCallbackReturnType.return
-      });
-    } else e();
+    // Disable hall redirect on startup; keep default login flow entering game directly.
+    e();
   }
   onUISetDlg_adjustPH(t, e) {
     e();

@@ -1,6 +1,5 @@
 import Trait from '../../../Scripts/framework/trait/Trait';
 import LoginModel from '../../../Scripts/gamePlay/login/model/LoginModel';
-import { UILanguageSwitch } from './UILanguageSwitch';
 import I18NStrings from '../../../Scripts/framework/data/I18NStrings';
 import { formatLanguageCodeToString, formatLanguageStringToCode } from '../../../Scripts/framework/utils/CommonUtils';
 @mj.trait
@@ -19,23 +18,17 @@ export default class LanguageSelectorTrait extends Trait {
   initLanguage() {
     if (!this.localData.isFirstInit) {
       this.localData.isFirstInit = 1;
-      var t = LoginModel.getInstance(),
-        e = this.getAssignLanguage();
-      if (e) {
-        t.language = e;
-        this.changeLanguage(t.language, true, this.getSupportedLanguages(), true);
-      } else this.changeLanguage(t.systemLanguage, true, this.getSupportedLanguages(), true);
+      // Force English as startup default language.
+      this.changeLanguage("EN_US", true, this.getSupportedLanguages(), true);
     }
   }
   onUISetHome_adjustPH(t, e) {
-    this.addLanguageSwitchButtonToList(t, function () {
-      e();
-    });
+    // Language switch item is disabled in settings panel.
+    e();
   }
   onUISetDlg_adjustPH(t, e) {
-    this.addLanguageSwitchButtonToList(t, function () {
-      e();
-    });
+    // Language switch item is disabled in settings panel.
+    e();
   }
   addLanguageSwitchButtonToList(t, e) {
     this.createLanguageSwitchButton(function (o) {
