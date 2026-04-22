@@ -235,18 +235,7 @@ export default class TaskTrait extends Trait {
       o.hasFinishStage = false;
       o.cacheBannerInfo = null;
       o.updateTaskProgressBaseline();
-      if (!s && !p) {
-        e();
-        return true;
-      }
-      if (s) {
-        this.showTaskBanner(n, e, s, p);
-        return false;
-      }
-      if (p) {
-        this.showTask(e);
-        return false;
-      }
+      // 不在胜利结算链中弹出每日任务（TaskController / TaskBanner）；进度与 args 仍已更新
       e();
       return true;
     } catch (t) {
