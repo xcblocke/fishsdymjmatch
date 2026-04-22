@@ -13,6 +13,8 @@ import UIView from '../../framework/ui/UIView';
 import { EffectLayer } from '../../constant/EffectLayerEnum';
 import { AniTimeScale } from '../../framework/utils/CommonUtils';
 import UserModel from '../../gamePlay/user/UserModel';
+import { Tile2BeforeEndEffect } from '../../Tile2BeforeEndEffect';
+import { Tile2EndEffect } from '../../Tile2EndEffect';
 this && this.__read;
 this && this.__spread;
 @mj.class
@@ -29,6 +31,8 @@ export default class MainGameView extends UIView {
   _count = 0;
   _offsetY = 0;
   _startSimulator = false;
+  /** DEV: 非 null 时表示已注册键盘一键过关 */
+  _devInstantWinOnKey = null;
   static prefabUrl = "prefabs/game/MainGame";
   static defaultTheme = "defaultTheme";
   get gameType() {
@@ -213,6 +217,7 @@ export default class MainGameView extends UIView {
   }
   onDestroy() {
     var t, o;
+    this._devInstantWinOnKey && (cc.systemEvent.off(cc.SystemEvent.EventType.KEY_DOWN, this._devInstantWinOnKey, this), (this._devInstantWinOnKey = null));
     super.onDestroy.call(this);
     cc.macro.ENABLE_MULTI_TOUCH = false;
     this.clearBehaviorParser();
@@ -454,6 +459,71 @@ export default class MainGameView extends UIView {
   onSimulatorInput(e) {
     this.delegate.pushInput(e);
   }
+  /**
+   * 仅改 modifyWin 不会排队结算动效；主线/旅行等走 SkipAutoMerge 与「跳过自动合并」相同；Tile2 单独排队 Tile2End。
+   */
+  devGmRequestInstantWin() {
+    var e = this.delegate,
+      t = null == e ? void 0 : e._gameSimulator,
+      o = null == t ? void 0 : t.gameContext;
+    if (!t || !o) return;
+    if (o.gameType === MjGameType.Tile2Normal) {
+      this._devGmDisplayTile2Win(t);
+      return;
+    }
+    this.onSimulatorInput({
+      inputType: EGameInputEnum.SkipAutoMerge,
+      type: "devGm"
+    });
+  }
+  _devGmDisplayTile2Win(e) {
+    var t,
+      o = e._gameController,
+      n = null == o ? void 0 : o._inputMap,
+      i = null == n ? void 0 : n[EGameInputEnum.UserOperate];
+    if (!i) return;
+    var r = {
+        inputType: EGameInputEnum.UserOperate
+      },
+      a = e.gameContext;
+    try {
+      i.input = r;
+      i.initRoot(r, "DevGmTile2Win");
+      var l = a.gameTimeData.time;
+      a.gameModifier.modifyWinForTile2();
+      var s = a.getGameData(),
+        c = new Tile2BeforeEndEffect({}),
+        u = new Tile2EndEffect({
+          score: s.getScore(),
+          settlementScore: s.getSettlementScore(),
+          perfectMaxScore: a.scoreModifier.getPerfectMaxScore(),
+          curLv: s.getLevelId(),
+          comboNum: s.getComboNum(),
+          curMaxCombo: s.getCurMaxCombo(),
+          gameDuration: l,
+          prevScore: s.getLastWinScore(),
+          prevComboNum: s.getLastWinComboNum(),
+          prevGameDuration: s.getLastWinDuration(),
+          maxComboNum: s.getCurLevelComboMaxLimit()
+        }),
+        p = i.addParallelParentNode(),
+        f = i.addSerialParentNode(p);
+      i.addSerialNode(f, c);
+      i.addSerialNode(f, u);
+      var d = i.parse(r);
+      if (d) {
+        e._logCount++;
+        r.logIndex = e._logCount;
+        e._disPlayCount++;
+        null === (t = e._gameDisplay) || void 0 === t || t.display(EGameInputEnum.UserOperate, d, r.logIndex);
+      } else {
+        var h;
+        null === (h = e._gameDisplay) || void 0 === h || h.display(EGameInputEnum.UserOperate, null, 0);
+      }
+    } catch (m) {
+      cc.warn("[DEV GM] Tile2 instant win failed", m);
+    }
+  }
   clearBehaviorParser() {
     if (this._gameBehaviorParser) {
       this._gameBehaviorParser.abort();
@@ -474,7 +544,19 @@ export default class MainGameView extends UIView {
   startSimulator() {
     this._startSimulator = true;
   }
-  initGm() {}
+  initGm() {
+    var DEV_GM_FORCE = false,
+      g = typeof globalThis !== "undefined" ? globalThis : void 0,
+      envGm = !!(g && (g["CC_DEBUG"] || g["CC_DEV"]));
+    if (!DEV_GM_FORCE && !envGm) return;
+    var t = this;
+    this._devInstantWinOnKey = function (o) {
+      var n = o.keyCode === 87 || o.keyCode === cc.macro.KEY.w;
+      n && t.devGmRequestInstantWin();
+    };
+    cc.systemEvent.on(cc.SystemEvent.EventType.KEY_DOWN, this._devInstantWinOnKey, this);
+    cc.log("[DEV GM] MainGameView: 已注册，游戏中按 W 一键胜利（Web 请先点击游戏画布获得焦点）");
+  }
   stopShake() {
     if (this._shakeTween) {
       this._shakeTween.stop();
