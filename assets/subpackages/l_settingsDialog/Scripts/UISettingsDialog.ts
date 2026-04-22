@@ -120,8 +120,9 @@ export class UISettingsDialog extends UIView {
     }
   }
   needShowResetSkinBtn() {
-    var t = UserModel.getInstance().getCurrentGameType();
-    return !!this.hasShowResetSkinBtn(t) || !!this.hasCustomTheme(t);
+    return false;
+    // var t = UserModel.getInstance().getCurrentGameType();
+    // return !!this.hasShowResetSkinBtn(t) || !!this.hasCustomTheme(t);
   }
   hasShowResetSkinBtn(t) {
     var e = UserModel.getInstance().getGameDataByGameType(t);
