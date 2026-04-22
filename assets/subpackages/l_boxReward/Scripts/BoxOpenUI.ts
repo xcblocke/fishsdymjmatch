@@ -3,7 +3,6 @@ import { EVT_MSG_KEY_SIMULATOR_NEXTLEVEL } from '../../../Scripts/core/simulator
 import { GameInteraction } from '../../../Scripts/GameInteraction/GameInteraction';
 import I18NStrings from '../../../Scripts/framework/data/I18NStrings';
 import UIView from '../../../Scripts/framework/ui/UIView';
-import { isNetworkAvailable } from '../../../Scripts/framework/utils/CommonUtils';
 import AdManager from '../../../Scripts/base/ad/AdManager';
 import BaseSpine from '../../../Scripts/gamePlay/base/ui/BaseSpine';
 import { DotAdRewardEnter } from '../../../Scripts/gamePlay/dot/DAdRewardEnter';
@@ -357,7 +356,8 @@ export default class BoxOpenUI extends UIView {
   }
   @mj.traitEvent("BoxOpenUI_isShowAdBtn")
   isShowAdBtn() {
-    return isNetworkAvailable();
+    // return isNetworkAvailable();
+    return false;
   }
   @mj.traitEvent("BoxOpenUI_plyRwdTipAnim")
   playRewardsTipAnim(t) {

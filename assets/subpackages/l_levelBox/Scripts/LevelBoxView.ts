@@ -413,7 +413,8 @@ export default class LevelBoxView extends UIView {
   }
   @mj.traitEvent("LvBoxVw_isShowAdBtn")
   isShowAdBtn() {
-    return isNetworkAvailable();
+    return false;
+    // return isNetworkAvailable();
   }
   playRewardsTipAnim() {
     var t = this;

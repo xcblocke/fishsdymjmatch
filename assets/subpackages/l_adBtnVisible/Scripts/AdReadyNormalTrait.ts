@@ -39,15 +39,12 @@ export default class AdReadyNormalTrait extends Trait {
     e();
   }
   onLvBoxVw_isShowAdBtn(t, e) {
-    if (this.isNeedReadShowAd()) {
-      e({
-        returnType: TraitCallbackReturnType.return,
-        isBreak: true,
-        returnVal: this.isReadyAd()
-      });
-    } else {
-      e();
-    }
+    // Force disable ad multiplier button on level reward popups.
+    e({
+      returnType: TraitCallbackReturnType.return,
+      isBreak: true,
+      returnVal: false
+    });
   }
   onLvBoxVw_adFailed(t, e) {
     this.isCoolStartClaimed() && this.clearRewardConfig();
@@ -59,15 +56,12 @@ export default class AdReadyNormalTrait extends Trait {
     e();
   }
   onBoxOpenUI_isShowAdBtn(t, e) {
-    if (this.isNeedReadShowAd()) {
-      e({
-        returnType: TraitCallbackReturnType.return,
-        isBreak: true,
-        returnVal: this.isReadyAd()
-      });
-    } else {
-      e();
-    }
+    // Force disable ad multiplier button on box open popup.
+    e({
+      returnType: TraitCallbackReturnType.return,
+      isBreak: true,
+      returnVal: false
+    });
   }
   onBoxOpenUI_adSuccess(t, e) {
     var o, r;
