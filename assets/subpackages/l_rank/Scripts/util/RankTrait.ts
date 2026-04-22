@@ -162,12 +162,14 @@ export default class RankTrait extends Trait {
     return false;
   }
   popIntroduceView(t = false) {
-    DotGameBtnClick.dotRank(ERankClickType.AutoRankIntroduceView);
-    ControllerManager.getInstance().pushViewByController("RankIntroduceController", {
-      isReuse: true,
-      isShowAction: true,
-      isBtnCollect: t
-    });
+    // DotGameBtnClick.dotRank(ERankClickType.AutoRankIntroduceView);
+    // ControllerManager.getInstance().pushViewByController("RankIntroduceController", {
+    //   isReuse: true,
+    //   isShowAction: true,
+    //   isBtnCollect: t
+    // });
+
+    void t;
   }
   createHallButton(t) {
     var e = this;

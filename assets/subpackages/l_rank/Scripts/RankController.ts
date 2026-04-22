@@ -41,10 +41,11 @@ export default class RankController extends ViewController {
     }
   }
   showTips() {
-    ControllerManager.getInstance().pushViewByController("RankIntroduceController", {
-      isReuse: true,
-      isShowAction: true,
-      isAutoOpen: false
-    });
+    // ControllerManager.getInstance().pushViewByController("RankIntroduceController", {
+    //   isReuse: true,
+    //   isShowAction: true,
+    //   isAutoOpen: false
+    // });
+    // 弹出 RankIntroduce 引导页
   }
 }
