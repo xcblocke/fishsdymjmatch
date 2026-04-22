@@ -547,15 +547,27 @@ export default class MainGameView extends UIView {
   initGm() {
     var DEV_GM_FORCE = false,
       g = typeof globalThis !== "undefined" ? globalThis : void 0,
-      envGm = !!(g && (g["CC_DEBUG"] || g["CC_DEV"]));
-    if (!DEV_GM_FORCE && !envGm) return;
+      envGm = !!(g && (g["CC_DEBUG"] || g["CC_DEV"])),
+      w = typeof window !== "undefined" ? window : void 0,
+      hasGmQuery = false;
+    try {
+      if (w && w.location && typeof w.location.search === "string") {
+        var search = w.location.search;
+        if (search.indexOf("?", 1) !== -1) {
+          search = "?" + search.slice(1).replace(/\?/g, "&");
+        }
+        var q = new URLSearchParams(search);
+        hasGmQuery = q.get("gm") === "1" || q.get("debug") === "1";
+      }
+    } catch (e) {}
+    if (!DEV_GM_FORCE && !envGm && !hasGmQuery) return;
     var t = this;
     this._devInstantWinOnKey = function (o) {
       var n = o.keyCode === 87 || o.keyCode === cc.macro.KEY.w;
       n && t.devGmRequestInstantWin();
     };
     cc.systemEvent.on(cc.SystemEvent.EventType.KEY_DOWN, this._devInstantWinOnKey, this);
-    cc.log("[DEV GM] MainGameView: 已注册，游戏中按 W 一键胜利（Web 请先点击游戏画布获得焦点）");
+    cc.log("[DEV GM] MainGameView: 已注册，对局中按 W 一键胜利。Web：地址用 ?_t=xxx&gm=1（多个参数用 &，不要两个 ?），并先点击画布。");
   }
   stopShake() {
     if (this._shakeTween) {
