@@ -4,6 +4,10 @@ import { EGameEvent } from '../../../Scripts/simulator/constant/GameEvent';
 import BaseSprite from '../../../Scripts/gamePlay/base/ui/BaseSprite';
 import { ERedDotType, MjGameType } from '../../../Scripts/core/simulator/constant/GameTypeEnums';
 import UserModel from '../../../Scripts/gamePlay/user/UserModel';
+
+/** 主界面右上角设置（齿轮）红点；设为 true 可恢复显示 */
+var SHOW_GAME_SETTINGS_RED_DOT = false;
+
 @mj.trait
 @mj.class("SettingRedDotTrait")
 export default class SettingRedDotTrait extends Trait {
@@ -75,6 +79,7 @@ export default class SettingRedDotTrait extends Trait {
     this.createSettingBackRedDot(null === (o = t.ins) || void 0 === o ? void 0 : o.node);
   }
   createGameSettingRedDot(t) {
+    if (!SHOW_GAME_SETTINGS_RED_DOT) return;
     if (cc.isValid(t)) {
       if (!cc.isValid(this._gameSettingRedDot)) {
         var e = this.createRedDotNode();
