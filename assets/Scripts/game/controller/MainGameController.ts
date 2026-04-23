@@ -1,5 +1,6 @@
 import DynamicCurve from '../../types/DynamicCurve';
 import ExtractTool from '../../core/extractQuestion/ExtractTool';
+import ExtractNormalLevels from '../../core/extractQuestion/ExtractNormalLevels';
 import { EGameInputEnum, InputRunType } from '../../simulator/constant/GameInputEnum';
 import { MjGameType, EAudioID } from '../../core/simulator/constant/GameTypeEnums';
 import { GameContext } from '../../core/simulator/context/GameContext';
@@ -11,6 +12,7 @@ import { GameTime } from '../../core/view/GameInteraction/GameTime';
 import GameObjectPool from '../../core/view/pool/GameObjectPool';
 import ViewController, { viewMode } from '../../framework/controller/ViewController';
 import ControllerManager from '../../framework/manager/ControllerManager';
+import { resManager } from '../../framework/manager/ResManager';
 import LowPriorityBundleLoader from '../../gamePlay/base/ui/LowPriorityBundleLoader';
 import { DotGameBtnClick, EBgmOccupationClickType } from '../../dot/DGameBtnClick';
 import CardUtil from '../../gamePlay/user/CardUtil';
@@ -25,6 +27,9 @@ export default class MainGameController extends ViewController {
   _gameSimulator = null;
   _size = new cc.Size(0, 0);
   _offsetY = 0;
+  _customDifficultyConfigPromise = null;
+  _customBoardCache = new Map();
+  _customBoardDifficultyCache = new Map();
   static nextLevelStr = "";
   get gameObjectPool() {
     return this._gameObjectPool;
@@ -187,42 +192,225 @@ export default class MainGameController extends ViewController {
       n = o.getLevelId(),
       i = o.getOriginalLevelData(),
       r = this.getTileTypes(o);
-    ExtractTool.getInstance().getContentData({
-      levelIndex: o.getLevelGenIndex(),
-      levelID: n,
-      dieResult: o.getDieResult(),
-      gameType: this.gameType
-    }).then(function (a) {
-      o.setDieResult(1);
-      var l = a[0],
-        c = a[1],
-        u = a[2],
-        p = a[3],
-        f = a[4],
-        d = a[5];
-      DynamicCurve.instance.supportMode(t.gameType) && DynamicCurve.instance.gameStart({
-        gameType: t.gameType,
-        levelId: n,
-        fileName: p,
-        levelStr: l,
-        levelIndex: Number(u)
-      });
-      d && o.incrementLevelGenIndex();
-      e({
-        levelStr: l,
-        levelDifficulty: c,
-        originalLevelStr: i,
-        isNewGame: true,
-        gameType: t.gameType,
-        levelId: n,
-        tileTypes: r,
-        isRestart: false,
-        levelIndex: u,
-        levelName: p,
-        dimensionName: f,
-        isExtractLevel: true
+    this.getCustomDifficultyContent(n, o).then(function (a) {
+      if (a) {
+        o.setDieResult(1);
+        o.incrementLevelGenIndex();
+        var l = a[0],
+          c = a[1],
+          u = a[2],
+          p = a[3],
+          f = a[4];
+        console.log("[Difficulty] custom level=" + n + " difficulty=" + c + " levelName=" + p);
+        e({
+          levelStr: l,
+          levelDifficulty: c,
+          originalLevelStr: i,
+          isNewGame: true,
+          gameType: t.gameType,
+          levelId: n,
+          tileTypes: r,
+          isRestart: false,
+          levelIndex: u,
+          levelName: p,
+          dimensionName: f,
+          isExtractLevel: true
+        });
+        return;
+      }
+      ExtractTool.getInstance().getContentData({
+        levelIndex: o.getLevelGenIndex(),
+        levelID: n,
+        dieResult: o.getDieResult(),
+        gameType: t.gameType
+      }).then(function (a) {
+        o.setDieResult(1);
+        var l = a[0],
+          c = a[1],
+          u = a[2],
+          p = a[3],
+          f = a[4],
+          d = a[5];
+        console.log("[Difficulty] extract level=" + n + " difficulty=" + c + " levelName=" + p);
+        DynamicCurve.instance.supportMode(t.gameType) && DynamicCurve.instance.gameStart({
+          gameType: t.gameType,
+          levelId: n,
+          fileName: p,
+          levelStr: l,
+          levelIndex: Number(u)
+        });
+        d && o.incrementLevelGenIndex();
+        e({
+          levelStr: l,
+          levelDifficulty: c,
+          originalLevelStr: i,
+          isNewGame: true,
+          gameType: t.gameType,
+          levelId: n,
+          tileTypes: r,
+          isRestart: false,
+          levelIndex: u,
+          levelName: p,
+          dimensionName: f,
+          isExtractLevel: true
+        });
       });
     });
+  }
+  getCustomDifficultyMode(e) {
+    var t = e.modeStorageKey || "__custom_difficulty_mode__",
+      o = cc.sys.localStorage.getItem(t);
+    return "easy" === o || "normal" === o || "hard" === o || "expert" === o ? o : e.defaultMode || "normal";
+  }
+  getCustomDifficultyConfig() {
+    var e = this;
+    if (this._customDifficultyConfigPromise) return this._customDifficultyConfigPromise;
+    this._customDifficultyConfigPromise = resManager.loadRes("config/custom_level_difficulty", cc.JsonAsset, "mainRes").then(function (t) {
+      if (!t || !t.json) return null;
+      var o = t.json;
+      t.decRef();
+      return o;
+    }).catch(function () {
+      console.warn("[Difficulty] custom config load failed: config/custom_level_difficulty");
+      e._customDifficultyConfigPromise = Promise.resolve(null);
+      return null;
+    });
+    return this._customDifficultyConfigPromise;
+  }
+  getCustomDifficultyRule(e, t) {
+    if (!e || !Array.isArray(e.rules)) return null;
+    return e.rules.find(function (e) {
+      return t >= Number(e.start) && t <= Number(e.end);
+    }) || null;
+  }
+  getCustomBoardData(e) {
+    var t = this;
+    if (this._customBoardCache.has(e)) return Promise.resolve(this._customBoardCache.get(e));
+    return resManager.loadRes("config/boards/" + e, cc.JsonAsset, "mainRes").then(function (o) {
+      if (!o || !Array.isArray(o.json) || 0 === o.json.length) return null;
+      t._customBoardCache.set(e, o.json);
+      o.decRef();
+      return o.json;
+    }).catch(function () {
+      return null;
+    });
+  }
+  resolveCustomTableName(e, t) {
+    var o = ExtractNormalLevels.getInstance().getAllNamesData() || [];
+    if (o.includes(e)) return e;
+    var n = e + "_",
+      i = o.filter(function (e) {
+        return "string" == typeof e && e.indexOf(n) === 0;
+      });
+    if (0 === i.length) return e;
+    var r = (Math.abs(t) || 0) % i.length;
+    return i[r];
+  }
+  getLegacyReferenceDifficulty(e, t) {
+    if (!t) return Promise.resolve(null);
+    return ExtractTool.getInstance().getContentData({
+      levelIndex: t.getLevelGenIndex(),
+      levelID: e,
+      dieResult: t.getDieResult(),
+      gameType: this.gameType
+    }).then(function (e) {
+      var t = Number(null == e ? void 0 : e[1]);
+      return isNaN(t) ? null : t;
+    }).catch(function () {
+      return null;
+    });
+  }
+  getCustomBoardDifficultyRows(e, t) {
+    if (this._customBoardDifficultyCache.has(e)) return this._customBoardDifficultyCache.get(e);
+    for (var o = ExtractNormalLevels.getInstance(), n = [], i = 0; i < t.length; i++) {
+      var r = Number(t[i]),
+        a = o.getByteDataByIndex(e, r),
+        l = Number(null == a ? void 0 : a.difficulty);
+      !isNaN(r) && !isNaN(l) && n.push({
+        index: r,
+        difficulty: l
+      });
+    }
+    this._customBoardDifficultyCache.set(e, n);
+    return n;
+  }
+  getCustomDifficultyContent(e, gameData?) {
+    if (this.gameType !== MjGameType.Normal) {
+      console.warn("[Difficulty] custom skip level=" + e + " reason=game_type gameType=" + this.gameType);
+      return Promise.resolve(null);
+    }
+    if (1 === e) {
+      console.log("[Difficulty] custom skip level=1 reason=tutorial_level");
+      return Promise.resolve(null);
+    }
+    return this.getCustomDifficultyConfig().then(function (cfg) {
+      if (!cfg) {
+        console.warn("[Difficulty] custom skip level=" + e + " reason=no_config");
+        return null;
+      }
+      if (false === cfg.enabled) {
+        console.warn("[Difficulty] custom skip level=" + e + " reason=disabled");
+        return null;
+      }
+      var o = this.getCustomDifficultyRule(cfg, e);
+      if (!o) {
+        console.warn("[Difficulty] custom skip level=" + e + " reason=no_rule");
+        return null;
+      }
+      var n = this.getCustomDifficultyMode(cfg),
+        i = o[n] || ("expert" === n ? o.hard : null);
+      if (!i || !i.table) {
+        console.warn("[Difficulty] custom skip level=" + e + " reason=no_mode_or_table mode=" + n);
+        return null;
+      }
+      var r = Number(o.start),
+        a = isNaN(Number(i.offset)) ? 1 : Number(i.offset),
+        l = isNaN(Number(i.step)) ? 1 : Number(i.step),
+        s = isNaN(Number(i.groupSize)) ? isNaN(Number(o.groupSize)) ? 1 : Number(o.groupSize) : Number(i.groupSize),
+        c = a - 1 + Math.floor((e - r) / Math.max(1, s)) * l,
+        u = this.resolveCustomTableName(i.table, c);
+      if (u !== i.table) {
+        console.log("[Difficulty] custom table remap level=" + e + " from=" + i.table + " to=" + u);
+      }
+      var p = ExtractNormalLevels.getInstance().getAllIndexesInTable(u);
+      if (!p || 0 === p.length) {
+        console.warn("[Difficulty] custom miss level=" + e + " table=" + u + " reason=no_index");
+        return null;
+      }
+      var f = (c % p.length + p.length) % p.length,
+        d = Number(p[f]),
+        h = Number(o.legacyDifficultyBias || i.legacyDifficultyBias || 0);
+      if (isNaN(d)) {
+        console.warn("[Difficulty] custom miss level=" + e + " table=" + u + " reason=bad_index");
+        return null;
+      }
+      var y = function (t) {
+        return ExtractNormalLevels.getInstance().getContentByTableAndIndex(u, t).then(function (o) {
+          if (!o) {
+            console.warn("[Difficulty] custom miss level=" + e + " table=" + u + " index=" + t + " reason=no_content");
+          }
+          return o;
+        });
+      };
+      if (!gameData || false === cfg.alignLegacyDifficulty) return y(d);
+      return this.getLegacyReferenceDifficulty(e, gameData).then(function (o) {
+        if (null != o) {
+          var n = this.getCustomBoardDifficultyRows(u, p);
+          if (n.length > 0) {
+            for (var i = isNaN(Number(cfg.legacyDifficultyScale)) ? 1 : Number(cfg.legacyDifficultyScale), r = isNaN(Number(cfg.legacyDifficultyOffset)) ? 0 : Number(cfg.legacyDifficultyOffset), a = o * i + r + h, l = n[0], s = Math.abs(l.difficulty - a), c = 1; c < n.length; c++) {
+              var f = Math.abs(n[c].difficulty - a);
+              if (f < s) {
+                s = f;
+                l = n[c];
+              }
+            }
+            d = l.index;
+            console.log("[Difficulty] custom align level=" + e + " table=" + u + " target=" + a + " picked=" + l.difficulty + " index=" + d);
+          }
+        }
+        return y(d);
+      }.bind(this));
+    }.bind(this));
   }
   getIsNewGame() {
     var e = UserModel.getInstance().getGameDataByGameType(this.gameType),
