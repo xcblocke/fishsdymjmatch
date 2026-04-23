@@ -256,7 +256,9 @@ export default class ResManager {
     }
 
     loadRemoteLevelTiles(e, t, o) {
-        var n = (cc.assetManager.downloader.remoteServerAddress || "http://mbhpacker2.youxi123.com:6899/cdn/update/mahjong_android_test/remoteRes/1/") + "levelTile2/",
+        // console.log("loadRemoteLevelTiles........................", e, t, o);
+        // var n = (cc.assetManager.downloader.remoteServerAddress || "http://mbhpacker2.youxi123.com:6899/cdn/update/mahjong_android_test/remoteRes/1/") + "levelTile2/",
+        var n = cc.assetManager.downloader.remoteServerAddress + " base_plan/",
             i = Array.isArray(e),
             r = (i ? e : [e]).map(function (e) {
                 return {
