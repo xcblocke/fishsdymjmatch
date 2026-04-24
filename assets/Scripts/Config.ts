@@ -30,13 +30,13 @@ export const MainConfig = {
 
 export var PLATFORM_CONFIG = {
   iOS: {
-    bundleID: "com.hungrystudio.mahjong.ios",
-    signSecret: "xCDLs49NhV0mfjeKGyJrUUqQdCywSGnK",
-    projectId: "BlockMahjongIOS"
+    bundleID: "com.bluemahjong.pair.sparkios",
+    signSecret: "",
+    projectId: "sdymjmatchIos"
   },
   Android: {
-    bundleID: "com.hungrystudio.mahjong",
-    signSecret: "sd1vTZ7clLFPuIJYhJPXWrkmXrWNk5Ij",
-    projectId: "BlockMahjongGP"
+    bundleID: "com.bluemahjong.pair.spark",
+    signSecret: "",
+    projectId: "sdymjmatchGP"
   }
 };
