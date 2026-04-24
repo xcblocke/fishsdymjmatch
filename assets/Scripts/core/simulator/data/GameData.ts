@@ -476,10 +476,12 @@ export default class GameData extends Model {
 
     setComboNum(e, t = true) {
         if (this.localData.comboNum !== e) {
+            var o = this.localData.comboNum;
             this.localData.comboNum = e;
             t && e > this.localData.curMaxCombo && (this.localData.curMaxCombo = e);
             t && e > this.localData.maxCombo && (this.localData.maxCombo = e);
             this.localData.lastUpdateTime = Date.now();
+            console.log("[Combo] levelId=" + this.getLevelId() + " combo=" + e + " prev=" + o + " score=" + this.getScore() + " settlement=" + this.getSettlementScore());
         }
     }
 

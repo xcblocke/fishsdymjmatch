@@ -23,6 +23,8 @@ export class TileMapObject {
   _actionIds = [];
   _selectTildIdsMap = new Map();
   _hasCheckBatchIdSet = new Set();
+  _lastClickableTileIds = new Set();
+  _lastClearTs = 0;
   _gameContext = null;
   _gameType = null;
   _collectSystem = null;
@@ -757,6 +759,24 @@ export class TileMapObject {
         if (e) throw e.error;
       }
     }
+    var clickableSet = new Set();
+    this._canMatchTiles.forEach(function (e) {
+      e.forEach(function (e) {
+        clickableSet.add(e.id);
+      });
+    });
+    var addedIds = [],
+      removedIds = [];
+    clickableSet.forEach(function (e) {
+      this._lastClickableTileIds.has(e) || addedIds.push(e);
+    }, this);
+    this._lastClickableTileIds.forEach(function (e) {
+      clickableSet.has(e) || removedIds.push(e);
+    });
+    this._lastClickableTileIds = clickableSet;
+    var pairCount = this.getCanMatchCardPairNum(),
+      reason = Date.now() - this._lastClearTs < 1500 ? "after_clear" : "normal";
+    console.log("[Clickable] reason=" + reason + " clickable=" + clickableSet.size + " pairs=" + pairCount + " added=" + addedIds.length + " removed=" + removedIds.length + (addedIds.length > 0 ? " addIds=" + addedIds.slice(0, 10).join(",") : ""));
   }
   getCanMatchTilesHint() {
     var e = this.getCanMatchTiles(),
@@ -875,6 +895,7 @@ export class TileMapObject {
   }
   onClear(e) {
     if (e && e.length > 0) {
+      this._lastClearTs = Date.now();
       this._gameContext.getGameData().recordClear(e.map(function (e) {
         return e.toKey();
       }));

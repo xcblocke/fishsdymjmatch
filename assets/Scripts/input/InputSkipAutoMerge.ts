@@ -14,6 +14,7 @@ export default class InputSkipAutoMerge extends InputBase {
     var t = this,
       o = this.gameContext.getTileMapObject(),
       n = (this.gameContext.getGameData(), o.unselectAllTileIds());
+    console.log("[AutoMatch] skip type=" + e.type + " levelId=" + this.gameContext.getGameData().getLevelId() + " remain_before=" + o.getRemainCount());
     n && n.length > 0 && n.forEach(function (e) {
       t.pushSelectEffect(e, true);
     });
@@ -39,6 +40,7 @@ export default class InputSkipAutoMerge extends InputBase {
       var h = new CleanViewEffect({});
       this.pushEffect(h, EInsertType.Parallel);
       o.updateCanMatchTiles();
+      console.log("[AutoMatch] skip cleared=" + f.length + " remain_after=" + o.getRemainCount());
       this.finishSkipAndWin(e);
       mj.EventManager.emit(EGameEvent.Effect_SkipAutoMerge, this);
     }

@@ -224,6 +224,7 @@ export default class BaseSpine extends BaseUI {
   setAnimationImmediate(e, t, o, n = false) {
     var i = this.node.getComponent(sp.Skeleton);
     if (!i) return null;
+    console.log("[Spine] node=" + this.node.name + " path=" + this._currentPath + " anim=" + e + " loop=" + t + " autoRemove=" + n);
     playSpineAnim(i, t, e, o, n);
   }
   stopAtFirstFrameOf(e) {

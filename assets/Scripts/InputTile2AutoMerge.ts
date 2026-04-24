@@ -73,6 +73,7 @@ export default class InputTile2AutoMerge extends InputBase {
         p.length > 0 && (m = [p[0]]);
       }
     }
+    console.log("[AutoMatch][Tile2] step clearIds=" + m.join(",") + " outTiles=" + v.join(",") + " slotIds=" + u.join(","));
     m.length > 0 && ClearHelper.runClear(this.gameContext, e, this, {
       tileIds: m,
       outTiles: v
