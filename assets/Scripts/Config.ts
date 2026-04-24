@@ -15,6 +15,19 @@ export var EVT_MSG_KEY_RESETTHEME = "EVT_MSG_KEY_RESETTHEME";
 export var EVT_AD_SHOW_START = "EVT_AD_SHOW_START";
 export var EVT_AD_SHOW_END = "EVT_AD_SHOW_END";
 export var EVT_TIME_STAT_UPDATE = "EVT_TIME_STAT_UPDATE";
+
+
+export enum ServerType {
+  develop = 1,  // 开发服
+  release = 2, // 正式服
+}
+
+export const MainConfig = {
+  curServerType: 1,
+  serveUrl: "",
+};
+
+
 export var PLATFORM_CONFIG = {
   iOS: {
     bundleID: "com.hungrystudio.mahjong.ios",

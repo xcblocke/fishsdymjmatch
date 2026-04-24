@@ -6,6 +6,27 @@ import GameStateListener from '../process/game/GameStateListener';
 import LevelGenRule from '../core/simulator/config/LevelGenRule';
 import { DotUtil } from '../gamePlay/dot/DotUtil';
 export default class InputTile2SetLevel extends InputBase {
+  logParsedMahjongData(e) {
+    var t = this.tileMapObject.getAllCardTiles ? this.tileMapObject.getAllCardTiles() : [];
+    if (!t || 0 === t.length) return;
+    var o = Array();
+    for (var n = 0; n < t.length; n++) {
+      var i = t[n];
+      o.push({
+        id: i.id,
+        resId: i.resId,
+        cardId: i.cardId,
+        x: i.gridPosX,
+        y: i.gridPosY,
+        z: i.layer
+      });
+    }
+    o.sort(function (e, t) {
+      return e.z !== t.z ? e.z - t.z : e.y !== t.y ? e.y - t.y : e.x - t.x;
+    });
+    console.log("[LevelTiles] levelId=" + e.levelId + " levelName=" + (e.levelName || "") + " tileCount=" + o.length);
+    console.log("[LevelTiles] data=", o);
+  }
   excute(e) {
     this.dispatchGameStateEvent(e.levelData);
     var t = UserModel.getInstance().getGameDataByGameType(e.levelData.gameType),
@@ -74,6 +95,7 @@ export default class InputTile2SetLevel extends InputBase {
     this.gameContext.getGameData().setLevelInfo(e.levelId, e.levelStr, e.originalLevelStr, e.slover);
     this.tileMapObject.initGameLayer(e.levelStr);
     this.gameController.tileMapObject.updateCanMatchTiles();
+    this.logParsedMahjongData(e);
   }
   @mj.traitEvent("IptT2SetLv_reGenFaces")
   reGenerateFaceSet(e) {

@@ -1,6 +1,6 @@
 import ControllerManager from '../../../framework/manager/ControllerManager';
 import MemoryManager from '../../../framework/manager/MemoryManager';
-import { EVT_MSG_KEY_EVENT_SHOW, EVT_MSG_KEY_EVENT_HIDE } from '../../../Config';
+import { EVT_MSG_KEY_EVENT_SHOW, EVT_MSG_KEY_EVENT_HIDE, MainConfig, ServerType } from '../../../Config';
 import LoginModel from './LoginModel';
 import ResManager, { resManager } from '../../../framework/manager/ResManager';
 import TimeStatManager from '../../base/TimeStat/TimeStatManager';
@@ -9,12 +9,25 @@ cc.sys.isBrowser;
 export default class GameManager extends cc.Component {
   static isInit = false;
   onLoad() {
+    this.initLog();
     if (GameManager.isInit) {
       this.openGlobalView();
       this.enterMainGame();
     } else this.init();
     this.initTimeStatSystem();
   }
+
+  initLog() {
+    if (MainConfig.curServerType === ServerType.release) {
+        console.log = function () { };
+        console.warn = function () { };
+        console.error = function () { };
+        cc.log = function () { };
+        cc.warn = function () { };
+        cc.error = function () { };
+    }
+  }
+
   initTimeStatSystem() {
     TimeStatManager.getInstance().init(this);
   }
